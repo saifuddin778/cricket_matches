@@ -2,6 +2,7 @@ import json
 
 config = {
     'template': 'templates/index.html',
+    'create_directory': '../templates/cricket_matches/',
 }
 
 
