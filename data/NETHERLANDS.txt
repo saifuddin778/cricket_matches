@@ -1,0 +1,117 @@
+Netherlands	lost	119 runs		lost	2nd		ODI v New Zealand	Vadodara	17 Feb 1996	investigate this query
+Netherlands	lost	49 runs		lost	2nd		ODI v England	Peshawar	22 Feb 1996	investigate this query
+Netherlands	lost	8 wickets	116	won	1st		ODI v Pakistan	Lahore	26 Feb 1996	investigate this query
+Netherlands	lost	7 wickets	34	lost	1st		ODI v U.A.E.	Lahore	1 Mar 1996	investigate this query
+Netherlands	lost	160 runs		lost	2nd		ODI v South Africa	Rawalpindi	5 Mar 1996	investigate this query
+Netherlands	lost	206 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	16 Sep 2002	investigate this query
+Netherlands	lost	9 wickets	202	won	1st		ODI v Pakistan	Colombo (SSC)	21 Sep 2002	investigate this query
+Netherlands	lost	68 runs		lost	2nd		ODI v India	Paarl	12 Feb 2003	investigate this query
+Netherlands	lost	6 wickets	160	lost	1st		ODI v England	East London	16 Feb 2003	investigate this query
+Netherlands	lost	75 runs		won	2nd		ODI v Australia	Potchefstroom	20 Feb 2003	investigate this query
+Netherlands	lost	97 runs		won	2nd		ODI v Pakistan	Paarl	25 Feb 2003	investigate this query
+Netherlands	lost	99 runs		won	2nd		ODI v Zimbabwe	Bulawayo	28 Feb 2003	investigate this query
+Netherlands	won	64 runs		won	1st		ODI v Namibia	Bloemfontein	3 Mar 2003	investigate this query
+Netherlands	lost	195 runs		lost	2nd		ODI v Sri Lanka	Amstelveen	4 Jul 2006	investigate this query
+Netherlands	lost	55 runs		lost	2nd		ODI v Sri Lanka	Amstelveen	6 Jul 2006	investigate this query
+Netherlands	lost	4 wickets	1	won	1st		ODI v Scotland	Ayr	6 Aug 2006	investigate this query
+Netherlands	n/r	-		lost	2nd		ODI v Ireland	Ayr	8 Aug 2006	investigate this query
+Netherlands	won	17 runs		lost	1st		ODI v Canada	Potchefstroom	26 Nov 2006	investigate this query
+Netherlands	won	8 wickets	73	lost	2nd		ODI v Bermuda	Potchefstroom	28 Nov 2006	investigate this query
+Netherlands	won	1 wickets	2	won	2nd		ODI v Canada	Benoni	1 Dec 2006	investigate this query
+Netherlands	lost	6 wickets	198	won	1st		ODI v Bermuda	Benoni	2 Dec 2006	investigate this query
+Netherlands	won	8 wickets	90	lost	2nd		ODI v Canada	Nairobi (Ruaraka)	30 Jan 2007	investigate this query
+Netherlands	lost	7 wickets	107	lost	1st		ODI v Kenya	Nairobi (Gym)	31 Jan 2007	investigate this query
+Netherlands	lost	2 runs		won	2nd		ODI v Scotland	Nairobi (Jaff)	2 Feb 2007	investigate this query
+Netherlands	won	8 wickets	41	won	2nd		ODI v Bermuda	Nairobi (Ruaraka)	4 Feb 2007	investigate this query
+Netherlands	won	6 runs		lost	1st		ODI v Ireland	Nairobi (Gym)	5 Feb 2007	investigate this query
+Netherlands	lost	221 runs		won	2nd		ODI v South Africa	Basseterre	16 Mar 2007	investigate this query
+Netherlands	lost	229 runs		lost	2nd		ODI v Australia	Basseterre	18 Mar 2007	investigate this query
+Netherlands	won	8 wickets	157	won	2nd		ODI v Scotland	Basseterre	22 Mar 2007	investigate this query
+Netherlands	won	117 runs		won	1st		ODI v Canada	Toronto	3 Jul 2007	investigate this query
+Netherlands	aban	-		-	-		ODI v Canada	Toronto	4 Jul 2007	investigate this query
+Netherlands	lost	10 wickets	213	won	1st		ODI v West Indies	Dublin	10 Jul 2007	investigate this query
+Netherlands	lost	1 runs		lost	2nd		ODI v Ireland	Belfast	11 Jul 2007	investigate this query
+Netherlands	n/r	-		lost	2nd		ODI v Scotland	Belfast	13 Jul 2007	investigate this query
+Netherlands	won	172 runs		lost	1st		ODI v Bermuda	Rotterdam	18 Aug 2007	investigate this query
+Netherlands	won	8 wickets	183	won	2nd		ODI v Bermuda	Rotterdam	20 Aug 2007	investigate this query
+Netherlands	lost	7 wickets	126	lost	1st		ODI v Ireland	Dublin	28 Jul 2008	investigate this query
+Netherlands	lost	6 wickets	166	won	1st		ODI v Scotland	Dublin	29 Jul 2008	investigate this query
+Netherlands	won	19 runs		lost	1st		T20I v Kenya	Belfast	2 Aug 2008	investigate this query
+Netherlands	lost	4 wickets	3	won	1st		T20I v Canada	Belfast	2 Aug 2008	investigate this query
+Netherlands	won	5 wickets	12	won	2nd		T20I v Scotland	Belfast	4 Aug 2008	investigate this query
+Netherlands	n/r	-		lost	1st		T20I v Ireland	Belfast	5 Aug 2008	investigate this query
+Netherlands	aban	-		-	-		ODI v Bermuda	Amstelveen	7 Aug 2008	investigate this query
+Netherlands	won	6 wickets	23	won	2nd		ODI v Bermuda	Amstelveen	8 Aug 2008	investigate this query
+Netherlands	won	6 wickets	6	won	2nd		ODI v Kenya	Rotterdam	21 Aug 2008	investigate this query
+Netherlands	won	7 wickets	22	lost	2nd		ODI v Kenya	Potchefstroom	1 Apr 2009	investigate this query
+Netherlands	won	63 runs		lost	1st		ODI v Bermuda	Potchefstroom	8 Apr 2009	investigate this query
+Netherlands	won	6 wickets	107	won	2nd		ODI v Kenya	Potchefstroom	19 Apr 2009	investigate this query
+Netherlands	won	4 wickets	0	won	2nd		T20I v England	Lord's	5 Jun 2009	investigate this query
+Netherlands	lost	82 runs		lost	2nd		T20I v Pakistan	Lord's	9 Jun 2009	investigate this query
+Netherlands	won	50 runs		lost	1st		ODI v Canada	Amstelveen	11 Jul 2009	investigate this query
+Netherlands	aban	-		-	-		ODI v Canada	Amstelveen	12 Jul 2009	investigate this query
+Netherlands	won	8 runs		lost	1st		ODI v Afghanistan	Amstelveen	30 Aug 2009	investigate this query
+Netherlands	lost	6 wickets	20	won	1st		ODI v Afghanistan	Amstelveen	1 Sep 2009	investigate this query
+Netherlands	won	6 wickets	5	lost	2nd		T20I v Canada	Dubai (DSC)	9 Feb 2010	investigate this query
+Netherlands	won	7 wickets	5	won	2nd		T20I v Kenya	Abu Dhabi	11 Feb 2010	investigate this query
+Netherlands	won	4 wickets	7	won	2nd		T20I v Afghanistan	Dubai (DSC)	12 Feb 2010	investigate this query
+Netherlands	lost	65 runs		lost	2nd		T20I v Ireland	Dubai (DSC)	13 Feb 2010	investigate this query
+Netherlands	lost	6 wickets	91	lost	1st		ODI v Kenya	Nairobi (Gym)	16 Feb 2010	investigate this query
+Netherlands	won	80 runs		lost	1st		ODI v Kenya	Nairobi (Gym)	18 Feb 2010	investigate this query
+Netherlands	won	6 wickets	3	lost	2nd		ODI v Scotland	Rotterdam	15 Jun 2010	investigate this query
+Netherlands	lost	1 wickets	1	won	1st		ODI v Scotland	Amstelveen	1 Jul 2010	investigate this query
+Netherlands	won	117 runs		lost	1st		ODI v Kenya	The Hague	3 Jul 2010	investigate this query
+Netherlands	won	7 wickets	44	lost	2nd		ODI v Canada	Rotterdam	5 Jul 2010	investigate this query
+Netherlands	lost	6 wickets	45	lost	1st		ODI v Afghanistan	The Hague	7 Jul 2010	investigate this query
+Netherlands	lost	39 runs		lost	2nd		ODI v Ireland	Amstelveen	9 Jul 2010	investigate this query
+Netherlands	lost	5 wickets	24	won	1st		ODI v Afghanistan	Rotterdam	10 Jul 2010	investigate this query
+Netherlands	won	6 wickets	7	won	2nd		ODI v Bangladesh	Glasgow	20 Jul 2010	investigate this query
+Netherlands	lost	70 runs		won	2nd		ODI v Ireland	Dublin	16 Aug 2010	investigate this query
+Netherlands	lost	9 wickets	177	won	1st		ODI v Ireland	Dublin	18 Aug 2010	investigate this query
+Netherlands	lost	6 wickets	8	won	1st		ODI v England	Nagpur	22 Feb 2011	investigate this query
+Netherlands	lost	215 runs		won	2nd		ODI v West Indies	Delhi	28 Feb 2011	investigate this query
+Netherlands	lost	231 runs		won	2nd		ODI v South Africa	Mohali	3 Mar 2011	investigate this query
+Netherlands	lost	5 wickets	81	won	1st		ODI v India	Delhi	9 Mar 2011	investigate this query
+Netherlands	lost	6 wickets	52	won	1st		ODI v Bangladesh	Chittagong	14 Mar 2011	investigate this query
+Netherlands	lost	6 wickets	14	lost	1st		ODI v Ireland	Kolkata	18 Mar 2011	investigate this query
+Netherlands	lost	15 runs		lost	2nd		ODI v Scotland	Aberdeen	28 Jun 2011	investigate this query
+Netherlands	lost	5 wickets	11	lost	1st		ODI v Scotland	Aberdeen	29 Jun 2011	investigate this query
+Netherlands	won	2 wickets	6	lost	2nd		ODI v Kenya	The Hague	12 Sep 2011	investigate this query
+Netherlands	won	4 wickets	30	lost	2nd		ODI v Kenya	The Hague	13 Sep 2011	investigate this query
+Netherlands	won	42 runs		won	1st		T20I v Canada	Dubai (DSC)	13 Mar 2012	investigate this query
+Netherlands	lost	4 wickets	2	won	1st		T20I v Afghanistan	Dubai (DSC)	14 Mar 2012	investigate this query
+Netherlands	won	3 wickets	5	lost	2nd		T20I v Scotland	Dubai (CA)	22 Mar 2012	investigate this query
+Netherlands	lost	7 wickets	20	lost	1st		T20I v Ireland	Dubai (DSC)	23 Mar 2012	investigate this query
+Netherlands	won	9 wickets	142	lost	2nd		ODI v Afghanistan	Sharjah	29 Mar 2012	investigate this query
+Netherlands	lost	5 wickets	22	lost	1st		ODI v Afghanistan	Sharjah	31 Mar 2012	investigate this query
+Netherlands	lost	8 wickets	12	won	1st		T20I v Bangladesh	The Hague	25 Jul 2012	investigate this query
+Netherlands	won	1 wickets	0	lost	2nd		T20I v Bangladesh	The Hague	26 Jul 2012	investigate this query
+Netherlands	lost	5 wickets	6	won	1st		T20I v Kenya	Windhoek	19 Apr 2013	investigate this query
+Netherlands	lost	7 wickets	46	lost	1st		T20I v Kenya	Windhoek	20 Apr 2013	investigate this query
+Netherlands	lost	83 runs		lost	2nd		ODI v South Africa	Amstelveen	31 May 2013	investigate this query
+Netherlands	lost	88 runs		lost	2nd		ODI v Ireland	Amstelveen	7 Jul 2013	investigate this query
+Netherlands	tied	-		lost	2nd		ODI v Ireland	Amstelveen	9 Jul 2013	investigate this query
+Netherlands	n/r	-		lost	1st		ODI v Canada	King City (NW)	27 Aug 2013	investigate this query
+Netherlands	won	9 wickets	236	won	2nd		ODI v Canada	King City (NW)	29 Aug 2013	investigate this query
+Netherlands	won	7 wickets	43	lost	2nd		T20I v Afghanistan	Sharjah	15 Nov 2013	investigate this query
+Netherlands	lost	15 runs		won	2nd		T20I v Scotland	Dubai (CA)	22 Nov 2013	investigate this query
+Netherlands	won	29 runs		won	1st		T20I v Kenya	Dubai (CA)	23 Nov 2013	investigate this query
+Netherlands	won	8 wickets	13	lost	2nd		T20I v Scotland	Abu Dhabi	28 Nov 2013	investigate this query
+Netherlands	lost	4 wickets	86	lost	1st		ODI v Kenya	Lincoln	23 Jan 2014	investigate this query
+Netherlands	won	8 wickets	80	lost	2nd		ODI v Canada	Mount Maunganui	28 Jan 2014	investigate this query
+Netherlands	won	6 wickets	7	lost	2nd		T20I v U.A.E.	Sylhet	17 Mar 2014	investigate this query
+Netherlands	lost	5 wickets	0	won	1st		T20I v Zimbabwe	Sylhet	19 Mar 2014	investigate this query
+Netherlands	won	6 wickets	37	won	2nd		T20I v Ireland	Sylhet	21 Mar 2014	investigate this query
+Netherlands	lost	9 wickets	90	lost	1st		T20I v Sri Lanka	Chittagong	24 Mar 2014	investigate this query
+Netherlands	lost	6 runs		won	2nd		T20I v South Africa	Chittagong	27 Mar 2014	investigate this query
+Netherlands	lost	6 wickets	6	lost	1st		T20I v New Zealand	Chittagong	29 Mar 2014	investigate this query
+Netherlands	won	45 runs		lost	1st		T20I v England	Chittagong	31 Mar 2014	investigate this query
+Netherlands	won	18 runs		won	1st		T20I v Nepal	Amstelveen	30 Jun 2015	investigate this query
+Netherlands	won	103 runs		lost	1st		T20I v Nepal	Amstelveen	1 Jul 2015	investigate this query
+Netherlands	won	18 runs		won	1st		T20I v Nepal	Rotterdam	2 Jul 2015	investigate this query
+Netherlands	lost	3 wickets	2	won	1st		T20I v Nepal	Rotterdam	3 Jul 2015	investigate this query
+Netherlands	lost	32 runs		won	2nd		T20I v Afghanistan	Edinburgh	9 Jul 2015	investigate this query
+Netherlands	won	32 runs		won	1st		T20I v Scotland	Edinburgh	11 Jul 2015	investigate this query
+Netherlands	won	7 wickets	17	won	2nd		T20I v U.A.E.	Edinburgh	12 Jul 2015	investigate this query
+Netherlands	won	5 wickets	11	won	2nd		T20I v Ireland	Dublin (Malahide)	25 Jul 2015	investigate this query
+Netherlands	aban	-		-	-		T20I v Scotland	Dublin (Malahide)	26 Jul 2015	investigate this query

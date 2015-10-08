@@ -1,0 +1,454 @@
+Bangladesh	lost	7 wickets	77	lost	1st		ODI v Pakistan	Moratuwa	31 Mar 1986	investigate this query
+Bangladesh	lost	7 wickets	81	lost	1st		ODI v Sri Lanka	Kandy	2 Apr 1986	investigate this query
+Bangladesh	lost	9 wickets	114	lost	1st		ODI v India	Chittagong	27 Oct 1988	investigate this query
+Bangladesh	lost	173 runs		lost	2nd		ODI v Pakistan	Chittagong	29 Oct 1988	investigate this query
+Bangladesh	lost	9 wickets	85	lost	1st		ODI v Sri Lanka	Dhaka	2 Nov 1988	investigate this query
+Bangladesh	lost	161 runs		lost	2nd		ODI v New Zealand	Sharjah	28 Apr 1990	investigate this query
+Bangladesh	lost	7 wickets	146	won	1st		ODI v Australia	Sharjah	30 Apr 1990	investigate this query
+Bangladesh	lost	9 wickets	79	won	1st		ODI v India	Chandigarh	25 Dec 1990	investigate this query
+Bangladesh	lost	71 runs		lost	2nd		ODI v Sri Lanka	Kolkata	31 Dec 1990	investigate this query
+Bangladesh	lost	9 wickets	133	won	1st		ODI v India	Sharjah	5 Apr 1995	investigate this query
+Bangladesh	lost	107 runs		won	2nd		ODI v Sri Lanka	Sharjah	6 Apr 1995	investigate this query
+Bangladesh	lost	6 wickets	122	won	1st		ODI v Pakistan	Sharjah	8 Apr 1995	investigate this query
+Bangladesh	lost	109 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	16 Jul 1997	investigate this query
+Bangladesh	lost	103 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	22 Jul 1997	investigate this query
+Bangladesh	lost	9 wickets	168	lost	1st		ODI v India	Colombo (SSC)	24 Jul 1997	investigate this query
+Bangladesh	lost	150 runs		won	2nd		ODI v Kenya	Nairobi (Gym)	10 Oct 1997	investigate this query
+Bangladesh	lost	48 runs		lost	2nd		ODI v Zimbabwe	Nairobi (Gym)	11 Oct 1997	investigate this query
+Bangladesh	lost	192 runs		lost	2nd		ODI v Zimbabwe	Nairobi (Aga)	14 Oct 1997	investigate this query
+Bangladesh	lost	8 wickets	174	won	1st		ODI v Kenya	Nairobi (Aga)	15 Oct 1997	investigate this query
+Bangladesh	lost	4 wickets	10	lost	1st		ODI v India	Dhaka	10 Jan 1998	investigate this query
+Bangladesh	lost	9 wickets	100	lost	1st		ODI v Pakistan	Dhaka	12 Jan 1998	investigate this query
+Bangladesh	lost	5 wickets	28	lost	1st		ODI v India	Mohali	14 May 1998	investigate this query
+Bangladesh	won	6 wickets	12	lost	2nd		ODI v Kenya	Hyderabad (Deccan)	17 May 1998	investigate this query
+Bangladesh	lost	28 runs		lost	2nd		ODI v Kenya	Chennai	23 May 1998	investigate this query
+Bangladesh	lost	5 wickets	124	won	1st		ODI v India	Mumbai	25 May 1998	investigate this query
+Bangladesh	lost	152 runs		won	2nd		ODI v Pakistan	Dhaka	16 Mar 1999	investigate this query
+Bangladesh	lost	8 wickets	37	won	1st		ODI v Kenya	Dhaka	20 Mar 1999	investigate this query
+Bangladesh	lost	126 runs		lost	2nd		ODI v Zimbabwe	Dhaka	21 Mar 1999	investigate this query
+Bangladesh	lost	73 runs		lost	2nd		ODI v Kenya	Dhaka	24 Mar 1999	investigate this query
+Bangladesh	lost	3 wickets	3	won	1st		ODI v Zimbabwe	Dhaka	25 Mar 1999	investigate this query
+Bangladesh	lost	6 wickets	102	lost	1st		ODI v New Zealand	Chelmsford	17 May 1999	investigate this query
+Bangladesh	lost	7 wickets	21	won	1st		ODI v West Indies	Dublin	21 May 1999	investigate this query
+Bangladesh	won	22 runs		lost	1st		ODI v Scotland	Edinburgh	24 May 1999	investigate this query
+Bangladesh	lost	7 wickets	181	lost	1st		ODI v Australia	Chester-le-Street	27 May 1999	investigate this query
+Bangladesh	won	62 runs		lost	1st		ODI v Pakistan	Northampton	31 May 1999	investigate this query
+Bangladesh	lost	73 runs		lost	2nd		ODI v West Indies	Dhaka	8 Oct 1999	investigate this query
+Bangladesh	lost	109 runs		lost	2nd		ODI v West Indies	Dhaka	9 Oct 1999	investigate this query
+Bangladesh	lost	9 wickets	116	lost	1st		ODI v Sri Lanka	Dhaka	29 May 2000	investigate this query
+Bangladesh	lost	8 wickets	59	won	1st		ODI v India	Dhaka	30 May 2000	investigate this query
+Bangladesh	lost	233 runs		lost	2nd		ODI v Pakistan	Dhaka	2 Jun 2000	investigate this query
+Bangladesh	lost	8 wickets	37	won	1st		ODI v England	Nairobi (Gym)	5 Oct 2000	investigate this query
+Bangladesh	lost	9 wickets		won	1st		Test v India	Dhaka	10 Nov 2000	investigate this query
+Bangladesh	lost	7 wickets	41	won	1st		ODI v Zimbabwe	Harare	7 Apr 2001	investigate this query
+Bangladesh	lost	127 runs		won	2nd		ODI v Zimbabwe	Harare	8 Apr 2001	investigate this query
+Bangladesh	lost	36 runs		lost	2nd		ODI v Zimbabwe	Bulawayo	11 Apr 2001	investigate this query
+Bangladesh	lost	inns & 32 runs		lost	1st		Test v Zimbabwe	Bulawayo	19 Apr 2001	investigate this query
+Bangladesh	lost	8 wickets		lost	1st		Test v Zimbabwe	Harare	26 Apr 2001	investigate this query
+Bangladesh	lost	inns & 264 runs		won	1st		Test v Pakistan	Multan	29 Aug 2001	investigate this query
+Bangladesh	lost	inns & 137 runs		lost	1st		Test v Sri Lanka	Colombo (SSC)	6 Sep 2001	investigate this query
+Bangladesh	draw	-		lost	1st		Test v Zimbabwe	Dhaka	8 Nov 2001	investigate this query
+Bangladesh	lost	8 wickets		won	2nd		Test v Zimbabwe	Chittagong	15 Nov 2001	investigate this query
+Bangladesh	lost	5 wickets	46	lost	1st		ODI v Zimbabwe	Chittagong	23 Nov 2001	investigate this query
+Bangladesh	lost	42 runs		lost	2nd		ODI v Zimbabwe	Dhaka	25 Nov 2001	investigate this query
+Bangladesh	lost	7 wickets	5	won	1st		ODI v Zimbabwe	Dhaka	26 Nov 2001	investigate this query
+Bangladesh	lost	inns & 52 runs		won	2nd		Test v New Zealand	Hamilton	18 Dec 2001	investigate this query
+Bangladesh	lost	inns & 74 runs		lost	1st		Test v New Zealand	Wellington	26 Dec 2001	investigate this query
+Bangladesh	lost	inns & 178 runs		lost	1st		Test v Pakistan	Dhaka	9 Jan 2002	investigate this query
+Bangladesh	lost	inns & 169 runs		won	1st		Test v Pakistan	Chittagong	16 Jan 2002	investigate this query
+Bangladesh	lost	49 runs		lost	2nd		ODI v Pakistan	Chittagong	22 Jan 2002	investigate this query
+Bangladesh	lost	72 runs		lost	2nd		ODI v Pakistan	Dhaka	24 Jan 2002	investigate this query
+Bangladesh	lost	8 wickets	81	won	1st		ODI v Pakistan	Dhaka	25 Jan 2002	investigate this query
+Bangladesh	lost	inns & 196 runs		lost	1st		Test v Sri Lanka	Colombo (PSS)	21 Jul 2002	investigate this query
+Bangladesh	lost	288 runs		won	2nd		Test v Sri Lanka	Colombo (SSC)	28 Jul 2002	investigate this query
+Bangladesh	lost	5 wickets	32	won	1st		ODI v Sri Lanka	Colombo (SSC)	4 Aug 2002	investigate this query
+Bangladesh	lost	8 wickets	206	won	1st		ODI v Sri Lanka	Colombo (SSC)	5 Aug 2002	investigate this query
+Bangladesh	lost	58 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	7 Aug 2002	investigate this query
+Bangladesh	lost	9 wickets	176	won	1st		ODI v Australia	Colombo (SSC)	19 Sep 2002	investigate this query
+Bangladesh	lost	167 runs		won	2nd		ODI v New Zealand	Colombo (SSC)	23 Sep 2002	investigate this query
+Bangladesh	lost	168 runs		lost	2nd		ODI v South Africa	Potchefstroom	3 Oct 2002	investigate this query
+Bangladesh	lost	10 wickets	178	lost	1st		ODI v South Africa	Benoni	6 Oct 2002	investigate this query
+Bangladesh	lost	7 wickets	146	won	1st		ODI v South Africa	Kimberley	9 Oct 2002	investigate this query
+Bangladesh	lost	inns & 107 runs		won	2nd		Test v South Africa	East London	18 Oct 2002	investigate this query
+Bangladesh	lost	inns & 160 runs		won	1st		Test v South Africa	Potchefstroom	25 Oct 2002	investigate this query
+Bangladesh	n/r	-		won	2nd		ODI v West Indies	Chittagong	29 Nov 2002	investigate this query
+Bangladesh	lost	84 runs		lost	2nd		ODI v West Indies	Dhaka	2 Dec 2002	investigate this query
+Bangladesh	lost	86 runs		lost	2nd		ODI v West Indies	Dhaka	3 Dec 2002	investigate this query
+Bangladesh	lost	inns & 310 runs		lost	1st		Test v West Indies	Dhaka	8 Dec 2002	investigate this query
+Bangladesh	lost	7 wickets		won	1st		Test v West Indies	Chittagong	16 Dec 2002	investigate this query
+Bangladesh	lost	60 runs		lost	2nd		ODI v Canada	Durban	11 Feb 2003	investigate this query
+Bangladesh	lost	10 wickets	173	lost	1st		ODI v Sri Lanka	Pietermaritzburg	14 Feb 2003	investigate this query
+Bangladesh	n/r	-		won	2nd		ODI v West Indies	Benoni	18 Feb 2003	investigate this query
+Bangladesh	lost	10 wickets	228	lost	1st		ODI v South Africa	Bloemfontein	22 Feb 2003	investigate this query
+Bangladesh	lost	7 wickets	99	won	1st		ODI v New Zealand	Kimberley	26 Feb 2003	investigate this query
+Bangladesh	lost	32 runs		lost	2nd		ODI v Kenya	Johannesburg	1 Mar 2003	investigate this query
+Bangladesh	lost	200 runs		lost	2nd		ODI v India	Dhaka	11 Apr 2003	investigate this query
+Bangladesh	lost	83 runs		lost	2nd		ODI v South Africa	Dhaka	14 Apr 2003	investigate this query
+Bangladesh	lost	4 wickets	43	won	1st		ODI v India	Dhaka	16 Apr 2003	investigate this query
+Bangladesh	lost	93 runs		lost	2nd		ODI v South Africa	Dhaka	17 Apr 2003	investigate this query
+Bangladesh	lost	inns & 60 runs		won	1st		Test v South Africa	Chittagong	24 Apr 2003	investigate this query
+Bangladesh	lost	inns & 18 runs		lost	2nd		Test v South Africa	Dhaka	1 May 2003	investigate this query
+Bangladesh	lost	inns & 132 runs		lost	1st		Test v Australia	Darwin	18 Jul 2003	investigate this query
+Bangladesh	lost	inns & 98 runs		lost	1st		Test v Australia	Cairns	25 Jul 2003	investigate this query
+Bangladesh	lost	8 wickets	165	lost	1st		ODI v Australia	Cairns	2 Aug 2003	investigate this query
+Bangladesh	lost	9 wickets	178	won	1st		ODI v Australia	Cairns	3 Aug 2003	investigate this query
+Bangladesh	lost	112 runs		lost	2nd		ODI v Australia	Darwin	6 Aug 2003	investigate this query
+Bangladesh	lost	7 wickets		lost	1st		Test v Pakistan	Karachi	20 Aug 2003	investigate this query
+Bangladesh	lost	9 wickets		won	1st		Test v Pakistan	Peshawar	27 Aug 2003	investigate this query
+Bangladesh	lost	1 wickets		won	1st		Test v Pakistan	Multan	3 Sep 2003	investigate this query
+Bangladesh	lost	137 runs		lost	2nd		ODI v Pakistan	Multan	9 Sep 2003	investigate this query
+Bangladesh	lost	74 runs		lost	2nd		ODI v Pakistan	Faisalabad	12 Sep 2003	investigate this query
+Bangladesh	lost	42 runs		lost	2nd		ODI v Pakistan	Lahore	15 Sep 2003	investigate this query
+Bangladesh	lost	5 wickets	1	won	1st		ODI v Pakistan	Rawalpindi	18 Sep 2003	investigate this query
+Bangladesh	lost	58 runs		lost	2nd		ODI v Pakistan	Karachi	21 Sep 2003	investigate this query
+Bangladesh	lost	7 wickets		won	1st		Test v England	Dhaka	21 Oct 2003	investigate this query
+Bangladesh	lost	329 runs		won	2nd		Test v England	Chittagong	29 Oct 2003	investigate this query
+Bangladesh	lost	7 wickets	147	won	1st		ODI v England	Chittagong	7 Nov 2003	investigate this query
+Bangladesh	lost	7 wickets	134	won	1st		ODI v England	Dhaka	10 Nov 2003	investigate this query
+Bangladesh	lost	7 wickets	63	won	1st		ODI v England	Dhaka	12 Nov 2003	investigate this query
+Bangladesh	lost	183 runs		lost	2nd		Test v Zimbabwe	Harare	19 Feb 2004	investigate this query
+Bangladesh	draw	-		lost	1st		Test v Zimbabwe	Bulawayo	26 Feb 2004	investigate this query
+Bangladesh	aban	-		-	-		ODI v Zimbabwe	Bulawayo	6 Mar 2004	investigate this query
+Bangladesh	aban	-		-	-		ODI v Zimbabwe	Bulawayo	7 Mar 2004	investigate this query
+Bangladesh	won	8 runs		lost	1st		ODI v Zimbabwe	Harare	10 Mar 2004	investigate this query
+Bangladesh	lost	14 runs		lost	2nd		ODI v Zimbabwe	Harare	12 Mar 2004	investigate this query
+Bangladesh	lost	3 wickets	45	won	1st		ODI v Zimbabwe	Harare	14 Mar 2004	investigate this query
+Bangladesh	lost	1 wickets	20	lost	1st		ODI v West Indies	Kingstown	15 May 2004	investigate this query
+Bangladesh	lost	23 runs		won	2nd		ODI v West Indies	Kingstown	16 May 2004	investigate this query
+Bangladesh	lost	7 wickets	5	won	1st		ODI v West Indies	St George's	19 May 2004	investigate this query
+Bangladesh	draw	-		won	1st		Test v West Indies	Gros Islet	28 May 2004	investigate this query
+Bangladesh	lost	inns & 99 runs		won	1st		Test v West Indies	Kingston	4 Jun 2004	investigate this query
+Bangladesh	won	116 runs		lost	1st		ODI v Hong Kong	Colombo (SSC)	16 Jul 2004	investigate this query
+Bangladesh	lost	76 runs		lost	2nd		ODI v Pakistan	Colombo (SSC)	17 Jul 2004	investigate this query
+Bangladesh	lost	8 wickets	69	lost	1st		ODI v India	Colombo (SSC)	21 Jul 2004	investigate this query
+Bangladesh	lost	10 wickets	99	won	1st		ODI v Sri Lanka	Colombo (RPS)	23 Jul 2004	investigate this query
+Bangladesh	lost	6 wickets	54	won	1st		ODI v Pakistan	Colombo (RPS)	29 Jul 2004	investigate this query
+Bangladesh	lost	9 wickets	193	won	1st		ODI v South Africa	Birmingham	12 Sep 2004	investigate this query
+Bangladesh	lost	138 runs		won	2nd		ODI v West Indies	Southampton	15 Sep 2004	investigate this query
+Bangladesh	lost	inns & 99 runs		won	1st		Test v New Zealand	Dhaka	19 Oct 2004	investigate this query
+Bangladesh	lost	inns & 101 runs		lost	2nd		Test v New Zealand	Chittagong	26 Oct 2004	investigate this query
+Bangladesh	lost	138 runs		lost	2nd		ODI v New Zealand	Chittagong	2 Nov 2004	investigate this query
+Bangladesh	lost	3 wickets	32	won	1st		ODI v New Zealand	Dhaka	5 Nov 2004	investigate this query
+Bangladesh	lost	83 runs		lost	2nd		ODI v New Zealand	Dhaka	7 Nov 2004	investigate this query
+Bangladesh	lost	inns & 140 runs		lost	1st		Test v India	Dhaka	10 Dec 2004	investigate this query
+Bangladesh	lost	inns & 83 runs		lost	2nd		Test v India	Chittagong	17 Dec 2004	investigate this query
+Bangladesh	lost	11 runs		won	2nd		ODI v India	Chittagong	23 Dec 2004	investigate this query
+Bangladesh	won	15 runs		won	1st		ODI v India	Dhaka	26 Dec 2004	investigate this query
+Bangladesh	lost	91 runs		lost	2nd		ODI v India	Dhaka	27 Dec 2004	investigate this query
+Bangladesh	won	226 runs		won	1st		Test v Zimbabwe	Chittagong	6 Jan 2005	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v Zimbabwe	Dhaka	14 Jan 2005	investigate this query
+Bangladesh	lost	22 runs		lost	2nd		ODI v Zimbabwe	Dhaka	20 Jan 2005	investigate this query
+Bangladesh	lost	31 runs		lost	2nd		ODI v Zimbabwe	Chittagong	24 Jan 2005	investigate this query
+Bangladesh	won	40 runs		won	1st		ODI v Zimbabwe	Chittagong	26 Jan 2005	investigate this query
+Bangladesh	won	58 runs		won	1st		ODI v Zimbabwe	Dhaka	29 Jan 2005	investigate this query
+Bangladesh	won	8 wickets	102	lost	2nd		ODI v Zimbabwe	Dhaka	31 Jan 2005	investigate this query
+Bangladesh	lost	inns & 261 runs		lost	1st		Test v England	Lord's	26 May 2005	investigate this query
+Bangladesh	lost	inns & 27 runs		lost	1st		Test v England	Chester-le-Street	3 Jun 2005	investigate this query
+Bangladesh	lost	10 wickets	151	lost	1st		ODI v England	The Oval	16 Jun 2005	investigate this query
+Bangladesh	won	5 wickets	4	lost	2nd		ODI v Australia	Cardiff	18 Jun 2005	investigate this query
+Bangladesh	lost	168 runs		lost	2nd		ODI v England	Nottingham	21 Jun 2005	investigate this query
+Bangladesh	lost	10 wickets	186	lost	1st		ODI v Australia	Manchester	25 Jun 2005	investigate this query
+Bangladesh	lost	5 wickets	67	won	1st		ODI v England	Leeds	26 Jun 2005	investigate this query
+Bangladesh	lost	6 wickets	11	lost	1st		ODI v Australia	Canterbury	30 Jun 2005	investigate this query
+Bangladesh	lost	88 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	31 Aug 2005	investigate this query
+Bangladesh	lost	75 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	2 Sep 2005	investigate this query
+Bangladesh	lost	6 wickets	148	lost	1st		ODI v Sri Lanka	Colombo (RPS)	4 Sep 2005	investigate this query
+Bangladesh	lost	inns & 96 runs		lost	1st		Test v Sri Lanka	Colombo (RPS)	12 Sep 2005	investigate this query
+Bangladesh	lost	inns & 69 runs		lost	2nd		Test v Sri Lanka	Colombo (PSS)	20 Sep 2005	investigate this query
+Bangladesh	lost	5 wickets	155	won	1st		ODI v Sri Lanka	Bogra	20 Feb 2006	investigate this query
+Bangladesh	won	4 wickets	12	won	2nd		ODI v Sri Lanka	Bogra	22 Feb 2006	investigate this query
+Bangladesh	lost	78 runs		won	2nd		ODI v Sri Lanka	Chittagong	25 Feb 2006	investigate this query
+Bangladesh	lost	8 wickets		won	1st		Test v Sri Lanka	Chittagong	28 Feb 2006	investigate this query
+Bangladesh	lost	10 wickets		won	1st		Test v Sri Lanka	Bogra	8 Mar 2006	investigate this query
+Bangladesh	won	131 runs		won	1st		ODI v Kenya	Bogra	17 Mar 2006	investigate this query
+Bangladesh	won	9 wickets	157	lost	2nd		ODI v Kenya	Khulna	20 Mar 2006	investigate this query
+Bangladesh	won	20 runs		won	1st		ODI v Kenya	Fatullah	23 Mar 2006	investigate this query
+Bangladesh	won	7 wickets	51	lost	2nd		ODI v Kenya	Fatullah	25 Mar 2006	investigate this query
+Bangladesh	lost	3 wickets		won	1st		Test v Australia	Fatullah	9 Apr 2006	investigate this query
+Bangladesh	lost	inns & 80 runs		won	1st		Test v Australia	Chittagong	16 Apr 2006	investigate this query
+Bangladesh	lost	4 wickets	36	won	1st		ODI v Australia	Chittagong	23 Apr 2006	investigate this query
+Bangladesh	lost	67 runs		lost	2nd		ODI v Australia	Fatullah	26 Apr 2006	investigate this query
+Bangladesh	lost	9 wickets	164	won	1st		ODI v Australia	Fatullah	28 Apr 2006	investigate this query
+Bangladesh	lost	2 wickets	5	lost	1st		ODI v Zimbabwe	Harare	29 Jul 2006	investigate this query
+Bangladesh	won	62 runs		lost	1st		ODI v Zimbabwe	Harare	30 Jul 2006	investigate this query
+Bangladesh	lost	2 wickets	0	lost	1st		ODI v Zimbabwe	Harare	2 Aug 2006	investigate this query
+Bangladesh	lost	7 wickets	50	won	1st		ODI v Zimbabwe	Harare	4 Aug 2006	investigate this query
+Bangladesh	won	8 wickets	32	lost	2nd		ODI v Zimbabwe	Harare	6 Aug 2006	investigate this query
+Bangladesh	won	6 wickets	119	won	2nd		ODI v Kenya	Nairobi (Gym)	12 Aug 2006	investigate this query
+Bangladesh	won	2 wickets	24	lost	2nd		ODI v Kenya	Nairobi (Gym)	13 Aug 2006	investigate this query
+Bangladesh	won	6 wickets	138	won	2nd		ODI v Kenya	Nairobi (Gym)	15 Aug 2006	investigate this query
+Bangladesh	lost	37 runs		won	2nd		ODI v Sri Lanka	Mohali	7 Oct 2006	investigate this query
+Bangladesh	lost	10 wickets	80	won	1st		ODI v West Indies	Jaipur	11 Oct 2006	investigate this query
+Bangladesh	won	101 runs		lost	1st		ODI v Zimbabwe	Jaipur	13 Oct 2006	investigate this query
+Bangladesh	won	43 runs		lost	1st		T20I v Zimbabwe	Khulna	28 Nov 2006	investigate this query
+Bangladesh	won	9 wickets	27	lost	2nd		ODI v Zimbabwe	Khulna	30 Nov 2006	investigate this query
+Bangladesh	won	6 wickets	44	won	2nd		ODI v Zimbabwe	Bogra	3 Dec 2006	investigate this query
+Bangladesh	won	26 runs		lost	1st		ODI v Zimbabwe	Bogra	5 Dec 2006	investigate this query
+Bangladesh	won	8 wickets	106	won	2nd		ODI v Zimbabwe	Dhaka	8 Dec 2006	investigate this query
+Bangladesh	won	3 wickets	6	won	2nd		ODI v Zimbabwe	Dhaka	9 Dec 2006	investigate this query
+Bangladesh	won	6 wickets	125	won	2nd		ODI v Scotland	Chittagong	15 Dec 2006	investigate this query
+Bangladesh	won	146 runs		lost	1st		ODI v Scotland	Dhaka	17 Dec 2006	investigate this query
+Bangladesh	won	45 runs		lost	1st		ODI v Zimbabwe	Harare	4 Feb 2007	investigate this query
+Bangladesh	lost	8 wickets	88	won	1st		ODI v Zimbabwe	Harare	6 Feb 2007	investigate this query
+Bangladesh	won	14 runs		lost	1st		ODI v Zimbabwe	Harare	9 Feb 2007	investigate this query
+Bangladesh	won	1 wickets	16	won	2nd		ODI v Zimbabwe	Harare	10 Feb 2007	investigate this query
+Bangladesh	won	8 wickets	75	lost	2nd		ODI v Bermuda	St John's	25 Feb 2007	investigate this query
+Bangladesh	won	13 runs		lost	1st		ODI v Canada	St John's	28 Feb 2007	investigate this query
+Bangladesh	won	5 wickets	9	lost	2nd		ODI v India	Port of Spain	17 Mar 2007	investigate this query
+Bangladesh	lost	198 runs		won	2nd		ODI v Sri Lanka	Port of Spain	21 Mar 2007	investigate this query
+Bangladesh	won	7 wickets	21	won	2nd		ODI v Bermuda	Port of Spain	25 Mar 2007	investigate this query
+Bangladesh	lost	10 wickets	49	lost	1st		ODI v Australia	North Sound	31 Mar 2007	investigate this query
+Bangladesh	lost	9 wickets	124	lost	1st		ODI v New Zealand	North Sound	2 Apr 2007	investigate this query
+Bangladesh	won	67 runs		lost	1st		ODI v South Africa	Providence	7 Apr 2007	investigate this query
+Bangladesh	lost	4 wickets	31	lost	1st		ODI v England	Bridgetown	11 Apr 2007	investigate this query
+Bangladesh	lost	74 runs		lost	2nd		ODI v Ireland	Bridgetown	15 Apr 2007	investigate this query
+Bangladesh	lost	99 runs		won	2nd		ODI v West Indies	Bridgetown	19 Apr 2007	investigate this query
+Bangladesh	lost	5 wickets	6	won	1st		ODI v India	Dhaka	10 May 2007	investigate this query
+Bangladesh	lost	46 runs		lost	2nd		ODI v India	Dhaka	12 May 2007	investigate this query
+Bangladesh	aban	-		-	-		ODI v India	Chittagong	15 May 2007	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v India	Chittagong	18 May 2007	investigate this query
+Bangladesh	lost	inns & 239 runs		won	2nd		Test v India	Dhaka	25 May 2007	investigate this query
+Bangladesh	lost	inns & 234 runs		lost	1st		Test v Sri Lanka	Colombo (SSC)	25 Jun 2007	investigate this query
+Bangladesh	lost	inns & 90 runs		lost	1st		Test v Sri Lanka	Colombo (PSS)	3 Jul 2007	investigate this query
+Bangladesh	lost	inns & 193 runs		lost	1st		Test v Sri Lanka	Kandy	11 Jul 2007	investigate this query
+Bangladesh	lost	70 runs		won	2nd		ODI v Sri Lanka	Colombo (PSS)	20 Jul 2007	investigate this query
+Bangladesh	lost	5 wickets	113	lost	1st		ODI v Sri Lanka	Colombo (RPS)	23 Jul 2007	investigate this query
+Bangladesh	lost	39 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	25 Jul 2007	investigate this query
+Bangladesh	won	5 wickets	14	won	2nd		T20I v Kenya	Nairobi (Gym)	1 Sep 2007	investigate this query
+Bangladesh	lost	30 runs		won	2nd		T20I v Pakistan	Nairobi (Gym)	2 Sep 2007	investigate this query
+Bangladesh	won	6 wickets	12	won	2nd		T20I v West Indies	Johannesburg	13 Sep 2007	investigate this query
+Bangladesh	lost	7 wickets	7	lost	1st		T20I v South Africa	Cape Town	15 Sep 2007	investigate this query
+Bangladesh	lost	9 wickets	37	lost	1st		T20I v Australia	Cape Town	16 Sep 2007	investigate this query
+Bangladesh	lost	64 runs		won	2nd		T20I v Sri Lanka	Johannesburg	18 Sep 2007	investigate this query
+Bangladesh	lost	4 wickets	6	lost	1st		T20I v Pakistan	Cape Town	20 Sep 2007	investigate this query
+Bangladesh	lost	6 wickets	44	lost	1st		ODI v New Zealand	Auckland	26 Dec 2007	investigate this query
+Bangladesh	lost	102 runs		lost	2nd		ODI v New Zealand	Napier	28 Dec 2007	investigate this query
+Bangladesh	lost	10 wickets	264	lost	1st		ODI v New Zealand	Queenstown	31 Dec 2007	investigate this query
+Bangladesh	lost	9 wickets		lost	1st		Test v New Zealand	Dunedin	4 Jan 2008	investigate this query
+Bangladesh	lost	inns & 137 runs		lost	1st		Test v New Zealand	Wellington	12 Jan 2008	investigate this query
+Bangladesh	lost	5 wickets		won	1st		Test v South Africa	Dhaka	22 Feb 2008	investigate this query
+Bangladesh	lost	inns & 205 runs		lost	2nd		Test v South Africa	Chittagong	29 Feb 2008	investigate this query
+Bangladesh	lost	9 wickets	79	won	1st		ODI v South Africa	Chittagong	9 Mar 2008	investigate this query
+Bangladesh	lost	7 wickets	11	won	1st		ODI v South Africa	Dhaka	12 Mar 2008	investigate this query
+Bangladesh	lost	7 wickets	94	won	1st		ODI v South Africa	Dhaka	14 Mar 2008	investigate this query
+Bangladesh	won	8 wickets	61	lost	2nd		ODI v Ireland	Dhaka	18 Mar 2008	investigate this query
+Bangladesh	won	84 runs		won	1st		ODI v Ireland	Dhaka	20 Mar 2008	investigate this query
+Bangladesh	won	79 runs		won	1st		ODI v Ireland	Dhaka	22 Mar 2008	investigate this query
+Bangladesh	lost	152 runs		lost	2nd		ODI v Pakistan	Lahore	8 Apr 2008	investigate this query
+Bangladesh	lost	7 wickets	10	won	1st		ODI v Pakistan	Faisalabad	11 Apr 2008	investigate this query
+Bangladesh	lost	23 runs		lost	2nd		ODI v Pakistan	Lahore	13 Apr 2008	investigate this query
+Bangladesh	lost	7 wickets	33	won	1st		ODI v Pakistan	Multan	16 Apr 2008	investigate this query
+Bangladesh	lost	150 runs		lost	2nd		ODI v Pakistan	Karachi	19 Apr 2008	investigate this query
+Bangladesh	lost	102 runs		lost	2nd		T20I v Pakistan	Karachi	20 Apr 2008	investigate this query
+Bangladesh	lost	70 runs		won	2nd		ODI v Pakistan	Dhaka	8 Jun 2008	investigate this query
+Bangladesh	lost	7 wickets	89	won	1st		ODI v India	Dhaka	12 Jun 2008	investigate this query
+Bangladesh	won	96 runs		won	1st		ODI v U.A.E.	Lahore	24 Jun 2008	investigate this query
+Bangladesh	lost	131 runs		won	2nd		ODI v Sri Lanka	Lahore	25 Jun 2008	investigate this query
+Bangladesh	lost	7 wickets	40	won	1st		ODI v India	Karachi	28 Jun 2008	investigate this query
+Bangladesh	lost	158 runs		lost	2nd		ODI v Sri Lanka	Karachi	30 Jun 2008	investigate this query
+Bangladesh	lost	10 wickets	182	won	1st		ODI v Pakistan	Karachi	4 Jul 2008	investigate this query
+Bangladesh	lost	180 runs		won	2nd		ODI v Australia	Darwin	30 Aug 2008	investigate this query
+Bangladesh	lost	8 wickets	164	won	1st		ODI v Australia	Darwin	3 Sep 2008	investigate this query
+Bangladesh	lost	73 runs		lost	2nd		ODI v Australia	Darwin	6 Sep 2008	investigate this query
+Bangladesh	won	7 wickets	27	won	2nd		ODI v New Zealand	Dhaka	9 Oct 2008	investigate this query
+Bangladesh	lost	75 runs		won	2nd		ODI v New Zealand	Dhaka	11 Oct 2008	investigate this query
+Bangladesh	lost	79 runs		lost	2nd		ODI v New Zealand	Chittagong	14 Oct 2008	investigate this query
+Bangladesh	lost	3 wickets		won	1st		Test v New Zealand	Chittagong	17 Oct 2008	investigate this query
+Bangladesh	draw	-		won	2nd		Test v New Zealand	Dhaka	25 Oct 2008	investigate this query
+Bangladesh	lost	12 runs		won	2nd		T20I v South Africa	Johannesburg	5 Nov 2008	investigate this query
+Bangladesh	lost	61 runs		lost	2nd		ODI v South Africa	Potchefstroom	7 Nov 2008	investigate this query
+Bangladesh	lost	128 runs		won	2nd		ODI v South Africa	Benoni	9 Nov 2008	investigate this query
+Bangladesh	aban	-		-	-		ODI v South Africa	East London	12 Nov 2008	investigate this query
+Bangladesh	lost	inns & 129 runs		won	2nd		Test v South Africa	Bloemfontein	19 Nov 2008	investigate this query
+Bangladesh	lost	inns & 48 runs		won	1st		Test v South Africa	Centurion	26 Nov 2008	investigate this query
+Bangladesh	lost	107 runs		lost	2nd		Test v Sri Lanka	Dhaka	26 Dec 2008	investigate this query
+Bangladesh	lost	465 runs		lost	2nd		Test v Sri Lanka	Chittagong	3 Jan 2009	investigate this query
+Bangladesh	lost	38 runs		won	2nd		ODI v Zimbabwe	Dhaka	10 Jan 2009	investigate this query
+Bangladesh	won	5 wickets	43	won	2nd		ODI v Sri Lanka	Dhaka	14 Jan 2009	investigate this query
+Bangladesh	lost	2 wickets	11	lost	1st		ODI v Sri Lanka	Dhaka	16 Jan 2009	investigate this query
+Bangladesh	lost	2 wickets	4	won	1st		ODI v Zimbabwe	Dhaka	19 Jan 2009	investigate this query
+Bangladesh	won	6 wickets	31	won	2nd		ODI v Zimbabwe	Dhaka	21 Jan 2009	investigate this query
+Bangladesh	won	6 wickets	27	won	2nd		ODI v Zimbabwe	Dhaka	23 Jan 2009	investigate this query
+Bangladesh	lost	25 runs		lost	2nd		T20I v India	Nottingham	6 Jun 2009	investigate this query
+Bangladesh	lost	6 wickets	10	lost	1st		T20I v Ireland	Nottingham	8 Jun 2009	investigate this query
+Bangladesh	won	95 runs		won	1st		Test v West Indies	Kingstown	9 Jul 2009	investigate this query
+Bangladesh	won	4 wickets		won	2nd		Test v West Indies	St George's	17 Jul 2009	investigate this query
+Bangladesh	won	52 runs		lost	1st		ODI v West Indies	Roseau	26 Jul 2009	investigate this query
+Bangladesh	won	3 wickets	6	lost	2nd		ODI v West Indies	Roseau	28 Jul 2009	investigate this query
+Bangladesh	won	3 wickets	7	lost	2nd		ODI v West Indies	Basseterre	31 Jul 2009	investigate this query
+Bangladesh	lost	5 wickets	19	won	1st		T20I v West Indies	Basseterre	2 Aug 2009	investigate this query
+Bangladesh	won	8 wickets	93	won	2nd		ODI v Zimbabwe	Bulawayo	9 Aug 2009	investigate this query
+Bangladesh	won	49 runs		lost	1st		ODI v Zimbabwe	Bulawayo	11 Aug 2009	investigate this query
+Bangladesh	lost	69 runs		won	2nd		ODI v Zimbabwe	Bulawayo	14 Aug 2009	investigate this query
+Bangladesh	won	4 wickets	13	lost	2nd		ODI v Zimbabwe	Bulawayo	16 Aug 2009	investigate this query
+Bangladesh	won	5 wickets	13	lost	2nd		ODI v Zimbabwe	Bulawayo	18 Aug 2009	investigate this query
+Bangladesh	lost	5 wickets	92	lost	1st		ODI v Zimbabwe	Dhaka	27 Oct 2009	investigate this query
+Bangladesh	won	7 wickets	123	lost	2nd		ODI v Zimbabwe	Dhaka	29 Oct 2009	investigate this query
+Bangladesh	won	4 wickets	56	won	2nd		ODI v Zimbabwe	Dhaka	31 Oct 2009	investigate this query
+Bangladesh	won	6 wickets	229	lost	2nd		ODI v Zimbabwe	Chittagong	3 Nov 2009	investigate this query
+Bangladesh	won	1 wickets	6	won	2nd		ODI v Zimbabwe	Chittagong	5 Nov 2009	investigate this query
+Bangladesh	lost	7 wickets	31	lost	1st		ODI v Sri Lanka	Dhaka	4 Jan 2010	investigate this query
+Bangladesh	lost	6 wickets	15	won	1st		ODI v India	Dhaka	7 Jan 2010	investigate this query
+Bangladesh	lost	9 wickets	43	lost	1st		ODI v Sri Lanka	Dhaka	8 Jan 2010	investigate this query
+Bangladesh	lost	6 wickets	42	lost	1st		ODI v India	Dhaka	11 Jan 2010	investigate this query
+Bangladesh	lost	113 runs		won	2nd		Test v India	Chittagong	17 Jan 2010	investigate this query
+Bangladesh	lost	10 wickets		won	1st		Test v India	Dhaka	24 Jan 2010	investigate this query
+Bangladesh	lost	10 wickets	70	won	1st		T20I v New Zealand	Hamilton	3 Feb 2010	investigate this query
+Bangladesh	lost	146 runs		lost	2nd		ODI v New Zealand	Napier	5 Feb 2010	investigate this query
+Bangladesh	lost	5 wickets	135	lost	1st		ODI v New Zealand	Dunedin	8 Feb 2010	investigate this query
+Bangladesh	lost	3 wickets	31	lost	1st		ODI v New Zealand	Christchurch	11 Feb 2010	investigate this query
+Bangladesh	lost	121 runs		won	2nd		Test v New Zealand	Hamilton	15 Feb 2010	investigate this query
+Bangladesh	lost	6 wickets	24	lost	1st		ODI v England	Dhaka	28 Feb 2010	investigate this query
+Bangladesh	lost	2 wickets	7	lost	1st		ODI v England	Dhaka	2 Mar 2010	investigate this query
+Bangladesh	lost	45 runs		won	2nd		ODI v England	Chittagong	5 Mar 2010	investigate this query
+Bangladesh	lost	181 runs		won	2nd		Test v England	Chittagong	12 Mar 2010	investigate this query
+Bangladesh	lost	9 wickets		won	1st		Test v England	Dhaka	20 Mar 2010	investigate this query
+Bangladesh	lost	21 runs		lost	2nd		T20I v Pakistan	Gros Islet	1 May 2010	investigate this query
+Bangladesh	lost	27 runs		lost	2nd		T20I v Australia	Bridgetown	5 May 2010	investigate this query
+Bangladesh	lost	8 wickets		won	2nd		Test v England	Lord's	27 May 2010	investigate this query
+Bangladesh	lost	inns & 80 runs		lost	2nd		Test v England	Manchester	4 Jun 2010	investigate this query
+Bangladesh	lost	6 wickets	116	won	1st		ODI v India	Dambulla	16 Jun 2010	investigate this query
+Bangladesh	lost	126 runs		lost	2nd		ODI v Sri Lanka	Dambulla	18 Jun 2010	investigate this query
+Bangladesh	lost	139 runs		lost	2nd		ODI v Pakistan	Dambulla	21 Jun 2010	investigate this query
+Bangladesh	lost	6 wickets	29	won	1st		ODI v England	Nottingham	8 Jul 2010	investigate this query
+Bangladesh	won	5 runs		lost	1st		ODI v England	Bristol	10 Jul 2010	investigate this query
+Bangladesh	lost	144 runs		won	2nd		ODI v England	Birmingham	12 Jul 2010	investigate this query
+Bangladesh	lost	7 wickets	30	lost	1st		ODI v Ireland	Belfast	15 Jul 2010	investigate this query
+Bangladesh	won	6 wickets	50	lost	2nd		ODI v Ireland	Belfast	16 Jul 2010	investigate this query
+Bangladesh	aban	-		-	-		ODI v Scotland	Glasgow	19 Jul 2010	investigate this query
+Bangladesh	lost	6 wickets	7	lost	1st		ODI v Netherlands	Glasgow	20 Jul 2010	investigate this query
+Bangladesh	won	9 runs		won	1st		ODI v New Zealand	Dhaka	5 Oct 2010	investigate this query
+Bangladesh	aban	-		-	-		ODI v New Zealand	Dhaka	8 Oct 2010	investigate this query
+Bangladesh	won	7 wickets	60	won	2nd		ODI v New Zealand	Dhaka	11 Oct 2010	investigate this query
+Bangladesh	won	9 runs		lost	1st		ODI v New Zealand	Dhaka	14 Oct 2010	investigate this query
+Bangladesh	won	3 runs		won	1st		ODI v New Zealand	Dhaka	17 Oct 2010	investigate this query
+Bangladesh	lost	9 runs		won	2nd		ODI v Zimbabwe	Dhaka	1 Dec 2010	investigate this query
+Bangladesh	won	6 wickets	62	won	2nd		ODI v Zimbabwe	Dhaka	3 Dec 2010	investigate this query
+Bangladesh	won	65 runs		lost	1st		ODI v Zimbabwe	Dhaka	6 Dec 2010	investigate this query
+Bangladesh	aban	-		-	-		ODI v Zimbabwe	Chittagong	10 Dec 2010	investigate this query
+Bangladesh	won	6 wickets	42	lost	2nd		ODI v Zimbabwe	Chittagong	12 Dec 2010	investigate this query
+Bangladesh	lost	87 runs		won	2nd		ODI v India	Dhaka	19 Feb 2011	investigate this query
+Bangladesh	won	27 runs		won	1st		ODI v Ireland	Dhaka	25 Feb 2011	investigate this query
+Bangladesh	lost	9 wickets	226	won	1st		ODI v West Indies	Dhaka	4 Mar 2011	investigate this query
+Bangladesh	won	2 wickets	6	won	2nd		ODI v England	Chittagong	11 Mar 2011	investigate this query
+Bangladesh	won	6 wickets	52	lost	2nd		ODI v Netherlands	Chittagong	14 Mar 2011	investigate this query
+Bangladesh	lost	206 runs		lost	2nd		ODI v South Africa	Dhaka	19 Mar 2011	investigate this query
+Bangladesh	lost	60 runs		won	2nd		ODI v Australia	Dhaka	9 Apr 2011	investigate this query
+Bangladesh	lost	9 wickets	144	won	1st		ODI v Australia	Dhaka	11 Apr 2011	investigate this query
+Bangladesh	lost	66 runs		lost	2nd		ODI v Australia	Dhaka	13 Apr 2011	investigate this query
+Bangladesh	lost	130 runs		won	2nd		Test v Zimbabwe	Harare	4 Aug 2011	investigate this query
+Bangladesh	lost	4 wickets	52	lost	1st		ODI v Zimbabwe	Harare	12 Aug 2011	investigate this query
+Bangladesh	lost	7 wickets	35	lost	1st		ODI v Zimbabwe	Harare	14 Aug 2011	investigate this query
+Bangladesh	lost	5 runs		won	2nd		ODI v Zimbabwe	Harare	16 Aug 2011	investigate this query
+Bangladesh	won	6 wickets	80	won	2nd		ODI v Zimbabwe	Bulawayo	19 Aug 2011	investigate this query
+Bangladesh	won	93 runs		lost	1st		ODI v Zimbabwe	Bulawayo	21 Aug 2011	investigate this query
+Bangladesh	won	3 wickets	1	won	2nd		T20I v West Indies	Dhaka	11 Oct 2011	investigate this query
+Bangladesh	lost	40 runs		won	2nd		ODI v West Indies	Dhaka	13 Oct 2011	investigate this query
+Bangladesh	lost	8 wickets	44	won	1st		ODI v West Indies	Dhaka	15 Oct 2011	investigate this query
+Bangladesh	won	8 wickets	180	won	2nd		ODI v West Indies	Chittagong	18 Oct 2011	investigate this query
+Bangladesh	draw	-		won	1st		Test v West Indies	Chittagong	21 Oct 2011	investigate this query
+Bangladesh	lost	229 runs		lost	2nd		Test v West Indies	Dhaka	29 Oct 2011	investigate this query
+Bangladesh	lost	50 runs		lost	2nd		T20I v Pakistan	Dhaka	29 Nov 2011	investigate this query
+Bangladesh	lost	5 wickets	146	won	1st		ODI v Pakistan	Dhaka	1 Dec 2011	investigate this query
+Bangladesh	lost	76 runs		lost	2nd		ODI v Pakistan	Dhaka	3 Dec 2011	investigate this query
+Bangladesh	lost	58 runs		lost	2nd		ODI v Pakistan	Chittagong	6 Dec 2011	investigate this query
+Bangladesh	lost	inns & 184 runs		lost	1st		Test v Pakistan	Chittagong	9 Dec 2011	investigate this query
+Bangladesh	lost	7 wickets		lost	1st		Test v Pakistan	Dhaka	17 Dec 2011	investigate this query
+Bangladesh	lost	21 runs		won	2nd		ODI v Pakistan	Dhaka	11 Mar 2012	investigate this query
+Bangladesh	won	5 wickets	4	won	2nd		ODI v India	Dhaka	16 Mar 2012	investigate this query
+Bangladesh	won	5 wickets	17	won	2nd		ODI v Sri Lanka	Dhaka	20 Mar 2012	investigate this query
+Bangladesh	lost	2 runs		won	2nd		ODI v Pakistan	Dhaka	22 Mar 2012	investigate this query
+Bangladesh	won	71 runs		lost	1st		T20I v Ireland	Belfast	18 Jul 2012	investigate this query
+Bangladesh	won	1 runs		won	1st		T20I v Ireland	Belfast	20 Jul 2012	investigate this query
+Bangladesh	won	2 wickets	0	lost	2nd		T20I v Ireland	Belfast	21 Jul 2012	investigate this query
+Bangladesh	lost	34 runs		lost	2nd		T20I v Scotland	The Hague	24 Jul 2012	investigate this query
+Bangladesh	won	8 wickets	12	lost	2nd		T20I v Netherlands	The Hague	25 Jul 2012	investigate this query
+Bangladesh	lost	1 wickets	0	won	1st		T20I v Netherlands	The Hague	26 Jul 2012	investigate this query
+Bangladesh	lost	59 runs		won	2nd		T20I v New Zealand	Pallekele	21 Sep 2012	investigate this query
+Bangladesh	lost	8 wickets	8	won	1st		T20I v Pakistan	Pallekele	25 Sep 2012	investigate this query
+Bangladesh	lost	77 runs		lost	2nd		Test v West Indies	Dhaka	13 Nov 2012	investigate this query
+Bangladesh	lost	10 wickets		won	1st		Test v West Indies	Khulna	21 Nov 2012	investigate this query
+Bangladesh	won	7 wickets	58	lost	2nd		ODI v West Indies	Khulna	30 Nov 2012	investigate this query
+Bangladesh	won	160 runs		lost	1st		ODI v West Indies	Khulna	2 Dec 2012	investigate this query
+Bangladesh	lost	4 wickets	18	lost	1st		ODI v West Indies	Dhaka	5 Dec 2012	investigate this query
+Bangladesh	lost	75 runs		won	2nd		ODI v West Indies	Dhaka	7 Dec 2012	investigate this query
+Bangladesh	won	2 wickets	36	won	2nd		ODI v West Indies	Dhaka	8 Dec 2012	investigate this query
+Bangladesh	lost	18 runs		lost	2nd		T20I v West Indies	Dhaka	10 Dec 2012	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v Sri Lanka	Galle	8 Mar 2013	investigate this query
+Bangladesh	lost	7 wickets		lost	1st		Test v Sri Lanka	Colombo (RPS)	16 Mar 2013	investigate this query
+Bangladesh	lost	8 wickets	32	lost	1st		ODI v Sri Lanka	Hambantota	23 Mar 2013	investigate this query
+Bangladesh	n/r	-		won	2nd		ODI v Sri Lanka	Hambantota	25 Mar 2013	investigate this query
+Bangladesh	won	3 wickets	6	lost	2nd		ODI v Sri Lanka	Pallekele	28 Mar 2013	investigate this query
+Bangladesh	lost	17 runs		won	2nd		T20I v Sri Lanka	Pallekele	31 Mar 2013	investigate this query
+Bangladesh	lost	335 runs		won	2nd		Test v Zimbabwe	Harare	17 Apr 2013	investigate this query
+Bangladesh	won	143 runs		lost	1st		Test v Zimbabwe	Harare	25 Apr 2013	investigate this query
+Bangladesh	won	121 runs		lost	1st		ODI v Zimbabwe	Bulawayo	3 May 2013	investigate this query
+Bangladesh	lost	6 wickets	13	lost	1st		ODI v Zimbabwe	Bulawayo	5 May 2013	investigate this query
+Bangladesh	lost	7 wickets	17	lost	1st		ODI v Zimbabwe	Bulawayo	8 May 2013	investigate this query
+Bangladesh	lost	6 runs		lost	2nd		T20I v Zimbabwe	Bulawayo	11 May 2013	investigate this query
+Bangladesh	won	34 runs		won	1st		T20I v Zimbabwe	Bulawayo	12 May 2013	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v New Zealand	Chittagong	9 Oct 2013	investigate this query
+Bangladesh	draw	-		won	1st		Test v New Zealand	Dhaka	21 Oct 2013	investigate this query
+Bangladesh	won	43 runs		lost	1st		ODI v New Zealand	Dhaka	29 Oct 2013	investigate this query
+Bangladesh	won	40 runs		won	1st		ODI v New Zealand	Dhaka	31 Oct 2013	investigate this query
+Bangladesh	won	4 wickets	4	won	2nd		ODI v New Zealand	Fatullah	3 Nov 2013	investigate this query
+Bangladesh	lost	15 runs		lost	2nd		T20I v New Zealand	Dhaka	6 Nov 2013	investigate this query
+Bangladesh	lost	inns & 248 runs		lost	1st		Test v Sri Lanka	Dhaka	27 Jan 2014	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v Sri Lanka	Chittagong	4 Feb 2014	investigate this query
+Bangladesh	lost	2 runs		won	2nd		T20I v Sri Lanka	Chittagong	12 Feb 2014	investigate this query
+Bangladesh	lost	3 wickets	0	won	1st		T20I v Sri Lanka	Chittagong	14 Feb 2014	investigate this query
+Bangladesh	lost	13 runs		won	2nd		ODI v Sri Lanka	Dhaka	17 Feb 2014	investigate this query
+Bangladesh	lost	61 runs		lost	2nd		ODI v Sri Lanka	Dhaka	20 Feb 2014	investigate this query
+Bangladesh	lost	6 wickets	15	lost	1st		ODI v Sri Lanka	Dhaka	22 Feb 2014	investigate this query
+Bangladesh	lost	6 wickets	6	lost	1st		ODI v India	Fatullah	26 Feb 2014	investigate this query
+Bangladesh	lost	32 runs		won	2nd		ODI v Afghanistan	Fatullah	1 Mar 2014	investigate this query
+Bangladesh	lost	3 wickets	1	won	1st		ODI v Pakistan	Dhaka	4 Mar 2014	investigate this query
+Bangladesh	lost	3 wickets	6	won	1st		ODI v Sri Lanka	Dhaka	6 Mar 2014	investigate this query
+Bangladesh	won	9 wickets	48	won	2nd		T20I v Afghanistan	Dhaka	16 Mar 2014	investigate this query
+Bangladesh	won	8 wickets	27	won	2nd		T20I v Nepal	Chittagong	18 Mar 2014	investigate this query
+Bangladesh	lost	2 wickets	2	lost	1st		T20I v Hong Kong	Chittagong	20 Mar 2014	investigate this query
+Bangladesh	lost	73 runs		won	2nd		T20I v West Indies	Dhaka	25 Mar 2014	investigate this query
+Bangladesh	lost	8 wickets	9	lost	1st		T20I v India	Dhaka	28 Mar 2014	investigate this query
+Bangladesh	lost	50 runs		lost	2nd		T20I v Pakistan	Dhaka	30 Mar 2014	investigate this query
+Bangladesh	lost	7 wickets	15	won	1st		T20I v Australia	Dhaka	1 Apr 2014	investigate this query
+Bangladesh	lost	7 wickets	7	won	1st		ODI v India	Dhaka	15 Jun 2014	investigate this query
+Bangladesh	lost	47 runs		won	2nd		ODI v India	Dhaka	17 Jun 2014	investigate this query
+Bangladesh	n/r	-		lost	2nd		ODI v India	Dhaka	19 Jun 2014	investigate this query
+Bangladesh	lost	3 wickets	62	lost	1st		ODI v West Indies	St George's	20 Aug 2014	investigate this query
+Bangladesh	lost	177 runs		won	2nd		ODI v West Indies	St George's	22 Aug 2014	investigate this query
+Bangladesh	lost	91 runs		lost	2nd		ODI v West Indies	Basseterre	25 Aug 2014	investigate this query
+Bangladesh	n/r	-		won	1st		T20I v West Indies	Basseterre	27 Aug 2014	investigate this query
+Bangladesh	lost	10 wickets		won	2nd		Test v West Indies	Kingstown	5 Sep 2014	investigate this query
+Bangladesh	lost	296 runs		won	2nd		Test v West Indies	Gros Islet	13 Sep 2014	investigate this query
+Bangladesh	won	3 wickets		lost	2nd		Test v Zimbabwe	Dhaka	25 Oct 2014	investigate this query
+Bangladesh	won	162 runs		won	1st		Test v Zimbabwe	Khulna	3 Nov 2014	investigate this query
+Bangladesh	won	186 runs		won	1st		Test v Zimbabwe	Chittagong	12 Nov 2014	investigate this query
+Bangladesh	won	87 runs		lost	1st		ODI v Zimbabwe	Chittagong	21 Nov 2014	investigate this query
+Bangladesh	won	68 runs		won	1st		ODI v Zimbabwe	Chittagong	23 Nov 2014	investigate this query
+Bangladesh	won	124 runs		lost	1st		ODI v Zimbabwe	Dhaka	26 Nov 2014	investigate this query
+Bangladesh	won	21 runs		won	1st		ODI v Zimbabwe	Dhaka	28 Nov 2014	investigate this query
+Bangladesh	won	5 wickets	153	lost	2nd		ODI v Zimbabwe	Dhaka	1 Dec 2014	investigate this query
+Bangladesh	won	105 runs		won	1st		ODI v Afghanistan	Canberra	18 Feb 2015	investigate this query
+Bangladesh	aban	-		-	-		ODI v Australia	Brisbane	21 Feb 2015	investigate this query
+Bangladesh	lost	92 runs		lost	2nd		ODI v Sri Lanka	Melbourne	26 Feb 2015	investigate this query
+Bangladesh	won	6 wickets	11	won	2nd		ODI v Scotland	Nelson	5 Mar 2015	investigate this query
+Bangladesh	won	15 runs		lost	1st		ODI v England	Adelaide	9 Mar 2015	investigate this query
+Bangladesh	lost	3 wickets	7	lost	1st		ODI v New Zealand	Hamilton	13 Mar 2015	investigate this query
+Bangladesh	lost	109 runs		lost	2nd		ODI v India	Melbourne	19 Mar 2015	investigate this query
+Bangladesh	won	79 runs		won	1st		ODI v Pakistan	Dhaka	17 Apr 2015	investigate this query
+Bangladesh	won	7 wickets	71	lost	2nd		ODI v Pakistan	Dhaka	19 Apr 2015	investigate this query
+Bangladesh	won	8 wickets	63	lost	2nd		ODI v Pakistan	Dhaka	22 Apr 2015	investigate this query
+Bangladesh	won	7 wickets	22	lost	2nd		T20I v Pakistan	Dhaka	24 Apr 2015	investigate this query
+Bangladesh	draw	-		won	1st		Test v Pakistan	Khulna	28 Apr 2015	investigate this query
+Bangladesh	lost	328 runs		won	2nd		Test v Pakistan	Dhaka	6 May 2015	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v India	Fatullah	10 Jun 2015	investigate this query
+Bangladesh	won	79 runs		won	1st		ODI v India	Dhaka	18 Jun 2015	investigate this query
+Bangladesh	won	6 wickets	54	lost	2nd		ODI v India	Dhaka	21 Jun 2015	investigate this query
+Bangladesh	lost	77 runs		won	2nd		ODI v India	Dhaka	24 Jun 2015	investigate this query
+Bangladesh	lost	52 runs		lost	2nd		T20I v South Africa	Dhaka	5 Jul 2015	investigate this query
+Bangladesh	lost	31 runs		lost	2nd		T20I v South Africa	Dhaka	7 Jul 2015	investigate this query
+Bangladesh	lost	8 wickets	53	won	1st		ODI v South Africa	Dhaka	10 Jul 2015	investigate this query
+Bangladesh	won	7 wickets	134	lost	2nd		ODI v South Africa	Dhaka	12 Jul 2015	investigate this query
+Bangladesh	won	9 wickets	83	lost	2nd		ODI v South Africa	Chittagong	15 Jul 2015	investigate this query
+Bangladesh	draw	-		lost	2nd		Test v South Africa	Chittagong	21 Jul 2015	investigate this query
+Bangladesh	draw	-		won	1st		Test v South Africa	Dhaka	30 Jul 2015	investigate this query

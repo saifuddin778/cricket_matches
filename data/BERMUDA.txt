@@ -1,0 +1,39 @@
+Bermuda	won	3 wickets	9	won	2nd		ODI v Canada	Port of Spain	17 May 2006	investigate this query
+Bermuda	lost	194 runs		won	2nd		ODI v Zimbabwe	Port of Spain	18 May 2006	investigate this query
+Bermuda	lost	83 runs		lost	2nd		ODI v Zimbabwe	Port of Spain	20 May 2006	investigate this query
+Bermuda	won	6 wickets	60	lost	2nd		ODI v Canada	Toronto	19 Aug 2006	investigate this query
+Bermuda	won	11 runs		won	1st		ODI v Canada	Toronto	21 Aug 2006	investigate this query
+Bermuda	lost	79 runs		lost	2nd		ODI v Kenya	Mombasa	11 Nov 2006	investigate this query
+Bermuda	lost	7 wickets	25	won	1st		ODI v Kenya	Mombasa	12 Nov 2006	investigate this query
+Bermuda	lost	104 runs		lost	2nd		ODI v Kenya	Mombasa	14 Nov 2006	investigate this query
+Bermuda	lost	5 wickets	13	lost	1st		ODI v Canada	Potchefstroom	27 Nov 2006	investigate this query
+Bermuda	lost	8 wickets	73	won	1st		ODI v Netherlands	Potchefstroom	28 Nov 2006	investigate this query
+Bermuda	lost	3 wickets	62	lost	1st		ODI v Canada	Benoni	30 Nov 2006	investigate this query
+Bermuda	won	6 wickets	198	lost	2nd		ODI v Netherlands	Benoni	2 Dec 2006	investigate this query
+Bermuda	lost	10 wickets	191	lost	1st		ODI v Kenya	Nairobi (Jaff)	29 Jan 2007	investigate this query
+Bermuda	lost	4 wickets	8	lost	1st		ODI v Ireland	Nairobi (Jaff)	31 Jan 2007	investigate this query
+Bermuda	lost	56 runs		won	2nd		ODI v Canada	Nairobi (Gym)	2 Feb 2007	investigate this query
+Bermuda	lost	8 wickets	41	lost	1st		ODI v Netherlands	Nairobi (Ruaraka)	4 Feb 2007	investigate this query
+Bermuda	won	5 wickets	6	lost	2nd		ODI v Scotland	Nairobi (Ruaraka)	5 Feb 2007	investigate this query
+Bermuda	lost	8 wickets	75	won	1st		ODI v Bangladesh	St John's	25 Feb 2007	investigate this query
+Bermuda	lost	3 wickets	36	won	1st		ODI v Canada	St John's	26 Feb 2007	investigate this query
+Bermuda	lost	243 runs		lost	2nd		ODI v Sri Lanka	Port of Spain	15 Mar 2007	investigate this query
+Bermuda	lost	257 runs		won	2nd		ODI v India	Port of Spain	19 Mar 2007	investigate this query
+Bermuda	lost	7 wickets	21	lost	1st		ODI v Bangladesh	Port of Spain	25 Mar 2007	investigate this query
+Bermuda	lost	172 runs		won	2nd		ODI v Netherlands	Rotterdam	18 Aug 2007	investigate this query
+Bermuda	lost	8 wickets	183	lost	1st		ODI v Netherlands	Rotterdam	20 Aug 2007	investigate this query
+Bermuda	lost	8 wickets	130	lost	1st		ODI v Kenya	Nairobi (Gym)	25 Oct 2007	investigate this query
+Bermuda	lost	3 wickets	35	won	1st		ODI v Kenya	Nairobi (Gym)	27 Oct 2007	investigate this query
+Bermuda	lost	1 wickets	82	won	1st		ODI v Kenya	Nairobi (Gym)	28 Oct 2007	investigate this query
+Bermuda	won	3 wickets	3	lost	2nd		ODI v Canada	King City (NW)	28 Jun 2008	investigate this query
+Bermuda	won	11 runs		lost	1st		ODI v Canada	King City (NW)	29 Jun 2008	investigate this query
+Bermuda	lost	77 runs		won	2nd		ODI v Canada	King City (NW)	1 Jul 2008	investigate this query
+Bermuda	lost	8 wickets	14	lost	1st		T20I v Scotland	Belfast	3 Aug 2008	investigate this query
+Bermuda	lost	4 runs		lost	2nd		T20I v Ireland	Belfast	3 Aug 2008	investigate this query
+Bermuda	lost	8 wickets	57	lost	1st		T20I v Canada	Belfast	5 Aug 2008	investigate this query
+Bermuda	aban	-		-	-		ODI v Netherlands	Amstelveen	7 Aug 2008	investigate this query
+Bermuda	lost	6 wickets	23	lost	1st		ODI v Netherlands	Amstelveen	8 Aug 2008	investigate this query
+Bermuda	lost	25 runs		won	2nd		ODI v Canada	King City (NW)	18 Aug 2008	investigate this query
+Bermuda	lost	6 wickets	109	lost	1st		ODI v West Indies	King City (NW)	20 Aug 2008	investigate this query
+Bermuda	lost	7 wickets	30	lost	1st		ODI v Kenya	Potchefstroom	6 Apr 2009	investigate this query
+Bermuda	lost	63 runs		won	2nd		ODI v Netherlands	Potchefstroom	8 Apr 2009	investigate this query

@@ -1,0 +1,1724 @@
+England	lost	45 runs		lost	2nd		Test v Australia	Melbourne	15 Mar 1877	investigate this query
+England	won	4 wickets		lost	2nd		Test v Australia	Melbourne	31 Mar 1877	investigate this query
+England	lost	10 wickets		won	1st		Test v Australia	Melbourne	2 Jan 1879	investigate this query
+England	won	5 wickets		won	1st		Test v Australia	The Oval	6 Sep 1880	investigate this query
+England	draw	-		won	1st		Test v Australia	Melbourne	31 Dec 1881	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	Sydney	17 Feb 1882	investigate this query
+England	lost	6 wickets		won	1st		Test v Australia	Sydney	3 Mar 1882	investigate this query
+England	draw	-		won	1st		Test v Australia	Melbourne	10 Mar 1882	investigate this query
+England	lost	7 runs		lost	2nd		Test v Australia	The Oval	28 Aug 1882	investigate this query
+England	lost	9 wickets		lost	2nd		Test v Australia	Melbourne	30 Dec 1882	investigate this query
+England	won	inns & 27 runs		won	1st		Test v Australia	Melbourne	19 Jan 1883	investigate this query
+England	won	69 runs		won	1st		Test v Australia	Sydney	26 Jan 1883	investigate this query
+England	lost	4 wickets		won	1st		Test v Australia	Sydney	17 Feb 1883	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	10 Jul 1884	investigate this query
+England	won	inns & 5 runs		lost	2nd		Test v Australia	Lord's	21 Jul 1884	investigate this query
+England	draw	-		lost	2nd		Test v Australia	The Oval	11 Aug 1884	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Adelaide	12 Dec 1884	investigate this query
+England	won	10 wickets		won	1st		Test v Australia	Melbourne	1 Jan 1885	investigate this query
+England	lost	6 runs		lost	2nd		Test v Australia	Sydney	20 Feb 1885	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Sydney	14 Mar 1885	investigate this query
+England	won	inns & 98 runs		lost	2nd		Test v Australia	Melbourne	21 Mar 1885	investigate this query
+England	won	4 wickets		lost	2nd		Test v Australia	Manchester	5 Jul 1886	investigate this query
+England	won	inns & 106 runs		won	1st		Test v Australia	Lord's	19 Jul 1886	investigate this query
+England	won	inns & 217 runs		won	1st		Test v Australia	The Oval	12 Aug 1886	investigate this query
+England	won	13 runs		lost	1st		Test v Australia	Sydney	28 Jan 1887	investigate this query
+England	won	71 runs		won	1st		Test v Australia	Sydney	25 Feb 1887	investigate this query
+England	won	126 runs		lost	1st		Test v Australia	Sydney	10 Feb 1888	investigate this query
+England	lost	61 runs		lost	2nd		Test v Australia	Lord's	16 Jul 1888	investigate this query
+England	won	inns & 137 runs		lost	2nd		Test v Australia	The Oval	13 Aug 1888	investigate this query
+England	won	inns & 21 runs		won	1st		Test v Australia	Manchester	30 Aug 1888	investigate this query
+England	won	8 wickets		lost	2nd		Test v South Africa	Port Elizabeth	12 Mar 1889	investigate this query
+England	won	inns & 202 runs		won	1st		Test v South Africa	Cape Town	25 Mar 1889	investigate this query
+England	won	7 wickets		lost	2nd		Test v Australia	Lord's	21 Jul 1890	investigate this query
+England	won	2 wickets		lost	2nd		Test v Australia	The Oval	11 Aug 1890	investigate this query
+England	aban	-		-	-		Test v Australia	Manchester	25 Aug 1890	investigate this query
+England	lost	54 runs		lost	2nd		Test v Australia	Melbourne	1 Jan 1892	investigate this query
+England	lost	72 runs		lost	2nd		Test v Australia	Sydney	29 Jan 1892	investigate this query
+England	won	inns & 189 runs		lost	2nd		Test v South Africa	Cape Town	19 Mar 1892	investigate this query
+England	won	inns & 230 runs		won	1st		Test v Australia	Adelaide	24 Mar 1892	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	17 Jul 1893	investigate this query
+England	won	inns & 43 runs		won	1st		Test v Australia	The Oval	14 Aug 1893	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	24 Aug 1893	investigate this query
+England	won	10 runs		lost	2nd		Test v Australia	Sydney	14 Dec 1894	investigate this query
+England	won	94 runs		lost	1st		Test v Australia	Melbourne	29 Dec 1894	investigate this query
+England	lost	382 runs		lost	2nd		Test v Australia	Adelaide	11 Jan 1895	investigate this query
+England	lost	inns & 147 runs		won	2nd		Test v Australia	Sydney	1 Feb 1895	investigate this query
+England	won	6 wickets		lost	2nd		Test v Australia	Melbourne	1 Mar 1895	investigate this query
+England	won	288 runs		lost	1st		Test v South Africa	Port Elizabeth	13 Feb 1896	investigate this query
+England	won	inns & 197 runs		won	1st		Test v South Africa	Johannesburg	2 Mar 1896	investigate this query
+England	won	inns & 33 runs		won	2nd		Test v South Africa	Cape Town	21 Mar 1896	investigate this query
+England	won	6 wickets		lost	2nd		Test v Australia	Lord's	22 Jun 1896	investigate this query
+England	lost	3 wickets		lost	2nd		Test v Australia	Manchester	16 Jul 1896	investigate this query
+England	won	66 runs		won	1st		Test v Australia	The Oval	10 Aug 1896	investigate this query
+England	won	9 wickets		won	1st		Test v Australia	Sydney	13 Dec 1897	investigate this query
+England	lost	inns & 55 runs		lost	2nd		Test v Australia	Melbourne	1 Jan 1898	investigate this query
+England	lost	inns & 13 runs		lost	2nd		Test v Australia	Adelaide	14 Jan 1898	investigate this query
+England	lost	8 wickets		lost	2nd		Test v Australia	Melbourne	29 Jan 1898	investigate this query
+England	lost	6 wickets		won	1st		Test v Australia	Sydney	26 Feb 1898	investigate this query
+England	won	32 runs		won	1st		Test v South Africa	Johannesburg	14 Feb 1899	investigate this query
+England	won	210 runs		won	1st		Test v South Africa	Cape Town	1 Apr 1899	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Nottingham	1 Jun 1899	investigate this query
+England	lost	10 wickets		won	1st		Test v Australia	Lord's	15 Jun 1899	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Leeds	29 Jun 1899	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	17 Jul 1899	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	14 Aug 1899	investigate this query
+England	won	inns & 124 runs		won	1st		Test v Australia	Sydney	13 Dec 1901	investigate this query
+England	lost	229 runs		won	2nd		Test v Australia	Melbourne	1 Jan 1902	investigate this query
+England	lost	4 wickets		won	1st		Test v Australia	Adelaide	17 Jan 1902	investigate this query
+England	lost	7 wickets		won	1st		Test v Australia	Sydney	14 Feb 1902	investigate this query
+England	lost	32 runs		lost	2nd		Test v Australia	Melbourne	28 Feb 1902	investigate this query
+England	draw	-		won	1st		Test v Australia	Birmingham	29 May 1902	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	12 Jun 1902	investigate this query
+England	lost	143 runs		lost	2nd		Test v Australia	Sheffield	3 Jul 1902	investigate this query
+England	lost	3 runs		lost	2nd		Test v Australia	Manchester	24 Jul 1902	investigate this query
+England	won	1 wickets		lost	2nd		Test v Australia	The Oval	11 Aug 1902	investigate this query
+England	won	5 wickets		lost	2nd		Test v Australia	Sydney	11 Dec 1903	investigate this query
+England	won	185 runs		won	1st		Test v Australia	Melbourne	1 Jan 1904	investigate this query
+England	lost	216 runs		lost	2nd		Test v Australia	Adelaide	15 Jan 1904	investigate this query
+England	won	157 runs		won	1st		Test v Australia	Sydney	26 Feb 1904	investigate this query
+England	lost	218 runs		lost	2nd		Test v Australia	Melbourne	5 Mar 1904	investigate this query
+England	won	213 runs		won	1st		Test v Australia	Nottingham	29 May 1905	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	15 Jun 1905	investigate this query
+England	draw	-		won	1st		Test v Australia	Leeds	3 Jul 1905	investigate this query
+England	won	inns & 80 runs		won	1st		Test v Australia	Manchester	24 Jul 1905	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	14 Aug 1905	investigate this query
+England	lost	1 wickets		won	1st		Test v South Africa	Johannesburg	2 Jan 1906	investigate this query
+England	lost	9 wickets		won	1st		Test v South Africa	Johannesburg	6 Mar 1906	investigate this query
+England	lost	243 runs		lost	2nd		Test v South Africa	Johannesburg	10 Mar 1906	investigate this query
+England	won	4 wickets		lost	2nd		Test v South Africa	Cape Town	24 Mar 1906	investigate this query
+England	lost	inns & 16 runs		won	1st		Test v South Africa	Cape Town	30 Mar 1906	investigate this query
+England	draw	-		won	1st		Test v South Africa	Lord's	1 Jul 1907	investigate this query
+England	won	53 runs		won	1st		Test v South Africa	Leeds	29 Jul 1907	investigate this query
+England	draw	-		won	1st		Test v South Africa	The Oval	19 Aug 1907	investigate this query
+England	lost	2 wickets		won	1st		Test v Australia	Sydney	13 Dec 1907	investigate this query
+England	won	1 wickets		lost	2nd		Test v Australia	Melbourne	1 Jan 1908	investigate this query
+England	lost	245 runs		lost	2nd		Test v Australia	Adelaide	10 Jan 1908	investigate this query
+England	lost	308 runs		lost	2nd		Test v Australia	Melbourne	7 Feb 1908	investigate this query
+England	lost	49 runs		won	2nd		Test v Australia	Sydney	21 Feb 1908	investigate this query
+England	won	10 wickets		lost	2nd		Test v Australia	Birmingham	27 May 1909	investigate this query
+England	lost	9 wickets		lost	1st		Test v Australia	Lord's	14 Jun 1909	investigate this query
+England	lost	126 runs		lost	2nd		Test v Australia	Leeds	1 Jul 1909	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	26 Jul 1909	investigate this query
+England	draw	-		lost	2nd		Test v Australia	The Oval	9 Aug 1909	investigate this query
+England	lost	19 runs		lost	2nd		Test v South Africa	Johannesburg	1 Jan 1910	investigate this query
+England	lost	95 runs		lost	2nd		Test v South Africa	Durban	21 Jan 1910	investigate this query
+England	won	3 wickets		lost	2nd		Test v South Africa	Johannesburg	26 Feb 1910	investigate this query
+England	lost	4 wickets		won	1st		Test v South Africa	Cape Town	7 Mar 1910	investigate this query
+England	won	9 wickets		won	1st		Test v South Africa	Cape Town	11 Mar 1910	investigate this query
+England	lost	146 runs		lost	2nd		Test v Australia	Sydney	15 Dec 1911	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Melbourne	30 Dec 1911	investigate this query
+England	won	7 wickets		lost	2nd		Test v Australia	Adelaide	12 Jan 1912	investigate this query
+England	won	inns & 225 runs		won	2nd		Test v Australia	Melbourne	9 Feb 1912	investigate this query
+England	won	70 runs		won	1st		Test v Australia	Sydney	23 Feb 1912	investigate this query
+England	won	inns & 62 runs		lost	2nd		Test v South Africa	Lord's	10 Jun 1912	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	24 Jun 1912	investigate this query
+England	won	174 runs		won	1st		Test v South Africa	Leeds	8 Jul 1912	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	29 Jul 1912	investigate this query
+England	won	10 wickets		lost	2nd		Test v South Africa	The Oval	12 Aug 1912	investigate this query
+England	won	244 runs		won	1st		Test v Australia	The Oval	19 Aug 1912	investigate this query
+England	won	inns & 157 runs		lost	2nd		Test v South Africa	Durban	13 Dec 1913	investigate this query
+England	won	inns & 12 runs		lost	2nd		Test v South Africa	Johannesburg	26 Dec 1913	investigate this query
+England	won	91 runs		won	1st		Test v South Africa	Johannesburg	1 Jan 1914	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Durban	14 Feb 1914	investigate this query
+England	won	10 wickets		lost	2nd		Test v South Africa	Port Elizabeth	27 Feb 1914	investigate this query
+England	lost	377 runs		lost	2nd		Test v Australia	Sydney	17 Dec 1920	investigate this query
+England	lost	inns & 91 runs		lost	2nd		Test v Australia	Melbourne	31 Dec 1920	investigate this query
+England	lost	119 runs		lost	2nd		Test v Australia	Adelaide	14 Jan 1921	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Melbourne	11 Feb 1921	investigate this query
+England	lost	9 wickets		won	1st		Test v Australia	Sydney	25 Feb 1921	investigate this query
+England	lost	10 wickets		won	1st		Test v Australia	Nottingham	28 May 1921	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Lord's	11 Jun 1921	investigate this query
+England	lost	219 runs		lost	2nd		Test v Australia	Leeds	2 Jul 1921	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	23 Jul 1921	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	13 Aug 1921	investigate this query
+England	lost	168 runs		lost	2nd		Test v South Africa	Johannesburg	23 Dec 1922	investigate this query
+England	won	1 wickets		lost	2nd		Test v South Africa	Cape Town	1 Jan 1923	investigate this query
+England	draw	-		won	1st		Test v South Africa	Durban	18 Jan 1923	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	9 Feb 1923	investigate this query
+England	won	109 runs		won	1st		Test v South Africa	Durban	16 Feb 1923	investigate this query
+England	won	inns & 18 runs		lost	1st		Test v South Africa	Birmingham	14 Jun 1924	investigate this query
+England	won	inns & 18 runs		lost	2nd		Test v South Africa	Lord's	28 Jun 1924	investigate this query
+England	won	9 wickets		won	1st		Test v South Africa	Leeds	12 Jul 1924	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Manchester	26 Jul 1924	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	The Oval	16 Aug 1924	investigate this query
+England	lost	193 runs		lost	2nd		Test v Australia	Sydney	19 Dec 1924	investigate this query
+England	lost	81 runs		lost	2nd		Test v Australia	Melbourne	1 Jan 1925	investigate this query
+England	lost	11 runs		lost	2nd		Test v Australia	Adelaide	16 Jan 1925	investigate this query
+England	won	inns & 29 runs		won	1st		Test v Australia	Melbourne	13 Feb 1925	investigate this query
+England	lost	307 runs		lost	2nd		Test v Australia	Sydney	27 Feb 1925	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	12 Jun 1926	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Lord's	26 Jun 1926	investigate this query
+England	draw	-		won	2nd		Test v Australia	Leeds	10 Jul 1926	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	24 Jul 1926	investigate this query
+England	won	289 runs		won	1st		Test v Australia	The Oval	14 Aug 1926	investigate this query
+England	won	10 wickets		lost	2nd		Test v South Africa	Johannesburg	24 Dec 1927	investigate this query
+England	won	87 runs		lost	1st		Test v South Africa	Cape Town	31 Dec 1927	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Durban	21 Jan 1928	investigate this query
+England	lost	4 wickets		lost	1st		Test v South Africa	Johannesburg	28 Jan 1928	investigate this query
+England	lost	8 wickets		lost	1st		Test v South Africa	Durban	4 Feb 1928	investigate this query
+England	won	inns & 58 runs		won	1st		Test v West Indies	Lord's	23 Jun 1928	investigate this query
+England	won	inns & 30 runs		lost	2nd		Test v West Indies	Manchester	21 Jul 1928	investigate this query
+England	won	inns & 71 runs		lost	2nd		Test v West Indies	The Oval	11 Aug 1928	investigate this query
+England	won	675 runs		won	1st		Test v Australia	Brisbane	30 Nov 1928	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Sydney	14 Dec 1928	investigate this query
+England	won	3 wickets		lost	2nd		Test v Australia	Melbourne	29 Dec 1928	investigate this query
+England	won	12 runs		won	1st		Test v Australia	Adelaide	1 Feb 1929	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	Melbourne	8 Mar 1929	investigate this query
+England	draw	-		won	1st		Test v South Africa	Birmingham	15 Jun 1929	investigate this query
+England	draw	-		won	1st		Test v South Africa	Lord's	29 Jun 1929	investigate this query
+England	won	5 wickets		lost	2nd		Test v South Africa	Leeds	13 Jul 1929	investigate this query
+England	won	inns & 32 runs		won	1st		Test v South Africa	Manchester	27 Jul 1929	investigate this query
+England	draw	-		lost	1st		Test v South Africa	The Oval	17 Aug 1929	investigate this query
+England	won	8 wickets		lost	2nd		Test v New Zealand	Christchurch	10 Jan 1930	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Bridgetown	11 Jan 1930	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Wellington	24 Jan 1930	investigate this query
+England	won	167 runs		won	1st		Test v West Indies	Port of Spain	1 Feb 1930	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Auckland	14 Feb 1930	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Auckland	21 Feb 1930	investigate this query
+England	lost	289 runs		lost	2nd		Test v West Indies	Georgetown	21 Feb 1930	investigate this query
+England	draw	-		won	1st		Test v West Indies	Kingston	3 Apr 1930	investigate this query
+England	won	93 runs		won	1st		Test v Australia	Nottingham	13 Jun 1930	investigate this query
+England	lost	7 wickets		won	1st		Test v Australia	Lord's	27 Jun 1930	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Leeds	11 Jul 1930	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	25 Jul 1930	investigate this query
+England	lost	inns & 39 runs		won	1st		Test v Australia	The Oval	16 Aug 1930	investigate this query
+England	lost	28 runs		won	2nd		Test v South Africa	Johannesburg	24 Dec 1930	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Cape Town	1 Jan 1931	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Durban	16 Jan 1931	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	13 Feb 1931	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Durban	21 Feb 1931	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Lord's	27 Jun 1931	investigate this query
+England	won	inns & 26 runs		won	1st		Test v New Zealand	The Oval	29 Jul 1931	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Manchester	15 Aug 1931	investigate this query
+England	won	158 runs		won	1st		Test v India	Lord's	25 Jun 1932	investigate this query
+England	won	10 wickets		lost	2nd		Test v Australia	Sydney	2 Dec 1932	investigate this query
+England	lost	111 runs		lost	2nd		Test v Australia	Melbourne	30 Dec 1932	investigate this query
+England	won	338 runs		won	1st		Test v Australia	Adelaide	13 Jan 1933	investigate this query
+England	won	6 wickets		lost	2nd		Test v Australia	Brisbane	10 Feb 1933	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Sydney	23 Feb 1933	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Christchurch	24 Mar 1933	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Auckland	31 Mar 1933	investigate this query
+England	won	inns & 27 runs		won	1st		Test v West Indies	Lord's	24 Jun 1933	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Manchester	22 Jul 1933	investigate this query
+England	won	inns & 17 runs		won	1st		Test v West Indies	The Oval	12 Aug 1933	investigate this query
+England	won	9 wickets		lost	2nd		Test v India	Mumbai	15 Dec 1933	investigate this query
+England	draw	-		won	1st		Test v India	Kolkata	5 Jan 1934	investigate this query
+England	won	202 runs		won	1st		Test v India	Chennai	10 Feb 1934	investigate this query
+England	lost	238 runs		lost	2nd		Test v Australia	Nottingham	8 Jun 1934	investigate this query
+England	won	inns & 38 runs		won	1st		Test v Australia	Lord's	22 Jun 1934	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	6 Jul 1934	investigate this query
+England	draw	-		won	1st		Test v Australia	Leeds	20 Jul 1934	investigate this query
+England	lost	562 runs		lost	2nd		Test v Australia	The Oval	18 Aug 1934	investigate this query
+England	won	4 wickets		won	2nd		Test v West Indies	Bridgetown	8 Jan 1935	investigate this query
+England	lost	217 runs		won	2nd		Test v West Indies	Port of Spain	24 Jan 1935	investigate this query
+England	draw	-		won	1st		Test v West Indies	Georgetown	14 Feb 1935	investigate this query
+England	lost	inns & 161 runs		lost	2nd		Test v West Indies	Kingston	14 Mar 1935	investigate this query
+England	draw	-		won	1st		Test v South Africa	Nottingham	15 Jun 1935	investigate this query
+England	lost	157 runs		lost	2nd		Test v South Africa	Lord's	29 Jun 1935	investigate this query
+England	draw	-		won	1st		Test v South Africa	Leeds	13 Jul 1935	investigate this query
+England	draw	-		won	1st		Test v South Africa	Manchester	27 Jul 1935	investigate this query
+England	draw	-		won	2nd		Test v South Africa	The Oval	17 Aug 1935	investigate this query
+England	won	9 wickets		won	2nd		Test v India	Lord's	27 Jun 1936	investigate this query
+England	draw	-		lost	2nd		Test v India	Manchester	25 Jul 1936	investigate this query
+England	won	9 wickets		won	1st		Test v India	The Oval	15 Aug 1936	investigate this query
+England	won	322 runs		won	1st		Test v Australia	Brisbane	4 Dec 1936	investigate this query
+England	won	inns & 22 runs		won	1st		Test v Australia	Sydney	18 Dec 1936	investigate this query
+England	lost	365 runs		lost	2nd		Test v Australia	Melbourne	1 Jan 1937	investigate this query
+England	lost	148 runs		lost	2nd		Test v Australia	Adelaide	29 Jan 1937	investigate this query
+England	lost	inns & 200 runs		lost	2nd		Test v Australia	Melbourne	26 Feb 1937	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Lord's	26 Jun 1937	investigate this query
+England	won	130 runs		won	1st		Test v New Zealand	Manchester	24 Jul 1937	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	The Oval	14 Aug 1937	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	10 Jun 1938	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	24 Jun 1938	investigate this query
+England	aban	-		-	-		Test v Australia	Manchester	8 Jul 1938	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	Leeds	22 Jul 1938	investigate this query
+England	won	inns & 579 runs		won	1st		Test v Australia	The Oval	20 Aug 1938	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	24 Dec 1938	investigate this query
+England	draw	-		won	1st		Test v South Africa	Cape Town	31 Dec 1938	investigate this query
+England	won	inns & 13 runs		won	1st		Test v South Africa	Durban	20 Jan 1939	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	18 Feb 1939	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Durban	3 Mar 1939	investigate this query
+England	won	8 wickets		lost	2nd		Test v West Indies	Lord's	24 Jun 1939	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Manchester	22 Jul 1939	investigate this query
+England	draw	-		won	1st		Test v West Indies	The Oval	19 Aug 1939	investigate this query
+England	won	10 wickets		lost	2nd		Test v India	Lord's	22 Jun 1946	investigate this query
+England	draw	-		lost	1st		Test v India	Manchester	20 Jul 1946	investigate this query
+England	draw	-		lost	2nd		Test v India	The Oval	17 Aug 1946	investigate this query
+England	lost	inns & 332 runs		lost	2nd		Test v Australia	Brisbane	29 Nov 1946	investigate this query
+England	lost	inns & 33 runs		won	1st		Test v Australia	Sydney	13 Dec 1946	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Melbourne	1 Jan 1947	investigate this query
+England	draw	-		won	1st		Test v Australia	Adelaide	31 Jan 1947	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	Sydney	28 Feb 1947	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Christchurch	21 Mar 1947	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Nottingham	7 Jun 1947	investigate this query
+England	won	10 wickets		won	1st		Test v South Africa	Lord's	21 Jun 1947	investigate this query
+England	won	7 wickets		lost	2nd		Test v South Africa	Manchester	5 Jul 1947	investigate this query
+England	won	10 wickets		lost	2nd		Test v South Africa	Leeds	26 Jul 1947	investigate this query
+England	draw	-		won	1st		Test v South Africa	The Oval	16 Aug 1947	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Bridgetown	21 Jan 1948	investigate this query
+England	draw	-		won	1st		Test v West Indies	Port of Spain	11 Feb 1948	investigate this query
+England	lost	7 wickets		lost	2nd		Test v West Indies	Georgetown	3 Mar 1948	investigate this query
+England	lost	10 wickets		won	1st		Test v West Indies	Kingston	27 Mar 1948	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Nottingham	10 Jun 1948	investigate this query
+England	lost	409 runs		lost	2nd		Test v Australia	Lord's	24 Jun 1948	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	8 Jul 1948	investigate this query
+England	lost	7 wickets		won	1st		Test v Australia	Leeds	22 Jul 1948	investigate this query
+England	lost	inns & 149 runs		won	1st		Test v Australia	The Oval	14 Aug 1948	investigate this query
+England	won	2 wickets		lost	2nd		Test v South Africa	Durban	16 Dec 1948	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	27 Dec 1948	investigate this query
+England	draw	-		won	1st		Test v South Africa	Cape Town	1 Jan 1949	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	12 Feb 1949	investigate this query
+England	won	3 wickets		lost	2nd		Test v South Africa	Port Elizabeth	5 Mar 1949	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Leeds	11 Jun 1949	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Lord's	25 Jun 1949	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Manchester	23 Jul 1949	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	The Oval	13 Aug 1949	investigate this query
+England	won	202 runs		won	1st		Test v West Indies	Manchester	8 Jun 1950	investigate this query
+England	lost	326 runs		lost	2nd		Test v West Indies	Lord's	24 Jun 1950	investigate this query
+England	lost	10 wickets		won	1st		Test v West Indies	Nottingham	20 Jul 1950	investigate this query
+England	lost	inns & 56 runs		lost	2nd		Test v West Indies	The Oval	12 Aug 1950	investigate this query
+England	lost	70 runs		lost	2nd		Test v Australia	Brisbane	1 Dec 1950	investigate this query
+England	lost	28 runs		lost	2nd		Test v Australia	Melbourne	22 Dec 1950	investigate this query
+England	lost	inns & 13 runs		won	1st		Test v Australia	Sydney	5 Jan 1951	investigate this query
+England	lost	274 runs		lost	2nd		Test v Australia	Adelaide	2 Feb 1951	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Melbourne	23 Feb 1951	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Christchurch	17 Mar 1951	investigate this query
+England	won	6 wickets		lost	2nd		Test v New Zealand	Wellington	24 Mar 1951	investigate this query
+England	lost	71 runs		lost	2nd		Test v South Africa	Nottingham	7 Jun 1951	investigate this query
+England	won	10 wickets		won	1st		Test v South Africa	Lord's	21 Jun 1951	investigate this query
+England	won	9 wickets		lost	2nd		Test v South Africa	Manchester	5 Jul 1951	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Leeds	26 Jul 1951	investigate this query
+England	won	4 wickets		lost	2nd		Test v South Africa	The Oval	16 Aug 1951	investigate this query
+England	draw	-		won	1st		Test v India	Delhi	2 Nov 1951	investigate this query
+England	draw	-		lost	2nd		Test v India	Mumbai (BS)	14 Dec 1951	investigate this query
+England	draw	-		won	1st		Test v India	Kolkata	30 Dec 1951	investigate this query
+England	won	8 wickets		lost	2nd		Test v India	Kanpur	12 Jan 1952	investigate this query
+England	lost	inns & 8 runs		won	1st		Test v India	Chennai	6 Feb 1952	investigate this query
+England	won	7 wickets		lost	2nd		Test v India	Leeds	5 Jun 1952	investigate this query
+England	won	8 wickets		lost	2nd		Test v India	Lord's	19 Jun 1952	investigate this query
+England	won	inns & 207 runs		won	1st		Test v India	Manchester	17 Jul 1952	investigate this query
+England	draw	-		won	1st		Test v India	The Oval	14 Aug 1952	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Nottingham	11 Jun 1953	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Lord's	25 Jun 1953	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	9 Jul 1953	investigate this query
+England	draw	-		lost	1st		Test v Australia	Leeds	23 Jul 1953	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	The Oval	15 Aug 1953	investigate this query
+England	lost	140 runs		lost	2nd		Test v West Indies	Kingston	15 Jan 1954	investigate this query
+England	lost	181 runs		lost	2nd		Test v West Indies	Bridgetown	6 Feb 1954	investigate this query
+England	won	9 wickets		won	1st		Test v West Indies	Georgetown	24 Feb 1954	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Port of Spain	17 Mar 1954	investigate this query
+England	won	9 wickets		lost	2nd		Test v West Indies	Kingston	30 Mar 1954	investigate this query
+England	draw	-		won	2nd		Test v Pakistan	Lord's	10 Jun 1954	investigate this query
+England	won	inns & 129 runs		lost	2nd		Test v Pakistan	Nottingham	1 Jul 1954	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Manchester	22 Jul 1954	investigate this query
+England	lost	24 runs		lost	2nd		Test v Pakistan	The Oval	12 Aug 1954	investigate this query
+England	lost	inns & 154 runs		won	2nd		Test v Australia	Brisbane	26 Nov 1954	investigate this query
+England	won	38 runs		lost	1st		Test v Australia	Sydney	17 Dec 1954	investigate this query
+England	won	128 runs		won	1st		Test v Australia	Melbourne	31 Dec 1954	investigate this query
+England	won	5 wickets		lost	2nd		Test v Australia	Adelaide	28 Jan 1955	investigate this query
+England	draw	-		lost	1st		Test v Australia	Sydney	25 Feb 1955	investigate this query
+England	won	8 wickets		won	2nd		Test v New Zealand	Dunedin	11 Mar 1955	investigate this query
+England	won	inns & 20 runs		lost	2nd		Test v New Zealand	Auckland	25 Mar 1955	investigate this query
+England	won	inns & 5 runs		won	1st		Test v South Africa	Nottingham	9 Jun 1955	investigate this query
+England	won	71 runs		won	1st		Test v South Africa	Lord's	23 Jun 1955	investigate this query
+England	lost	3 wickets		won	1st		Test v South Africa	Manchester	7 Jul 1955	investigate this query
+England	lost	224 runs		lost	2nd		Test v South Africa	Leeds	21 Jul 1955	investigate this query
+England	won	92 runs		won	1st		Test v South Africa	The Oval	13 Aug 1955	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	7 Jun 1956	investigate this query
+England	lost	185 runs		lost	2nd		Test v Australia	Lord's	21 Jun 1956	investigate this query
+England	won	inns & 42 runs		won	1st		Test v Australia	Leeds	12 Jul 1956	investigate this query
+England	won	inns & 170 runs		won	1st		Test v Australia	Manchester	26 Jul 1956	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	23 Aug 1956	investigate this query
+England	won	131 runs		won	1st		Test v South Africa	Johannesburg	24 Dec 1956	investigate this query
+England	won	312 runs		won	1st		Test v South Africa	Cape Town	1 Jan 1957	investigate this query
+England	draw	-		won	1st		Test v South Africa	Durban	25 Jan 1957	investigate this query
+England	lost	17 runs		lost	2nd		Test v South Africa	Johannesburg	15 Feb 1957	investigate this query
+England	lost	58 runs		lost	2nd		Test v South Africa	Port Elizabeth	1 Mar 1957	investigate this query
+England	draw	-		won	1st		Test v West Indies	Birmingham	30 May 1957	investigate this query
+England	won	inns & 36 runs		lost	2nd		Test v West Indies	Lord's	20 Jun 1957	investigate this query
+England	draw	-		won	1st		Test v West Indies	Nottingham	4 Jul 1957	investigate this query
+England	won	inns & 5 runs		lost	2nd		Test v West Indies	Leeds	25 Jul 1957	investigate this query
+England	won	inns & 237 runs		won	1st		Test v West Indies	The Oval	22 Aug 1957	investigate this query
+England	won	205 runs		won	1st		Test v New Zealand	Birmingham	5 Jun 1958	investigate this query
+England	won	inns & 148 runs		won	1st		Test v New Zealand	Lord's	19 Jun 1958	investigate this query
+England	won	inns & 71 runs		lost	2nd		Test v New Zealand	Leeds	3 Jul 1958	investigate this query
+England	won	inns & 13 runs		lost	2nd		Test v New Zealand	Manchester	24 Jul 1958	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	The Oval	21 Aug 1958	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Brisbane	5 Dec 1958	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Melbourne	31 Dec 1958	investigate this query
+England	draw	-		won	1st		Test v Australia	Sydney	9 Jan 1959	investigate this query
+England	lost	10 wickets		won	2nd		Test v Australia	Adelaide	30 Jan 1959	investigate this query
+England	lost	9 wickets		lost	1st		Test v Australia	Melbourne	13 Feb 1959	investigate this query
+England	won	inns & 99 runs		won	1st		Test v New Zealand	Christchurch	27 Feb 1959	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Auckland	14 Mar 1959	investigate this query
+England	won	inns & 59 runs		won	1st		Test v India	Nottingham	4 Jun 1959	investigate this query
+England	won	8 wickets		lost	2nd		Test v India	Lord's	18 Jun 1959	investigate this query
+England	won	inns & 173 runs		lost	2nd		Test v India	Leeds	2 Jul 1959	investigate this query
+England	won	171 runs		won	1st		Test v India	Manchester	23 Jul 1959	investigate this query
+England	won	inns & 27 runs		lost	2nd		Test v India	The Oval	20 Aug 1959	investigate this query
+England	draw	-		won	1st		Test v West Indies	Bridgetown	6 Jan 1960	investigate this query
+England	won	256 runs		won	1st		Test v West Indies	Port of Spain	28 Jan 1960	investigate this query
+England	draw	-		won	1st		Test v West Indies	Kingston	17 Feb 1960	investigate this query
+England	draw	-		won	1st		Test v West Indies	Georgetown	9 Mar 1960	investigate this query
+England	draw	-		won	1st		Test v West Indies	Port of Spain	25 Mar 1960	investigate this query
+England	won	100 runs		won	1st		Test v South Africa	Birmingham	9 Jun 1960	investigate this query
+England	won	inns & 73 runs		won	1st		Test v South Africa	Lord's	23 Jun 1960	investigate this query
+England	won	8 wickets		won	1st		Test v South Africa	Nottingham	7 Jul 1960	investigate this query
+England	draw	-		won	1st		Test v South Africa	Manchester	21 Jul 1960	investigate this query
+England	draw	-		won	1st		Test v South Africa	The Oval	18 Aug 1960	investigate this query
+England	draw	-		won	1st		Test v Australia	Birmingham	8 Jun 1961	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	Lord's	22 Jun 1961	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Leeds	6 Jul 1961	investigate this query
+England	lost	54 runs		lost	2nd		Test v Australia	Manchester	27 Jul 1961	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	17 Aug 1961	investigate this query
+England	won	5 wickets		lost	2nd		Test v Pakistan	Lahore	21 Oct 1961	investigate this query
+England	draw	-		won	1st		Test v India	Mumbai (BS)	11 Nov 1961	investigate this query
+England	draw	-		lost	2nd		Test v India	Kanpur	1 Dec 1961	investigate this query
+England	draw	-		lost	2nd		Test v India	Delhi	13 Dec 1961	investigate this query
+England	lost	187 runs		lost	2nd		Test v India	Kolkata	30 Dec 1961	investigate this query
+England	lost	128 runs		lost	2nd		Test v India	Chennai	10 Jan 1962	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Dhaka	19 Jan 1962	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Karachi	2 Feb 1962	investigate this query
+England	won	inns & 24 runs		won	1st		Test v Pakistan	Birmingham	31 May 1962	investigate this query
+England	won	9 wickets		lost	2nd		Test v Pakistan	Lord's	21 Jun 1962	investigate this query
+England	won	inns & 117 runs		lost	1st		Test v Pakistan	Leeds	5 Jul 1962	investigate this query
+England	draw	-		lost	1st		Test v Pakistan	Nottingham	26 Jul 1962	investigate this query
+England	won	10 wickets		won	1st		Test v Pakistan	The Oval	16 Aug 1962	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Brisbane	30 Nov 1962	investigate this query
+England	won	7 wickets		lost	2nd		Test v Australia	Melbourne	29 Dec 1962	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Sydney	11 Jan 1963	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Adelaide	25 Jan 1963	investigate this query
+England	draw	-		won	1st		Test v Australia	Sydney	15 Feb 1963	investigate this query
+England	won	inns & 215 runs		won	1st		Test v New Zealand	Auckland	23 Feb 1963	investigate this query
+England	won	inns & 47 runs		won	2nd		Test v New Zealand	Wellington	1 Mar 1963	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	Christchurch	15 Mar 1963	investigate this query
+England	lost	10 wickets		lost	2nd		Test v West Indies	Manchester	6 Jun 1963	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Lord's	20 Jun 1963	investigate this query
+England	won	217 runs		won	1st		Test v West Indies	Birmingham	4 Jul 1963	investigate this query
+England	lost	221 runs		lost	2nd		Test v West Indies	Leeds	25 Jul 1963	investigate this query
+England	lost	8 wickets		won	1st		Test v West Indies	The Oval	22 Aug 1963	investigate this query
+England	draw	-		lost	2nd		Test v India	Chennai	10 Jan 1964	investigate this query
+England	draw	-		lost	2nd		Test v India	Mumbai (BS)	21 Jan 1964	investigate this query
+England	draw	-		lost	2nd		Test v India	Kolkata	29 Jan 1964	investigate this query
+England	draw	-		lost	2nd		Test v India	Delhi	8 Feb 1964	investigate this query
+England	draw	-		lost	1st		Test v India	Kanpur	15 Feb 1964	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	4 Jun 1964	investigate this query
+England	draw	-		won	2nd		Test v Australia	Lord's	18 Jun 1964	investigate this query
+England	lost	7 wickets		won	1st		Test v Australia	Leeds	2 Jul 1964	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	23 Jul 1964	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	13 Aug 1964	investigate this query
+England	won	inns & 104 runs		won	1st		Test v South Africa	Durban	4 Dec 1964	investigate this query
+England	draw	-		won	1st		Test v South Africa	Johannesburg	23 Dec 1964	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Cape Town	1 Jan 1965	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Johannesburg	22 Jan 1965	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Port Elizabeth	12 Feb 1965	investigate this query
+England	won	9 wickets		won	1st		Test v New Zealand	Birmingham	27 May 1965	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	Lord's	17 Jun 1965	investigate this query
+England	won	inns & 187 runs		won	1st		Test v New Zealand	Leeds	8 Jul 1965	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Lord's	22 Jul 1965	investigate this query
+England	lost	94 runs		lost	2nd		Test v South Africa	Nottingham	5 Aug 1965	investigate this query
+England	draw	-		won	2nd		Test v South Africa	The Oval	26 Aug 1965	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Brisbane	10 Dec 1965	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Melbourne	30 Dec 1965	investigate this query
+England	won	inns & 93 runs		won	1st		Test v Australia	Sydney	7 Jan 1966	investigate this query
+England	lost	inns & 9 runs		won	1st		Test v Australia	Adelaide	28 Jan 1966	investigate this query
+England	draw	-		won	1st		Test v Australia	Melbourne	11 Feb 1966	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Christchurch	25 Feb 1966	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Dunedin	4 Mar 1966	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Auckland	11 Mar 1966	investigate this query
+England	lost	inns & 40 runs		lost	2nd		Test v West Indies	Manchester	2 Jun 1966	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Lord's	16 Jun 1966	investigate this query
+England	lost	139 runs		lost	2nd		Test v West Indies	Nottingham	30 Jun 1966	investigate this query
+England	lost	inns & 55 runs		lost	2nd		Test v West Indies	Leeds	4 Aug 1966	investigate this query
+England	won	inns & 34 runs		lost	2nd		Test v West Indies	The Oval	18 Aug 1966	investigate this query
+England	won	6 wickets		won	1st		Test v India	Leeds	8 Jun 1967	investigate this query
+England	won	inns & 124 runs		lost	2nd		Test v India	Lord's	22 Jun 1967	investigate this query
+England	won	132 runs		won	1st		Test v India	Birmingham	13 Jul 1967	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lord's	27 Jul 1967	investigate this query
+England	won	10 wickets		lost	2nd		Test v Pakistan	Nottingham	10 Aug 1967	investigate this query
+England	won	8 wickets		won	2nd		Test v Pakistan	The Oval	24 Aug 1967	investigate this query
+England	draw	-		won	1st		Test v West Indies	Port of Spain	19 Jan 1968	investigate this query
+England	draw	-		won	1st		Test v West Indies	Kingston	8 Feb 1968	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Bridgetown	29 Feb 1968	investigate this query
+England	won	7 wickets		lost	2nd		Test v West Indies	Port of Spain	14 Mar 1968	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Georgetown	28 Mar 1968	investigate this query
+England	lost	159 runs		lost	2nd		Test v Australia	Manchester	6 Jun 1968	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	20 Jun 1968	investigate this query
+England	draw	-		won	1st		Test v Australia	Birmingham	11 Jul 1968	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Leeds	25 Jul 1968	investigate this query
+England	won	226 runs		won	1st		Test v Australia	The Oval	22 Aug 1968	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lahore	21 Feb 1969	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Dhaka	28 Feb 1969	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Karachi	6 Mar 1969	investigate this query
+England	won	10 wickets		won	1st		Test v West Indies	Manchester	12 Jun 1969	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Lord's	26 Jun 1969	investigate this query
+England	won	30 runs		won	1st		Test v West Indies	Leeds	10 Jul 1969	investigate this query
+England	won	230 runs		won	1st		Test v New Zealand	Lord's	24 Jul 1969	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Nottingham	7 Aug 1969	investigate this query
+England	won	8 wickets		lost	2nd		Test v New Zealand	The Oval	21 Aug 1969	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Brisbane	27 Nov 1970	investigate this query
+England	draw	-		lost	1st		Test v Australia	Perth	11 Dec 1970	investigate this query
+England	aban	-		won	2nd		Test v Australia	Melbourne	31 Dec 1970	investigate this query
+England	lost	5 wickets	42	lost	1st		ODI v Australia	Melbourne	5 Jan 1971	investigate this query
+England	won	299 runs		won	1st		Test v Australia	Sydney	9 Jan 1971	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Melbourne	21 Jan 1971	investigate this query
+England	draw	-		won	1st		Test v Australia	Adelaide	29 Jan 1971	investigate this query
+England	won	62 runs		lost	1st		Test v Australia	Sydney	12 Feb 1971	investigate this query
+England	won	8 wickets		lost	2nd		Test v New Zealand	Christchurch	25 Feb 1971	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Auckland	5 Mar 1971	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Birmingham	3 Jun 1971	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lord's	17 Jun 1971	investigate this query
+England	won	25 runs		won	1st		Test v Pakistan	Leeds	8 Jul 1971	investigate this query
+England	draw	-		won	1st		Test v India	Lord's	22 Jul 1971	investigate this query
+England	draw	-		won	1st		Test v India	Manchester	5 Aug 1971	investigate this query
+England	lost	4 wickets		won	1st		Test v India	The Oval	19 Aug 1971	investigate this query
+England	won	89 runs		won	1st		Test v Australia	Manchester	8 Jun 1972	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Lord's	22 Jun 1972	investigate this query
+England	draw	-		won	2nd		Test v Australia	Nottingham	13 Jul 1972	investigate this query
+England	won	9 wickets		lost	2nd		Test v Australia	Leeds	27 Jul 1972	investigate this query
+England	lost	5 wickets		won	1st		Test v Australia	The Oval	10 Aug 1972	investigate this query
+England	won	6 wickets	35	lost	2nd		ODI v Australia	Manchester	24 Aug 1972	investigate this query
+England	lost	5 wickets	21	lost	1st		ODI v Australia	Lord's	26 Aug 1972	investigate this query
+England	won	2 wickets	21	won	2nd		ODI v Australia	Birmingham	28 Aug 1972	investigate this query
+England	won	6 wickets		lost	2nd		Test v India	Delhi	20 Dec 1972	investigate this query
+England	lost	28 runs		lost	2nd		Test v India	Kolkata	30 Dec 1972	investigate this query
+England	lost	4 wickets		won	1st		Test v India	Chennai	12 Jan 1973	investigate this query
+England	draw	-		lost	2nd		Test v India	Kanpur	25 Jan 1973	investigate this query
+England	draw	-		lost	2nd		Test v India	Mumbai (BS)	6 Feb 1973	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lahore	2 Mar 1973	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Hyderabad (Sind)	16 Mar 1973	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Karachi	24 Mar 1973	investigate this query
+England	won	38 runs		won	1st		Test v New Zealand	Nottingham	7 Jun 1973	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Lord's	21 Jun 1973	investigate this query
+England	won	inns & 1 runs		lost	2nd		Test v New Zealand	Leeds	5 Jul 1973	investigate this query
+England	won	7 wickets	57	lost	2nd		ODI v New Zealand	Swansea	18 Jul 1973	investigate this query
+England	n/r	-		lost	1st		ODI v New Zealand	Manchester	20 Jul 1973	investigate this query
+England	lost	158 runs		lost	2nd		Test v West Indies	The Oval	26 Jul 1973	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Birmingham	9 Aug 1973	investigate this query
+England	lost	inns & 226 runs		lost	2nd		Test v West Indies	Lord's	23 Aug 1973	investigate this query
+England	won	1 wickets	3	lost	2nd		ODI v West Indies	Leeds	5 Sep 1973	investigate this query
+England	lost	8 wickets	76	won	1st		ODI v West Indies	The Oval	7 Sep 1973	investigate this query
+England	lost	7 wickets		lost	1st		Test v West Indies	Port of Spain	2 Feb 1974	investigate this query
+England	draw	-		won	1st		Test v West Indies	Kingston	16 Feb 1974	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Bridgetown	6 Mar 1974	investigate this query
+England	draw	-		won	1st		Test v West Indies	Georgetown	22 Mar 1974	investigate this query
+England	won	26 runs		won	1st		Test v West Indies	Port of Spain	30 Mar 1974	investigate this query
+England	won	113 runs		won	1st		Test v India	Manchester	6 Jun 1974	investigate this query
+England	won	inns & 285 runs		won	1st		Test v India	Lord's	20 Jun 1974	investigate this query
+England	won	inns & 78 runs		lost	2nd		Test v India	Birmingham	4 Jul 1974	investigate this query
+England	won	4 wickets	23	won	2nd		ODI v India	Leeds	13 Jul 1974	investigate this query
+England	won	6 wickets	37	lost	2nd		ODI v India	The Oval	15 Jul 1974	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Leeds	25 Jul 1974	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Lord's	8 Aug 1974	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	The Oval	22 Aug 1974	investigate this query
+England	lost	7 wickets	43	won	1st		ODI v Pakistan	Nottingham	31 Aug 1974	investigate this query
+England	lost	8 wickets	102	lost	1st		ODI v Pakistan	Birmingham	3 Sep 1974	investigate this query
+England	lost	166 runs		lost	2nd		Test v Australia	Brisbane	29 Nov 1974	investigate this query
+England	lost	9 wickets		lost	1st		Test v Australia	Perth	13 Dec 1974	investigate this query
+England	draw	-		lost	1st		Test v Australia	Melbourne	26 Dec 1974	investigate this query
+England	won	3 wickets	23	won	2nd		ODI v Australia	Melbourne	1 Jan 1975	investigate this query
+England	lost	171 runs		lost	2nd		Test v Australia	Sydney	4 Jan 1975	investigate this query
+England	lost	163 runs		won	2nd		Test v Australia	Adelaide	25 Jan 1975	investigate this query
+England	won	inns & 4 runs		lost	2nd		Test v Australia	Melbourne	8 Feb 1975	investigate this query
+England	won	inns & 83 runs		won	1st		Test v New Zealand	Auckland	20 Feb 1975	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Christchurch	28 Feb 1975	investigate this query
+England	n/r	-		lost	1st		ODI v New Zealand	Dunedin	8 Mar 1975	investigate this query
+England	n/r	-		lost	2nd		ODI v New Zealand	Wellington	9 Mar 1975	investigate this query
+England	won	202 runs		won	1st		ODI v India	Lord's	7 Jun 1975	investigate this query
+England	won	80 runs		lost	1st		ODI v New Zealand	Nottingham	11 Jun 1975	investigate this query
+England	won	196 runs		lost	1st		ODI v East Africa	Birmingham	14 Jun 1975	investigate this query
+England	lost	4 wickets	188	lost	1st		ODI v Australia	Leeds	18 Jun 1975	investigate this query
+England	lost	inns & 85 runs		won	2nd		Test v Australia	Birmingham	10 Jul 1975	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	31 Jul 1975	investigate this query
+England	draw	-		won	1st		Test v Australia	Leeds	14 Aug 1975	investigate this query
+England	draw	-		lost	2nd		Test v Australia	The Oval	28 Aug 1975	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Nottingham	3 Jun 1976	investigate this query
+England	draw	-		won	1st		Test v West Indies	Lord's	17 Jun 1976	investigate this query
+England	lost	425 runs		lost	2nd		Test v West Indies	Manchester	8 Jul 1976	investigate this query
+England	lost	55 runs		lost	2nd		Test v West Indies	Leeds	22 Jul 1976	investigate this query
+England	lost	231 runs		lost	2nd		Test v West Indies	The Oval	12 Aug 1976	investigate this query
+England	lost	6 wickets	84	lost	1st		ODI v West Indies	Scarborough	26 Aug 1976	investigate this query
+England	lost	36 runs		won	2nd		ODI v West Indies	Lord's	28 Aug 1976	investigate this query
+England	lost	50 runs		won	2nd		ODI v West Indies	Birmingham	30 Aug 1976	investigate this query
+England	won	inns & 25 runs		won	1st		Test v India	Delhi	17 Dec 1976	investigate this query
+England	won	10 wickets		lost	2nd		Test v India	Kolkata	1 Jan 1977	investigate this query
+England	won	200 runs		won	1st		Test v India	Chennai	14 Jan 1977	investigate this query
+England	lost	140 runs		lost	2nd		Test v India	Bangalore	28 Jan 1977	investigate this query
+England	draw	-		lost	2nd		Test v India	Mumbai	11 Feb 1977	investigate this query
+England	lost	45 runs		won	2nd		Test v Australia	Melbourne	12 Mar 1977	investigate this query
+England	won	2 wickets	58	lost	2nd		ODI v Australia	Manchester	2 Jun 1977	investigate this query
+England	won	101 runs		lost	1st		ODI v Australia	Birmingham	4 Jun 1977	investigate this query
+England	lost	2 wickets	10	lost	1st		ODI v Australia	The Oval	6 Jun 1977	investigate this query
+England	draw	-		won	1st		Test v Australia	Lord's	16 Jun 1977	investigate this query
+England	won	9 wickets		lost	2nd		Test v Australia	Manchester	7 Jul 1977	investigate this query
+England	won	7 wickets		lost	2nd		Test v Australia	Nottingham	28 Jul 1977	investigate this query
+England	won	inns & 85 runs		won	1st		Test v Australia	Leeds	11 Aug 1977	investigate this query
+England	draw	-		lost	1st		Test v Australia	The Oval	25 Aug 1977	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Lahore	14 Dec 1977	investigate this query
+England	won	3 wickets	0	lost	2nd		ODI v Pakistan	Sahiwal	23 Dec 1977	investigate this query
+England	won	6 wickets	17	won	2nd		ODI v Pakistan	Sialkot	30 Dec 1977	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Hyderabad (Sind)	2 Jan 1978	investigate this query
+England	lost	36 runs		won	2nd		ODI v Pakistan	Lahore	13 Jan 1978	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Karachi	18 Jan 1978	investigate this query
+England	lost	72 runs		won	2nd		Test v New Zealand	Wellington	10 Feb 1978	investigate this query
+England	won	174 runs		won	1st		Test v New Zealand	Christchurch	24 Feb 1978	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Auckland	4 Mar 1978	investigate this query
+England	won	132 runs		won	1st		ODI v Pakistan	Manchester	24 May 1978	investigate this query
+England	won	94 runs		lost	1st		ODI v Pakistan	The Oval	26 May 1978	investigate this query
+England	won	inns & 57 runs		lost	2nd		Test v Pakistan	Birmingham	1 Jun 1978	investigate this query
+England	won	inns & 120 runs		won	1st		Test v Pakistan	Lord's	15 Jun 1978	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Leeds	29 Jun 1978	investigate this query
+England	won	19 runs		lost	1st		ODI v New Zealand	Scarborough	15 Jul 1978	investigate this query
+England	won	126 runs		won	1st		ODI v New Zealand	Manchester	17 Jul 1978	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	The Oval	27 Jul 1978	investigate this query
+England	won	inns & 119 runs		won	1st		Test v New Zealand	Nottingham	10 Aug 1978	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	Lord's	24 Aug 1978	investigate this query
+England	won	7 wickets		lost	2nd		Test v Australia	Brisbane	1 Dec 1978	investigate this query
+England	won	166 runs		lost	1st		Test v Australia	Perth	15 Dec 1978	investigate this query
+England	aban	-		-	-		ODI v Australia	Melbourne	26 Dec 1978	investigate this query
+England	lost	103 runs		lost	2nd		Test v Australia	Melbourne	29 Dec 1978	investigate this query
+England	won	93 runs		won	1st		Test v Australia	Sydney	6 Jan 1979	investigate this query
+England	n/r	-		won	2nd		ODI v Australia	Sydney	13 Jan 1979	investigate this query
+England	won	7 wickets	94	lost	2nd		ODI v Australia	Melbourne	24 Jan 1979	investigate this query
+England	won	205 runs		lost	1st		Test v Australia	Adelaide	27 Jan 1979	investigate this query
+England	lost	4 wickets	10	lost	1st		ODI v Australia	Melbourne	4 Feb 1979	investigate this query
+England	lost	6 wickets	147	lost	1st		ODI v Australia	Melbourne	7 Feb 1979	investigate this query
+England	won	9 wickets		lost	2nd		Test v Australia	Sydney	10 Feb 1979	investigate this query
+England	won	6 wickets	77	won	2nd		ODI v Australia	Lord's	9 Jun 1979	investigate this query
+England	won	8 wickets	277	lost	2nd		ODI v Canada	Manchester	13 Jun 1979	investigate this query
+England	won	14 runs		lost	1st		ODI v Pakistan	Leeds	16 Jun 1979	investigate this query
+England	won	9 runs		lost	1st		ODI v New Zealand	Manchester	20 Jun 1979	investigate this query
+England	lost	92 runs		won	2nd		ODI v West Indies	Lord's	23 Jun 1979	investigate this query
+England	won	inns & 83 runs		won	1st		Test v India	Birmingham	12 Jul 1979	investigate this query
+England	draw	-		lost	2nd		Test v India	Lord's	2 Aug 1979	investigate this query
+England	draw	-		won	1st		Test v India	Leeds	16 Aug 1979	investigate this query
+England	draw	-		won	1st		Test v India	The Oval	30 Aug 1979	investigate this query
+England	won	2 runs		lost	1st		ODI v West Indies	Sydney	28 Nov 1979	investigate this query
+England	won	3 wickets	6	won	2nd		ODI v Australia	Melbourne	8 Dec 1979	investigate this query
+England	won	72 runs		won	1st		ODI v Australia	Sydney	11 Dec 1979	investigate this query
+England	lost	138 runs		won	2nd		Test v Australia	Perth	14 Dec 1979	investigate this query
+England	lost	9 wickets	19	lost	1st		ODI v West Indies	Brisbane	23 Dec 1979	investigate this query
+England	won	4 wickets	11	lost	2nd		ODI v Australia	Sydney	26 Dec 1979	investigate this query
+England	lost	6 wickets		lost	1st		Test v Australia	Sydney	4 Jan 1980	investigate this query
+England	aban	-		-	-		ODI v West Indies	Melbourne	12 Jan 1980	investigate this query
+England	won	2 wickets	7	won	2nd		ODI v Australia	Sydney	14 Jan 1980	investigate this query
+England	lost	107 runs		won	2nd		ODI v West Indies	Adelaide	16 Jan 1980	investigate this query
+England	lost	2 runs		won	2nd		ODI v West Indies	Melbourne	20 Jan 1980	investigate this query
+England	lost	8 wickets	15	won	1st		ODI v West Indies	Sydney	22 Jan 1980	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Melbourne	1 Feb 1980	investigate this query
+England	won	10 wickets		lost	2nd		Test v India	Mumbai	15 Feb 1980	investigate this query
+England	lost	24 runs		won	2nd		ODI v West Indies	Leeds	28 May 1980	investigate this query
+England	won	3 wickets	3	won	2nd		ODI v West Indies	Lord's	30 May 1980	investigate this query
+England	lost	2 wickets		won	1st		Test v West Indies	Nottingham	5 Jun 1980	investigate this query
+England	draw	-		won	1st		Test v West Indies	Lord's	19 Jun 1980	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Manchester	10 Jul 1980	investigate this query
+England	draw	-		won	1st		Test v West Indies	The Oval	24 Jul 1980	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Leeds	7 Aug 1980	investigate this query
+England	won	23 runs		lost	1st		ODI v Australia	The Oval	20 Aug 1980	investigate this query
+England	won	47 runs		lost	1st		ODI v Australia	Birmingham	22 Aug 1980	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Lord's	28 Aug 1980	investigate this query
+England	lost	2 runs		won	2nd		ODI v West Indies	Kingstown	4 Feb 1981	investigate this query
+England	lost	inns & 79 runs		won	2nd		Test v West Indies	Port of Spain	13 Feb 1981	investigate this query
+England	lost	6 wickets	63	lost	1st		ODI v West Indies	Albion	26 Feb 1981	investigate this query
+England	canc	-		-	-		Test v West Indies	Georgetown	28 Feb 1981	investigate this query
+England	lost	298 runs		won	2nd		Test v West Indies	Bridgetown	13 Mar 1981	investigate this query
+England	draw	-		won	1st		Test v West Indies	St John's	27 Mar 1981	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Kingston	10 Apr 1981	investigate this query
+England	won	6 wickets	20	won	2nd		ODI v Australia	Lord's	4 Jun 1981	investigate this query
+England	lost	2 runs		won	2nd		ODI v Australia	Birmingham	6 Jun 1981	investigate this query
+England	lost	71 runs		won	2nd		ODI v Australia	Leeds	8 Jun 1981	investigate this query
+England	lost	4 wickets		lost	1st		Test v Australia	Nottingham	18 Jun 1981	investigate this query
+England	draw	-		lost	1st		Test v Australia	Lord's	2 Jul 1981	investigate this query
+England	won	18 runs		lost	2nd		Test v Australia	Leeds	16 Jul 1981	investigate this query
+England	won	29 runs		won	1st		Test v Australia	Birmingham	30 Jul 1981	investigate this query
+England	won	103 runs		won	1st		Test v Australia	Manchester	13 Aug 1981	investigate this query
+England	draw	-		won	2nd		Test v Australia	The Oval	27 Aug 1981	investigate this query
+England	won	5 wickets	13	won	2nd		ODI v India	Ahmedabad	25 Nov 1981	investigate this query
+England	lost	138 runs		lost	2nd		Test v India	Mumbai	27 Nov 1981	investigate this query
+England	draw	-		won	1st		Test v India	Bangalore	9 Dec 1981	investigate this query
+England	lost	6 wickets	3	lost	1st		ODI v India	Jalandhar	20 Dec 1981	investigate this query
+England	draw	-		won	1st		Test v India	Delhi	23 Dec 1981	investigate this query
+England	draw	-		won	1st		Test v India	Kolkata	1 Jan 1982	investigate this query
+England	draw	-		won	2nd		Test v India	Chennai	13 Jan 1982	investigate this query
+England	lost	5 wickets	24	lost	1st		ODI v India	Cuttack	27 Jan 1982	investigate this query
+England	draw	-		won	1st		Test v India	Kanpur	30 Jan 1982	investigate this query
+England	won	5 runs		lost	1st		ODI v Sri Lanka	Colombo (SSC)	13 Feb 1982	investigate this query
+England	lost	3 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	14 Feb 1982	investigate this query
+England	won	7 wickets		lost	2nd		Test v Sri Lanka	Colombo (PSS)	17 Feb 1982	investigate this query
+England	won	9 wickets	29	won	2nd		ODI v India	Leeds	2 Jun 1982	investigate this query
+England	won	114 runs		lost	1st		ODI v India	The Oval	4 Jun 1982	investigate this query
+England	won	7 wickets		won	1st		Test v India	Lord's	10 Jun 1982	investigate this query
+England	draw	-		won	1st		Test v India	Manchester	24 Jun 1982	investigate this query
+England	draw	-		won	1st		Test v India	The Oval	8 Jul 1982	investigate this query
+England	won	7 wickets	47	lost	2nd		ODI v Pakistan	Nottingham	17 Jul 1982	investigate this query
+England	won	73 runs		lost	1st		ODI v Pakistan	Manchester	19 Jul 1982	investigate this query
+England	won	113 runs		won	1st		Test v Pakistan	Birmingham	29 Jul 1982	investigate this query
+England	lost	10 wickets		lost	2nd		Test v Pakistan	Lord's	12 Aug 1982	investigate this query
+England	won	3 wickets		lost	2nd		Test v Pakistan	Leeds	26 Aug 1982	investigate this query
+England	draw	-		lost	1st		Test v Australia	Perth	12 Nov 1982	investigate this query
+England	lost	7 wickets		lost	1st		Test v Australia	Brisbane	26 Nov 1982	investigate this query
+England	lost	8 wickets		won	2nd		Test v Australia	Adelaide	10 Dec 1982	investigate this query
+England	won	3 runs		lost	1st		Test v Australia	Melbourne	26 Dec 1982	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Sydney	2 Jan 1983	investigate this query
+England	lost	31 runs		won	2nd		ODI v Australia	Sydney	11 Jan 1983	investigate this query
+England	lost	2 runs		won	2nd		ODI v New Zealand	Melbourne	13 Jan 1983	investigate this query
+England	won	54 runs		lost	1st		ODI v New Zealand	Brisbane	15 Jan 1983	investigate this query
+England	lost	7 wickets	54	lost	1st		ODI v Australia	Brisbane	16 Jan 1983	investigate this query
+England	won	8 wickets	44	lost	2nd		ODI v New Zealand	Sydney	20 Jan 1983	investigate this query
+England	lost	5 wickets	14	lost	1st		ODI v Australia	Melbourne	23 Jan 1983	investigate this query
+England	won	98 runs		won	1st		ODI v Australia	Sydney	26 Jan 1983	investigate this query
+England	lost	4 wickets	7	won	1st		ODI v New Zealand	Adelaide	29 Jan 1983	investigate this query
+England	won	14 runs		won	1st		ODI v Australia	Adelaide	30 Jan 1983	investigate this query
+England	lost	7 wickets	15	lost	1st		ODI v New Zealand	Perth	5 Feb 1983	investigate this query
+England	lost	6 wickets	21	won	1st		ODI v New Zealand	Auckland	19 Feb 1983	investigate this query
+England	lost	103 runs		won	2nd		ODI v New Zealand	Wellington	23 Feb 1983	investigate this query
+England	lost	84 runs		lost	2nd		ODI v New Zealand	Christchurch	26 Feb 1983	investigate this query
+England	won	106 runs		won	1st		ODI v New Zealand	The Oval	9 Jun 1983	investigate this query
+England	won	47 runs		won	1st		ODI v Sri Lanka	Taunton	11 Jun 1983	investigate this query
+England	won	8 wickets	56	lost	2nd		ODI v Pakistan	Lord's	13 Jun 1983	investigate this query
+England	lost	2 wickets	1	won	1st		ODI v New Zealand	Birmingham	15 Jun 1983	investigate this query
+England	won	7 wickets	16	lost	2nd		ODI v Pakistan	Manchester	18 Jun 1983	investigate this query
+England	won	9 wickets	215	won	2nd		ODI v Sri Lanka	Leeds	20 Jun 1983	investigate this query
+England	lost	6 wickets	32	won	1st		ODI v India	Manchester	22 Jun 1983	investigate this query
+England	won	189 runs		won	1st		Test v New Zealand	The Oval	14 Jul 1983	investigate this query
+England	lost	5 wickets		lost	1st		Test v New Zealand	Leeds	28 Jul 1983	investigate this query
+England	won	127 runs		lost	1st		Test v New Zealand	Lord's	11 Aug 1983	investigate this query
+England	won	165 runs		won	1st		Test v New Zealand	Nottingham	25 Aug 1983	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Wellington	20 Jan 1984	investigate this query
+England	lost	inns & 132 runs		lost	2nd		Test v New Zealand	Christchurch	3 Feb 1984	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Auckland	10 Feb 1984	investigate this query
+England	won	54 runs		lost	1st		ODI v New Zealand	Christchurch	18 Feb 1984	investigate this query
+England	won	6 wickets	29	lost	2nd		ODI v New Zealand	Wellington	22 Feb 1984	investigate this query
+England	lost	7 wickets	27	won	1st		ODI v New Zealand	Auckland	25 Feb 1984	investigate this query
+England	lost	3 wickets		won	1st		Test v Pakistan	Karachi	2 Mar 1984	investigate this query
+England	lost	6 wickets	8	lost	1st		ODI v Pakistan	Lahore	9 Mar 1984	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Faisalabad	12 Mar 1984	investigate this query
+England	draw	-		lost	1st		Test v Pakistan	Lahore	19 Mar 1984	investigate this query
+England	won	6 wickets	8	won	2nd		ODI v Pakistan	Karachi	26 Mar 1984	investigate this query
+England	lost	104 runs		lost	2nd		ODI v West Indies	Manchester	31 May 1984	investigate this query
+England	won	3 wickets	13	won	2nd		ODI v West Indies	Nottingham	2 Jun 1984	investigate this query
+England	lost	8 wickets	49	lost	1st		ODI v West Indies	Lord's	4 Jun 1984	investigate this query
+England	lost	inns & 180 runs		won	1st		Test v West Indies	Birmingham	14 Jun 1984	investigate this query
+England	lost	9 wickets		lost	1st		Test v West Indies	Lord's	28 Jun 1984	investigate this query
+England	lost	8 wickets		won	1st		Test v West Indies	Leeds	12 Jul 1984	investigate this query
+England	lost	inns & 64 runs		lost	2nd		Test v West Indies	Manchester	26 Jul 1984	investigate this query
+England	lost	172 runs		lost	2nd		Test v West Indies	The Oval	9 Aug 1984	investigate this query
+England	draw	-		won	2nd		Test v Sri Lanka	Lord's	23 Aug 1984	investigate this query
+England	lost	8 wickets		won	1st		Test v India	Mumbai	28 Nov 1984	investigate this query
+England	won	4 wickets	10	won	2nd		ODI v India	Pune	5 Dec 1984	investigate this query
+England	won	8 wickets		lost	2nd		Test v India	Delhi	12 Dec 1984	investigate this query
+England	won	1 runs		won	2nd		ODI v India	Cuttack	27 Dec 1984	investigate this query
+England	draw	-		lost	2nd		Test v India	Kolkata	31 Dec 1984	investigate this query
+England	won	9 wickets		lost	2nd		Test v India	Chennai	13 Jan 1985	investigate this query
+England	won	3 wickets	6	won	2nd		ODI v India	Bangalore	20 Jan 1985	investigate this query
+England	lost	3 wickets	14	lost	1st		ODI v India	Nagpur	23 Jan 1985	investigate this query
+England	won	7 runs		lost	1st		ODI v India	Chandigarh	27 Jan 1985	investigate this query
+England	draw	-		lost	2nd		Test v India	Kanpur	31 Jan 1985	investigate this query
+England	lost	7 wickets	22	won	1st		ODI v Australia	Melbourne	17 Feb 1985	investigate this query
+England	lost	86 runs		won	2nd		ODI v India	Sydney	26 Feb 1985	investigate this query
+England	lost	67 runs		lost	2nd		ODI v Pakistan	Melbourne	2 Mar 1985	investigate this query
+England	lost	2 wickets	0	lost	1st		ODI v Australia	Sharjah	24 Mar 1985	investigate this query
+England	lost	43 runs		won	2nd		ODI v Pakistan	Sharjah	26 Mar 1985	investigate this query
+England	lost	3 wickets	5	won	1st		ODI v Australia	Manchester	30 May 1985	investigate this query
+England	lost	4 wickets	6	lost	1st		ODI v Australia	Birmingham	1 Jun 1985	investigate this query
+England	won	8 wickets	36	won	2nd		ODI v Australia	Lord's	3 Jun 1985	investigate this query
+England	won	5 wickets		lost	2nd		Test v Australia	Leeds	13 Jun 1985	investigate this query
+England	lost	4 wickets		lost	1st		Test v Australia	Lord's	27 Jun 1985	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	11 Jul 1985	investigate this query
+England	draw	-		won	2nd		Test v Australia	Manchester	1 Aug 1985	investigate this query
+England	won	inns & 118 runs		won	2nd		Test v Australia	Birmingham	15 Aug 1985	investigate this query
+England	won	inns & 94 runs		won	1st		Test v Australia	The Oval	29 Aug 1985	investigate this query
+England	lost	6 wickets	13	lost	1st		ODI v West Indies	Kingston	18 Feb 1986	investigate this query
+England	lost	10 wickets		won	1st		Test v West Indies	Kingston	21 Feb 1986	investigate this query
+England	won	5 wickets	0	won	2nd		ODI v West Indies	Port of Spain	4 Mar 1986	investigate this query
+England	lost	7 wickets		lost	1st		Test v West Indies	Port of Spain	7 Mar 1986	investigate this query
+England	lost	135 runs		won	2nd		ODI v West Indies	Bridgetown	19 Mar 1986	investigate this query
+England	lost	inns & 30 runs		won	2nd		Test v West Indies	Bridgetown	21 Mar 1986	investigate this query
+England	lost	8 wickets	52	lost	1st		ODI v West Indies	Port of Spain	31 Mar 1986	investigate this query
+England	lost	10 wickets		lost	1st		Test v West Indies	Port of Spain	3 Apr 1986	investigate this query
+England	lost	240 runs		won	2nd		Test v West Indies	St John's	11 Apr 1986	investigate this query
+England	lost	9 wickets	46	lost	1st		ODI v India	The Oval	24 May 1986	investigate this query
+England	won	5 wickets	7	won	2nd		ODI v India	Manchester	26 May 1986	investigate this query
+England	lost	5 wickets		lost	1st		Test v India	Lord's	5 Jun 1986	investigate this query
+England	lost	279 runs		lost	2nd		Test v India	Leeds	19 Jun 1986	investigate this query
+England	draw	-		won	1st		Test v India	Birmingham	3 Jul 1986	investigate this query
+England	lost	47 runs		lost	2nd		ODI v New Zealand	Leeds	16 Jul 1986	investigate this query
+England	won	6 wickets	8	won	2nd		ODI v New Zealand	Manchester	18 Jul 1986	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Lord's	24 Jul 1986	investigate this query
+England	lost	8 wickets		lost	1st		Test v New Zealand	Nottingham	7 Aug 1986	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	The Oval	21 Aug 1986	investigate this query
+England	won	7 wickets		lost	1st		Test v Australia	Brisbane	14 Nov 1986	investigate this query
+England	draw	-		won	1st		Test v Australia	Perth	28 Nov 1986	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Adelaide	12 Dec 1986	investigate this query
+England	won	inns & 14 runs		won	2nd		Test v Australia	Melbourne	26 Dec 1986	investigate this query
+England	won	37 runs		won	1st		ODI v Australia	Perth	1 Jan 1987	investigate this query
+England	won	19 runs		lost	1st		ODI v West Indies	Perth	3 Jan 1987	investigate this query
+England	won	3 wickets	2	lost	2nd		ODI v Pakistan	Perth	5 Jan 1987	investigate this query
+England	won	5 wickets	59	won	2nd		ODI v Pakistan	Perth	7 Jan 1987	investigate this query
+England	lost	55 runs		lost	2nd		Test v Australia	Sydney	10 Jan 1987	investigate this query
+England	won	6 wickets	41	won	2nd		ODI v West Indies	Brisbane	17 Jan 1987	investigate this query
+England	lost	11 runs		lost	2nd		ODI v Australia	Brisbane	18 Jan 1987	investigate this query
+England	won	3 wickets	1	lost	2nd		ODI v Australia	Sydney	22 Jan 1987	investigate this query
+England	won	89 runs		lost	1st		ODI v West Indies	Adelaide	24 Jan 1987	investigate this query
+England	lost	33 runs		lost	2nd		ODI v Australia	Adelaide	26 Jan 1987	investigate this query
+England	lost	6 wickets	9	won	1st		ODI v West Indies	Melbourne	30 Jan 1987	investigate this query
+England	lost	109 runs		won	2nd		ODI v Australia	Melbourne	1 Feb 1987	investigate this query
+England	won	29 runs		lost	1st		ODI v West Indies	Devonport	3 Feb 1987	investigate this query
+England	won	6 wickets	48	won	2nd		ODI v Australia	Melbourne	8 Feb 1987	investigate this query
+England	won	8 runs		won	1st		ODI v Australia	Sydney	11 Feb 1987	investigate this query
+England	lost	3 wickets	7	lost	1st		ODI v India	Sharjah	2 Apr 1987	investigate this query
+England	won	5 wickets	16	won	2nd		ODI v Pakistan	Sharjah	7 Apr 1987	investigate this query
+England	won	11 runs		lost	1st		ODI v Australia	Sharjah	9 Apr 1987	investigate this query
+England	won	7 wickets	11	won	2nd		ODI v Pakistan	The Oval	21 May 1987	investigate this query
+England	lost	6 wickets	18	lost	1st		ODI v Pakistan	Nottingham	23 May 1987	investigate this query
+England	won	1 wickets	3	won	2nd		ODI v Pakistan	Birmingham	25 May 1987	investigate this query
+England	draw	-		lost	1st		Test v Pakistan	Manchester	4 Jun 1987	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lord's	18 Jun 1987	investigate this query
+England	lost	inns & 18 runs		won	1st		Test v Pakistan	Leeds	2 Jul 1987	investigate this query
+England	draw	-		won	2nd		Test v Pakistan	Birmingham	23 Jul 1987	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	The Oval	6 Aug 1987	investigate this query
+England	won	2 wickets	3	won	2nd		ODI v West Indies	Gujranwala	9 Oct 1987	investigate this query
+England	lost	18 runs		won	2nd		ODI v Pakistan	Rawalpindi	12 Oct 1987	investigate this query
+England	won	108 runs		won	1st		ODI v Sri Lanka	Peshawar	17 Oct 1987	investigate this query
+England	lost	7 wickets	6	lost	1st		ODI v Pakistan	Karachi	20 Oct 1987	investigate this query
+England	won	34 runs		lost	1st		ODI v West Indies	Jaipur	26 Oct 1987	investigate this query
+England	won	8 wickets	52	lost	2nd		ODI v Sri Lanka	Pune	30 Oct 1987	investigate this query
+England	won	35 runs		lost	1st		ODI v India	Mumbai	5 Nov 1987	investigate this query
+England	lost	7 runs		lost	2nd		ODI v Australia	Kolkata	8 Nov 1987	investigate this query
+England	won	2 wickets	3	lost	2nd		ODI v Pakistan	Lahore	18 Nov 1987	investigate this query
+England	won	23 runs		won	1st		ODI v Pakistan	Karachi	20 Nov 1987	investigate this query
+England	won	98 runs		won	1st		ODI v Pakistan	Peshawar	22 Nov 1987	investigate this query
+England	lost	inns & 87 runs		won	1st		Test v Pakistan	Lahore	25 Nov 1987	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Faisalabad	7 Dec 1987	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Karachi	16 Dec 1987	investigate this query
+England	draw	-		won	1st		Test v Australia	Sydney	29 Jan 1988	investigate this query
+England	lost	22 runs		lost	2nd		ODI v Australia	Melbourne	4 Feb 1988	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Christchurch	12 Feb 1988	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Auckland	25 Feb 1988	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Wellington	3 Mar 1988	investigate this query
+England	won	5 wickets	4	lost	2nd		ODI v New Zealand	Dunedin	9 Mar 1988	investigate this query
+England	won	6 wickets	13	won	2nd		ODI v New Zealand	Christchurch	12 Mar 1988	investigate this query
+England	lost	7 wickets	21	lost	1st		ODI v New Zealand	Napier	16 Mar 1988	investigate this query
+England	lost	4 wickets	4	lost	1st		ODI v New Zealand	Auckland	19 Mar 1988	investigate this query
+England	won	6 wickets	12	won	2nd		ODI v West Indies	Birmingham	19 May 1988	investigate this query
+England	won	47 runs		lost	1st		ODI v West Indies	Leeds	21 May 1988	investigate this query
+England	won	7 wickets	30	won	2nd		ODI v West Indies	Lord's	23 May 1988	investigate this query
+England	draw	-		won	1st		Test v West Indies	Nottingham	2 Jun 1988	investigate this query
+England	lost	134 runs		lost	2nd		Test v West Indies	Lord's	16 Jun 1988	investigate this query
+England	lost	inns & 156 runs		won	1st		Test v West Indies	Manchester	30 Jun 1988	investigate this query
+England	lost	10 wickets		lost	1st		Test v West Indies	Leeds	21 Jul 1988	investigate this query
+England	lost	8 wickets		won	1st		Test v West Indies	The Oval	4 Aug 1988	investigate this query
+England	won	7 wickets		won	2nd		Test v Sri Lanka	Lord's	25 Aug 1988	investigate this query
+England	won	5 wickets	14	won	2nd		ODI v Sri Lanka	The Oval	4 Sep 1988	investigate this query
+England	won	95 runs		won	1st		ODI v Australia	Manchester	25 May 1989	investigate this query
+England	tied	-		won	1st		ODI v Australia	Nottingham	27 May 1989	investigate this query
+England	lost	6 wickets	3	won	1st		ODI v Australia	Lord's	29 May 1989	investigate this query
+England	lost	210 runs		won	2nd		Test v Australia	Leeds	8 Jun 1989	investigate this query
+England	lost	6 wickets		won	1st		Test v Australia	Lord's	22 Jun 1989	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Birmingham	6 Jul 1989	investigate this query
+England	lost	9 wickets		won	1st		Test v Australia	Manchester	27 Jul 1989	investigate this query
+England	lost	inns & 180 runs		lost	2nd		Test v Australia	Nottingham	10 Aug 1989	investigate this query
+England	draw	-		lost	2nd		Test v Australia	The Oval	24 Aug 1989	investigate this query
+England	won	5 wickets	8	won	2nd		ODI v Sri Lanka	Delhi	15 Oct 1989	investigate this query
+England	won	7 wickets	15	lost	2nd		ODI v Australia	Hyderabad (Deccan)	19 Oct 1989	investigate this query
+England	won	4 wickets	40	lost	2nd		ODI v Pakistan	Cuttack	22 Oct 1989	investigate this query
+England	lost	6 wickets	11	lost	1st		ODI v India	Kanpur	25 Oct 1989	investigate this query
+England	lost	26 runs		lost	2nd		ODI v West Indies	Gwalior	27 Oct 1989	investigate this query
+England	lost	6 wickets	9	lost	1st		ODI v Pakistan	Nagpur	30 Oct 1989	investigate this query
+England	n/r	-		won	2nd		ODI v West Indies	Port of Spain	14 Feb 1990	investigate this query
+England	n/r	-		won	2nd		ODI v West Indies	Port of Spain	17 Feb 1990	investigate this query
+England	won	9 wickets		lost	2nd		Test v West Indies	Kingston	24 Feb 1990	investigate this query
+England	lost	3 wickets	0	won	1st		ODI v West Indies	Kingston	3 Mar 1990	investigate this query
+England	lost	6 wickets	16	lost	1st		ODI v West Indies	Georgetown	7 Mar 1990	investigate this query
+England	aban	-		-	-		Test v West Indies	Georgetown	10 Mar 1990	investigate this query
+England	aban	-		-	-		ODI v West Indies	Georgetown	14 Mar 1990	investigate this query
+England	lost	7 wickets	52	lost	1st		ODI v West Indies	Georgetown	15 Mar 1990	investigate this query
+England	draw	-		won	2nd		Test v West Indies	Port of Spain	23 Mar 1990	investigate this query
+England	lost	4 wickets	3	lost	1st		ODI v West Indies	Bridgetown	3 Apr 1990	investigate this query
+England	lost	164 runs		won	2nd		Test v West Indies	Bridgetown	5 Apr 1990	investigate this query
+England	lost	inns & 32 runs		won	1st		Test v West Indies	St John's	12 Apr 1990	investigate this query
+England	lost	4 wickets	1	lost	1st		ODI v New Zealand	Leeds	23 May 1990	investigate this query
+England	won	6 wickets	33	won	2nd		ODI v New Zealand	The Oval	25 May 1990	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Nottingham	7 Jun 1990	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Lord's	21 Jun 1990	investigate this query
+England	won	114 runs		lost	1st		Test v New Zealand	Birmingham	5 Jul 1990	investigate this query
+England	lost	6 wickets	12	lost	1st		ODI v India	Leeds	18 Jul 1990	investigate this query
+England	lost	5 wickets	12	lost	1st		ODI v India	Nottingham	20 Jul 1990	investigate this query
+England	won	247 runs		lost	1st		Test v India	Lord's	26 Jul 1990	investigate this query
+England	draw	-		won	1st		Test v India	Manchester	9 Aug 1990	investigate this query
+England	draw	-		lost	2nd		Test v India	The Oval	23 Aug 1990	investigate this query
+England	lost	10 wickets		lost	1st		Test v Australia	Brisbane	23 Nov 1990	investigate this query
+England	lost	7 runs		won	2nd		ODI v New Zealand	Adelaide	1 Dec 1990	investigate this query
+England	won	4 wickets	37	lost	2nd		ODI v New Zealand	Perth	7 Dec 1990	investigate this query
+England	lost	6 wickets	54	won	1st		ODI v Australia	Perth	9 Dec 1990	investigate this query
+England	won	33 runs		lost	1st		ODI v New Zealand	Sydney	13 Dec 1990	investigate this query
+England	lost	8 wickets	33	lost	1st		ODI v New Zealand	Brisbane	15 Dec 1990	investigate this query
+England	lost	37 runs		lost	2nd		ODI v Australia	Brisbane	16 Dec 1990	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Melbourne	26 Dec 1990	investigate this query
+England	lost	68 runs		won	2nd		ODI v Australia	Sydney	1 Jan 1991	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Sydney	4 Jan 1991	investigate this query
+England	lost	3 runs		lost	2nd		ODI v Australia	Melbourne	10 Jan 1991	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Adelaide	25 Jan 1991	investigate this query
+England	lost	9 wickets		won	1st		Test v Australia	Perth	1 Feb 1991	investigate this query
+England	won	14 runs		won	1st		ODI v New Zealand	Christchurch	9 Feb 1991	investigate this query
+England	lost	9 runs		won	2nd		ODI v New Zealand	Wellington	13 Feb 1991	investigate this query
+England	lost	7 runs		won	2nd		ODI v New Zealand	Auckland	16 Feb 1991	investigate this query
+England	won	1 wickets	32	won	2nd		ODI v West Indies	Birmingham	23 May 1991	investigate this query
+England	won	9 runs		lost	1st		ODI v West Indies	Manchester	25 May 1991	investigate this query
+England	won	7 wickets	53	won	2nd		ODI v West Indies	Lord's	27 May 1991	investigate this query
+England	won	115 runs		lost	1st		Test v West Indies	Leeds	6 Jun 1991	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Lord's	20 Jun 1991	investigate this query
+England	lost	9 wickets		won	1st		Test v West Indies	Nottingham	4 Jul 1991	investigate this query
+England	lost	7 wickets		lost	1st		Test v West Indies	Birmingham	25 Jul 1991	investigate this query
+England	won	5 wickets		won	1st		Test v West Indies	The Oval	8 Aug 1991	investigate this query
+England	won	137 runs		won	1st		Test v Sri Lanka	Lord's	22 Aug 1991	investigate this query
+England	won	7 wickets	97	lost	2nd		ODI v New Zealand	Auckland	11 Jan 1992	investigate this query
+England	won	inns & 4 runs		lost	1st		Test v New Zealand	Christchurch	18 Jan 1992	investigate this query
+England	won	168 runs		lost	1st		Test v New Zealand	Auckland	30 Jan 1992	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Wellington	6 Feb 1992	investigate this query
+England	won	3 wickets	5	lost	2nd		ODI v New Zealand	Dunedin	12 Feb 1992	investigate this query
+England	won	71 runs		lost	1st		ODI v New Zealand	Christchurch	15 Feb 1992	investigate this query
+England	won	9 runs		won	1st		ODI v India	Perth	22 Feb 1992	investigate this query
+England	won	6 wickets	61	won	2nd		ODI v West Indies	Melbourne	27 Feb 1992	investigate this query
+England	n/r	-		won	2nd		ODI v Pakistan	Adelaide	1 Mar 1992	investigate this query
+England	won	8 wickets	55	lost	2nd		ODI v Australia	Sydney	5 Mar 1992	investigate this query
+England	won	106 runs		won	1st		ODI v Sri Lanka	Ballarat	9 Mar 1992	investigate this query
+England	won	3 wickets	1	won	2nd		ODI v South Africa	Melbourne	12 Mar 1992	investigate this query
+England	lost	7 wickets	55	lost	1st		ODI v New Zealand	Wellington	15 Mar 1992	investigate this query
+England	lost	9 runs		won	2nd		ODI v Zimbabwe	Albury	18 Mar 1992	investigate this query
+England	won	19 runs		lost	1st		ODI v South Africa	Sydney	22 Mar 1992	investigate this query
+England	lost	22 runs		lost	2nd		ODI v Pakistan	Melbourne	25 Mar 1992	investigate this query
+England	won	79 runs		lost	1st		ODI v Pakistan	Lord's	20 May 1992	investigate this query
+England	won	39 runs		won	1st		ODI v Pakistan	The Oval	22 May 1992	investigate this query
+England	draw	-		won	2nd		Test v Pakistan	Birmingham	4 Jun 1992	investigate this query
+England	lost	2 wickets		won	1st		Test v Pakistan	Lord's	18 Jun 1992	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Manchester	2 Jul 1992	investigate this query
+England	won	6 wickets		lost	2nd		Test v Pakistan	Leeds	23 Jul 1992	investigate this query
+England	lost	10 wickets		won	1st		Test v Pakistan	The Oval	6 Aug 1992	investigate this query
+England	won	198 runs		lost	1st		ODI v Pakistan	Nottingham	20 Aug 1992	investigate this query
+England	lost	3 runs		lost	2nd		ODI v Pakistan	Lord's	22 Aug 1992	investigate this query
+England	won	6 wickets	68	lost	2nd		ODI v Pakistan	Manchester	24 Aug 1992	investigate this query
+England	canc	-		-	-		ODI v India	Ahmedabad	16 Jan 1993	investigate this query
+England	won	4 wickets	0	won	2nd		ODI v India	Jaipur	18 Jan 1993	investigate this query
+England	lost	5 wickets	29	lost	1st		ODI v India	Chandigarh	21 Jan 1993	investigate this query
+England	lost	8 wickets		lost	2nd		Test v India	Kolkata	29 Jan 1993	investigate this query
+England	lost	inns & 22 runs		lost	2nd		Test v India	Chennai	11 Feb 1993	investigate this query
+England	lost	inns & 15 runs		won	1st		Test v India	Mumbai	19 Feb 1993	investigate this query
+England	won	48 runs		lost	1st		ODI v India	Bangalore	26 Feb 1993	investigate this query
+England	won	6 wickets	2	won	2nd		ODI v India	Jamshedpur	1 Mar 1993	investigate this query
+England	lost	3 wickets	12	lost	1st		ODI v India	Gwalior	4 Mar 1993	investigate this query
+England	lost	4 wickets	8	lost	1st		ODI v India	Gwalior	5 Mar 1993	investigate this query
+England	lost	32 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	10 Mar 1993	investigate this query
+England	lost	5 wickets		won	1st		Test v Sri Lanka	Colombo (SSC)	13 Mar 1993	investigate this query
+England	lost	8 wickets	88	lost	1st		ODI v Sri Lanka	Moratuwa	20 Mar 1993	investigate this query
+England	lost	4 runs		won	2nd		ODI v Australia	Manchester	19 May 1993	investigate this query
+England	lost	6 wickets	9	lost	1st		ODI v Australia	Birmingham	21 May 1993	investigate this query
+England	lost	19 runs		won	2nd		ODI v Australia	Lord's	23 May 1993	investigate this query
+England	lost	179 runs		won	2nd		Test v Australia	Manchester	3 Jun 1993	investigate this query
+England	lost	inns & 62 runs		lost	2nd		Test v Australia	Lord's	17 Jun 1993	investigate this query
+England	draw	-		won	1st		Test v Australia	Nottingham	1 Jul 1993	investigate this query
+England	lost	inns & 148 runs		lost	2nd		Test v Australia	Leeds	22 Jul 1993	investigate this query
+England	lost	8 wickets		won	1st		Test v Australia	Birmingham	5 Aug 1993	investigate this query
+England	won	161 runs		won	1st		Test v Australia	The Oval	19 Aug 1993	investigate this query
+England	won	61 runs		won	1st		ODI v West Indies	Bridgetown	16 Feb 1994	investigate this query
+England	lost	8 wickets		won	1st		Test v West Indies	Kingston	19 Feb 1994	investigate this query
+England	lost	3 wickets	7	lost	1st		ODI v West Indies	Kingston	26 Feb 1994	investigate this query
+England	lost	165 runs		won	2nd		ODI v West Indies	Kingstown	2 Mar 1994	investigate this query
+England	lost	15 runs		won	2nd		ODI v West Indies	Port of Spain	5 Mar 1994	investigate this query
+England	won	5 wickets	20	lost	2nd		ODI v West Indies	Port of Spain	6 Mar 1994	investigate this query
+England	lost	inns & 44 runs		lost	1st		Test v West Indies	Georgetown	17 Mar 1994	investigate this query
+England	lost	147 runs		lost	2nd		Test v West Indies	Port of Spain	25 Mar 1994	investigate this query
+England	won	208 runs		lost	1st		Test v West Indies	Bridgetown	8 Apr 1994	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	St John's	16 Apr 1994	investigate this query
+England	won	42 runs		lost	1st		ODI v New Zealand	Birmingham	19 May 1994	investigate this query
+England	aban	-		-	-		ODI v New Zealand	Lord's	21 May 1994	investigate this query
+England	won	inns & 90 runs		lost	2nd		Test v New Zealand	Nottingham	2 Jun 1994	investigate this query
+England	draw	-		lost	2nd		Test v New Zealand	Lord's	16 Jun 1994	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Manchester	30 Jun 1994	investigate this query
+England	lost	356 runs		lost	2nd		Test v South Africa	Lord's	21 Jul 1994	investigate this query
+England	draw	-		won	1st		Test v South Africa	Leeds	4 Aug 1994	investigate this query
+England	won	8 wickets		lost	2nd		Test v South Africa	The Oval	18 Aug 1994	investigate this query
+England	won	6 wickets	6	lost	2nd		ODI v South Africa	Birmingham	25 Aug 1994	investigate this query
+England	won	4 wickets	40	won	2nd		ODI v South Africa	Manchester	27 Aug 1994	investigate this query
+England	lost	184 runs		lost	2nd		Test v Australia	Brisbane	25 Nov 1994	investigate this query
+England	lost	28 runs		lost	2nd		ODI v Australia	Sydney	6 Dec 1994	investigate this query
+England	lost	13 runs		lost	2nd		ODI v Zimbabwe	Sydney	15 Dec 1994	investigate this query
+England	lost	295 runs		won	2nd		Test v Australia	Melbourne	24 Dec 1994	investigate this query
+England	draw	-		won	1st		Test v Australia	Sydney	1 Jan 1995	investigate this query
+England	won	26 runs		won	1st		ODI v Zimbabwe	Brisbane	7 Jan 1995	investigate this query
+England	won	37 runs		won	1st		ODI v Australia	Melbourne	10 Jan 1995	investigate this query
+England	won	106 runs		won	1st		Test v Australia	Adelaide	26 Jan 1995	investigate this query
+England	lost	329 runs		lost	2nd		Test v Australia	Perth	3 Feb 1995	investigate this query
+England	lost	5 wickets	14	lost	1st		ODI v West Indies	Nottingham	24 May 1995	investigate this query
+England	won	25 runs		lost	1st		ODI v West Indies	The Oval	26 May 1995	investigate this query
+England	won	73 runs		lost	1st		ODI v West Indies	Lord's	28 May 1995	investigate this query
+England	lost	9 wickets		lost	1st		Test v West Indies	Leeds	8 Jun 1995	investigate this query
+England	won	72 runs		won	1st		Test v West Indies	Lord's	22 Jun 1995	investigate this query
+England	lost	inns & 64 runs		won	1st		Test v West Indies	Birmingham	6 Jul 1995	investigate this query
+England	won	6 wickets		lost	2nd		Test v West Indies	Manchester	27 Jul 1995	investigate this query
+England	draw	-		won	1st		Test v West Indies	Nottingham	10 Aug 1995	investigate this query
+England	draw	-		won	1st		Test v West Indies	The Oval	24 Aug 1995	investigate this query
+England	draw	-		lost	1st		Test v South Africa	Centurion	16 Nov 1995	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Johannesburg	30 Nov 1995	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Durban	14 Dec 1995	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Port Elizabeth	26 Dec 1995	investigate this query
+England	lost	10 wickets		won	1st		Test v South Africa	Cape Town	2 Jan 1996	investigate this query
+England	lost	6 runs		lost	2nd		ODI v South Africa	Cape Town	9 Jan 1996	investigate this query
+England	won	5 wickets	10	lost	2nd		ODI v South Africa	Bloemfontein	11 Jan 1996	investigate this query
+England	lost	3 wickets	11	won	1st		ODI v South Africa	Johannesburg	13 Jan 1996	investigate this query
+England	lost	7 wickets	12	won	1st		ODI v South Africa	Centurion	14 Jan 1996	investigate this query
+England	lost	5 wickets	10	lost	1st		ODI v South Africa	Durban	17 Jan 1996	investigate this query
+England	lost	14 runs		lost	2nd		ODI v South Africa	East London	19 Jan 1996	investigate this query
+England	lost	64 runs		lost	2nd		ODI v South Africa	Port Elizabeth	21 Jan 1996	investigate this query
+England	lost	11 runs		won	2nd		ODI v New Zealand	Ahmedabad	14 Feb 1996	investigate this query
+England	won	8 wickets	90	lost	2nd		ODI v U.A.E.	Peshawar	18 Feb 1996	investigate this query
+England	won	49 runs		won	1st		ODI v Netherlands	Peshawar	22 Feb 1996	investigate this query
+England	lost	78 runs		lost	2nd		ODI v South Africa	Rawalpindi	25 Feb 1996	investigate this query
+England	lost	7 wickets	14	won	1st		ODI v Pakistan	Karachi	3 Mar 1996	investigate this query
+England	lost	5 wickets	56	won	1st		ODI v Sri Lanka	Faisalabad	9 Mar 1996	investigate this query
+England	n/r	-		won	1st		ODI v India	The Oval	23 May 1996	investigate this query
+England	won	6 wickets	15	won	2nd		ODI v India	Leeds	25 May 1996	investigate this query
+England	won	4 wickets	7	lost	2nd		ODI v India	Manchester	26 May 1996	investigate this query
+England	won	8 wickets		lost	2nd		Test v India	Birmingham	6 Jun 1996	investigate this query
+England	draw	-		lost	1st		Test v India	Lord's	20 Jun 1996	investigate this query
+England	draw	-		lost	2nd		Test v India	Nottingham	4 Jul 1996	investigate this query
+England	lost	164 runs		lost	2nd		Test v Pakistan	Lord's	25 Jul 1996	investigate this query
+England	draw	-		won	2nd		Test v Pakistan	Leeds	8 Aug 1996	investigate this query
+England	lost	9 wickets		won	1st		Test v Pakistan	The Oval	22 Aug 1996	investigate this query
+England	won	5 wickets	20	lost	2nd		ODI v Pakistan	Manchester	29 Aug 1996	investigate this query
+England	won	107 runs		lost	1st		ODI v Pakistan	Birmingham	31 Aug 1996	investigate this query
+England	lost	2 wickets	2	won	1st		ODI v Pakistan	Nottingham	1 Sep 1996	investigate this query
+England	lost	2 wickets	37	lost	1st		ODI v Zimbabwe	Bulawayo	15 Dec 1996	investigate this query
+England	draw	-		lost	2nd		Test v Zimbabwe	Bulawayo	18 Dec 1996	investigate this query
+England	draw	-		lost	1st		Test v Zimbabwe	Harare	26 Dec 1996	investigate this query
+England	lost	7 runs		won	2nd		ODI v Zimbabwe	Harare	1 Jan 1997	investigate this query
+England	lost	131 runs		won	2nd		ODI v Zimbabwe	Harare	3 Jan 1997	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Auckland	24 Jan 1997	investigate this query
+England	won	inns & 68 runs		lost	2nd		Test v New Zealand	Wellington	6 Feb 1997	investigate this query
+England	won	4 wickets		won	2nd		Test v New Zealand	Christchurch	14 Feb 1997	investigate this query
+England	won	4 wickets	7	lost	2nd		ODI v New Zealand	Christchurch	20 Feb 1997	investigate this query
+England	won	6 wickets	39	lost	2nd		ODI v New Zealand	Auckland	23 Feb 1997	investigate this query
+England	tied	-		lost	2nd		ODI v New Zealand	Napier	26 Feb 1997	investigate this query
+England	lost	9 runs		won	2nd		ODI v New Zealand	Auckland	2 Mar 1997	investigate this query
+England	lost	28 runs		lost	2nd		ODI v New Zealand	Wellington	4 Mar 1997	investigate this query
+England	won	6 wickets	59	won	2nd		ODI v Australia	Leeds	22 May 1997	investigate this query
+England	won	6 wickets	10	won	2nd		ODI v Australia	The Oval	24 May 1997	investigate this query
+England	won	6 wickets	6	won	2nd		ODI v Australia	Lord's	25 May 1997	investigate this query
+England	won	9 wickets		lost	2nd		Test v Australia	Birmingham	5 Jun 1997	investigate this query
+England	draw	-		lost	1st		Test v Australia	Lord's	19 Jun 1997	investigate this query
+England	lost	268 runs		lost	2nd		Test v Australia	Manchester	3 Jul 1997	investigate this query
+England	lost	inns & 61 runs		lost	1st		Test v Australia	Leeds	24 Jul 1997	investigate this query
+England	lost	264 runs		lost	2nd		Test v Australia	Nottingham	7 Aug 1997	investigate this query
+England	won	19 runs		won	1st		Test v Australia	The Oval	21 Aug 1997	investigate this query
+England	won	7 runs		lost	1st		ODI v India	Sharjah	11 Dec 1997	investigate this query
+England	won	4 wickets	25	lost	2nd		ODI v West Indies	Sharjah	13 Dec 1997	investigate this query
+England	won	8 runs		won	1st		ODI v Pakistan	Sharjah	15 Dec 1997	investigate this query
+England	won	3 wickets	11	lost	2nd		ODI v West Indies	Sharjah	19 Dec 1997	investigate this query
+England	draw	-		won	1st		Test v West Indies	Kingston	29 Jan 1998	investigate this query
+England	lost	3 wickets		won	1st		Test v West Indies	Port of Spain	5 Feb 1998	investigate this query
+England	won	3 wickets		won	2nd		Test v West Indies	Port of Spain	13 Feb 1998	investigate this query
+England	lost	242 runs		lost	2nd		Test v West Indies	Georgetown	27 Feb 1998	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Bridgetown	12 Mar 1998	investigate this query
+England	lost	inns & 52 runs		lost	1st		Test v West Indies	St John's	20 Mar 1998	investigate this query
+England	won	16 runs		lost	1st		ODI v West Indies	Bridgetown	29 Mar 1998	investigate this query
+England	lost	1 wickets	1	lost	1st		ODI v West Indies	Bridgetown	1 Apr 1998	investigate this query
+England	lost	5 wickets	11	won	1st		ODI v West Indies	Kingstown	4 Apr 1998	investigate this query
+England	lost	4 wickets	74	won	1st		ODI v West Indies	Kingstown	5 Apr 1998	investigate this query
+England	lost	57 runs		lost	2nd		ODI v West Indies	Port of Spain	8 Apr 1998	investigate this query
+England	lost	3 wickets	8	lost	1st		ODI v South Africa	The Oval	21 May 1998	investigate this query
+England	lost	32 runs		won	2nd		ODI v South Africa	Manchester	23 May 1998	investigate this query
+England	won	7 wickets	90	lost	2nd		ODI v South Africa	Leeds	24 May 1998	investigate this query
+England	draw	-		lost	1st		Test v South Africa	Birmingham	4 Jun 1998	investigate this query
+England	lost	10 wickets		won	2nd		Test v South Africa	Lord's	18 Jun 1998	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Manchester	2 Jul 1998	investigate this query
+England	won	8 wickets		won	2nd		Test v South Africa	Nottingham	23 Jul 1998	investigate this query
+England	won	23 runs		won	1st		Test v South Africa	Leeds	6 Aug 1998	investigate this query
+England	won	36 runs		lost	1st		ODI v Sri Lanka	Lord's	16 Aug 1998	investigate this query
+England	lost	14 runs		lost	2nd		ODI v South Africa	Birmingham	18 Aug 1998	investigate this query
+England	lost	5 wickets	17	won	1st		ODI v Sri Lanka	Lord's	20 Aug 1998	investigate this query
+England	lost	10 wickets		lost	1st		Test v Sri Lanka	The Oval	27 Aug 1998	investigate this query
+England	lost	6 wickets	20	won	1st		ODI v South Africa	Dhaka	25 Oct 1998	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Brisbane	20 Nov 1998	investigate this query
+England	lost	7 wickets		lost	1st		Test v Australia	Perth	28 Nov 1998	investigate this query
+England	lost	205 runs		lost	2nd		Test v Australia	Adelaide	11 Dec 1998	investigate this query
+England	won	12 runs		lost	1st		Test v Australia	Melbourne	26 Dec 1998	investigate this query
+England	lost	98 runs		lost	2nd		Test v Australia	Sydney	2 Jan 1999	investigate this query
+England	won	7 runs		won	1st		ODI v Australia	Brisbane	10 Jan 1999	investigate this query
+England	won	4 wickets	3	lost	2nd		ODI v Sri Lanka	Brisbane	11 Jan 1999	investigate this query
+England	lost	9 wickets	64	won	1st		ODI v Australia	Melbourne	15 Jan 1999	investigate this query
+England	won	7 runs		won	1st		ODI v Australia	Sydney	17 Jan 1999	investigate this query
+England	won	7 wickets	28	lost	2nd		ODI v Sri Lanka	Melbourne	19 Jan 1999	investigate this query
+England	lost	1 wickets	2	lost	1st		ODI v Sri Lanka	Adelaide	23 Jan 1999	investigate this query
+England	lost	16 runs		lost	2nd		ODI v Australia	Adelaide	26 Jan 1999	investigate this query
+England	won	128 runs		lost	1st		ODI v Sri Lanka	Perth	29 Jan 1999	investigate this query
+England	lost	11 runs		won	2nd		ODI v Sri Lanka	Sydney	3 Feb 1999	investigate this query
+England	lost	4 wickets	18	won	1st		ODI v Australia	Sydney	5 Feb 1999	investigate this query
+England	lost	10 runs		lost	2nd		ODI v Australia	Sydney	10 Feb 1999	investigate this query
+England	aban	-		won	1st		ODI v Australia	Melbourne	12 Feb 1999	investigate this query
+England	lost	162 runs		lost	2nd		ODI v Australia	Melbourne	13 Feb 1999	investigate this query
+England	lost	90 runs		lost	2nd		ODI v Pakistan	Sharjah	7 Apr 1999	investigate this query
+England	lost	20 runs		lost	2nd		ODI v India	Sharjah	9 Apr 1999	investigate this query
+England	lost	9 runs		lost	2nd		ODI v India	Sharjah	11 Apr 1999	investigate this query
+England	won	62 runs		won	1st		ODI v Pakistan	Sharjah	12 Apr 1999	investigate this query
+England	won	8 wickets	19	won	2nd		ODI v Sri Lanka	Lord's	14 May 1999	investigate this query
+England	won	9 wickets	66	won	2nd		ODI v Kenya	Canterbury	18 May 1999	investigate this query
+England	lost	122 runs		won	2nd		ODI v South Africa	The Oval	22 May 1999	investigate this query
+England	won	7 wickets	69	won	2nd		ODI v Zimbabwe	Nottingham	25 May 1999	investigate this query
+England	lost	63 runs		won	2nd		ODI v India	Birmingham	29 May 1999	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	Birmingham	1 Jul 1999	investigate this query
+England	lost	9 wickets		won	1st		Test v New Zealand	Lord's	22 Jul 1999	investigate this query
+England	draw	-		won	1st		Test v New Zealand	Manchester	5 Aug 1999	investigate this query
+England	lost	83 runs		won	2nd		Test v New Zealand	The Oval	19 Aug 1999	investigate this query
+England	lost	inns & 21 runs		lost	1st		Test v South Africa	Johannesburg	25 Nov 1999	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Port Elizabeth	9 Dec 1999	investigate this query
+England	draw	-		won	1st		Test v South Africa	Durban	26 Dec 1999	investigate this query
+England	lost	inns & 37 runs		won	1st		Test v South Africa	Cape Town	2 Jan 2000	investigate this query
+England	won	2 wickets		won	2nd		Test v South Africa	Centurion	14 Jan 2000	investigate this query
+England	won	9 wickets	63	lost	2nd		ODI v South Africa	Bloemfontein	23 Jan 2000	investigate this query
+England	lost	1 runs		lost	2nd		ODI v South Africa	Cape Town	26 Jan 2000	investigate this query
+England	lost	104 runs		lost	2nd		ODI v Zimbabwe	Cape Town	28 Jan 2000	investigate this query
+England	won	8 wickets	107	lost	2nd		ODI v Zimbabwe	Kimberley	30 Jan 2000	investigate this query
+England	lost	2 wickets	2	lost	1st		ODI v South Africa	East London	4 Feb 2000	investigate this query
+England	aban	-		-	-		ODI v Zimbabwe	Centurion	9 Feb 2000	investigate this query
+England	lost	38 runs		won	2nd		ODI v South Africa	Johannesburg	13 Feb 2000	investigate this query
+England	won	5 wickets	9	lost	2nd		ODI v Zimbabwe	Bulawayo	16 Feb 2000	investigate this query
+England	won	1 wickets	22	won	2nd		ODI v Zimbabwe	Bulawayo	18 Feb 2000	investigate this query
+England	won	85 runs		lost	1st		ODI v Zimbabwe	Harare	20 Feb 2000	investigate this query
+England	aban	-		-	-		ODI v Zimbabwe	Harare	23 Feb 2000	investigate this query
+England	won	inns & 209 runs		won	2nd		Test v Zimbabwe	Lord's	18 May 2000	investigate this query
+England	draw	-		lost	1st		Test v Zimbabwe	Nottingham	1 Jun 2000	investigate this query
+England	lost	inns & 93 runs		lost	1st		Test v West Indies	Birmingham	15 Jun 2000	investigate this query
+England	won	2 wickets		won	2nd		Test v West Indies	Lord's	29 Jun 2000	investigate this query
+England	lost	5 wickets	10	won	1st		ODI v Zimbabwe	The Oval	8 Jul 2000	investigate this query
+England	n/r	-		lost	1st		ODI v West Indies	Lord's	9 Jul 2000	investigate this query
+England	won	8 wickets	177	lost	2nd		ODI v Zimbabwe	Manchester	13 Jul 2000	investigate this query
+England	won	10 wickets	88	won	2nd		ODI v West Indies	Chester-le-Street	15 Jul 2000	investigate this query
+England	won	52 runs		won	1st		ODI v Zimbabwe	Birmingham	18 Jul 2000	investigate this query
+England	lost	3 runs		won	2nd		ODI v West Indies	Nottingham	20 Jul 2000	investigate this query
+England	won	6 wickets	28	won	2nd		ODI v Zimbabwe	Lord's	22 Jul 2000	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	Manchester	3 Aug 2000	investigate this query
+England	won	inns & 39 runs		lost	2nd		Test v West Indies	Leeds	17 Aug 2000	investigate this query
+England	won	158 runs		lost	1st		Test v West Indies	The Oval	31 Aug 2000	investigate this query
+England	won	8 wickets	37	lost	2nd		ODI v Bangladesh	Nairobi (Gym)	5 Oct 2000	investigate this query
+England	lost	8 wickets	65	won	1st		ODI v South Africa	Nairobi (Gym)	10 Oct 2000	investigate this query
+England	won	5 wickets	16	lost	2nd		ODI v Pakistan	Karachi	24 Oct 2000	investigate this query
+England	lost	8 wickets	34	lost	1st		ODI v Pakistan	Lahore	27 Oct 2000	investigate this query
+England	lost	6 wickets	39	lost	1st		ODI v Pakistan	Rawalpindi	30 Oct 2000	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lahore	15 Nov 2000	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Faisalabad	29 Nov 2000	investigate this query
+England	won	6 wickets		lost	2nd		Test v Pakistan	Karachi	7 Dec 2000	investigate this query
+England	lost	inns & 28 runs		lost	2nd		Test v Sri Lanka	Galle	22 Feb 2001	investigate this query
+England	won	3 wickets		lost	2nd		Test v Sri Lanka	Kandy	7 Mar 2001	investigate this query
+England	won	4 wickets		lost	2nd		Test v Sri Lanka	Colombo (SSC)	15 Mar 2001	investigate this query
+England	lost	5 wickets	55	won	1st		ODI v Sri Lanka	Dambulla	23 Mar 2001	investigate this query
+England	lost	66 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	25 Mar 2001	investigate this query
+England	lost	10 wickets	97	lost	1st		ODI v Sri Lanka	Colombo (SSC)	27 Mar 2001	investigate this query
+England	won	inns & 9 runs		lost	1st		Test v Pakistan	Lord's	17 May 2001	investigate this query
+England	lost	108 runs		lost	2nd		Test v Pakistan	Manchester	31 May 2001	investigate this query
+England	lost	108 runs		lost	2nd		ODI v Pakistan	Birmingham	7 Jun 2001	investigate this query
+England	lost	5 wickets	3	won	1st		ODI v Australia	Bristol	10 Jun 2001	investigate this query
+England	lost	2 runs		won	2nd		ODI v Pakistan	Lord's	12 Jun 2001	investigate this query
+England	lost	125 runs		lost	2nd		ODI v Australia	Manchester	14 Jun 2001	investigate this query
+England	lost			lost	1st		ODI v Pakistan	Leeds	17 Jun 2001	investigate this query
+England	lost	8 wickets	119	won	1st		ODI v Australia	The Oval	21 Jun 2001	investigate this query
+England	lost	inns & 118 runs		lost	1st		Test v Australia	Birmingham	5 Jul 2001	investigate this query
+England	lost	8 wickets		lost	1st		Test v Australia	Lord's	19 Jul 2001	investigate this query
+England	lost	7 wickets		won	1st		Test v Australia	Nottingham	2 Aug 2001	investigate this query
+England	won	6 wickets		lost	2nd		Test v Australia	Leeds	16 Aug 2001	investigate this query
+England	lost	inns & 25 runs		lost	2nd		Test v Australia	The Oval	23 Aug 2001	investigate this query
+England	won	5 wickets	20	lost	2nd		ODI v Zimbabwe	Harare	3 Oct 2001	investigate this query
+England	won	8 wickets	75	lost	2nd		ODI v Zimbabwe	Harare	6 Oct 2001	investigate this query
+England	won	4 wickets	15	lost	2nd		ODI v Zimbabwe	Harare	7 Oct 2001	investigate this query
+England	won	70 runs		won	1st		ODI v Zimbabwe	Bulawayo	10 Oct 2001	investigate this query
+England	won	7 wickets	38	lost	2nd		ODI v Zimbabwe	Bulawayo	13 Oct 2001	investigate this query
+England	lost	10 wickets		lost	1st		Test v India	Mohali	3 Dec 2001	investigate this query
+England	draw	-		won	1st		Test v India	Ahmedabad	11 Dec 2001	investigate this query
+England	draw	-		won	1st		Test v India	Bangalore	19 Dec 2001	investigate this query
+England	lost	22 runs		lost	2nd		ODI v India	Kolkata	19 Jan 2002	investigate this query
+England	won	16 runs		lost	1st		ODI v India	Cuttack	22 Jan 2002	investigate this query
+England	lost	4 wickets	20	won	1st		ODI v India	Chennai	25 Jan 2002	investigate this query
+England	lost	8 wickets	56	won	1st		ODI v India	Kanpur	28 Jan 2002	investigate this query
+England	won	2 runs		lost	1st		ODI v India	Delhi	31 Jan 2002	investigate this query
+England	won	5 runs		won	1st		ODI v India	Mumbai	3 Feb 2002	investigate this query
+England	lost	4 wickets	21	won	1st		ODI v New Zealand	Christchurch	13 Feb 2002	investigate this query
+England	lost	155 runs		won	2nd		ODI v New Zealand	Wellington	16 Feb 2002	investigate this query
+England	won	43 runs		lost	1st		ODI v New Zealand	Napier	20 Feb 2002	investigate this query
+England	won	33 runs		won	1st		ODI v New Zealand	Auckland	23 Feb 2002	investigate this query
+England	lost	5 wickets	7	won	1st		ODI v New Zealand	Dunedin	26 Feb 2002	investigate this query
+England	won	98 runs		lost	1st		Test v New Zealand	Christchurch	13 Mar 2002	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Wellington	21 Mar 2002	investigate this query
+England	lost	78 runs		lost	2nd		Test v New Zealand	Auckland	30 Mar 2002	investigate this query
+England	draw	-		lost	2nd		Test v Sri Lanka	Lord's	16 May 2002	investigate this query
+England	won	inns & 111 runs		won	2nd		Test v Sri Lanka	Birmingham	30 May 2002	investigate this query
+England	won	10 wickets		won	1st		Test v Sri Lanka	Manchester	13 Jun 2002	investigate this query
+England	won	44 runs		won	1st		ODI v Sri Lanka	Nottingham	27 Jun 2002	investigate this query
+England	lost	6 wickets	7	won	1st		ODI v India	Lord's	29 Jun 2002	investigate this query
+England	won	3 wickets	4	won	2nd		ODI v Sri Lanka	Leeds	2 Jul 2002	investigate this query
+England	n/r	-		lost	2nd		ODI v India	Chester-le-Street	4 Jul 2002	investigate this query
+England	lost	23 runs		lost	2nd		ODI v Sri Lanka	Manchester	7 Jul 2002	investigate this query
+England	won	64 runs		lost	1st		ODI v India	The Oval	9 Jul 2002	investigate this query
+England	lost	2 wickets	3	won	1st		ODI v India	Lord's	13 Jul 2002	investigate this query
+England	won	170 runs		won	1st		Test v India	Lord's	25 Jul 2002	investigate this query
+England	draw	-		lost	2nd		Test v India	Nottingham	8 Aug 2002	investigate this query
+England	lost	inns & 46 runs		lost	2nd		Test v India	Leeds	22 Aug 2002	investigate this query
+England	draw	-		won	1st		Test v India	The Oval	5 Sep 2002	investigate this query
+England	won	108 runs		won	1st		ODI v Zimbabwe	Colombo (RPS)	18 Sep 2002	investigate this query
+England	lost	8 wickets	63	won	1st		ODI v India	Colombo (RPS)	22 Sep 2002	investigate this query
+England	lost	384 runs		won	2nd		Test v Australia	Brisbane	7 Nov 2002	investigate this query
+England	lost	inns & 51 runs		won	1st		Test v Australia	Adelaide	21 Nov 2002	investigate this query
+England	lost	inns & 48 runs		won	1st		Test v Australia	Perth	29 Nov 2002	investigate this query
+England	lost	7 wickets	30	won	1st		ODI v Australia	Sydney	13 Dec 2002	investigate this query
+England	lost	89 runs		lost	2nd		ODI v Australia	Melbourne	15 Dec 2002	investigate this query
+England	won	43 runs		won	1st		ODI v Sri Lanka	Brisbane	17 Dec 2002	investigate this query
+England	won	95 runs		won	1st		ODI v Sri Lanka	Perth	20 Dec 2002	investigate this query
+England	lost	5 wickets		lost	2nd		Test v Australia	Melbourne	26 Dec 2002	investigate this query
+England	won	225 runs		won	1st		Test v Australia	Sydney	2 Jan 2003	investigate this query
+England	lost	7 runs		lost	2nd		ODI v Australia	Hobart	11 Jan 2003	investigate this query
+England	lost	31 runs		lost	2nd		ODI v Sri Lanka	Sydney	13 Jan 2003	investigate this query
+England	won	19 runs		won	1st		ODI v Sri Lanka	Adelaide	17 Jan 2003	investigate this query
+England	lost	4 wickets	15	won	1st		ODI v Australia	Adelaide	19 Jan 2003	investigate this query
+England	lost	10 wickets	226	won	1st		ODI v Australia	Sydney	23 Jan 2003	investigate this query
+England	lost	5 runs		lost	2nd		ODI v Australia	Melbourne	25 Jan 2003	investigate this query
+England	lost			-	-		ODI v Zimbabwe	Harare	13 Feb 2003	investigate this query
+England	won	6 wickets	160	won	2nd		ODI v Netherlands	East London	16 Feb 2003	investigate this query
+England	won	55 runs		lost	1st		ODI v Namibia	Port Elizabeth	19 Feb 2003	investigate this query
+England	won	112 runs		won	1st		ODI v Pakistan	Cape Town	22 Feb 2003	investigate this query
+England	lost	82 runs		lost	2nd		ODI v India	Durban	26 Feb 2003	investigate this query
+England	lost	2 wickets	2	won	1st		ODI v Australia	Port Elizabeth	2 Mar 2003	investigate this query
+England	won	inns & 92 runs		lost	1st		Test v Zimbabwe	Lord's	22 May 2003	investigate this query
+England	won	inns & 69 runs		won	1st		Test v Zimbabwe	Chester-le-Street	5 Jun 2003	investigate this query
+England	lost	2 wickets	4	won	1st		ODI v Pakistan	Manchester	17 Jun 2003	investigate this query
+England	won	7 wickets	168	lost	2nd		ODI v Pakistan	The Oval	20 Jun 2003	investigate this query
+England	won	4 wickets	9	won	2nd		ODI v Pakistan	Lord's	22 Jun 2003	investigate this query
+England	lost	4 wickets	12	lost	1st		ODI v Zimbabwe	Nottingham	26 Jun 2003	investigate this query
+England	won	6 wickets	25	lost	2nd		ODI v South Africa	The Oval	28 Jun 2003	investigate this query
+England	n/r	-		lost	1st		ODI v Zimbabwe	Leeds	1 Jul 2003	investigate this query
+England	lost	7 wickets	15	won	1st		ODI v South Africa	Manchester	3 Jul 2003	investigate this query
+England	won	6 wickets	193	won	2nd		ODI v Zimbabwe	Bristol	6 Jul 2003	investigate this query
+England	won	4 wickets	66	lost	2nd		ODI v South Africa	Birmingham	8 Jul 2003	investigate this query
+England	won	7 wickets	178	won	2nd		ODI v South Africa	Lord's	12 Jul 2003	investigate this query
+England	draw	-		lost	2nd		Test v South Africa	Birmingham	24 Jul 2003	investigate this query
+England	lost	inns & 92 runs		lost	1st		Test v South Africa	Lord's	31 Jul 2003	investigate this query
+England	won	70 runs		won	1st		Test v South Africa	Nottingham	14 Aug 2003	investigate this query
+England	lost	191 runs		lost	2nd		Test v South Africa	Leeds	21 Aug 2003	investigate this query
+England	won	9 wickets		lost	2nd		Test v South Africa	The Oval	4 Sep 2003	investigate this query
+England	won	7 wickets		lost	2nd		Test v Bangladesh	Dhaka	21 Oct 2003	investigate this query
+England	won	329 runs		lost	1st		Test v Bangladesh	Chittagong	29 Oct 2003	investigate this query
+England	won	7 wickets	147	lost	2nd		ODI v Bangladesh	Chittagong	7 Nov 2003	investigate this query
+England	won	7 wickets	134	lost	2nd		ODI v Bangladesh	Dhaka	10 Nov 2003	investigate this query
+England	won	7 wickets	63	lost	2nd		ODI v Bangladesh	Dhaka	12 Nov 2003	investigate this query
+England	lost	10 wickets	217	won	1st		ODI v Sri Lanka	Dambulla	18 Nov 2003	investigate this query
+England	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	21 Nov 2003	investigate this query
+England	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	23 Nov 2003	investigate this query
+England	draw	-		lost	2nd		Test v Sri Lanka	Galle	2 Dec 2003	investigate this query
+England	draw	-		lost	2nd		Test v Sri Lanka	Kandy	10 Dec 2003	investigate this query
+England	lost	inns & 215 runs		won	1st		Test v Sri Lanka	Colombo (SSC)	18 Dec 2003	investigate this query
+England	won	10 wickets		lost	2nd		Test v West Indies	Kingston	11 Mar 2004	investigate this query
+England	won	7 wickets		lost	2nd		Test v West Indies	Port of Spain	19 Mar 2004	investigate this query
+England	won	8 wickets		won	2nd		Test v West Indies	Bridgetown	1 Apr 2004	investigate this query
+England	draw	-		lost	2nd		Test v West Indies	St John's	10 Apr 2004	investigate this query
+England	won	2 wickets	3	won	2nd		ODI v West Indies	Georgetown	18 Apr 2004	investigate this query
+England	n/r	-		lost	2nd		ODI v West Indies	Port of Spain	24 Apr 2004	investigate this query
+England	aban	-		-	-		ODI v West Indies	Port of Spain	25 Apr 2004	investigate this query
+England	aban	-		-	-		ODI v West Indies	St George's	28 Apr 2004	investigate this query
+England	lost	5 wickets	12	lost	1st		ODI v West Indies	Gros Islet	1 May 2004	investigate this query
+England	lost	4 wickets	17	lost	1st		ODI v West Indies	Gros Islet	2 May 2004	investigate this query
+England	won	5 wickets	16	won	2nd		ODI v West Indies	Bridgetown	5 May 2004	investigate this query
+England	won	7 wickets		lost	2nd		Test v New Zealand	Lord's	20 May 2004	investigate this query
+England	won	9 wickets		won	2nd		Test v New Zealand	Leeds	3 Jun 2004	investigate this query
+England	won	4 wickets		lost	2nd		Test v New Zealand	Nottingham	10 Jun 2004	investigate this query
+England	aban	-		-	-		ODI v New Zealand	Manchester	24 Jun 2004	investigate this query
+England	lost	7 wickets	106	lost	1st		ODI v West Indies	Nottingham	27 Jun 2004	investigate this query
+England	lost	7 wickets	196	lost	1st		ODI v New Zealand	Chester-le-Street	29 Jun 2004	investigate this query
+England	won	7 wickets	168	won	2nd		ODI v West Indies	Leeds	1 Jul 2004	investigate this query
+England	lost	6 wickets	16	lost	1st		ODI v New Zealand	Bristol	4 Jul 2004	investigate this query
+England	lost	7 wickets	5	lost	1st		ODI v West Indies	Lord's	6 Jul 2004	investigate this query
+England	won	210 runs		lost	1st		Test v West Indies	Lord's	22 Jul 2004	investigate this query
+England	won	256 runs		won	1st		Test v West Indies	Birmingham	29 Jul 2004	investigate this query
+England	won	7 wickets		lost	2nd		Test v West Indies	Manchester	12 Aug 2004	investigate this query
+England	won	10 wickets		won	1st		Test v West Indies	The Oval	19 Aug 2004	investigate this query
+England	won	7 wickets	106	won	2nd		ODI v India	Nottingham	1 Sep 2004	investigate this query
+England	won	70 runs		lost	1st		ODI v India	The Oval	3 Sep 2004	investigate this query
+England	lost	23 runs		lost	2nd		ODI v India	Lord's	5 Sep 2004	investigate this query
+England	won	152 runs		lost	1st		ODI v Zimbabwe	Birmingham	10 Sep 2004	investigate this query
+England	won	49 runs		lost	1st		ODI v Sri Lanka	Southampton	17 Sep 2004	investigate this query
+England	won	6 wickets	21	won	2nd		ODI v Australia	Birmingham	21 Sep 2004	investigate this query
+England	lost	2 wickets	7	lost	1st		ODI v West Indies	The Oval	25 Sep 2004	investigate this query
+England	won	5 wickets	14	won	2nd		ODI v Zimbabwe	Harare	28 Nov 2004	investigate this query
+England	won	161 runs		won	1st		ODI v Zimbabwe	Harare	1 Dec 2004	investigate this query
+England	won	8 wickets	41	lost	2nd		ODI v Zimbabwe	Bulawayo	4 Dec 2004	investigate this query
+England	won	74 runs		won	1st		ODI v Zimbabwe	Bulawayo	5 Dec 2004	investigate this query
+England	won	7 wickets		lost	2nd		Test v South Africa	Port Elizabeth	17 Dec 2004	investigate this query
+England	draw	-		lost	1st		Test v South Africa	Durban	26 Dec 2004	investigate this query
+England	lost	196 runs		lost	2nd		Test v South Africa	Cape Town	2 Jan 2005	investigate this query
+England	won	77 runs		won	1st		Test v South Africa	Johannesburg	13 Jan 2005	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Centurion	21 Jan 2005	investigate this query
+England	won	26 runs		won	2nd		ODI v South Africa	Johannesburg	30 Jan 2005	investigate this query
+England	tied	-		lost	1st		ODI v South Africa	Bloemfontein	2 Feb 2005	investigate this query
+England	lost	3 wickets	5	won	1st		ODI v South Africa	Port Elizabeth	4 Feb 2005	investigate this query
+England	lost	108 runs		won	2nd		ODI v South Africa	Cape Town	6 Feb 2005	investigate this query
+England	lost	7 runs		lost	2nd		ODI v South Africa	East London	9 Feb 2005	investigate this query
+England	n/r	-		lost	2nd		ODI v South Africa	Durban	11 Feb 2005	investigate this query
+England	lost	3 wickets	6	lost	1st		ODI v South Africa	Centurion	13 Feb 2005	investigate this query
+England	won	inns & 261 runs		won	2nd		Test v Bangladesh	Lord's	26 May 2005	investigate this query
+England	won	inns & 27 runs		won	2nd		Test v Bangladesh	Chester-le-Street	3 Jun 2005	investigate this query
+England	won	100 runs		won	1st		T20I v Australia	Southampton	13 Jun 2005	investigate this query
+England	won	10 wickets	151	won	2nd		ODI v Bangladesh	The Oval	16 Jun 2005	investigate this query
+England	won	3 wickets	15	lost	2nd		ODI v Australia	Bristol	19 Jun 2005	investigate this query
+England	won	168 runs		won	1st		ODI v Bangladesh	Nottingham	21 Jun 2005	investigate this query
+England	lost	57 runs		won	2nd		ODI v Australia	Chester-le-Street	23 Jun 2005	investigate this query
+England	won	5 wickets	67	lost	2nd		ODI v Bangladesh	Leeds	26 Jun 2005	investigate this query
+England	n/r	-		lost	2nd		ODI v Australia	Birmingham	28 Jun 2005	investigate this query
+England	tied	-		won	2nd		ODI v Australia	Lord's	2 Jul 2005	investigate this query
+England	won	9 wickets	24	won	2nd		ODI v Australia	Leeds	7 Jul 2005	investigate this query
+England	lost	7 wickets	34	lost	1st		ODI v Australia	Lord's	10 Jul 2005	investigate this query
+England	lost	8 wickets	91	lost	1st		ODI v Australia	The Oval	12 Jul 2005	investigate this query
+England	lost	239 runs		lost	2nd		Test v Australia	Lord's	21 Jul 2005	investigate this query
+England	won	2 runs		lost	1st		Test v Australia	Birmingham	4 Aug 2005	investigate this query
+England	draw	-		won	1st		Test v Australia	Manchester	11 Aug 2005	investigate this query
+England	won	3 wickets		won	1st		Test v Australia	Nottingham	25 Aug 2005	investigate this query
+England	draw	-		won	1st		Test v Australia	The Oval	8 Sep 2005	investigate this query
+England	lost	22 runs		lost	2nd		Test v Pakistan	Multan	12 Nov 2005	investigate this query
+England	draw	-		lost	2nd		Test v Pakistan	Faisalabad	20 Nov 2005	investigate this query
+England	lost	inns & 100 runs		won	1st		Test v Pakistan	Lahore	29 Nov 2005	investigate this query
+England	won	42 runs		won	1st		ODI v Pakistan	Lahore	10 Dec 2005	investigate this query
+England	lost	7 wickets	36	won	1st		ODI v Pakistan	Lahore	12 Dec 2005	investigate this query
+England	lost	165 runs		won	2nd		ODI v Pakistan	Karachi	15 Dec 2005	investigate this query
+England	lost	13 runs		lost	2nd		ODI v Pakistan	Rawalpindi	19 Dec 2005	investigate this query
+England	won	6 runs		won	1st		ODI v Pakistan	Rawalpindi	21 Dec 2005	investigate this query
+England	draw	-		won	1st		Test v India	Nagpur	1 Mar 2006	investigate this query
+England	lost	9 wickets		won	1st		Test v India	Mohali	9 Mar 2006	investigate this query
+England	won	212 runs		lost	1st		Test v India	Mumbai	18 Mar 2006	investigate this query
+England	lost	39 runs		won	2nd		ODI v India	Delhi	28 Mar 2006	investigate this query
+England	lost	4 wickets	6	won	1st		ODI v India	Faridabad	31 Mar 2006	investigate this query
+England	lost	49 runs		lost	2nd		ODI v India	Margao	3 Apr 2006	investigate this query
+England	lost	4 wickets	16	won	1st		ODI v India	Kochi	6 Apr 2006	investigate this query
+England	aban	-		-	-		ODI v India	Guwahati	9 Apr 2006	investigate this query
+England	won	5 wickets	44	lost	2nd		ODI v India	Jamshedpur	12 Apr 2006	investigate this query
+England	lost	7 wickets	5	lost	1st		ODI v India	Indore	15 Apr 2006	investigate this query
+England	draw	-		won	1st		Test v Sri Lanka	Lord's	11 May 2006	investigate this query
+England	won	6 wickets		lost	2nd		Test v Sri Lanka	Birmingham	25 May 2006	investigate this query
+England	lost	134 runs		lost	2nd		Test v Sri Lanka	Nottingham	2 Jun 2006	investigate this query
+England	won	38 runs		won	1st		ODI v Ireland	Belfast	13 Jun 2006	investigate this query
+England	lost	2 runs		lost	2nd		T20I v Sri Lanka	Southampton	15 Jun 2006	investigate this query
+England	lost	20 runs		won	2nd		ODI v Sri Lanka	Lord's	17 Jun 2006	investigate this query
+England	lost	46 runs		lost	2nd		ODI v Sri Lanka	The Oval	20 Jun 2006	investigate this query
+England	lost	8 wickets	46	won	1st		ODI v Sri Lanka	Chester-le-Street	24 Jun 2006	investigate this query
+England	lost	33 runs		lost	2nd		ODI v Sri Lanka	Manchester	28 Jun 2006	investigate this query
+England	lost	8 wickets	75	won	1st		ODI v Sri Lanka	Leeds	1 Jul 2006	investigate this query
+England	draw	-		won	1st		Test v Pakistan	Lord's	13 Jul 2006	investigate this query
+England	won	inns & 120 runs		lost	2nd		Test v Pakistan	Manchester	27 Jul 2006	investigate this query
+England	won	167 runs		won	1st		Test v Pakistan	Leeds	4 Aug 2006	investigate this query
+England	won			lost	1st		Test v Pakistan	The Oval	17 Aug 2006	investigate this query
+England	lost	5 wickets	13	won	1st		T20I v Pakistan	Bristol	28 Aug 2006	investigate this query
+England	n/r	-		lost	1st		ODI v Pakistan	Cardiff	30 Aug 2006	investigate this query
+England	lost	7 wickets	20	lost	1st		ODI v Pakistan	Lord's	2 Sep 2006	investigate this query
+England	lost	2 wickets	7	lost	1st		ODI v Pakistan	Southampton	5 Sep 2006	investigate this query
+England	won	8 wickets	22	lost	2nd		ODI v Pakistan	Nottingham	8 Sep 2006	investigate this query
+England	won	3 wickets	114	won	2nd		ODI v Pakistan	Birmingham	10 Sep 2006	investigate this query
+England	lost	4 wickets	123	lost	1st		ODI v India	Jaipur	15 Oct 2006	investigate this query
+England	lost	6 wickets	79	lost	1st		ODI v Australia	Jaipur	21 Oct 2006	investigate this query
+England	won	3 wickets	9	lost	2nd		ODI v West Indies	Ahmedabad	28 Oct 2006	investigate this query
+England	lost	277 runs		lost	2nd		Test v Australia	Brisbane	23 Nov 2006	investigate this query
+England	lost	6 wickets		won	1st		Test v Australia	Adelaide	1 Dec 2006	investigate this query
+England	lost	206 runs		lost	2nd		Test v Australia	Perth	14 Dec 2006	investigate this query
+England	lost	inns & 99 runs		won	1st		Test v Australia	Melbourne	26 Dec 2006	investigate this query
+England	lost	10 wickets		won	1st		Test v Australia	Sydney	2 Jan 2007	investigate this query
+England	lost	77 runs		lost	2nd		T20I v Australia	Sydney	9 Jan 2007	investigate this query
+England	lost	8 wickets	28	won	1st		ODI v Australia	Melbourne	12 Jan 2007	investigate this query
+England	won	3 wickets	1	lost	2nd		ODI v New Zealand	Hobart	16 Jan 2007	investigate this query
+England	lost	4 wickets	68	won	1st		ODI v Australia	Brisbane	19 Jan 2007	investigate this query
+England	lost	90 runs		lost	2nd		ODI v New Zealand	Adelaide	23 Jan 2007	investigate this query
+England	lost	9 wickets	153	won	1st		ODI v Australia	Adelaide	26 Jan 2007	investigate this query
+England	lost	58 runs		lost	2nd		ODI v New Zealand	Perth	30 Jan 2007	investigate this query
+England	won	92 runs		won	1st		ODI v Australia	Sydney	2 Feb 2007	investigate this query
+England	won	14 runs		won	1st		ODI v New Zealand	Brisbane	6 Feb 2007	investigate this query
+England	won	4 wickets	3	lost	2nd		ODI v Australia	Melbourne	9 Feb 2007	investigate this query
+England	won	34 runs		won	1st		ODI v Australia	Sydney	11 Feb 2007	investigate this query
+England	lost	6 wickets	54	lost	1st		ODI v New Zealand	Gros Islet	16 Mar 2007	investigate this query
+England	won	51 runs		lost	1st		ODI v Canada	Gros Islet	18 Mar 2007	investigate this query
+England	won	7 wickets	60	lost	2nd		ODI v Kenya	Gros Islet	24 Mar 2007	investigate this query
+England	won	48 runs		won	1st		ODI v Ireland	Providence	30 Mar 2007	investigate this query
+England	lost	2 runs		won	2nd		ODI v Sri Lanka	North Sound	4 Apr 2007	investigate this query
+England	lost	7 wickets	16	won	1st		ODI v Australia	North Sound	8 Apr 2007	investigate this query
+England	won	4 wickets	31	won	2nd		ODI v Bangladesh	Bridgetown	11 Apr 2007	investigate this query
+England	lost	9 wickets	184	won	1st		ODI v South Africa	Bridgetown	17 Apr 2007	investigate this query
+England	won	1 wickets	1	won	2nd		ODI v West Indies	Bridgetown	21 Apr 2007	investigate this query
+England	draw	-		lost	1st		Test v West Indies	Lord's	17 May 2007	investigate this query
+England	won	inns & 283 runs		won	1st		Test v West Indies	Leeds	25 May 2007	investigate this query
+England	won	60 runs		won	1st		Test v West Indies	Manchester	7 Jun 2007	investigate this query
+England	won	7 wickets		won	2nd		Test v West Indies	Chester-le-Street	15 Jun 2007	investigate this query
+England	lost	15 runs		lost	2nd		T20I v West Indies	The Oval	28 Jun 2007	investigate this query
+England	won	5 wickets	3	lost	2nd		T20I v West Indies	The Oval	29 Jun 2007	investigate this query
+England	won	79 runs		lost	1st		ODI v West Indies	Lord's	1 Jul 2007	investigate this query
+England	lost	61 runs		won	2nd		ODI v West Indies	Birmingham	4 Jul 2007	investigate this query
+England	lost	93 runs		lost	2nd		ODI v West Indies	Nottingham	7 Jul 2007	investigate this query
+England	draw	-		won	1st		Test v India	Lord's	19 Jul 2007	investigate this query
+England	lost	7 wickets		lost	1st		Test v India	Nottingham	27 Jul 2007	investigate this query
+England	draw	-		lost	2nd		Test v India	The Oval	9 Aug 2007	investigate this query
+England	won	104 runs		lost	1st		ODI v India	Southampton	21 Aug 2007	investigate this query
+England	lost	9 runs		lost	2nd		ODI v India	Bristol	24 Aug 2007	investigate this query
+England	won	42 runs		lost	1st		ODI v India	Birmingham	27 Aug 2007	investigate this query
+England	won	3 wickets	12	lost	2nd		ODI v India	Manchester	30 Aug 2007	investigate this query
+England	lost	38 runs		won	2nd		ODI v India	Leeds	2 Sep 2007	investigate this query
+England	lost	2 wickets	2	won	1st		ODI v India	The Oval	5 Sep 2007	investigate this query
+England	won	7 wickets	82	lost	2nd		ODI v India	Lord's	8 Sep 2007	investigate this query
+England	won	50 runs		won	1st		T20I v Zimbabwe	Cape Town	13 Sep 2007	investigate this query
+England	lost	8 wickets	31	won	1st		T20I v Australia	Cape Town	14 Sep 2007	investigate this query
+England	lost	19 runs		won	2nd		T20I v South Africa	Cape Town	16 Sep 2007	investigate this query
+England	lost	5 runs		won	2nd		T20I v New Zealand	Durban	18 Sep 2007	investigate this query
+England	lost	18 runs		lost	2nd		T20I v India	Durban	19 Sep 2007	investigate this query
+England	lost	119 runs		lost	2nd		ODI v Sri Lanka	Dambulla	1 Oct 2007	investigate this query
+England	won	65 runs		won	1st		ODI v Sri Lanka	Dambulla	4 Oct 2007	investigate this query
+England	won	2 wickets	7	lost	2nd		ODI v Sri Lanka	Dambulla	7 Oct 2007	investigate this query
+England	won	5 wickets	19	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	10 Oct 2007	investigate this query
+England	lost	107 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	13 Oct 2007	investigate this query
+England	lost	88 runs		lost	2nd		Test v Sri Lanka	Kandy	1 Dec 2007	investigate this query
+England	draw	-		won	1st		Test v Sri Lanka	Colombo (SSC)	9 Dec 2007	investigate this query
+England	draw	-		won	2nd		Test v Sri Lanka	Galle	18 Dec 2007	investigate this query
+England	won	32 runs		lost	1st		T20I v New Zealand	Auckland	5 Feb 2008	investigate this query
+England	won	50 runs		won	1st		T20I v New Zealand	Christchurch	7 Feb 2008	investigate this query
+England	lost	6 wickets	120	won	1st		ODI v New Zealand	Wellington	9 Feb 2008	investigate this query
+England	lost	10 wickets	107	lost	1st		ODI v New Zealand	Hamilton	12 Feb 2008	investigate this query
+England	won	6 wickets	18	won	2nd		ODI v New Zealand	Auckland	15 Feb 2008	investigate this query
+England	tied	-		lost	1st		ODI v New Zealand	Napier	20 Feb 2008	investigate this query
+England	lost	34 runs		lost	1st		ODI v New Zealand	Christchurch	23 Feb 2008	investigate this query
+England	lost	189 runs		lost	2nd		Test v New Zealand	Hamilton	5 Mar 2008	investigate this query
+England	won	126 runs		lost	1st		Test v New Zealand	Wellington	13 Mar 2008	investigate this query
+England	won	121 runs		won	1st		Test v New Zealand	Napier	22 Mar 2008	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Lord's	15 May 2008	investigate this query
+England	won	6 wickets		lost	2nd		Test v New Zealand	Manchester	23 May 2008	investigate this query
+England	won	inns & 9 runs		lost	1st		Test v New Zealand	Nottingham	5 Jun 2008	investigate this query
+England	won	9 wickets	15	won	2nd		T20I v New Zealand	Manchester	13 Jun 2008	investigate this query
+England	won	114 runs		lost	1st		ODI v New Zealand	Chester-le-Street	15 Jun 2008	investigate this query
+England	n/r	-		lost	1st		ODI v New Zealand	Birmingham	18 Jun 2008	investigate this query
+England	lost	22 runs		won	2nd		ODI v New Zealand	Bristol	21 Jun 2008	investigate this query
+England	lost	1 wickets	0	lost	1st		ODI v New Zealand	The Oval	25 Jun 2008	investigate this query
+England	lost	51 runs		won	2nd		ODI v New Zealand	Lord's	28 Jun 2008	investigate this query
+England	draw	-		lost	1st		Test v South Africa	Lord's	10 Jul 2008	investigate this query
+England	lost	10 wickets		lost	1st		Test v South Africa	Leeds	18 Jul 2008	investigate this query
+England	lost	5 wickets		won	1st		Test v South Africa	Birmingham	30 Jul 2008	investigate this query
+England	won	6 wickets		lost	2nd		Test v South Africa	The Oval	7 Aug 2008	investigate this query
+England	n/r	-		won	2nd		ODI v Scotland	Edinburgh	18 Aug 2008	investigate this query
+England	aban	-		-	-		T20I v South Africa	Chester-le-Street	20 Aug 2008	investigate this query
+England	won	20 runs		won	1st		ODI v South Africa	Leeds	22 Aug 2008	investigate this query
+England	won	10 wickets	215	lost	2nd		ODI v South Africa	Nottingham	26 Aug 2008	investigate this query
+England	won	126 runs		lost	1st		ODI v South Africa	The Oval	29 Aug 2008	investigate this query
+England	won	7 wickets	14	won	2nd		ODI v South Africa	Lord's	31 Aug 2008	investigate this query
+England	n/r	-		won	2nd		ODI v South Africa	Cardiff	3 Sep 2008	investigate this query
+England	lost	158 runs		won	2nd		ODI v India	Rajkot	14 Nov 2008	investigate this query
+England	lost	54 runs		lost	2nd		ODI v India	Indore	17 Nov 2008	investigate this query
+England	lost	16 runs		won	1st		ODI v India	Kanpur	20 Nov 2008	investigate this query
+England	lost	19 runs		won	2nd		ODI v India	Bangalore	23 Nov 2008	investigate this query
+England	lost	6 wickets	38	lost	1st		ODI v India	Cuttack	26 Nov 2008	investigate this query
+England	canc	-		-	-		ODI v India	Guwahati	29 Nov 2008	investigate this query
+England	canc	-		-	-		ODI v India	Delhi	2 Dec 2008	investigate this query
+England	lost	6 wickets		won	1st		Test v India	Chennai	11 Dec 2008	investigate this query
+England	draw	-		lost	2nd		Test v India	Mohali	19 Dec 2008	investigate this query
+England	lost	inns & 23 runs		won	1st		Test v West Indies	Kingston	4 Feb 2009	investigate this query
+England	draw	-		lost	1st		Test v West Indies	North Sound	13 Feb 2009	investigate this query
+England	draw	-		lost	1st		Test v West Indies	St John's	15 Feb 2009	investigate this query
+England	draw	-		won	1st		Test v West Indies	Bridgetown	26 Feb 2009	investigate this query
+England	draw	-		won	1st		Test v West Indies	Port of Spain	6 Mar 2009	investigate this query
+England	lost	6 wickets	12	lost	1st		T20I v West Indies	Port of Spain	15 Mar 2009	investigate this query
+England	won	1 runs		won	1st		ODI v West Indies	Providence	20 Mar 2009	investigate this query
+England	lost	21 runs		lost	2nd		ODI v West Indies	Providence	22 Mar 2009	investigate this query
+England	lost	8 wickets	176	lost	1st		ODI v West Indies	Bridgetown	27 Mar 2009	investigate this query
+England	won	9 wickets	9	won	2nd		ODI v West Indies	Bridgetown	29 Mar 2009	investigate this query
+England	won	26 runs		lost	1st		ODI v West Indies	Gros Islet	3 Apr 2009	investigate this query
+England	won	10 wickets		lost	1st		Test v West Indies	Lord's	6 May 2009	investigate this query
+England	won	inns & 83 runs		won	1st		Test v West Indies	Chester-le-Street	14 May 2009	investigate this query
+England	aban	-		-	-		ODI v West Indies	Leeds	21 May 2009	investigate this query
+England	won	6 wickets	84	won	2nd		ODI v West Indies	Bristol	24 May 2009	investigate this query
+England	won	58 runs		lost	1st		ODI v West Indies	Birmingham	26 May 2009	investigate this query
+England	lost	4 wickets	0	lost	1st		T20I v Netherlands	Lord's	5 Jun 2009	investigate this query
+England	won	48 runs		lost	1st		T20I v Pakistan	The Oval	7 Jun 2009	investigate this query
+England	lost	7 wickets	10	won	1st		T20I v South Africa	Nottingham	11 Jun 2009	investigate this query
+England	won	3 runs		lost	1st		T20I v India	Lord's	14 Jun 2009	investigate this query
+England	lost	5 wickets	4	won	1st		T20I v West Indies	The Oval	15 Jun 2009	investigate this query
+England	draw	-		won	1st		Test v Australia	Cardiff	8 Jul 2009	investigate this query
+England	won	115 runs		won	1st		Test v Australia	Lord's	16 Jul 2009	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Birmingham	30 Jul 2009	investigate this query
+England	lost	inns & 80 runs		won	1st		Test v Australia	Leeds	7 Aug 2009	investigate this query
+England	won	197 runs		won	1st		Test v Australia	The Oval	20 Aug 2009	investigate this query
+England	won	3 runs		won	1st		ODI v Ireland	Belfast	27 Aug 2009	investigate this query
+England	n/r	-		won	2nd		T20I v Australia	Manchester	30 Aug 2009	investigate this query
+England	aban	-		-	-		T20I v Australia	Manchester	1 Sep 2009	investigate this query
+England	lost	4 runs		won	2nd		ODI v Australia	The Oval	4 Sep 2009	investigate this query
+England	lost	39 runs		won	2nd		ODI v Australia	Lord's	6 Sep 2009	investigate this query
+England	lost	6 wickets	9	won	1st		ODI v Australia	Southampton	9 Sep 2009	investigate this query
+England	lost	7 wickets	38	won	1st		ODI v Australia	Lord's	12 Sep 2009	investigate this query
+England	lost	4 wickets	10	won	1st		ODI v Australia	Nottingham	15 Sep 2009	investigate this query
+England	lost	111 runs		lost	2nd		ODI v Australia	Nottingham	17 Sep 2009	investigate this query
+England	won	4 wickets	60	won	2nd		ODI v Australia	Chester-le-Street	20 Sep 2009	investigate this query
+England	won	6 wickets	30	won	2nd		ODI v Sri Lanka	Johannesburg	25 Sep 2009	investigate this query
+England	won	22 runs		won	1st		ODI v South Africa	Centurion	27 Sep 2009	investigate this query
+England	lost	4 wickets	137	lost	1st		ODI v New Zealand	Johannesburg	29 Sep 2009	investigate this query
+England	lost	9 wickets	49	won	1st		ODI v Australia	Centurion	2 Oct 2009	investigate this query
+England	won	1 runs		lost	1st		T20I v South Africa	Johannesburg	13 Nov 2009	investigate this query
+England	lost	84 runs		lost	2nd		T20I v South Africa	Centurion	15 Nov 2009	investigate this query
+England	aban	-		-	-		ODI v South Africa	Johannesburg	20 Nov 2009	investigate this query
+England	won	7 wickets	24	won	2nd		ODI v South Africa	Centurion	22 Nov 2009	investigate this query
+England	lost	112 runs		lost	2nd		ODI v South Africa	Cape Town	27 Nov 2009	investigate this query
+England	won	7 wickets	112	lost	2nd		ODI v South Africa	Port Elizabeth	29 Nov 2009	investigate this query
+England	aban	-		-	-		ODI v South Africa	Durban	4 Dec 2009	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Centurion	16 Dec 2009	investigate this query
+England	won	inns & 98 runs		lost	2nd		Test v South Africa	Durban	26 Dec 2009	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Cape Town	3 Jan 2010	investigate this query
+England	lost	inns & 74 runs		won	1st		Test v South Africa	Johannesburg	14 Jan 2010	investigate this query
+England	won	7 wickets	9	lost	2nd		T20I v Pakistan	Dubai (DSC)	19 Feb 2010	investigate this query
+England	lost	4 wickets	6	lost	1st		T20I v Pakistan	Dubai (DSC)	20 Feb 2010	investigate this query
+England	won	6 wickets	24	won	2nd		ODI v Bangladesh	Dhaka	28 Feb 2010	investigate this query
+England	won	2 wickets	7	won	2nd		ODI v Bangladesh	Dhaka	2 Mar 2010	investigate this query
+England	won	45 runs		lost	1st		ODI v Bangladesh	Chittagong	5 Mar 2010	investigate this query
+England	won	181 runs		lost	1st		Test v Bangladesh	Chittagong	12 Mar 2010	investigate this query
+England	won	9 wickets		lost	2nd		Test v Bangladesh	Dhaka	20 Mar 2010	investigate this query
+England	lost	8 wickets	1	lost	1st		T20I v West Indies	Providence	3 May 2010	investigate this query
+England	n/r	-		lost	1st		T20I v Ireland	Providence	4 May 2010	investigate this query
+England	won	6 wickets	3	won	2nd		T20I v Pakistan	Bridgetown	6 May 2010	investigate this query
+England	won	39 runs		won	1st		T20I v South Africa	Bridgetown	8 May 2010	investigate this query
+England	won	3 wickets	5	lost	2nd		T20I v New Zealand	Gros Islet	10 May 2010	investigate this query
+England	won	7 wickets	24	lost	2nd		T20I v Sri Lanka	Gros Islet	13 May 2010	investigate this query
+England	won	7 wickets	18	won	2nd		T20I v Australia	Bridgetown	16 May 2010	investigate this query
+England	won	8 wickets		lost	1st		Test v Bangladesh	Lord's	27 May 2010	investigate this query
+England	won	inns & 80 runs		won	1st		Test v Bangladesh	Manchester	4 Jun 2010	investigate this query
+England	won	7 wickets	98	lost	2nd		ODI v Scotland	Edinburgh	19 Jun 2010	investigate this query
+England	won	4 wickets	24	lost	2nd		ODI v Australia	Southampton	22 Jun 2010	investigate this query
+England	won	4 wickets	28	lost	2nd		ODI v Australia	Cardiff	24 Jun 2010	investigate this query
+England	won	1 wickets	5	won	2nd		ODI v Australia	Manchester	27 Jun 2010	investigate this query
+England	lost	78 runs		won	2nd		ODI v Australia	The Oval	30 Jun 2010	investigate this query
+England	lost	42 runs		lost	2nd		ODI v Australia	Lord's	3 Jul 2010	investigate this query
+England	won	6 wickets	29	lost	2nd		ODI v Bangladesh	Nottingham	8 Jul 2010	investigate this query
+England	lost	5 runs		won	2nd		ODI v Bangladesh	Bristol	10 Jul 2010	investigate this query
+England	won	144 runs		lost	1st		ODI v Bangladesh	Birmingham	12 Jul 2010	investigate this query
+England	won	354 runs		won	1st		Test v Pakistan	Nottingham	29 Jul 2010	investigate this query
+England	won	9 wickets		lost	2nd		Test v Pakistan	Birmingham	6 Aug 2010	investigate this query
+England	lost	4 wickets		won	1st		Test v Pakistan	The Oval	18 Aug 2010	investigate this query
+England	won	inns & 225 runs		lost	1st		Test v Pakistan	Lord's	26 Aug 2010	investigate this query
+England	won	5 wickets	17	won	2nd		T20I v Pakistan	Cardiff	5 Sep 2010	investigate this query
+England	won	6 wickets	36	lost	2nd		T20I v Pakistan	Cardiff	7 Sep 2010	investigate this query
+England	won	24 runs		lost	1st		ODI v Pakistan	Chester-le-Street	10 Sep 2010	investigate this query
+England	won	4 wickets	3	lost	2nd		ODI v Pakistan	Leeds	12 Sep 2010	investigate this query
+England	lost	23 runs		lost	2nd		ODI v Pakistan	The Oval	17 Sep 2010	investigate this query
+England	lost	38 runs		lost	2nd		ODI v Pakistan	Lord's	20 Sep 2010	investigate this query
+England	won	121 runs		won	1st		ODI v Pakistan	Southampton	22 Sep 2010	investigate this query
+England	draw	-		won	1st		Test v Australia	Brisbane	25 Nov 2010	investigate this query
+England	won	inns & 71 runs		lost	2nd		Test v Australia	Adelaide	3 Dec 2010	investigate this query
+England	lost	267 runs		won	2nd		Test v Australia	Perth	16 Dec 2010	investigate this query
+England	won	inns & 157 runs		won	2nd		Test v Australia	Melbourne	26 Dec 2010	investigate this query
+England	won	inns & 83 runs		lost	2nd		Test v Australia	Sydney	3 Jan 2011	investigate this query
+England	won	1 wickets	0	lost	2nd		T20I v Australia	Adelaide	12 Jan 2011	investigate this query
+England	lost	4 runs		lost	2nd		T20I v Australia	Melbourne	14 Jan 2011	investigate this query
+England	lost	6 wickets	5	won	1st		ODI v Australia	Melbourne	16 Jan 2011	investigate this query
+England	lost	46 runs		won	2nd		ODI v Australia	Hobart	21 Jan 2011	investigate this query
+England	lost	4 wickets	24	won	1st		ODI v Australia	Sydney	23 Jan 2011	investigate this query
+England	won	21 runs		won	1st		ODI v Australia	Adelaide	26 Jan 2011	investigate this query
+England	lost	51 runs		lost	2nd		ODI v Australia	Brisbane	30 Jan 2011	investigate this query
+England	lost	2 wickets	4	won	1st		ODI v Australia	Sydney	2 Feb 2011	investigate this query
+England	lost	57 runs		lost	2nd		ODI v Australia	Perth	6 Feb 2011	investigate this query
+England	won	6 wickets	8	lost	2nd		ODI v Netherlands	Nagpur	22 Feb 2011	investigate this query
+England	tied	-		lost	2nd		ODI v India	Bangalore	27 Feb 2011	investigate this query
+England	lost	3 wickets	5	won	1st		ODI v Ireland	Bangalore	2 Mar 2011	investigate this query
+England	won	6 runs		won	1st		ODI v South Africa	Chennai	6 Mar 2011	investigate this query
+England	lost	2 wickets	6	lost	1st		ODI v Bangladesh	Chittagong	11 Mar 2011	investigate this query
+England	won	18 runs		won	1st		ODI v West Indies	Chennai	17 Mar 2011	investigate this query
+England	lost	10 wickets	63	won	1st		ODI v Sri Lanka	Colombo (RPS)	26 Mar 2011	investigate this query
+England	won	inns & 14 runs		lost	2nd		Test v Sri Lanka	Cardiff	26 May 2011	investigate this query
+England	draw	-		lost	1st		Test v Sri Lanka	Lord's	3 Jun 2011	investigate this query
+England	draw	-		won	2nd		Test v Sri Lanka	Southampton	16 Jun 2011	investigate this query
+England	lost	9 wickets	16	lost	1st		T20I v Sri Lanka	Bristol	25 Jun 2011	investigate this query
+England	won	110 runs		lost	1st		ODI v Sri Lanka	The Oval	28 Jun 2011	investigate this query
+England	lost	69 runs		won	2nd		ODI v Sri Lanka	Leeds	1 Jul 2011	investigate this query
+England	lost	6 wickets	10	won	1st		ODI v Sri Lanka	Lord's	3 Jul 2011	investigate this query
+England	won	10 wickets	145	won	2nd		ODI v Sri Lanka	Nottingham	6 Jul 2011	investigate this query
+England	won	16 runs		won	1st		ODI v Sri Lanka	Manchester	9 Jul 2011	investigate this query
+England	won	196 runs		lost	1st		Test v India	Lord's	21 Jul 2011	investigate this query
+England	won	319 runs		lost	1st		Test v India	Nottingham	29 Jul 2011	investigate this query
+England	won	inns & 242 runs		won	2nd		Test v India	Birmingham	10 Aug 2011	investigate this query
+England	won	inns & 8 runs		won	1st		Test v India	The Oval	18 Aug 2011	investigate this query
+England	won	11 runs		lost	1st		ODI v Ireland	Dublin	25 Aug 2011	investigate this query
+England	won	6 wickets	3	lost	2nd		T20I v India	Manchester	31 Aug 2011	investigate this query
+England	n/r	-		won	2nd		ODI v India	Chester-le-Street	3 Sep 2011	investigate this query
+England	won	7 wickets	5	won	2nd		ODI v India	Southampton	6 Sep 2011	investigate this query
+England	won	3 wickets	7	won	2nd		ODI v India	The Oval	9 Sep 2011	investigate this query
+England	tied	-		won	2nd		ODI v India	Lord's	11 Sep 2011	investigate this query
+England	won	6 wickets	10	won	2nd		ODI v India	Cardiff	16 Sep 2011	investigate this query
+England	won	10 wickets	28	won	2nd		T20I v West Indies	The Oval	23 Sep 2011	investigate this query
+England	lost	25 runs		won	2nd		T20I v West Indies	The Oval	25 Sep 2011	investigate this query
+England	lost	126 runs		lost	2nd		ODI v India	Hyderabad (Deccan)	14 Oct 2011	investigate this query
+England	lost	8 wickets	80	won	1st		ODI v India	Delhi	17 Oct 2011	investigate this query
+England	lost	5 wickets	4	won	1st		ODI v India	Mohali	20 Oct 2011	investigate this query
+England	lost	6 wickets	59	won	1st		ODI v India	Mumbai	23 Oct 2011	investigate this query
+England	lost	95 runs		won	2nd		ODI v India	Kolkata	25 Oct 2011	investigate this query
+England	won	6 wickets	8	lost	2nd		T20I v India	Kolkata	29 Oct 2011	investigate this query
+England	lost	10 wickets		won	1st		Test v Pakistan	Dubai (DSC)	17 Jan 2012	investigate this query
+England	lost	72 runs		lost	2nd		Test v Pakistan	Abu Dhabi	25 Jan 2012	investigate this query
+England	lost	71 runs		lost	2nd		Test v Pakistan	Dubai (DSC)	3 Feb 2012	investigate this query
+England	won	130 runs		won	1st		ODI v Pakistan	Abu Dhabi	13 Feb 2012	investigate this query
+England	won	20 runs		won	1st		ODI v Pakistan	Abu Dhabi	15 Feb 2012	investigate this query
+England	won	9 wickets	76	lost	2nd		ODI v Pakistan	Dubai (DSC)	18 Feb 2012	investigate this query
+England	won	4 wickets	4	lost	2nd		ODI v Pakistan	Dubai (DSC)	21 Feb 2012	investigate this query
+England	lost	8 runs		won	2nd		T20I v Pakistan	Dubai (DSC)	23 Feb 2012	investigate this query
+England	won	38 runs		won	1st		T20I v Pakistan	Dubai (DSC)	25 Feb 2012	investigate this query
+England	won	5 runs		won	1st		T20I v Pakistan	Abu Dhabi	27 Feb 2012	investigate this query
+England	lost	75 runs		lost	2nd		Test v Sri Lanka	Galle	26 Mar 2012	investigate this query
+England	won	8 wickets		lost	2nd		Test v Sri Lanka	Colombo (PSS)	3 Apr 2012	investigate this query
+England	won	5 wickets		won	2nd		Test v West Indies	Lord's	17 May 2012	investigate this query
+England	won	9 wickets		lost	2nd		Test v West Indies	Nottingham	25 May 2012	investigate this query
+England	draw	-		won	2nd		Test v West Indies	Birmingham	7 Jun 2012	investigate this query
+England	won	114 runs		lost	1st		ODI v West Indies	Southampton	16 Jun 2012	investigate this query
+England	won	8 wickets	30	won	2nd		ODI v West Indies	The Oval	19 Jun 2012	investigate this query
+England	aban	-		-	-		ODI v West Indies	Leeds	22 Jun 2012	investigate this query
+England	won	7 wickets	2	lost	2nd		T20I v West Indies	Nottingham	24 Jun 2012	investigate this query
+England	won	15 runs		lost	1st		ODI v Australia	Lord's	29 Jun 2012	investigate this query
+England	won	6 wickets	26	lost	2nd		ODI v Australia	The Oval	1 Jul 2012	investigate this query
+England	aban	-		-	-		ODI v Australia	Birmingham	4 Jul 2012	investigate this query
+England	won	8 wickets	13	won	2nd		ODI v Australia	Chester-le-Street	7 Jul 2012	investigate this query
+England	won	7 wickets	11	won	2nd		ODI v Australia	Manchester	10 Jul 2012	investigate this query
+England	lost	inns & 12 runs		won	1st		Test v South Africa	The Oval	19 Jul 2012	investigate this query
+England	draw	-		won	2nd		Test v South Africa	Leeds	2 Aug 2012	investigate this query
+England	lost	51 runs		lost	2nd		Test v South Africa	Lord's	16 Aug 2012	investigate this query
+England	n/r	-		lost	1st		ODI v South Africa	Cardiff	24 Aug 2012	investigate this query
+England	lost	80 runs		lost	2nd		ODI v South Africa	Southampton	28 Aug 2012	investigate this query
+England	won	4 wickets	12	lost	2nd		ODI v South Africa	The Oval	31 Aug 2012	investigate this query
+England	won	6 wickets	20	won	2nd		ODI v South Africa	Lord's	2 Sep 2012	investigate this query
+England	lost	7 wickets	93	won	1st		ODI v South Africa	Nottingham	5 Sep 2012	investigate this query
+England	lost	7 wickets	6	lost	1st		T20I v South Africa	Chester-le-Street	8 Sep 2012	investigate this query
+England	n/r	-		won	2nd		T20I v South Africa	Manchester	10 Sep 2012	investigate this query
+England	won	28 runs		lost	1st		T20I v South Africa	Birmingham	12 Sep 2012	investigate this query
+England	won	116 runs		lost	1st		T20I v Afghanistan	Colombo (RPS)	21 Sep 2012	investigate this query
+England	lost	90 runs		won	2nd		T20I v India	Colombo (RPS)	23 Sep 2012	investigate this query
+England	lost	15 runs		lost	2nd		T20I v West Indies	Pallekele	27 Sep 2012	investigate this query
+England	won	6 wickets	7	lost	2nd		T20I v New Zealand	Pallekele	29 Sep 2012	investigate this query
+England	lost	19 runs		won	2nd		T20I v Sri Lanka	Pallekele	1 Oct 2012	investigate this query
+England	lost	9 wickets		lost	2nd		Test v India	Ahmedabad	15 Nov 2012	investigate this query
+England	won	10 wickets		lost	2nd		Test v India	Mumbai	23 Nov 2012	investigate this query
+England	won	7 wickets		lost	2nd		Test v India	Kolkata	5 Dec 2012	investigate this query
+England	draw	-		won	1st		Test v India	Nagpur	13 Dec 2012	investigate this query
+England	lost	5 wickets	13	lost	1st		T20I v India	Pune	20 Dec 2012	investigate this query
+England	won	6 wickets	0	won	2nd		T20I v India	Mumbai	22 Dec 2012	investigate this query
+England	won	9 runs		won	1st		ODI v India	Rajkot	11 Jan 2013	investigate this query
+England	lost	127 runs		lost	2nd		ODI v India	Kochi	15 Jan 2013	investigate this query
+England	lost	7 wickets	131	lost	1st		ODI v India	Ranchi	19 Jan 2013	investigate this query
+England	lost	5 wickets	15	lost	1st		ODI v India	Mohali	23 Jan 2013	investigate this query
+England	won	7 wickets	16	won	2nd		ODI v India	Dharamsala	27 Jan 2013	investigate this query
+England	won	40 runs		lost	1st		T20I v New Zealand	Auckland	9 Feb 2013	investigate this query
+England	lost	55 runs		won	2nd		T20I v New Zealand	Hamilton	12 Feb 2013	investigate this query
+England	won	10 wickets	44	won	2nd		T20I v New Zealand	Wellington	15 Feb 2013	investigate this query
+England	lost	3 wickets	7	lost	1st		ODI v New Zealand	Hamilton	17 Feb 2013	investigate this query
+England	won	8 wickets	14	won	2nd		ODI v New Zealand	Napier	20 Feb 2013	investigate this query
+England	won	5 wickets	75	won	2nd		ODI v New Zealand	Auckland	23 Feb 2013	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Dunedin	6 Mar 2013	investigate this query
+England	draw	-		lost	1st		Test v New Zealand	Wellington	14 Mar 2013	investigate this query
+England	draw	-		won	2nd		Test v New Zealand	Auckland	22 Mar 2013	investigate this query
+England	won	170 runs		won	1st		Test v New Zealand	Lord's	16 May 2013	investigate this query
+England	won	247 runs		won	1st		Test v New Zealand	Leeds	24 May 2013	investigate this query
+England	lost	5 wickets	19	lost	1st		ODI v New Zealand	Lord's	31 May 2013	investigate this query
+England	lost	86 runs		lost	2nd		ODI v New Zealand	Southampton	2 Jun 2013	investigate this query
+England	won	34 runs		lost	1st		ODI v New Zealand	Nottingham	5 Jun 2013	investigate this query
+England	won	48 runs		won	1st		ODI v Australia	Birmingham	8 Jun 2013	investigate this query
+England	lost	7 wickets	17	lost	1st		ODI v Sri Lanka	The Oval	13 Jun 2013	investigate this query
+England	won	10 runs		lost	1st		ODI v New Zealand	Cardiff	16 Jun 2013	investigate this query
+England	won	7 wickets	75	won	2nd		ODI v South Africa	The Oval	19 Jun 2013	investigate this query
+England	lost	5 runs		won	2nd		ODI v India	Birmingham	23 Jun 2013	investigate this query
+England	lost	5 runs		won	2nd		T20I v New Zealand	The Oval	25 Jun 2013	investigate this query
+England	n/r	-		lost	1st		T20I v New Zealand	The Oval	27 Jun 2013	investigate this query
+England	won	14 runs		won	1st		Test v Australia	Nottingham	10 Jul 2013	investigate this query
+England	won	347 runs		won	1st		Test v Australia	Lord's	18 Jul 2013	investigate this query
+England	draw	-		lost	2nd		Test v Australia	Manchester	1 Aug 2013	investigate this query
+England	won	74 runs		won	1st		Test v Australia	Chester-le-Street	9 Aug 2013	investigate this query
+England	draw	-		lost	2nd		Test v Australia	The Oval	21 Aug 2013	investigate this query
+England	lost	39 runs		won	2nd		T20I v Australia	Southampton	29 Aug 2013	investigate this query
+England	won	27 runs		lost	1st		T20I v Australia	Chester-le-Street	31 Aug 2013	investigate this query
+England	won	6 wickets	42	won	2nd		ODI v Ireland	Dublin (Malahide)	3 Sep 2013	investigate this query
+England	aban	-		-	-		ODI v Australia	Leeds	6 Sep 2013	investigate this query
+England	lost	88 runs		won	2nd		ODI v Australia	Manchester	8 Sep 2013	investigate this query
+England	n/r	-		lost	1st		ODI v Australia	Birmingham	11 Sep 2013	investigate this query
+England	won	3 wickets	3	won	2nd		ODI v Australia	Cardiff	14 Sep 2013	investigate this query
+England	lost	49 runs		lost	2nd		ODI v Australia	Southampton	16 Sep 2013	investigate this query
+England	lost	381 runs		lost	2nd		Test v Australia	Brisbane	21 Nov 2013	investigate this query
+England	lost	218 runs		lost	2nd		Test v Australia	Adelaide	5 Dec 2013	investigate this query
+England	lost	150 runs		lost	2nd		Test v Australia	Perth	13 Dec 2013	investigate this query
+England	lost	8 wickets		lost	1st		Test v Australia	Melbourne	26 Dec 2013	investigate this query
+England	lost	281 runs		won	2nd		Test v Australia	Sydney	3 Jan 2014	investigate this query
+England	lost	6 wickets	26	won	1st		ODI v Australia	Melbourne	12 Jan 2014	investigate this query
+England	lost	1 wickets	3	won	1st		ODI v Australia	Brisbane	17 Jan 2014	investigate this query
+England	lost	7 wickets	60	won	1st		ODI v Australia	Sydney	19 Jan 2014	investigate this query
+England	won	57 runs		lost	1st		ODI v Australia	Perth	24 Jan 2014	investigate this query
+England	lost	5 runs		lost	2nd		ODI v Australia	Adelaide	26 Jan 2014	investigate this query
+England	lost	13 runs		lost	2nd		T20I v Australia	Hobart	29 Jan 2014	investigate this query
+England	lost	8 wickets	31	won	1st		T20I v Australia	Melbourne	31 Jan 2014	investigate this query
+England	lost	84 runs		lost	2nd		T20I v Australia	Sydney	2 Feb 2014	investigate this query
+England	lost	15 runs		won	2nd		ODI v West Indies	North Sound	28 Feb 2014	investigate this query
+England	won	3 wickets	31	won	2nd		ODI v West Indies	North Sound	2 Mar 2014	investigate this query
+England	won	25 runs		lost	1st		ODI v West Indies	North Sound	5 Mar 2014	investigate this query
+England	lost	27 runs		lost	2nd		T20I v West Indies	Bridgetown	9 Mar 2014	investigate this query
+England	lost	5 wickets	7	won	1st		T20I v West Indies	Bridgetown	11 Mar 2014	investigate this query
+England	won	5 runs		won	1st		T20I v West Indies	Bridgetown	13 Mar 2014	investigate this query
+England	lost	9 runs		lost	1st		T20I v New Zealand	Chittagong	22 Mar 2014	investigate this query
+England	won	6 wickets	4	won	2nd		T20I v Sri Lanka	Chittagong	27 Mar 2014	investigate this query
+England	lost	3 runs		won	2nd		T20I v South Africa	Chittagong	29 Mar 2014	investigate this query
+England	lost	45 runs		won	2nd		T20I v Netherlands	Chittagong	31 Mar 2014	investigate this query
+England	won	39 runs		lost	1st		ODI v Scotland	Aberdeen	9 May 2014	investigate this query
+England	lost	9 runs		won	2nd		T20I v Sri Lanka	The Oval	20 May 2014	investigate this query
+England	won	81 runs		lost	1st		ODI v Sri Lanka	The Oval	22 May 2014	investigate this query
+England	lost	157 runs		won	2nd		ODI v Sri Lanka	Chester-le-Street	25 May 2014	investigate this query
+England	won	10 wickets	227	won	2nd		ODI v Sri Lanka	Manchester	28 May 2014	investigate this query
+England	lost	7 runs		won	2nd		ODI v Sri Lanka	Lord's	31 May 2014	investigate this query
+England	lost	6 wickets	10	won	1st		ODI v Sri Lanka	Birmingham	3 Jun 2014	investigate this query
+England	draw	-		lost	1st		Test v Sri Lanka	Lord's	12 Jun 2014	investigate this query
+England	lost	100 runs		won	2nd		Test v Sri Lanka	Leeds	20 Jun 2014	investigate this query
+England	draw	-		lost	2nd		Test v India	Nottingham	9 Jul 2014	investigate this query
+England	lost	95 runs		won	2nd		Test v India	Lord's	17 Jul 2014	investigate this query
+England	won	266 runs		won	1st		Test v India	Southampton	27 Jul 2014	investigate this query
+England	won	inns & 54 runs		lost	2nd		Test v India	Manchester	7 Aug 2014	investigate this query
+England	won	inns & 244 runs		won	2nd		Test v India	The Oval	15 Aug 2014	investigate this query
+England	aban	-		-	-		ODI v India	Bristol	25 Aug 2014	investigate this query
+England	lost	133 runs		won	2nd		ODI v India	Cardiff	27 Aug 2014	investigate this query
+England	lost	6 wickets	42	lost	1st		ODI v India	Nottingham	30 Aug 2014	investigate this query
+England	lost	9 wickets	117	lost	1st		ODI v India	Birmingham	2 Sep 2014	investigate this query
+England	won	41 runs		lost	1st		ODI v India	Leeds	5 Sep 2014	investigate this query
+England	won	3 runs		won	1st		T20I v India	Birmingham	7 Sep 2014	investigate this query
+England	lost	25 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	26 Nov 2014	investigate this query
+England	lost	8 wickets	64	won	1st		ODI v Sri Lanka	Colombo (RPS)	29 Nov 2014	investigate this query
+England	won	5 wickets	8	lost	2nd		ODI v Sri Lanka	Hambantota	3 Dec 2014	investigate this query
+England	lost	6 wickets	2	won	1st		ODI v Sri Lanka	Colombo (RPS)	7 Dec 2014	investigate this query
+England	won	5 wickets	5	won	2nd		ODI v Sri Lanka	Pallekele	10 Dec 2014	investigate this query
+England	lost	90 runs		lost	2nd		ODI v Sri Lanka	Pallekele	13 Dec 2014	investigate this query
+England	lost	87 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	16 Dec 2014	investigate this query
+England	lost	3 wickets	61	won	1st		ODI v Australia	Sydney	16 Jan 2015	investigate this query
+England	won	9 wickets	135	lost	2nd		ODI v India	Brisbane	20 Jan 2015	investigate this query
+England	lost	3 wickets	1	lost	1st		ODI v Australia	Hobart	23 Jan 2015	investigate this query
+England	won	3 wickets	19	won	2nd		ODI v India	Perth	30 Jan 2015	investigate this query
+England	lost	112 runs		won	2nd		ODI v Australia	Perth	1 Feb 2015	investigate this query
+England	lost	111 runs		won	2nd		ODI v Australia	Melbourne	14 Feb 2015	investigate this query
+England	lost	8 wickets	226	won	1st		ODI v New Zealand	Wellington	20 Feb 2015	investigate this query
+England	won	119 runs		lost	1st		ODI v Scotland	Christchurch	23 Feb 2015	investigate this query
+England	lost	9 wickets	16	won	1st		ODI v Sri Lanka	Wellington	1 Mar 2015	investigate this query
+England	lost	15 runs		won	2nd		ODI v Bangladesh	Adelaide	9 Mar 2015	investigate this query
+England	won	9 wickets	41	won	2nd		ODI v Afghanistan	Sydney	13 Mar 2015	investigate this query
+England	draw	-		lost	1st		Test v West Indies	North Sound	13 Apr 2015	investigate this query
+England	won	9 wickets		won	2nd		Test v West Indies	St George's	21 Apr 2015	investigate this query
+England	lost	5 wickets		won	1st		Test v West Indies	Bridgetown	1 May 2015	investigate this query
+England	n/r	-		won	2nd		ODI v Ireland	Dublin (Malahide)	8 May 2015	investigate this query
+England	won	124 runs		lost	1st		Test v New Zealand	Lord's	21 May 2015	investigate this query
+England	lost	199 runs		won	2nd		Test v New Zealand	Leeds	29 May 2015	investigate this query
+England	won	210 runs		lost	1st		ODI v New Zealand	Birmingham	9 Jun 2015	investigate this query
+England	lost	13 runs		lost	2nd		ODI v New Zealand	The Oval	12 Jun 2015	investigate this query
+England	lost	3 wickets	6	won	1st		ODI v New Zealand	Southampton	14 Jun 2015	investigate this query
+England	won	7 wickets	36	lost	2nd		ODI v New Zealand	Nottingham	17 Jun 2015	investigate this query
+England	won	3 wickets	6	won	2nd		ODI v New Zealand	Chester-le-Street	20 Jun 2015	investigate this query
+England	won	56 runs		won	1st		T20I v New Zealand	Manchester	23 Jun 2015	investigate this query
+England	won	169 runs		won	1st		Test v Australia	Cardiff	8 Jul 2015	investigate this query
+England	lost	405 runs		lost	2nd		Test v Australia	Lord's	16 Jul 2015	investigate this query
+England	won	8 wickets		lost	2nd		Test v Australia	Birmingham	29 Jul 2015	investigate this query
+England	won	inns & 78 runs		won	2nd		Test v Australia	Nottingham	6 Aug 2015	investigate this query
+England	lost	inns & 46 runs		won	2nd		Test v Australia	The Oval	20 Aug 2015	investigate this query
+England	won	5 runs		lost	1st		T20I v Australia	Cardiff	31 Aug 2015	investigate this query
+England	lost	59 runs		lost	2nd		ODI v Australia	Southampton	3 Sep 2015	investigate this query
+England	lost	64 runs		won	2nd		ODI v Australia	Lord's	5 Sep 2015	investigate this query
+England	won	93 runs		won	1st		ODI v Australia	Manchester	8 Sep 2015	investigate this query
+England	won	3 wickets	10	lost	2nd		ODI v Australia	Leeds	11 Sep 2015	investigate this query
+England	lost	8 wickets	154	won	1st		ODI v Australia	Manchester	13 Sep 2015	investigate this query

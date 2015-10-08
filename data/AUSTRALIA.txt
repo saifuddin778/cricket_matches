@@ -1,0 +1,1742 @@
+Australia	won	45 runs		won	1st		Test v England	Melbourne	15 Mar 1877	investigate this query
+Australia	lost	4 wickets		won	1st		Test v England	Melbourne	31 Mar 1877	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v England	Melbourne	2 Jan 1879	investigate this query
+Australia	lost	5 wickets		lost	2nd		Test v England	The Oval	6 Sep 1880	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Melbourne	31 Dec 1881	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	Sydney	17 Feb 1882	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v England	Sydney	3 Mar 1882	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Melbourne	10 Mar 1882	investigate this query
+Australia	won	7 runs		won	1st		Test v England	The Oval	28 Aug 1882	investigate this query
+Australia	won	9 wickets		won	1st		Test v England	Melbourne	30 Dec 1882	investigate this query
+Australia	lost	inns & 27 runs		lost	2nd		Test v England	Melbourne	19 Jan 1883	investigate this query
+Australia	lost	69 runs		lost	2nd		Test v England	Sydney	26 Jan 1883	investigate this query
+Australia	won	4 wickets		lost	2nd		Test v England	Sydney	17 Feb 1883	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	10 Jul 1884	investigate this query
+Australia	lost	inns & 5 runs		won	1st		Test v England	Lord's	21 Jul 1884	investigate this query
+Australia	draw	-		won	1st		Test v England	The Oval	11 Aug 1884	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Adelaide	12 Dec 1884	investigate this query
+Australia	lost	10 wickets		lost	2nd		Test v England	Melbourne	1 Jan 1885	investigate this query
+Australia	won	6 runs		won	1st		Test v England	Sydney	20 Feb 1885	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Sydney	14 Mar 1885	investigate this query
+Australia	lost	inns & 98 runs		won	1st		Test v England	Melbourne	21 Mar 1885	investigate this query
+Australia	lost	4 wickets		won	1st		Test v England	Manchester	5 Jul 1886	investigate this query
+Australia	lost	inns & 106 runs		lost	2nd		Test v England	Lord's	19 Jul 1886	investigate this query
+Australia	lost	inns & 217 runs		lost	2nd		Test v England	The Oval	12 Aug 1886	investigate this query
+Australia	lost	13 runs		won	2nd		Test v England	Sydney	28 Jan 1887	investigate this query
+Australia	lost	71 runs		lost	2nd		Test v England	Sydney	25 Feb 1887	investigate this query
+Australia	lost	126 runs		won	2nd		Test v England	Sydney	10 Feb 1888	investigate this query
+Australia	won	61 runs		won	1st		Test v England	Lord's	16 Jul 1888	investigate this query
+Australia	lost	inns & 137 runs		won	1st		Test v England	The Oval	13 Aug 1888	investigate this query
+Australia	lost	inns & 21 runs		lost	2nd		Test v England	Manchester	30 Aug 1888	investigate this query
+Australia	lost	7 wickets		won	1st		Test v England	Lord's	21 Jul 1890	investigate this query
+Australia	lost	2 wickets		won	1st		Test v England	The Oval	11 Aug 1890	investigate this query
+Australia	aban	-		-	-		Test v England	Manchester	25 Aug 1890	investigate this query
+Australia	won	54 runs		won	1st		Test v England	Melbourne	1 Jan 1892	investigate this query
+Australia	won	72 runs		won	1st		Test v England	Sydney	29 Jan 1892	investigate this query
+Australia	lost	inns & 230 runs		lost	2nd		Test v England	Adelaide	24 Mar 1892	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	17 Jul 1893	investigate this query
+Australia	lost	inns & 43 runs		lost	2nd		Test v England	The Oval	14 Aug 1893	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	24 Aug 1893	investigate this query
+Australia	lost	10 runs		won	1st		Test v England	Sydney	14 Dec 1894	investigate this query
+Australia	lost	94 runs		won	2nd		Test v England	Melbourne	29 Dec 1894	investigate this query
+Australia	won	382 runs		won	1st		Test v England	Adelaide	11 Jan 1895	investigate this query
+Australia	won	inns & 147 runs		lost	1st		Test v England	Sydney	1 Feb 1895	investigate this query
+Australia	lost	6 wickets		won	1st		Test v England	Melbourne	1 Mar 1895	investigate this query
+Australia	lost	6 wickets		won	1st		Test v England	Lord's	22 Jun 1896	investigate this query
+Australia	won	3 wickets		won	1st		Test v England	Manchester	16 Jul 1896	investigate this query
+Australia	lost	66 runs		lost	2nd		Test v England	The Oval	10 Aug 1896	investigate this query
+Australia	lost	9 wickets		lost	2nd		Test v England	Sydney	13 Dec 1897	investigate this query
+Australia	won	inns & 55 runs		won	1st		Test v England	Melbourne	1 Jan 1898	investigate this query
+Australia	won	inns & 13 runs		won	1st		Test v England	Adelaide	14 Jan 1898	investigate this query
+Australia	won	8 wickets		won	1st		Test v England	Melbourne	29 Jan 1898	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v England	Sydney	26 Feb 1898	investigate this query
+Australia	draw	-		won	1st		Test v England	Nottingham	1 Jun 1899	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v England	Lord's	15 Jun 1899	investigate this query
+Australia	draw	-		won	1st		Test v England	Leeds	29 Jun 1899	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	17 Jul 1899	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	14 Aug 1899	investigate this query
+Australia	lost	inns & 124 runs		lost	2nd		Test v England	Sydney	13 Dec 1901	investigate this query
+Australia	won	229 runs		lost	1st		Test v England	Melbourne	1 Jan 1902	investigate this query
+Australia	won	4 wickets		lost	2nd		Test v England	Adelaide	17 Jan 1902	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v England	Sydney	14 Feb 1902	investigate this query
+Australia	won	32 runs		won	1st		Test v England	Melbourne	28 Feb 1902	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Birmingham	29 May 1902	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	12 Jun 1902	investigate this query
+Australia	won	143 runs		won	1st		Test v England	Sheffield	3 Jul 1902	investigate this query
+Australia	won	3 runs		won	1st		Test v England	Manchester	24 Jul 1902	investigate this query
+Australia	lost	1 wickets		won	1st		Test v England	The Oval	11 Aug 1902	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Johannesburg	11 Oct 1902	investigate this query
+Australia	won	159 runs		won	1st		Test v South Africa	Johannesburg	18 Oct 1902	investigate this query
+Australia	won	10 wickets		won	1st		Test v South Africa	Cape Town	8 Nov 1902	investigate this query
+Australia	lost	5 wickets		won	1st		Test v England	Sydney	11 Dec 1903	investigate this query
+Australia	lost	185 runs		lost	2nd		Test v England	Melbourne	1 Jan 1904	investigate this query
+Australia	won	216 runs		won	1st		Test v England	Adelaide	15 Jan 1904	investigate this query
+Australia	lost	157 runs		lost	2nd		Test v England	Sydney	26 Feb 1904	investigate this query
+Australia	won	218 runs		won	1st		Test v England	Melbourne	5 Mar 1904	investigate this query
+Australia	lost	213 runs		lost	2nd		Test v England	Nottingham	29 May 1905	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	15 Jun 1905	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Leeds	3 Jul 1905	investigate this query
+Australia	lost	inns & 80 runs		lost	2nd		Test v England	Manchester	24 Jul 1905	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	14 Aug 1905	investigate this query
+Australia	won	2 wickets		lost	2nd		Test v England	Sydney	13 Dec 1907	investigate this query
+Australia	lost	1 wickets		won	1st		Test v England	Melbourne	1 Jan 1908	investigate this query
+Australia	won	245 runs		won	1st		Test v England	Adelaide	10 Jan 1908	investigate this query
+Australia	won	308 runs		won	1st		Test v England	Melbourne	7 Feb 1908	investigate this query
+Australia	won	49 runs		lost	1st		Test v England	Sydney	21 Feb 1908	investigate this query
+Australia	lost	10 wickets		won	1st		Test v England	Birmingham	27 May 1909	investigate this query
+Australia	won	9 wickets		won	2nd		Test v England	Lord's	14 Jun 1909	investigate this query
+Australia	won	126 runs		won	1st		Test v England	Leeds	1 Jul 1909	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	26 Jul 1909	investigate this query
+Australia	draw	-		won	1st		Test v England	The Oval	9 Aug 1909	investigate this query
+Australia	won	inns & 114 runs		won	1st		Test v South Africa	Sydney	9 Dec 1910	investigate this query
+Australia	won	89 runs		won	1st		Test v South Africa	Melbourne	31 Dec 1910	investigate this query
+Australia	lost	38 runs		lost	2nd		Test v South Africa	Adelaide	7 Jan 1911	investigate this query
+Australia	won	530 runs		lost	1st		Test v South Africa	Melbourne	17 Feb 1911	investigate this query
+Australia	won	7 wickets		lost	1st		Test v South Africa	Sydney	3 Mar 1911	investigate this query
+Australia	won	146 runs		won	1st		Test v England	Sydney	15 Dec 1911	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Melbourne	30 Dec 1911	investigate this query
+Australia	lost	7 wickets		won	1st		Test v England	Adelaide	12 Jan 1912	investigate this query
+Australia	lost	inns & 225 runs		lost	1st		Test v England	Melbourne	9 Feb 1912	investigate this query
+Australia	lost	70 runs		lost	2nd		Test v England	Sydney	23 Feb 1912	investigate this query
+Australia	won	inns & 88 runs		won	1st		Test v South Africa	Manchester	27 May 1912	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	24 Jun 1912	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v South Africa	Lord's	15 Jul 1912	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	29 Jul 1912	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Nottingham	5 Aug 1912	investigate this query
+Australia	lost	244 runs		lost	2nd		Test v England	The Oval	19 Aug 1912	investigate this query
+Australia	won	377 runs		won	1st		Test v England	Sydney	17 Dec 1920	investigate this query
+Australia	won	inns & 91 runs		won	1st		Test v England	Melbourne	31 Dec 1920	investigate this query
+Australia	won	119 runs		won	1st		Test v England	Adelaide	14 Jan 1921	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Melbourne	11 Feb 1921	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v England	Sydney	25 Feb 1921	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v England	Nottingham	28 May 1921	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Lord's	11 Jun 1921	investigate this query
+Australia	won	219 runs		won	1st		Test v England	Leeds	2 Jul 1921	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	23 Jul 1921	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	13 Aug 1921	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Durban	5 Nov 1921	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Johannesburg	12 Nov 1921	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v South Africa	Cape Town	26 Nov 1921	investigate this query
+Australia	won	193 runs		won	1st		Test v England	Sydney	19 Dec 1924	investigate this query
+Australia	won	81 runs		won	1st		Test v England	Melbourne	1 Jan 1925	investigate this query
+Australia	won	11 runs		won	1st		Test v England	Adelaide	16 Jan 1925	investigate this query
+Australia	lost	inns & 29 runs		lost	2nd		Test v England	Melbourne	13 Feb 1925	investigate this query
+Australia	won	307 runs		won	1st		Test v England	Sydney	27 Feb 1925	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	12 Jun 1926	investigate this query
+Australia	draw	-		won	1st		Test v England	Lord's	26 Jun 1926	investigate this query
+Australia	draw	-		lost	1st		Test v England	Leeds	10 Jul 1926	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	24 Jul 1926	investigate this query
+Australia	lost	289 runs		lost	2nd		Test v England	The Oval	14 Aug 1926	investigate this query
+Australia	lost	675 runs		lost	2nd		Test v England	Brisbane	30 Nov 1928	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Sydney	14 Dec 1928	investigate this query
+Australia	lost	3 wickets		won	1st		Test v England	Melbourne	29 Dec 1928	investigate this query
+Australia	lost	12 runs		lost	2nd		Test v England	Adelaide	1 Feb 1929	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	Melbourne	8 Mar 1929	investigate this query
+Australia	lost	93 runs		lost	2nd		Test v England	Nottingham	13 Jun 1930	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v England	Lord's	27 Jun 1930	investigate this query
+Australia	draw	-		won	1st		Test v England	Leeds	11 Jul 1930	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	25 Jul 1930	investigate this query
+Australia	won	inns & 39 runs		lost	2nd		Test v England	The Oval	16 Aug 1930	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v West Indies	Adelaide	12 Dec 1930	investigate this query
+Australia	won	inns & 172 runs		won	1st		Test v West Indies	Sydney	1 Jan 1931	investigate this query
+Australia	won	inns & 217 runs		won	1st		Test v West Indies	Brisbane	16 Jan 1931	investigate this query
+Australia	won	inns & 122 runs		lost	2nd		Test v West Indies	Melbourne	13 Feb 1931	investigate this query
+Australia	lost	30 runs		lost	2nd		Test v West Indies	Sydney	27 Feb 1931	investigate this query
+Australia	won	inns & 163 runs		won	1st		Test v South Africa	Brisbane	27 Nov 1931	investigate this query
+Australia	won	inns & 155 runs		lost	2nd		Test v South Africa	Sydney	18 Dec 1931	investigate this query
+Australia	won	169 runs		won	1st		Test v South Africa	Melbourne	31 Dec 1931	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v South Africa	Adelaide	29 Jan 1932	investigate this query
+Australia	won	inns & 72 runs		lost	2nd		Test v South Africa	Melbourne	12 Feb 1932	investigate this query
+Australia	lost	10 wickets		won	1st		Test v England	Sydney	2 Dec 1932	investigate this query
+Australia	won	111 runs		won	1st		Test v England	Melbourne	30 Dec 1932	investigate this query
+Australia	lost	338 runs		lost	2nd		Test v England	Adelaide	13 Jan 1933	investigate this query
+Australia	lost	6 wickets		won	1st		Test v England	Brisbane	10 Feb 1933	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Sydney	23 Feb 1933	investigate this query
+Australia	won	238 runs		won	1st		Test v England	Nottingham	8 Jun 1934	investigate this query
+Australia	lost	inns & 38 runs		lost	2nd		Test v England	Lord's	22 Jun 1934	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	6 Jul 1934	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Leeds	20 Jul 1934	investigate this query
+Australia	won	562 runs		won	1st		Test v England	The Oval	18 Aug 1934	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v South Africa	Durban	14 Dec 1935	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Johannesburg	24 Dec 1935	investigate this query
+Australia	won	inns & 78 runs		won	1st		Test v South Africa	Cape Town	1 Jan 1936	investigate this query
+Australia	won	inns & 184 runs		lost	2nd		Test v South Africa	Johannesburg	15 Feb 1936	investigate this query
+Australia	won	inns & 6 runs		lost	2nd		Test v South Africa	Durban	28 Feb 1936	investigate this query
+Australia	lost	322 runs		lost	2nd		Test v England	Brisbane	4 Dec 1936	investigate this query
+Australia	lost	inns & 22 runs		lost	2nd		Test v England	Sydney	18 Dec 1936	investigate this query
+Australia	won	365 runs		won	1st		Test v England	Melbourne	1 Jan 1937	investigate this query
+Australia	won	148 runs		won	1st		Test v England	Adelaide	29 Jan 1937	investigate this query
+Australia	won	inns & 200 runs		won	1st		Test v England	Melbourne	26 Feb 1937	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	10 Jun 1938	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	24 Jun 1938	investigate this query
+Australia	aban	-		-	-		Test v England	Manchester	8 Jul 1938	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	Leeds	22 Jul 1938	investigate this query
+Australia	lost	inns & 579 runs		lost	2nd		Test v England	The Oval	20 Aug 1938	investigate this query
+Australia	won	inns & 103 runs		lost	2nd		Test v New Zealand	Wellington	29 Mar 1946	investigate this query
+Australia	won	inns & 332 runs		won	1st		Test v England	Brisbane	29 Nov 1946	investigate this query
+Australia	won	inns & 33 runs		lost	2nd		Test v England	Sydney	13 Dec 1946	investigate this query
+Australia	draw	-		won	1st		Test v England	Melbourne	1 Jan 1947	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Adelaide	31 Jan 1947	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	Sydney	28 Feb 1947	investigate this query
+Australia	won	inns & 226 runs		won	1st		Test v India	Brisbane	28 Nov 1947	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Sydney	12 Dec 1947	investigate this query
+Australia	won	233 runs		won	1st		Test v India	Melbourne	1 Jan 1948	investigate this query
+Australia	won	inns & 16 runs		won	1st		Test v India	Adelaide	23 Jan 1948	investigate this query
+Australia	won	inns & 177 runs		won	1st		Test v India	Melbourne	6 Feb 1948	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Nottingham	10 Jun 1948	investigate this query
+Australia	won	409 runs		won	1st		Test v England	Lord's	24 Jun 1948	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	8 Jul 1948	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v England	Leeds	22 Jul 1948	investigate this query
+Australia	won	inns & 149 runs		lost	2nd		Test v England	The Oval	14 Aug 1948	investigate this query
+Australia	won	inns & 85 runs		won	1st		Test v South Africa	Johannesburg	24 Dec 1949	investigate this query
+Australia	won	8 wickets		won	1st		Test v South Africa	Cape Town	31 Dec 1949	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v South Africa	Durban	20 Jan 1950	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Johannesburg	10 Feb 1950	investigate this query
+Australia	won	inns & 259 runs		won	1st		Test v South Africa	Port Elizabeth	3 Mar 1950	investigate this query
+Australia	won	70 runs		won	1st		Test v England	Brisbane	1 Dec 1950	investigate this query
+Australia	won	28 runs		won	1st		Test v England	Melbourne	22 Dec 1950	investigate this query
+Australia	won	inns & 13 runs		lost	2nd		Test v England	Sydney	5 Jan 1951	investigate this query
+Australia	won	274 runs		won	1st		Test v England	Adelaide	2 Feb 1951	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Melbourne	23 Feb 1951	investigate this query
+Australia	won	3 wickets		lost	2nd		Test v West Indies	Brisbane	9 Nov 1951	investigate this query
+Australia	won	7 wickets		won	2nd		Test v West Indies	Sydney	30 Nov 1951	investigate this query
+Australia	lost	6 wickets		won	1st		Test v West Indies	Adelaide	22 Dec 1951	investigate this query
+Australia	won	1 wickets		lost	2nd		Test v West Indies	Melbourne	31 Dec 1951	investigate this query
+Australia	won	202 runs		won	1st		Test v West Indies	Sydney	25 Jan 1952	investigate this query
+Australia	won	96 runs		won	1st		Test v South Africa	Brisbane	5 Dec 1952	investigate this query
+Australia	lost	82 runs		lost	2nd		Test v South Africa	Melbourne	24 Dec 1952	investigate this query
+Australia	won	inns & 38 runs		lost	2nd		Test v South Africa	Sydney	9 Jan 1953	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Adelaide	24 Jan 1953	investigate this query
+Australia	lost	6 wickets		won	1st		Test v South Africa	Melbourne	6 Feb 1953	investigate this query
+Australia	draw	-		won	1st		Test v England	Nottingham	11 Jun 1953	investigate this query
+Australia	draw	-		won	1st		Test v England	Lord's	25 Jun 1953	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	9 Jul 1953	investigate this query
+Australia	draw	-		won	2nd		Test v England	Leeds	23 Jul 1953	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	The Oval	15 Aug 1953	investigate this query
+Australia	won	inns & 154 runs		lost	1st		Test v England	Brisbane	26 Nov 1954	investigate this query
+Australia	lost	38 runs		won	2nd		Test v England	Sydney	17 Dec 1954	investigate this query
+Australia	lost	128 runs		lost	2nd		Test v England	Melbourne	31 Dec 1954	investigate this query
+Australia	lost	5 wickets		won	1st		Test v England	Adelaide	28 Jan 1955	investigate this query
+Australia	draw	-		won	2nd		Test v England	Sydney	25 Feb 1955	investigate this query
+Australia	won	9 wickets		won	1st		Test v West Indies	Kingston	26 Mar 1955	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Port of Spain	11 Apr 1955	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v West Indies	Georgetown	26 Apr 1955	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Bridgetown	14 May 1955	investigate this query
+Australia	won	inns & 82 runs		lost	2nd		Test v West Indies	Kingston	11 Jun 1955	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	7 Jun 1956	investigate this query
+Australia	won	185 runs		won	1st		Test v England	Lord's	21 Jun 1956	investigate this query
+Australia	lost	inns & 42 runs		lost	2nd		Test v England	Leeds	12 Jul 1956	investigate this query
+Australia	lost	inns & 170 runs		lost	2nd		Test v England	Manchester	26 Jul 1956	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	23 Aug 1956	investigate this query
+Australia	lost	9 wickets		won	1st		Test v Pakistan	Karachi	11 Oct 1956	investigate this query
+Australia	won	inns & 5 runs		lost	2nd		Test v India	Chennai	19 Oct 1956	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Mumbai (BS)	26 Oct 1956	investigate this query
+Australia	won	94 runs		lost	1st		Test v India	Kolkata	2 Nov 1956	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Johannesburg	23 Dec 1957	investigate this query
+Australia	won	inns & 141 runs		won	1st		Test v South Africa	Cape Town	31 Dec 1957	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Durban	24 Jan 1958	investigate this query
+Australia	won	10 wickets		won	1st		Test v South Africa	Johannesburg	7 Feb 1958	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v South Africa	Port Elizabeth	28 Feb 1958	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Brisbane	5 Dec 1958	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Melbourne	31 Dec 1958	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Sydney	9 Jan 1959	investigate this query
+Australia	won	10 wickets		lost	1st		Test v England	Adelaide	30 Jan 1959	investigate this query
+Australia	won	9 wickets		won	2nd		Test v England	Melbourne	13 Feb 1959	investigate this query
+Australia	won	8 wickets		won	2nd		Test v Pakistan	Dhaka	13 Nov 1959	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v Pakistan	Lahore	21 Nov 1959	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Karachi	4 Dec 1959	investigate this query
+Australia	won	inns & 127 runs		lost	2nd		Test v India	Delhi	12 Dec 1959	investigate this query
+Australia	lost	119 runs		lost	2nd		Test v India	Kanpur	19 Dec 1959	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Mumbai (BS)	1 Jan 1960	investigate this query
+Australia	won	inns & 55 runs		won	1st		Test v India	Chennai	13 Jan 1960	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Kolkata	23 Jan 1960	investigate this query
+Australia	tied	-		lost	2nd		Test v West Indies	Brisbane	9 Dec 1960	investigate this query
+Australia	won	7 wickets		won	1st		Test v West Indies	Melbourne	30 Dec 1960	investigate this query
+Australia	lost	222 runs		lost	2nd		Test v West Indies	Sydney	13 Jan 1961	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Adelaide	27 Jan 1961	investigate this query
+Australia	won	2 wickets		won	2nd		Test v West Indies	Melbourne	10 Feb 1961	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Birmingham	8 Jun 1961	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	Lord's	22 Jun 1961	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Leeds	6 Jul 1961	investigate this query
+Australia	won	54 runs		won	1st		Test v England	Manchester	27 Jul 1961	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	17 Aug 1961	investigate this query
+Australia	draw	-		won	1st		Test v England	Brisbane	30 Nov 1962	investigate this query
+Australia	lost	7 wickets		won	1st		Test v England	Melbourne	29 Dec 1962	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Sydney	11 Jan 1963	investigate this query
+Australia	draw	-		won	1st		Test v England	Adelaide	25 Jan 1963	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Sydney	15 Feb 1963	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Brisbane	6 Dec 1963	investigate this query
+Australia	won	8 wickets		won	2nd		Test v South Africa	Melbourne	1 Jan 1964	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Sydney	10 Jan 1964	investigate this query
+Australia	lost	10 wickets		won	1st		Test v South Africa	Adelaide	24 Jan 1964	investigate this query
+Australia	draw	-		lost	1st		Test v South Africa	Sydney	7 Feb 1964	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	4 Jun 1964	investigate this query
+Australia	draw	-		lost	1st		Test v England	Lord's	18 Jun 1964	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v England	Leeds	2 Jul 1964	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	23 Jul 1964	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	13 Aug 1964	investigate this query
+Australia	won	139 runs		won	1st		Test v India	Chennai	2 Oct 1964	investigate this query
+Australia	lost	2 wickets		won	1st		Test v India	Mumbai (BS)	10 Oct 1964	investigate this query
+Australia	draw	-		lost	1st		Test v India	Kolkata	17 Oct 1964	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Karachi	24 Oct 1964	investigate this query
+Australia	draw	-		won	2nd		Test v Pakistan	Melbourne	4 Dec 1964	investigate this query
+Australia	lost	179 runs		lost	2nd		Test v West Indies	Kingston	3 Mar 1965	investigate this query
+Australia	draw	-		won	2nd		Test v West Indies	Port of Spain	26 Mar 1965	investigate this query
+Australia	lost	212 runs		lost	2nd		Test v West Indies	Georgetown	14 Apr 1965	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Bridgetown	5 May 1965	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v West Indies	Port of Spain	14 May 1965	investigate this query
+Australia	draw	-		won	1st		Test v England	Brisbane	10 Dec 1965	investigate this query
+Australia	draw	-		won	1st		Test v England	Melbourne	30 Dec 1965	investigate this query
+Australia	lost	inns & 93 runs		lost	2nd		Test v England	Sydney	7 Jan 1966	investigate this query
+Australia	won	inns & 9 runs		lost	2nd		Test v England	Adelaide	28 Jan 1966	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Melbourne	11 Feb 1966	investigate this query
+Australia	lost	233 runs		lost	2nd		Test v South Africa	Johannesburg	23 Dec 1966	investigate this query
+Australia	won	6 wickets		won	1st		Test v South Africa	Cape Town	31 Dec 1966	investigate this query
+Australia	lost	8 wickets		won	2nd		Test v South Africa	Durban	20 Jan 1967	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Johannesburg	3 Feb 1967	investigate this query
+Australia	lost	7 wickets		lost	1st		Test v South Africa	Port Elizabeth	24 Feb 1967	investigate this query
+Australia	won	146 runs		won	1st		Test v India	Adelaide	23 Dec 1967	investigate this query
+Australia	won	inns & 4 runs		lost	2nd		Test v India	Melbourne	30 Dec 1967	investigate this query
+Australia	won	39 runs		lost	1st		Test v India	Brisbane	19 Jan 1968	investigate this query
+Australia	won	144 runs		lost	1st		Test v India	Sydney	26 Jan 1968	investigate this query
+Australia	won	159 runs		won	1st		Test v England	Manchester	6 Jun 1968	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	20 Jun 1968	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Birmingham	11 Jul 1968	investigate this query
+Australia	draw	-		won	1st		Test v England	Leeds	25 Jul 1968	investigate this query
+Australia	lost	226 runs		lost	2nd		Test v England	The Oval	22 Aug 1968	investigate this query
+Australia	lost	125 runs		lost	2nd		Test v West Indies	Brisbane	6 Dec 1968	investigate this query
+Australia	won	inns & 30 runs		won	2nd		Test v West Indies	Melbourne	26 Dec 1968	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v West Indies	Sydney	3 Jan 1969	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Adelaide	24 Jan 1969	investigate this query
+Australia	won	382 runs		lost	1st		Test v West Indies	Sydney	14 Feb 1969	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v India	Mumbai (BS)	4 Nov 1969	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Kanpur	15 Nov 1969	investigate this query
+Australia	lost	7 wickets		won	1st		Test v India	Delhi	28 Nov 1969	investigate this query
+Australia	won	10 wickets		won	2nd		Test v India	Kolkata	12 Dec 1969	investigate this query
+Australia	won	77 runs		won	1st		Test v India	Chennai	24 Dec 1969	investigate this query
+Australia	lost	170 runs		lost	2nd		Test v South Africa	Cape Town	22 Jan 1970	investigate this query
+Australia	lost	inns & 129 runs		lost	2nd		Test v South Africa	Durban	5 Feb 1970	investigate this query
+Australia	lost	307 runs		lost	2nd		Test v South Africa	Johannesburg	19 Feb 1970	investigate this query
+Australia	lost	323 runs		lost	2nd		Test v South Africa	Port Elizabeth	5 Mar 1970	investigate this query
+Australia	draw	-		won	1st		Test v England	Brisbane	27 Nov 1970	investigate this query
+Australia	draw	-		won	2nd		Test v England	Perth	11 Dec 1970	investigate this query
+Australia	aban	-		lost	1st		Test v England	Melbourne	31 Dec 1970	investigate this query
+Australia	won	5 wickets	42	won	2nd		ODI v England	Melbourne	5 Jan 1971	investigate this query
+Australia	lost	299 runs		lost	2nd		Test v England	Sydney	9 Jan 1971	investigate this query
+Australia	draw	-		won	1st		Test v England	Melbourne	21 Jan 1971	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Adelaide	29 Jan 1971	investigate this query
+Australia	lost	62 runs		won	2nd		Test v England	Sydney	12 Feb 1971	investigate this query
+Australia	lost	89 runs		lost	2nd		Test v England	Manchester	8 Jun 1972	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Lord's	22 Jun 1972	investigate this query
+Australia	draw	-		lost	1st		Test v England	Nottingham	13 Jul 1972	investigate this query
+Australia	lost	9 wickets		won	1st		Test v England	Leeds	27 Jul 1972	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v England	The Oval	10 Aug 1972	investigate this query
+Australia	lost	6 wickets	35	won	1st		ODI v England	Manchester	24 Aug 1972	investigate this query
+Australia	won	5 wickets	21	won	2nd		ODI v England	Lord's	26 Aug 1972	investigate this query
+Australia	lost	2 wickets	21	lost	1st		ODI v England	Birmingham	28 Aug 1972	investigate this query
+Australia	won	inns & 114 runs		lost	2nd		Test v Pakistan	Adelaide	22 Dec 1972	investigate this query
+Australia	won	92 runs		won	1st		Test v Pakistan	Melbourne	29 Dec 1972	investigate this query
+Australia	won	52 runs		lost	1st		Test v Pakistan	Sydney	6 Jan 1973	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Kingston	16 Feb 1973	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Bridgetown	9 Mar 1973	investigate this query
+Australia	won	44 runs		won	1st		Test v West Indies	Port of Spain	23 Mar 1973	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v West Indies	Georgetown	6 Apr 1973	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Port of Spain	21 Apr 1973	investigate this query
+Australia	won	inns & 25 runs		won	1st		Test v New Zealand	Melbourne	29 Dec 1973	investigate this query
+Australia	draw	-		won	2nd		Test v New Zealand	Sydney	5 Jan 1974	investigate this query
+Australia	won	inns & 57 runs		won	1st		Test v New Zealand	Adelaide	26 Jan 1974	investigate this query
+Australia	draw	-		won	1st		Test v New Zealand	Wellington	1 Mar 1974	investigate this query
+Australia	lost	5 wickets		lost	1st		Test v New Zealand	Christchurch	8 Mar 1974	investigate this query
+Australia	won	297 runs		lost	1st		Test v New Zealand	Auckland	22 Mar 1974	investigate this query
+Australia	won	7 wickets	85	lost	2nd		ODI v New Zealand	Dunedin	30 Mar 1974	investigate this query
+Australia	won	31 runs		won	1st		ODI v New Zealand	Christchurch	31 Mar 1974	investigate this query
+Australia	won	166 runs		won	1st		Test v England	Brisbane	29 Nov 1974	investigate this query
+Australia	won	9 wickets		won	2nd		Test v England	Perth	13 Dec 1974	investigate this query
+Australia	draw	-		won	2nd		Test v England	Melbourne	26 Dec 1974	investigate this query
+Australia	lost	3 wickets	23	lost	1st		ODI v England	Melbourne	1 Jan 1975	investigate this query
+Australia	won	171 runs		won	1st		Test v England	Sydney	4 Jan 1975	investigate this query
+Australia	won	163 runs		lost	1st		Test v England	Adelaide	25 Jan 1975	investigate this query
+Australia	lost	inns & 4 runs		won	1st		Test v England	Melbourne	8 Feb 1975	investigate this query
+Australia	won	73 runs		won	1st		ODI v Pakistan	Leeds	7 Jun 1975	investigate this query
+Australia	won	52 runs		lost	1st		ODI v Sri Lanka	The Oval	11 Jun 1975	investigate this query
+Australia	lost	7 wickets	84	lost	1st		ODI v West Indies	The Oval	14 Jun 1975	investigate this query
+Australia	won	4 wickets	188	won	2nd		ODI v England	Leeds	18 Jun 1975	investigate this query
+Australia	lost	17 runs		won	2nd		ODI v West Indies	Lord's	21 Jun 1975	investigate this query
+Australia	won	inns & 85 runs		lost	1st		Test v England	Birmingham	10 Jul 1975	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	31 Jul 1975	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Leeds	14 Aug 1975	investigate this query
+Australia	draw	-		won	1st		Test v England	The Oval	28 Aug 1975	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v West Indies	Brisbane	28 Nov 1975	investigate this query
+Australia	lost	inns & 87 runs		won	1st		Test v West Indies	Perth	12 Dec 1975	investigate this query
+Australia	won	5 wickets	67	won	2nd		ODI v West Indies	Adelaide	20 Dec 1975	investigate this query
+Australia	won	8 wickets		won	2nd		Test v West Indies	Melbourne	26 Dec 1975	investigate this query
+Australia	won	7 wickets		won	2nd		Test v West Indies	Sydney	3 Jan 1976	investigate this query
+Australia	won	190 runs		won	1st		Test v West Indies	Adelaide	23 Jan 1976	investigate this query
+Australia	won	165 runs		won	1st		Test v West Indies	Melbourne	31 Jan 1976	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Adelaide	24 Dec 1976	investigate this query
+Australia	won	348 runs		won	1st		Test v Pakistan	Melbourne	1 Jan 1977	investigate this query
+Australia	lost	8 wickets		won	1st		Test v Pakistan	Sydney	14 Jan 1977	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Christchurch	18 Feb 1977	investigate this query
+Australia	won	10 wickets		won	2nd		Test v New Zealand	Auckland	25 Feb 1977	investigate this query
+Australia	won	45 runs		lost	1st		Test v England	Melbourne	12 Mar 1977	investigate this query
+Australia	lost	2 wickets	58	won	1st		ODI v England	Manchester	2 Jun 1977	investigate this query
+Australia	lost	101 runs		won	2nd		ODI v England	Birmingham	4 Jun 1977	investigate this query
+Australia	won	2 wickets	10	won	2nd		ODI v England	The Oval	6 Jun 1977	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Lord's	16 Jun 1977	investigate this query
+Australia	lost	9 wickets		won	1st		Test v England	Manchester	7 Jul 1977	investigate this query
+Australia	lost	7 wickets		won	1st		Test v England	Nottingham	28 Jul 1977	investigate this query
+Australia	lost	inns & 85 runs		lost	2nd		Test v England	Leeds	11 Aug 1977	investigate this query
+Australia	draw	-		won	2nd		Test v England	The Oval	25 Aug 1977	investigate this query
+Australia	won	16 runs		won	1st		Test v India	Brisbane	2 Dec 1977	investigate this query
+Australia	won	2 wickets		lost	2nd		Test v India	Perth	16 Dec 1977	investigate this query
+Australia	lost	222 runs		lost	2nd		Test v India	Melbourne	30 Dec 1977	investigate this query
+Australia	lost	inns & 2 runs		won	1st		Test v India	Sydney	7 Jan 1978	investigate this query
+Australia	won	47 runs		won	1st		Test v India	Adelaide	28 Jan 1978	investigate this query
+Australia	lost	44 runs		won	2nd		ODI v West Indies	St John's	22 Feb 1978	investigate this query
+Australia	lost	inns & 106 runs		lost	1st		Test v West Indies	Port of Spain	3 Mar 1978	investigate this query
+Australia	lost	9 wickets		lost	1st		Test v West Indies	Bridgetown	17 Mar 1978	investigate this query
+Australia	won	3 wickets		lost	2nd		Test v West Indies	Georgetown	31 Mar 1978	investigate this query
+Australia	won	2 wickets	0	lost	2nd		ODI v West Indies	Castries	12 Apr 1978	investigate this query
+Australia	lost	198 runs		won	2nd		Test v West Indies	Port of Spain	15 Apr 1978	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Kingston	28 Apr 1978	investigate this query
+Australia	lost	7 wickets		won	1st		Test v England	Brisbane	1 Dec 1978	investigate this query
+Australia	lost	166 runs		won	2nd		Test v England	Perth	15 Dec 1978	investigate this query
+Australia	aban	-		-	-		ODI v England	Melbourne	26 Dec 1978	investigate this query
+Australia	won	103 runs		won	1st		Test v England	Melbourne	29 Dec 1978	investigate this query
+Australia	lost	93 runs		lost	2nd		Test v England	Sydney	6 Jan 1979	investigate this query
+Australia	n/r	-		lost	1st		ODI v England	Sydney	13 Jan 1979	investigate this query
+Australia	lost	7 wickets	94	won	1st		ODI v England	Melbourne	24 Jan 1979	investigate this query
+Australia	lost	205 runs		won	2nd		Test v England	Adelaide	27 Jan 1979	investigate this query
+Australia	won	4 wickets	10	won	2nd		ODI v England	Melbourne	4 Feb 1979	investigate this query
+Australia	won	6 wickets	147	won	2nd		ODI v England	Melbourne	7 Feb 1979	investigate this query
+Australia	lost	9 wickets		won	1st		Test v England	Sydney	10 Feb 1979	investigate this query
+Australia	lost	71 runs		won	2nd		Test v Pakistan	Melbourne	10 Mar 1979	investigate this query
+Australia	won	7 wickets		won	2nd		Test v Pakistan	Perth	24 Mar 1979	investigate this query
+Australia	lost	6 wickets	77	lost	1st		ODI v England	Lord's	9 Jun 1979	investigate this query
+Australia	lost	89 runs		won	2nd		ODI v Pakistan	Nottingham	13 Jun 1979	investigate this query
+Australia	won	7 wickets	204	won	2nd		ODI v Canada	Birmingham	16 Jun 1979	investigate this query
+Australia	draw	-		won	1st		Test v India	Chennai	11 Sep 1979	investigate this query
+Australia	draw	-		won	1st		Test v India	Bangalore	19 Sep 1979	investigate this query
+Australia	lost	153 runs		lost	2nd		Test v India	Kanpur	2 Oct 1979	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Delhi	13 Oct 1979	investigate this query
+Australia	draw	-		won	1st		Test v India	Kolkata	26 Oct 1979	investigate this query
+Australia	lost	inns & 100 runs		lost	2nd		Test v India	Mumbai	3 Nov 1979	investigate this query
+Australia	won	5 wickets	17	won	2nd		ODI v West Indies	Sydney	27 Nov 1979	investigate this query
+Australia	draw	-		lost	1st		Test v West Indies	Brisbane	1 Dec 1979	investigate this query
+Australia	lost	3 wickets	6	lost	1st		ODI v England	Melbourne	8 Dec 1979	investigate this query
+Australia	lost	80 runs		won	2nd		ODI v West Indies	Melbourne	9 Dec 1979	investigate this query
+Australia	lost	72 runs		lost	2nd		ODI v England	Sydney	11 Dec 1979	investigate this query
+Australia	won	138 runs		lost	1st		Test v England	Perth	14 Dec 1979	investigate this query
+Australia	won	7 runs		lost	1st		ODI v West Indies	Sydney	21 Dec 1979	investigate this query
+Australia	lost	4 wickets	11	won	1st		ODI v England	Sydney	26 Dec 1979	investigate this query
+Australia	lost	10 wickets		won	1st		Test v West Indies	Melbourne	29 Dec 1979	investigate this query
+Australia	won	6 wickets		won	2nd		Test v England	Sydney	4 Jan 1980	investigate this query
+Australia	lost	2 wickets	7	lost	1st		ODI v England	Sydney	14 Jan 1980	investigate this query
+Australia	won	9 runs		won	1st		ODI v West Indies	Sydney	18 Jan 1980	investigate this query
+Australia	lost	408 runs		won	2nd		Test v West Indies	Adelaide	26 Jan 1980	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Melbourne	1 Feb 1980	investigate this query
+Australia	lost	7 wickets		won	1st		Test v Pakistan	Karachi	27 Feb 1980	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Faisalabad	6 Mar 1980	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Lahore	18 Mar 1980	investigate this query
+Australia	lost	23 runs		won	2nd		ODI v England	The Oval	20 Aug 1980	investigate this query
+Australia	lost	47 runs		won	2nd		ODI v England	Birmingham	22 Aug 1980	investigate this query
+Australia	draw	-		won	1st		Test v England	Lord's	28 Aug 1980	investigate this query
+Australia	lost	3 wickets	5	lost	1st		ODI v New Zealand	Adelaide	23 Nov 1980	investigate this query
+Australia	won	94 runs		won	1st		ODI v New Zealand	Sydney	25 Nov 1980	investigate this query
+Australia	won	10 wickets		won	2nd		Test v New Zealand	Brisbane	28 Nov 1980	investigate this query
+Australia	lost	66 runs		won	2nd		ODI v India	Melbourne	6 Dec 1980	investigate this query
+Australia	won	4 wickets	16	lost	2nd		ODI v New Zealand	Melbourne	7 Dec 1980	investigate this query
+Australia	won	8 wickets		won	2nd		Test v New Zealand	Perth	12 Dec 1980	investigate this query
+Australia	won	9 wickets	40	won	2nd		ODI v India	Sydney	18 Dec 1980	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Melbourne	26 Dec 1980	investigate this query
+Australia	won	inns & 4 runs		lost	2nd		Test v India	Sydney	2 Jan 1981	investigate this query
+Australia	won	9 wickets	174	won	2nd		ODI v India	Sydney	8 Jan 1981	investigate this query
+Australia	won	7 wickets	16	won	2nd		ODI v India	Melbourne	11 Jan 1981	investigate this query
+Australia	lost	1 runs		lost	2nd		ODI v New Zealand	Sydney	13 Jan 1981	investigate this query
+Australia	won	27 runs		lost	1st		ODI v India	Sydney	15 Jan 1981	investigate this query
+Australia	n/r	-		won	1st		ODI v New Zealand	Sydney	21 Jan 1981	investigate this query
+Australia	draw	-		lost	1st		Test v India	Adelaide	23 Jan 1981	investigate this query
+Australia	lost	78 runs		won	2nd		ODI v New Zealand	Sydney	29 Jan 1981	investigate this query
+Australia	won	7 wickets	63	won	2nd		ODI v New Zealand	Melbourne	31 Jan 1981	investigate this query
+Australia	won	6 runs		won	1st		ODI v New Zealand	Melbourne	1 Feb 1981	investigate this query
+Australia	won	6 wickets	14	lost	2nd		ODI v New Zealand	Sydney	3 Feb 1981	investigate this query
+Australia	lost	59 runs		won	2nd		Test v India	Melbourne	7 Feb 1981	investigate this query
+Australia	lost	6 wickets	20	lost	1st		ODI v England	Lord's	4 Jun 1981	investigate this query
+Australia	won	2 runs		lost	1st		ODI v England	Birmingham	6 Jun 1981	investigate this query
+Australia	won	71 runs		lost	1st		ODI v England	Leeds	8 Jun 1981	investigate this query
+Australia	won	4 wickets		won	2nd		Test v England	Nottingham	18 Jun 1981	investigate this query
+Australia	draw	-		won	2nd		Test v England	Lord's	2 Jul 1981	investigate this query
+Australia	lost	18 runs		won	1st		Test v England	Leeds	16 Jul 1981	investigate this query
+Australia	lost	29 runs		lost	2nd		Test v England	Birmingham	30 Jul 1981	investigate this query
+Australia	lost	103 runs		lost	2nd		Test v England	Manchester	13 Aug 1981	investigate this query
+Australia	draw	-		lost	1st		Test v England	The Oval	27 Aug 1981	investigate this query
+Australia	won	286 runs		lost	1st		Test v Pakistan	Perth	13 Nov 1981	investigate this query
+Australia	lost	4 wickets	4	lost	1st		ODI v Pakistan	Melbourne	22 Nov 1981	investigate this query
+Australia	won	7 wickets	12	lost	2nd		ODI v West Indies	Sydney	24 Nov 1981	investigate this query
+Australia	won	10 wickets		won	2nd		Test v Pakistan	Brisbane	27 Nov 1981	investigate this query
+Australia	won	38 runs		won	1st		ODI v Pakistan	Adelaide	6 Dec 1981	investigate this query
+Australia	lost	inns & 82 runs		lost	2nd		Test v Pakistan	Melbourne	11 Dec 1981	investigate this query
+Australia	lost	6 wickets	40	lost	1st		ODI v Pakistan	Sydney	17 Dec 1981	investigate this query
+Australia	lost	8 wickets	120	lost	1st		ODI v West Indies	Perth	20 Dec 1981	investigate this query
+Australia	won	58 runs		won	1st		Test v West Indies	Melbourne	26 Dec 1981	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Sydney	2 Jan 1982	investigate this query
+Australia	lost	25 runs		won	2nd		ODI v Pakistan	Melbourne	9 Jan 1982	investigate this query
+Australia	lost	5 wickets	17	won	1st		ODI v West Indies	Melbourne	10 Jan 1982	investigate this query
+Australia	won	76 runs		lost	1st		ODI v Pakistan	Sydney	14 Jan 1982	investigate this query
+Australia	lost	5 wickets	8	lost	1st		ODI v West Indies	Brisbane	17 Jan 1982	investigate this query
+Australia	won	5 runs		won	2nd		ODI v West Indies	Sydney	19 Jan 1982	investigate this query
+Australia	lost	86 runs		won	2nd		ODI v West Indies	Melbourne	23 Jan 1982	investigate this query
+Australia	lost	128 runs		lost	2nd		ODI v West Indies	Melbourne	24 Jan 1982	investigate this query
+Australia	won	46 runs		lost	1st		ODI v West Indies	Sydney	26 Jan 1982	investigate this query
+Australia	lost	18 runs		lost	2nd		ODI v West Indies	Sydney	27 Jan 1982	investigate this query
+Australia	lost	5 wickets		lost	1st		Test v West Indies	Adelaide	30 Jan 1982	investigate this query
+Australia	lost	46 runs		won	2nd		ODI v New Zealand	Auckland	13 Feb 1982	investigate this query
+Australia	won	6 wickets	24	won	2nd		ODI v New Zealand	Dunedin	17 Feb 1982	investigate this query
+Australia	won	8 wickets	177	won	2nd		ODI v New Zealand	Wellington	20 Feb 1982	investigate this query
+Australia	draw	-		won	2nd		Test v New Zealand	Wellington	26 Feb 1982	investigate this query
+Australia	lost	5 wickets		lost	1st		Test v New Zealand	Auckland	12 Mar 1982	investigate this query
+Australia	won	8 wickets		lost	1st		Test v New Zealand	Christchurch	19 Mar 1982	investigate this query
+Australia	lost	59 runs		won	2nd		ODI v Pakistan	Hyderabad (Sind)	20 Sep 1982	investigate this query
+Australia	lost	9 wickets		won	1st		Test v Pakistan	Karachi	22 Sep 1982	investigate this query
+Australia	lost	inns & 3 runs		lost	2nd		Test v Pakistan	Faisalabad	30 Sep 1982	investigate this query
+Australia	lost	28 runs		won	2nd		ODI v Pakistan	Lahore	8 Oct 1982	investigate this query
+Australia	lost	9 wickets		lost	1st		Test v Pakistan	Lahore	14 Oct 1982	investigate this query
+Australia	n/r	-		won	2nd		ODI v Pakistan	Karachi	22 Oct 1982	investigate this query
+Australia	draw	-		won	2nd		Test v England	Perth	12 Nov 1982	investigate this query
+Australia	won	7 wickets		won	2nd		Test v England	Brisbane	26 Nov 1982	investigate this query
+Australia	won	8 wickets		lost	1st		Test v England	Adelaide	10 Dec 1982	investigate this query
+Australia	lost	3 runs		won	2nd		Test v England	Melbourne	26 Dec 1982	investigate this query
+Australia	draw	-		won	1st		Test v England	Sydney	2 Jan 1983	investigate this query
+Australia	won	8 wickets	20	won	2nd		ODI v New Zealand	Melbourne	9 Jan 1983	investigate this query
+Australia	won	31 runs		lost	1st		ODI v England	Sydney	11 Jan 1983	investigate this query
+Australia	won	7 wickets	54	won	2nd		ODI v England	Brisbane	16 Jan 1983	investigate this query
+Australia	lost	47 runs		won	2nd		ODI v New Zealand	Sydney	18 Jan 1983	investigate this query
+Australia	lost	58 runs		won	2nd		ODI v New Zealand	Melbourne	22 Jan 1983	investigate this query
+Australia	won	5 wickets	14	won	2nd		ODI v England	Melbourne	23 Jan 1983	investigate this query
+Australia	lost	98 runs		lost	2nd		ODI v England	Sydney	26 Jan 1983	investigate this query
+Australia	lost	14 runs		lost	2nd		ODI v England	Adelaide	30 Jan 1983	investigate this query
+Australia	lost	47 runs		lost	2nd		ODI v New Zealand	Adelaide	31 Jan 1983	investigate this query
+Australia	won	27 runs		lost	1st		ODI v New Zealand	Perth	6 Feb 1983	investigate this query
+Australia	won	6 wickets	29	lost	2nd		ODI v New Zealand	Sydney	9 Feb 1983	investigate this query
+Australia	won	149 runs		won	1st		ODI v New Zealand	Melbourne	13 Feb 1983	investigate this query
+Australia	lost	14 runs		won	2nd		ODI v New Zealand	Sydney	17 Mar 1983	investigate this query
+Australia	lost	2 wickets	5	won	1st		ODI v Sri Lanka	Colombo (PSS)	13 Apr 1983	investigate this query
+Australia	lost	4 wickets	10	lost	1st		ODI v Sri Lanka	Colombo (PSS)	16 Apr 1983	investigate this query
+Australia	won	inns & 38 runs		won	1st		Test v Sri Lanka	Kandy	22 Apr 1983	investigate this query
+Australia	n/r	-		lost	1st		ODI v Sri Lanka	Colombo (SSC)	29 Apr 1983	investigate this query
+Australia	n/r	-		won	1st		ODI v Sri Lanka	Colombo (SSC)	30 Apr 1983	investigate this query
+Australia	lost	13 runs		won	2nd		ODI v Zimbabwe	Nottingham	9 Jun 1983	investigate this query
+Australia	lost	101 runs		won	2nd		ODI v West Indies	Leeds	11 Jun 1983	investigate this query
+Australia	won	162 runs		won	1st		ODI v India	Nottingham	13 Jun 1983	investigate this query
+Australia	won	32 runs		won	1st		ODI v Zimbabwe	Southampton	16 Jun 1983	investigate this query
+Australia	lost	7 wickets	13	won	1st		ODI v West Indies	Lord's	18 Jun 1983	investigate this query
+Australia	lost	118 runs		lost	2nd		ODI v India	Chelmsford	20 Jun 1983	investigate this query
+Australia	won	inns & 9 runs		lost	1st		Test v Pakistan	Perth	11 Nov 1983	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Brisbane	25 Nov 1983	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Adelaide	9 Dec 1983	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Melbourne	26 Dec 1983	investigate this query
+Australia	won	10 wickets		won	2nd		Test v Pakistan	Sydney	2 Jan 1984	investigate this query
+Australia	lost	27 runs		lost	2nd		ODI v West Indies	Melbourne	8 Jan 1984	investigate this query
+Australia	won	34 runs		lost	1st		ODI v Pakistan	Sydney	10 Jan 1984	investigate this query
+Australia	n/r	-		won	2nd		ODI v Pakistan	Brisbane	15 Jan 1984	investigate this query
+Australia	lost	28 runs		lost	2nd		ODI v West Indies	Sydney	17 Jan 1984	investigate this query
+Australia	won	43 runs		won	1st		ODI v Pakistan	Melbourne	21 Jan 1984	investigate this query
+Australia	lost	26 runs		lost	2nd		ODI v West Indies	Melbourne	22 Jan 1984	investigate this query
+Australia	won	87 runs		won	1st		ODI v Pakistan	Sydney	25 Jan 1984	investigate this query
+Australia	lost	6 wickets	29	won	1st		ODI v West Indies	Adelaide	29 Jan 1984	investigate this query
+Australia	won	70 runs		won	1st		ODI v Pakistan	Adelaide	30 Jan 1984	investigate this query
+Australia	won	14 runs		won	1st		ODI v West Indies	Perth	5 Feb 1984	investigate this query
+Australia	lost	9 wickets	17	lost	1st		ODI v West Indies	Sydney	8 Feb 1984	investigate this query
+Australia	tied	-		lost	2nd		ODI v West Indies	Melbourne	11 Feb 1984	investigate this query
+Australia	lost	6 wickets	27	won	1st		ODI v West Indies	Melbourne	12 Feb 1984	investigate this query
+Australia	lost	8 wickets	12	won	1st		ODI v West Indies	Albion	29 Feb 1984	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Georgetown	2 Mar 1984	investigate this query
+Australia	won	4 wickets	2	won	2nd		ODI v West Indies	Port of Spain	14 Mar 1984	investigate this query
+Australia	draw	-		lost	1st		Test v West Indies	Port of Spain	16 Mar 1984	investigate this query
+Australia	lost	10 wickets		lost	1st		Test v West Indies	Bridgetown	30 Mar 1984	investigate this query
+Australia	lost	inns & 36 runs		won	1st		Test v West Indies	St John's	7 Apr 1984	investigate this query
+Australia	lost	7 wickets	20	lost	1st		ODI v West Indies	Castries	19 Apr 1984	investigate this query
+Australia	lost	9 wickets	14	lost	1st		ODI v West Indies	Kingston	26 Apr 1984	investigate this query
+Australia	lost	10 wickets		lost	1st		Test v West Indies	Kingston	28 Apr 1984	investigate this query
+Australia	won	48 runs		won	1st		ODI v India	New Delhi	28 Sep 1984	investigate this query
+Australia	n/r	-		won	2nd		ODI v India	Thiruvananthapuram	1 Oct 1984	investigate this query
+Australia	n/r	-		won	2nd		ODI v India	Jamshedpur	3 Oct 1984	investigate this query
+Australia	won	7 wickets	13	won	2nd		ODI v India	Ahmedabad	5 Oct 1984	investigate this query
+Australia	won	6 wickets	23	won	2nd		ODI v India	Indore	6 Oct 1984	investigate this query
+Australia	lost	inns & 112 runs		won	2nd		Test v West Indies	Perth	9 Nov 1984	investigate this query
+Australia	lost	8 wickets		lost	1st		Test v West Indies	Brisbane	23 Nov 1984	investigate this query
+Australia	lost	191 runs		lost	2nd		Test v West Indies	Adelaide	7 Dec 1984	investigate this query
+Australia	draw	-		won	2nd		Test v West Indies	Melbourne	22 Dec 1984	investigate this query
+Australia	won	inns & 55 runs		won	1st		Test v West Indies	Sydney	30 Dec 1984	investigate this query
+Australia	lost	7 wickets	31	lost	1st		ODI v West Indies	Melbourne	6 Jan 1985	investigate this query
+Australia	won	6 wickets	16	lost	2nd		ODI v Sri Lanka	Sydney	8 Jan 1985	investigate this query
+Australia	lost	5 wickets	74	lost	1st		ODI v West Indies	Brisbane	13 Jan 1985	investigate this query
+Australia	lost	5 wickets	39	won	1st		ODI v West Indies	Sydney	15 Jan 1985	investigate this query
+Australia	lost	4 wickets	4	lost	1st		ODI v Sri Lanka	Melbourne	19 Jan 1985	investigate this query
+Australia	lost	65 runs		won	2nd		ODI v West Indies	Melbourne	20 Jan 1985	investigate this query
+Australia	won	3 wickets	17	won	2nd		ODI v Sri Lanka	Sydney	23 Jan 1985	investigate this query
+Australia	lost	6 wickets	38	lost	1st		ODI v West Indies	Adelaide	27 Jan 1985	investigate this query
+Australia	won	232 runs		lost	1st		ODI v Sri Lanka	Adelaide	28 Jan 1985	investigate this query
+Australia	won	9 wickets	157	lost	2nd		ODI v Sri Lanka	Perth	3 Feb 1985	investigate this query
+Australia	won	26 runs		lost	1st		ODI v West Indies	Sydney	6 Feb 1985	investigate this query
+Australia	lost	4 wickets	4	lost	1st		ODI v West Indies	Melbourne	10 Feb 1985	investigate this query
+Australia	lost	7 wickets	18	lost	1st		ODI v West Indies	Sydney	12 Feb 1985	investigate this query
+Australia	won	7 wickets	22	lost	2nd		ODI v England	Melbourne	17 Feb 1985	investigate this query
+Australia	lost	62 runs		won	2nd		ODI v Pakistan	Melbourne	24 Feb 1985	investigate this query
+Australia	lost	8 wickets	83	lost	1st		ODI v India	Melbourne	3 Mar 1985	investigate this query
+Australia	won	2 wickets	0	won	2nd		ODI v England	Sharjah	24 Mar 1985	investigate this query
+Australia	lost	3 wickets	64	lost	1st		ODI v India	Sharjah	29 Mar 1985	investigate this query
+Australia	won	3 wickets	5	lost	2nd		ODI v England	Manchester	30 May 1985	investigate this query
+Australia	won	4 wickets	6	won	2nd		ODI v England	Birmingham	1 Jun 1985	investigate this query
+Australia	lost	8 wickets	36	lost	1st		ODI v England	Lord's	3 Jun 1985	investigate this query
+Australia	lost	5 wickets		won	1st		Test v England	Leeds	13 Jun 1985	investigate this query
+Australia	won	4 wickets		won	2nd		Test v England	Lord's	27 Jun 1985	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	11 Jul 1985	investigate this query
+Australia	draw	-		lost	1st		Test v England	Manchester	1 Aug 1985	investigate this query
+Australia	lost	inns & 118 runs		lost	1st		Test v England	Birmingham	15 Aug 1985	investigate this query
+Australia	lost	inns & 94 runs		lost	2nd		Test v England	The Oval	29 Aug 1985	investigate this query
+Australia	lost	inns & 41 runs		lost	1st		Test v New Zealand	Brisbane	8 Nov 1985	investigate this query
+Australia	won	4 wickets		won	2nd		Test v New Zealand	Sydney	22 Nov 1985	investigate this query
+Australia	lost	6 wickets		lost	1st		Test v New Zealand	Perth	30 Nov 1985	investigate this querys
+Australia	draw	-		won	1st		Test v India	Adelaide	13 Dec 1985	investigate this query
+Australia	draw	-		lost	1st		Test v India	Melbourne	26 Dec 1985	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Sydney	2 Jan 1986	investigate this query
+Australia	n/r	-		won	2nd		ODI v New Zealand	Melbourne	9 Jan 1986	investigate this query
+Australia	won	4 wickets	28	won	2nd		ODI v India	Brisbane	12 Jan 1986	investigate this query
+Australia	won	4 wickets	29	won	2nd		ODI v New Zealand	Sydney	14 Jan 1986	investigate this query
+Australia	lost	8 wickets	28	lost	1st		ODI v India	Melbourne	16 Jan 1986	investigate this query
+Australia	won	4 wickets	29	won	2nd		ODI v New Zealand	Perth	19 Jan 1986	investigate this query
+Australia	won	100 runs		lost	1st		ODI v India	Sydney	21 Jan 1986	investigate this query
+Australia	won	36 runs		lost	1st		ODI v India	Adelaide	26 Jan 1986	investigate this query
+Australia	lost	206 runs		lost	2nd		ODI v New Zealand	Adelaide	27 Jan 1986	investigate this query
+Australia	won	99 runs		won	1st		ODI v New Zealand	Sydney	29 Jan 1986	investigate this query
+Australia	lost	6 wickets	7	won	1st		ODI v India	Melbourne	31 Jan 1986	investigate this query
+Australia	won	11 runs		lost	1st		ODI v India	Sydney	5 Feb 1986	investigate this query
+Australia	won	7 wickets	16	won	2nd		ODI v India	Melbourne	9 Feb 1986	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Wellington	21 Feb 1986	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Christchurch	28 Feb 1986	investigate this query
+Australia	lost	8 wickets		won	1st		Test v New Zealand	Auckland	13 Mar 1986	investigate this query
+Australia	lost	30 runs		won	2nd		ODI v New Zealand	Dunedin	19 Mar 1986	investigate this query
+Australia	lost	53 runs		won	2nd		ODI v New Zealand	Christchurch	22 Mar 1986	investigate this query
+Australia	won	3 wickets	3	lost	2nd		ODI v New Zealand	Wellington	26 Mar 1986	investigate this query
+Australia	won	44 runs		won	1st		ODI v New Zealand	Auckland	29 Mar 1986	investigate this query
+Australia	lost	8 wickets	5	won	1st		ODI v Pakistan	Sharjah	11 Apr 1986	investigate this query
+Australia	lost	7 wickets	36	lost	1st		ODI v India	Jaipur	7 Sep 1986	investigate this query
+Australia	won	3 wickets	6	won	2nd		ODI v India	Srinagar	9 Sep 1986	investigate this query
+Australia	tied	-		won	1st		Test v India	Chennai	18 Sep 1986	investigate this query
+Australia	n/r	-		lost	1st		ODI v India	Hyderabad (Deccan)	24 Sep 1986	investigate this query
+Australia	draw	-		won	1st		Test v India	Delhi	26 Sep 1986	investigate this query
+Australia	lost	3 wickets	9	lost	1st		ODI v India	Delhi	2 Oct 1986	investigate this query
+Australia	lost	52 runs		lost	2nd		ODI v India	Ahmedabad	5 Oct 1986	investigate this query
+Australia	won	7 wickets	9	won	2nd		ODI v India	Rajkot	7 Oct 1986	investigate this query
+Australia	draw	-		won	1st		Test v India	Mumbai	15 Oct 1986	investigate this query
+Australia	lost	7 wickets		won	2nd		Test v England	Brisbane	14 Nov 1986	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Perth	28 Nov 1986	investigate this query
+Australia	draw	-		won	1st		Test v England	Adelaide	12 Dec 1986	investigate this query
+Australia	lost	inns & 14 runs		lost	1st		Test v England	Melbourne	26 Dec 1986	investigate this query
+Australia	lost	37 runs		lost	2nd		ODI v England	Perth	1 Jan 1987	investigate this query
+Australia	lost	1 wickets	1	won	1st		ODI v Pakistan	Perth	2 Jan 1987	investigate this query
+Australia	lost	164 runs		won	2nd		ODI v West Indies	Perth	4 Jan 1987	investigate this query
+Australia	won	55 runs		won	1st		Test v England	Sydney	10 Jan 1987	investigate this query
+Australia	won	11 runs		won	1st		ODI v England	Brisbane	18 Jan 1987	investigate this query
+Australia	lost	7 wickets	10	lost	1st		ODI v West Indies	Melbourne	20 Jan 1987	investigate this query
+Australia	lost	3 wickets	1	won	1st		ODI v England	Sydney	22 Jan 1987	investigate this query
+Australia	lost	16 runs		won	2nd		ODI v West Indies	Adelaide	25 Jan 1987	investigate this query
+Australia	won	33 runs		won	1st		ODI v England	Adelaide	26 Jan 1987	investigate this query
+Australia	won	36 runs		won	1st		ODI v West Indies	Sydney	28 Jan 1987	investigate this query
+Australia	won	109 runs		lost	1st		ODI v England	Melbourne	1 Feb 1987	investigate this query
+Australia	won	2 wickets	5	lost	2nd		ODI v West Indies	Sydney	6 Feb 1987	investigate this query
+Australia	lost	6 wickets	48	lost	1st		ODI v England	Melbourne	8 Feb 1987	investigate this query
+Australia	lost	8 runs		lost	2nd		ODI v England	Sydney	11 Feb 1987	investigate this query
+Australia	lost	6 wickets	20	lost	1st		ODI v Pakistan	Sharjah	3 Apr 1987	investigate this query
+Australia	lost	7 wickets	48	lost	1st		ODI v India	Sharjah	5 Apr 1987	investigate this query
+Australia	lost	11 runs		won	2nd		ODI v England	Sharjah	9 Apr 1987	investigate this query
+Australia	won	1 runs		lost	1st		ODI v India	Chennai	9 Oct 1987	investigate this query
+Australia	won	96 runs		lost	1st		ODI v Zimbabwe	Chennai	13 Oct 1987	investigate this query
+Australia	won	3 runs		lost	1st		ODI v New Zealand	Indore	18 Oct 1987	investigate this query
+Australia	lost	56 runs		won	2nd		ODI v India	Delhi	22 Oct 1987	investigate this query
+Australia	won	17 runs		won	1st		ODI v New Zealand	Chandigarh	27 Oct 1987	investigate this query
+Australia	won	70 runs		lost	1st		ODI v Zimbabwe	Cuttack	30 Oct 1987	investigate this query
+Australia	won	18 runs		won	1st		ODI v Pakistan	Lahore	4 Nov 1987	investigate this query
+Australia	won	7 runs		won	1st		ODI v England	Kolkata	8 Nov 1987	investigate this query
+Australia	won	9 wickets		won	2nd		Test v New Zealand	Brisbane	4 Dec 1987	investigate this query
+Australia	draw	-		lost	2nd		Test v New Zealand	Adelaide	11 Dec 1987	investigate this query
+Australia	draw	-		won	2nd		Test v New Zealand	Melbourne	26 Dec 1987	investigate this query
+Australia	won	81 runs		lost	1st		ODI v Sri Lanka	Perth	2 Jan 1988	investigate this query
+Australia	lost	1 runs		lost	2nd		ODI v New Zealand	Perth	3 Jan 1988	investigate this query
+Australia	won	6 runs		won	1st		ODI v New Zealand	Melbourne	7 Jan 1988	investigate this query
+Australia	won	81 runs		won	1st		ODI v Sri Lanka	Adelaide	10 Jan 1988	investigate this query
+Australia	won	38 runs		won	1st		ODI v Sri Lanka	Melbourne	14 Jan 1988	investigate this query
+Australia	won	5 wickets	64	won	2nd		ODI v New Zealand	Brisbane	17 Jan 1988	investigate this query
+Australia	won	3 wickets	3	won	2nd		ODI v Sri Lanka	Sydney	19 Jan 1988	investigate this query
+Australia	won	78 runs		won	1st		ODI v New Zealand	Sydney	20 Jan 1988	investigate this query
+Australia	won	8 wickets	31	won	2nd		ODI v New Zealand	Melbourne	22 Jan 1988	investigate this query
+Australia	won	6 wickets	23	won	2nd		ODI v New Zealand	Sydney	24 Jan 1988	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Sydney	29 Jan 1988	investigate this query
+Australia	won	22 runs		won	1st		ODI v England	Melbourne	4 Feb 1988	investigate this query
+Australia	won	inns & 108 runs		won	1st		Test v Sri Lanka	Perth	12 Feb 1988	investigate this query
+Australia	lost	inns & 188 runs		lost	2nd		Test v Pakistan	Karachi	15 Sep 1988	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Faisalabad	23 Sep 1988	investigate this query
+Australia	aban	-		-	-		ODI v Pakistan	Gujranwala	30 Sep 1988	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Lahore	7 Oct 1988	investigate this query
+Australia	aban	-		-	-		ODI v Pakistan	Karachi	14 Oct 1988	investigate this query
+Australia	lost			lost	1st		ODI v Pakistan	Lahore	14 Oct 1988	investigate this query
+Australia	lost	9 wickets		won	1st		Test v West Indies	Brisbane	18 Nov 1988	investigate this query
+Australia	lost	169 runs		won	2nd		Test v West Indies	Perth	2 Dec 1988	investigate this query
+Australia	won	9 wickets	34	lost	2nd		ODI v Pakistan	Adelaide	11 Dec 1988	investigate this query
+Australia	lost	1 runs		lost	2nd		ODI v West Indies	Sydney	13 Dec 1988	investigate this query
+Australia	lost	34 runs		lost	2nd		ODI v West Indies	Melbourne	15 Dec 1988	investigate this query
+Australia	lost	285 runs		won	2nd		Test v West Indies	Melbourne	24 Dec 1988	investigate this query
+Australia	lost	38 runs		lost	2nd		ODI v Pakistan	Perth	2 Jan 1989	investigate this query
+Australia	won	8 runs		lost	1st		ODI v West Indies	Melbourne	5 Jan 1989	investigate this query
+Australia	won	5 wickets	31	lost	2nd		ODI v Pakistan	Brisbane	8 Jan 1989	investigate this query
+Australia	won	6 runs		lost	1st		ODI v Pakistan	Melbourne	10 Jan 1989	investigate this query
+Australia	won	61 runs		won	1st		ODI v West Indies	Sydney	12 Jan 1989	investigate this query
+Australia	won	2 runs		won	1st		ODI v West Indies	Melbourne	14 Jan 1989	investigate this query
+Australia	lost	92 runs		lost	2nd		ODI v West Indies	Sydney	16 Jan 1989	investigate this query
+Australia	lost	8 wickets	28	won	1st		ODI v West Indies	Sydney	18 Jan 1989	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v West Indies	Sydney	26 Jan 1989	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Adelaide	3 Feb 1989	investigate this query
+Australia	lost	95 runs		lost	2nd		ODI v England	Manchester	25 May 1989	investigate this query
+Australia	tied	-		lost	2nd		ODI v England	Nottingham	27 May 1989	investigate this query
+Australia	won	6 wickets	3	lost	2nd		ODI v England	Lord's	29 May 1989	investigate this query
+Australia	won	210 runs		lost	1st		Test v England	Leeds	8 Jun 1989	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v England	Lord's	22 Jun 1989	investigate this query
+Australia	draw	-		won	1st		Test v England	Birmingham	6 Jul 1989	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v England	Manchester	27 Jul 1989	investigate this query
+Australia	won	inns & 180 runs		won	1st		Test v England	Nottingham	10 Aug 1989	investigate this query
+Australia	draw	-		won	1st		Test v England	The Oval	24 Aug 1989	investigate this query
+Australia	lost	7 wickets	15	won	1st		ODI v England	Hyderabad (Deccan)	19 Oct 1989	investigate this query
+Australia	won	99 runs		won	1st		ODI v West Indies	Chennai	21 Oct 1989	investigate this query
+Australia	lost	66 runs		won	2nd		ODI v Pakistan	Mumbai (BS)	23 Oct 1989	investigate this query
+Australia	won	28 runs		won	1st		ODI v Sri Lanka	Margao	25 Oct 1989	investigate this query
+Australia	lost	3 wickets	17	won	1st		ODI v India	Bangalore	27 Oct 1989	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Perth	24 Nov 1989	investigate this query
+Australia	draw	-		lost	1st		Test v Sri Lanka	Brisbane	8 Dec 1989	investigate this query
+Australia	won	173 runs		lost	1st		Test v Sri Lanka	Hobart	16 Dec 1989	investigate this query
+Australia	won	30 runs		lost	1st		ODI v Sri Lanka	Melbourne	26 Dec 1989	investigate this query
+Australia	won	9 wickets	55	lost	2nd		ODI v Sri Lanka	Perth	30 Dec 1989	investigate this query
+Australia	won	7 wickets	54	lost	2nd		ODI v Pakistan	Melbourne	3 Jan 1990	investigate this query
+Australia	won	73 runs		won	1st		ODI v Sri Lanka	Melbourne	4 Jan 1990	investigate this query
+Australia	won	92 runs		lost	1st		Test v Pakistan	Melbourne	12 Jan 1990	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Adelaide	19 Jan 1990	investigate this query
+Australia	draw	-		won	2nd		Test v Pakistan	Sydney	3 Feb 1990	investigate this query
+Australia	won	67 runs		lost	1st		ODI v Pakistan	Brisbane	11 Feb 1990	investigate this query
+Australia	lost	5 wickets	9	lost	1st		ODI v Pakistan	Sydney	13 Feb 1990	investigate this query
+Australia	won	7 wickets	60	lost	2nd		ODI v Sri Lanka	Adelaide	18 Feb 1990	investigate this query
+Australia	lost	2 runs		lost	2nd		ODI v Pakistan	Sydney	20 Feb 1990	investigate this query
+Australia	won	7 wickets	25	won	2nd		ODI v Pakistan	Melbourne	23 Feb 1990	investigate this query
+Australia	won	69 runs		won	1st		ODI v Pakistan	Sydney	25 Feb 1990	investigate this query
+Australia	won	18 runs		won	1st		ODI v India	Christchurch	3 Mar 1990	investigate this query
+Australia	won	150 runs		won	1st		ODI v New Zealand	Christchurch	4 Mar 1990	investigate this query
+Australia	won	7 wickets	12	lost	2nd		ODI v India	Hamilton	8 Mar 1990	investigate this query
+Australia	won	10 runs		lost	1st		ODI v New Zealand	Auckland	10 Mar 1990	investigate this query
+Australia	won	8 wickets	65	lost	2nd		ODI v New Zealand	Auckland	11 Mar 1990	investigate this query
+Australia	lost	9 wickets		won	1st		Test v New Zealand	Wellington	15 Mar 1990	investigate this query
+Australia	won	63 runs		lost	1st		ODI v New Zealand	Sharjah	26 Apr 1990	investigate this query
+Australia	won	7 wickets	146	lost	2nd		ODI v Bangladesh	Sharjah	30 Apr 1990	investigate this query
+Australia	won	114 runs		won	1st		ODI v Sri Lanka	Sharjah	2 May 1990	investigate this query
+Australia	lost	36 runs		lost	2nd		ODI v Pakistan	Sharjah	4 May 1990	investigate this query
+Australia	won	10 wickets		won	2nd		Test v England	Brisbane	23 Nov 1990	investigate this query
+Australia	won	61 runs		lost	1st		ODI v New Zealand	Sydney	29 Nov 1990	investigate this query
+Australia	won	6 wickets	18	lost	2nd		ODI v New Zealand	Adelaide	2 Dec 1990	investigate this query
+Australia	won	6 wickets	54	lost	2nd		ODI v England	Perth	9 Dec 1990	investigate this query
+Australia	won	39 runs		lost	1st		ODI v New Zealand	Melbourne	11 Dec 1990	investigate this query
+Australia	won	37 runs		won	1st		ODI v England	Brisbane	16 Dec 1990	investigate this query
+Australia	lost	1 runs		won	2nd		ODI v New Zealand	Hobart	18 Dec 1990	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Melbourne	26 Dec 1990	investigate this query
+Australia	won	68 runs		lost	1st		ODI v England	Sydney	1 Jan 1991	investigate this query
+Australia	draw	-		won	1st		Test v England	Sydney	4 Jan 1991	investigate this query
+Australia	won	3 runs		won	1st		ODI v England	Melbourne	10 Jan 1991	investigate this query
+Australia	won	6 wickets	5	lost	2nd		ODI v New Zealand	Sydney	13 Jan 1991	investigate this query
+Australia	won	7 wickets	27	lost	2nd		ODI v New Zealand	Melbourne	15 Jan 1991	investigate this query
+Australia	draw	-		won	1st		Test v England	Adelaide	25 Jan 1991	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v England	Perth	1 Feb 1991	investigate this query
+Australia	won	35 runs		won	1st		ODI v West Indies	Kingston	26 Feb 1991	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Kingston	1 Mar 1991	investigate this query
+Australia	won	45 runs		lost	1st		ODI v West Indies	Port of Spain	9 Mar 1991	investigate this query
+Australia	lost	7 wickets	15	won	1st		ODI v West Indies	Port of Spain	10 Mar 1991	investigate this query
+Australia	won	37 runs		won	1st		ODI v West Indies	Bridgetown	13 Mar 1991	investigate this query
+Australia	won	6 wickets	9	lost	2nd		ODI v West Indies	Georgetown	20 Mar 1991	investigate this query
+Australia	lost	10 wickets		won	1st		Test v West Indies	Georgetown	23 Mar 1991	investigate this query
+Australia	draw	-		lost	1st		Test v West Indies	Port of Spain	5 Apr 1991	investigate this query
+Australia	lost	343 runs		won	2nd		Test v West Indies	Bridgetown	19 Apr 1991	investigate this query
+Australia	won	157 runs		won	1st		Test v West Indies	St John's	27 Apr 1991	investigate this query
+Australia	won	10 wickets		won	2nd		Test v India	Brisbane	29 Nov 1991	investigate this query
+Australia	lost	107 runs		lost	2nd		ODI v India	Perth	8 Dec 1991	investigate this query
+Australia	won	8 wickets	9	lost	2nd		ODI v India	Hobart	10 Dec 1991	investigate this query
+Australia	won	9 runs		won	1st		ODI v West Indies	Melbourne	12 Dec 1991	investigate this query
+Australia	won	6 wickets	55	lost	2nd		ODI v India	Adelaide	15 Dec 1991	investigate this query
+Australia	won	51 runs		won	1st		ODI v West Indies	Sydney	18 Dec 1991	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v India	Melbourne	26 Dec 1991	investigate this query
+Australia	draw	-		lost	1st		Test v India	Sydney	2 Jan 1992	investigate this query
+Australia	n/r	-		lost	2nd		ODI v West Indies	Melbourne	9 Jan 1992	investigate this query
+Australia	lost	12 runs		won	2nd		ODI v West Indies	Brisbane	12 Jan 1992	investigate this query
+Australia	won	9 wickets	64	lost	2nd		ODI v India	Sydney	14 Jan 1992	investigate this query
+Australia	won	88 runs		won	1st		ODI v India	Melbourne	18 Jan 1992	investigate this query
+Australia	won	6 runs		won	1st		ODI v India	Sydney	20 Jan 1992	investigate this query
+Australia	won	38 runs		lost	1st		Test v India	Adelaide	25 Jan 1992	investigate this query
+Australia	won	300 runs		won	1st		Test v India	Perth	1 Feb 1992	investigate this query
+Australia	lost	37 runs		lost	2nd		ODI v New Zealand	Auckland	22 Feb 1992	investigate this query
+Australia	lost	9 wickets	13	won	1st		ODI v South Africa	Sydney	26 Feb 1992	investigate this query
+Australia	won	1 runs		won	1st		ODI v India	Brisbane	1 Mar 1992	investigate this query
+Australia	lost	8 wickets	55	won	1st		ODI v England	Sydney	5 Mar 1992	investigate this query
+Australia	won	7 wickets	36	won	2nd		ODI v Sri Lanka	Adelaide	7 Mar 1992	investigate this query
+Australia	lost	48 runs		lost	2nd		ODI v Pakistan	Perth	11 Mar 1992	investigate this query
+Australia	won	128 runs		won	1st		ODI v Zimbabwe	Hobart	14 Mar 1992	investigate this query
+Australia	won	57 runs		won	1st		ODI v West Indies	Melbourne	18 Mar 1992	investigate this query
+Australia	lost	4 wickets	4	lost	1st		ODI v Sri Lanka	Colombo (PSS)	15 Aug 1992	investigate this query
+Australia	won	16 runs		lost	1st		Test v Sri Lanka	Colombo (SSC)	17 Aug 1992	investigate this query
+Australia	draw	-		lost	1st		Test v Sri Lanka	Colombo (RPS)	28 Aug 1992	investigate this query
+Australia	lost	5 wickets	7	lost	1st		ODI v Sri Lanka	Colombo (RPS)	4 Sep 1992	investigate this query
+Australia	won	5 wickets	13	won	2nd		ODI v Sri Lanka	Colombo (RPS)	5 Sep 1992	investigate this query
+Australia	draw	-		won	1st		Test v Sri Lanka	Moratuwa	8 Sep 1992	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Brisbane	27 Nov 1992	investigate this query
+Australia	lost	9 wickets	69	won	1st		ODI v West Indies	Perth	6 Dec 1992	investigate this query
+Australia	won	14 runs		lost	1st		ODI v West Indies	Sydney	8 Dec 1992	investigate this query
+Australia	tied	-		won	1st		ODI v Pakistan	Hobart	10 Dec 1992	investigate this query
+Australia	won	8 wickets	12	won	2nd		ODI v Pakistan	Adelaide	13 Dec 1992	investigate this query
+Australia	won	4 runs		won	1st		ODI v West Indies	Melbourne	15 Dec 1992	investigate this query
+Australia	won	139 runs		won	1st		Test v West Indies	Melbourne	26 Dec 1992	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Sydney	2 Jan 1993	investigate this query
+Australia	lost	7 runs		won	2nd		ODI v West Indies	Brisbane	10 Jan 1993	investigate this query
+Australia	won	32 runs		won	1st		ODI v Pakistan	Melbourne	12 Jan 1993	investigate this query
+Australia	won	23 runs		won	1st		ODI v Pakistan	Sydney	14 Jan 1993	investigate this query
+Australia	lost	25 runs		lost	2nd		ODI v West Indies	Sydney	16 Jan 1993	investigate this query
+Australia	lost	4 wickets	18	won	1st		ODI v West Indies	Melbourne	18 Jan 1993	investigate this query
+Australia	lost	1 runs		lost	2nd		Test v West Indies	Adelaide	23 Jan 1993	investigate this query
+Australia	lost	inns & 25 runs		won	1st		Test v West Indies	Perth	30 Jan 1993	investigate this query
+Australia	won	inns & 60 runs		lost	1st		Test v New Zealand	Christchurch	25 Feb 1993	investigate this query
+Australia	draw	-		won	2nd		Test v New Zealand	Wellington	4 Mar 1993	investigate this query
+Australia	lost	5 wickets		won	1st		Test v New Zealand	Auckland	12 Mar 1993	investigate this query
+Australia	won	129 runs		lost	1st		ODI v New Zealand	Dunedin	19 Mar 1993	investigate this query
+Australia	won	1 wickets	3	lost	2nd		ODI v New Zealand	Christchurch	21 Mar 1993	investigate this query
+Australia	lost	88 runs		lost	2nd		ODI v New Zealand	Wellington	24 Mar 1993	investigate this query
+Australia	lost	3 wickets	2	won	1st		ODI v New Zealand	Hamilton	27 Mar 1993	investigate this query
+Australia	won	3 runs		lost	1st		ODI v New Zealand	Auckland	28 Mar 1993	investigate this query
+Australia	won	4 runs		lost	1st		ODI v England	Manchester	19 May 1993	investigate this query
+Australia	won	6 wickets	9	won	2nd		ODI v England	Birmingham	21 May 1993	investigate this query
+Australia	won	19 runs		lost	1st		ODI v England	Lord's	23 May 1993	investigate this query
+Australia	won	179 runs		lost	1st		Test v England	Manchester	3 Jun 1993	investigate this query
+Australia	won	inns & 62 runs		won	1st		Test v England	Lord's	17 Jun 1993	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Nottingham	1 Jul 1993	investigate this query
+Australia	won	inns & 148 runs		won	1st		Test v England	Leeds	22 Jul 1993	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v England	Birmingham	5 Aug 1993	investigate this query
+Australia	lost	161 runs		lost	2nd		Test v England	The Oval	19 Aug 1993	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Perth	12 Nov 1993	investigate this query
+Australia	won	inns & 222 runs		won	1st		Test v New Zealand	Hobart	26 Nov 1993	investigate this query
+Australia	won	inns & 96 runs		lost	2nd		Test v New Zealand	Brisbane	3 Dec 1993	investigate this query
+Australia	lost	7 wickets	8	won	1st		ODI v South Africa	Melbourne	9 Dec 1993	investigate this query
+Australia	won	8 wickets	67	lost	2nd		ODI v New Zealand	Adelaide	12 Dec 1993	investigate this query
+Australia	won	103 runs		lost	1st		ODI v South Africa	Sydney	14 Dec 1993	investigate this query
+Australia	won	3 runs		won	1st		ODI v New Zealand	Melbourne	16 Dec 1993	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Melbourne	26 Dec 1993	investigate this query
+Australia	lost	5 runs		lost	2nd		Test v South Africa	Sydney	2 Jan 1994	investigate this query
+Australia	won	48 runs		lost	1st		ODI v South Africa	Brisbane	9 Jan 1994	investigate this query
+Australia	lost	13 runs		lost	2nd		ODI v New Zealand	Sydney	11 Jan 1994	investigate this query
+Australia	lost	82 runs		won	2nd		ODI v South Africa	Perth	16 Jan 1994	investigate this query
+Australia	won	51 runs		won	1st		ODI v New Zealand	Melbourne	19 Jan 1994	investigate this query
+Australia	lost	28 runs		lost	2nd		ODI v South Africa	Melbourne	21 Jan 1994	investigate this query
+Australia	won	69 runs		won	1st		ODI v South Africa	Sydney	23 Jan 1994	investigate this query
+Australia	won	35 runs		won	1st		ODI v South Africa	Sydney	25 Jan 1994	investigate this query
+Australia	won	191 runs		won	1st		Test v South Africa	Adelaide	28 Jan 1994	investigate this query
+Australia	lost	5 runs		lost	2nd		ODI v South Africa	Johannesburg	19 Feb 1994	investigate this query
+Australia	lost	56 runs		lost	2nd		ODI v South Africa	Centurion	20 Feb 1994	investigate this query
+Australia	won	88 runs		won	1st		ODI v South Africa	Port Elizabeth	22 Feb 1994	investigate this query
+Australia	lost	7 wickets	30	won	1st		ODI v South Africa	Durban	24 Feb 1994	investigate this query
+Australia	lost	197 runs		lost	2nd		Test v South Africa	Johannesburg	4 Mar 1994	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v South Africa	Cape Town	17 Mar 1994	investigate this query
+Australia	draw	-		lost	1st		Test v South Africa	Durban	25 Mar 1994	investigate this query
+Australia	won	7 wickets	60	lost	2nd		ODI v South Africa	East London	2 Apr 1994	investigate this query
+Australia	lost	26 runs		lost	2nd		ODI v South Africa	Port Elizabeth	4 Apr 1994	investigate this query
+Australia	won	36 runs		won	1st		ODI v South Africa	Cape Town	6 Apr 1994	investigate this query
+Australia	won	1 runs		won	1st		ODI v South Africa	Bloemfontein	8 Apr 1994	investigate this query
+Australia	won	9 wickets	79	lost	2nd		ODI v Sri Lanka	Sharjah	14 Apr 1994	investigate this query
+Australia	won	7 wickets	13	lost	2nd		ODI v New Zealand	Sharjah	16 Apr 1994	investigate this query
+Australia	lost	7 wickets	26	won	1st		ODI v India	Sharjah	19 Apr 1994	investigate this query
+Australia	won	28 runs		lost	1st		ODI v Pakistan	Colombo (SSC)	7 Sep 1994	investigate this query
+Australia	lost	31 runs		lost	2nd		ODI v India	Colombo (RPS)	9 Sep 1994	investigate this query
+Australia	lost	6 wickets	8	lost	1st		ODI v Sri Lanka	Colombo (PSS)	13 Sep 1994	investigate this query
+Australia	lost	1 wickets		won	1st		Test v Pakistan	Karachi	28 Sep 1994	investigate this query
+Australia	draw	-		lost	1st		Test v Pakistan	Rawalpindi	5 Oct 1994	investigate this query
+Australia	won	6 runs		won	1st		ODI v South Africa	Lahore	12 Oct 1994	investigate this query
+Australia	won	7 wickets	24	lost	2nd		ODI v Pakistan	Multan	14 Oct 1994	investigate this query
+Australia	won	22 runs		won	1st		ODI v South Africa	Faisalabad	18 Oct 1994	investigate this query
+Australia	lost	9 wickets	66	lost	1st		ODI v Pakistan	Rawalpindi	22 Oct 1994	investigate this query
+Australia	won	3 wickets	2	lost	2nd		ODI v South Africa	Peshawar	24 Oct 1994	investigate this query
+Australia	aban	-		-	-		ODI v Pakistan	Gujranwala	26 Oct 1994	investigate this query
+Australia	won	64 runs		won	1st		ODI v Pakistan	Lahore	30 Oct 1994	investigate this query
+Australia	draw	-		lost	2nd		Test v Pakistan	Lahore	1 Nov 1994	investigate this query
+Australia	won	184 runs		won	1st		Test v England	Brisbane	25 Nov 1994	investigate this query
+Australia	won	2 wickets	16	won	2nd		ODI v Zimbabwe	Perth	2 Dec 1994	investigate this query
+Australia	won	28 runs		won	1st		ODI v England	Sydney	6 Dec 1994	investigate this query
+Australia	won	84 runs		won	1st		ODI v Zimbabwe	Hobart	8 Dec 1994	investigate this query
+Australia	won	295 runs		lost	1st		Test v England	Melbourne	24 Dec 1994	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Sydney	1 Jan 1995	investigate this query
+Australia	lost	37 runs		lost	2nd		ODI v England	Melbourne	10 Jan 1995	investigate this query
+Australia	lost	106 runs		lost	2nd		Test v England	Adelaide	26 Jan 1995	investigate this query
+Australia	won	329 runs		won	1st		Test v England	Perth	3 Feb 1995	investigate this query
+Australia	won	3 wickets	40	lost	2nd		ODI v South Africa	Wellington	15 Feb 1995	investigate this query
+Australia	won	27 runs		won	1st		ODI v New Zealand	Auckland	19 Feb 1995	investigate this query
+Australia	lost	5 wickets	13	won	1st		ODI v India	Dunedin	22 Feb 1995	investigate this query
+Australia	won	6 wickets	113	lost	2nd		ODI v New Zealand	Auckland	26 Feb 1995	investigate this query
+Australia	lost	6 runs		lost	2nd		ODI v West Indies	Bridgetown	8 Mar 1995	investigate this query
+Australia	won	26 runs		won	1st		ODI v West Indies	Port of Spain	11 Mar 1995	investigate this query
+Australia	lost	133 runs		lost	2nd		ODI v West Indies	Port of Spain	12 Mar 1995	investigate this query
+Australia	lost	7 wickets	17	won	1st		ODI v West Indies	Kingstown	15 Mar 1995	investigate this query
+Australia	lost	5 wickets	16	won	1st		ODI v West Indies	Georgetown	18 Mar 1995	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v West Indies	Bridgetown	31 Mar 1995	investigate this query
+Australia	draw	-		lost	1st		Test v West Indies	St John's	8 Apr 1995	investigate this query
+Australia	lost	9 wickets		lost	1st		Test v West Indies	Port of Spain	21 Apr 1995	investigate this query
+Australia	won	inns & 53 runs		lost	2nd		Test v West Indies	Kingston	29 Apr 1995	investigate this query
+Australia	won	inns & 126 runs		won	1st		Test v Pakistan	Brisbane	9 Nov 1995	investigate this query
+Australia	won	155 runs		won	1st		Test v Pakistan	Hobart	17 Nov 1995	investigate this query
+Australia	lost	74 runs		lost	2nd		Test v Pakistan	Sydney	30 Nov 1995	investigate this query
+Australia	won	inns & 36 runs		lost	2nd		Test v Sri Lanka	Perth	8 Dec 1995	investigate this query
+Australia	won	121 runs		lost	1st		ODI v West Indies	Adelaide	17 Dec 1995	investigate this query
+Australia	won	24 runs		won	1st		ODI v West Indies	Melbourne	19 Dec 1995	investigate this query
+Australia	won	5 wickets	2	lost	2nd		ODI v Sri Lanka	Sydney	21 Dec 1995	investigate this query
+Australia	won	10 wickets		lost	1st		Test v Sri Lanka	Melbourne	26 Dec 1995	investigate this query
+Australia	won	1 wickets	0	lost	2nd		ODI v West Indies	Sydney	1 Jan 1996	investigate this query
+Australia	lost	14 runs		won	2nd		ODI v West Indies	Brisbane	7 Jan 1996	investigate this query
+Australia	lost	3 wickets	15	won	1st		ODI v Sri Lanka	Melbourne	9 Jan 1996	investigate this query
+Australia	won	83 runs		won	1st		ODI v Sri Lanka	Perth	12 Jan 1996	investigate this query
+Australia	lost	3 wickets	2	won	1st		ODI v Sri Lanka	Melbourne	16 Jan 1996	investigate this query
+Australia	won	18 runs		lost	1st		ODI v Sri Lanka	Melbourne	18 Jan 1996	investigate this query
+Australia	won	9 runs		lost	1st		ODI v Sri Lanka	Sydney	20 Jan 1996	investigate this query
+Australia	won	148 runs		won	1st		Test v Sri Lanka	Adelaide	25 Jan 1996	investigate this query
+Australia	lost			-	-		ODI v Sri Lanka	Colombo (RPS)	17 Feb 1996	investigate this query
+Australia	won	97 runs		lost	1st		ODI v Kenya	Visakhapatnam	23 Feb 1996	investigate this query
+Australia	won	16 runs		won	1st		ODI v India	Mumbai	27 Feb 1996	investigate this query
+Australia	won	8 wickets	84	lost	2nd		ODI v Zimbabwe	Nagpur	1 Mar 1996	investigate this query
+Australia	lost	4 wickets	7	won	1st		ODI v West Indies	Jaipur	4 Mar 1996	investigate this query
+Australia	won	6 wickets	13	lost	2nd		ODI v New Zealand	Chennai	11 Mar 1996	investigate this query
+Australia	won	5 runs		won	1st		ODI v West Indies	Mohali	14 Mar 1996	investigate this query
+Australia	lost	7 wickets	22	lost	1st		ODI v Sri Lanka	Lahore	17 Mar 1996	investigate this query
+Australia	won	125 runs		won	1st		ODI v Zimbabwe	Colombo (RPS)	26 Aug 1996	investigate this query
+Australia	lost	4 wickets	25	won	1st		ODI v Sri Lanka	Colombo (RPS)	30 Aug 1996	investigate this query
+Australia	won	3 wickets	3	won	2nd		ODI v India	Colombo (SSC)	6 Sep 1996	investigate this query
+Australia	lost	50 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	7 Sep 1996	investigate this query
+Australia	lost	7 wickets		won	1st		Test v India	Delhi	10 Oct 1996	investigate this query
+Australia	lost	7 wickets	23	won	1st		ODI v South Africa	Indore	19 Oct 1996	investigate this query
+Australia	lost	2 wickets	7	won	1st		ODI v India	Bangalore	21 Oct 1996	investigate this query
+Australia	lost	2 wickets	16	won	1st		ODI v South Africa	Faridabad	25 Oct 1996	investigate this query
+Australia	aban	-		-	-		ODI v India	Cuttack	27 Oct 1996	investigate this query
+Australia	lost	8 wickets	30	won	1st		ODI v South Africa	Guwahati	1 Nov 1996	investigate this query
+Australia	lost	5 runs		won	2nd		ODI v India	Mohali	3 Nov 1996	investigate this query
+Australia	won	123 runs		lost	1st		Test v West Indies	Brisbane	22 Nov 1996	investigate this query
+Australia	won	124 runs		won	1st		Test v West Indies	Sydney	29 Nov 1996	investigate this query
+Australia	won	5 wickets	8	lost	2nd		ODI v West Indies	Melbourne	6 Dec 1996	investigate this query
+Australia	won	8 wickets	48	lost	2nd		ODI v West Indies	Sydney	8 Dec 1996	investigate this query
+Australia	lost	12 runs		lost	2nd		ODI v Pakistan	Adelaide	15 Dec 1996	investigate this query
+Australia	lost	6 wickets		won	1st		Test v West Indies	Melbourne	26 Dec 1996	investigate this query
+Australia	lost	4 wickets	27	won	1st		ODI v Pakistan	Sydney	1 Jan 1997	investigate this query
+Australia	lost	7 wickets	7	won	1st		ODI v West Indies	Brisbane	5 Jan 1997	investigate this query
+Australia	lost	29 runs		lost	2nd		ODI v Pakistan	Hobart	7 Jan 1997	investigate this query
+Australia	lost	4 wickets	4	won	1st		ODI v West Indies	Perth	12 Jan 1997	investigate this query
+Australia	won	3 wickets	3	lost	2nd		ODI v Pakistan	Melbourne	16 Jan 1997	investigate this query
+Australia	won	inns & 183 runs		lost	2nd		Test v West Indies	Adelaide	25 Jan 1997	investigate this query
+Australia	lost	10 wickets		won	1st		Test v West Indies	Perth	1 Feb 1997	investigate this query
+Australia	won	inns & 196 runs		lost	2nd		Test v South Africa	Johannesburg	28 Feb 1997	investigate this query
+Australia	won	2 wickets		won	2nd		Test v South Africa	Port Elizabeth	14 Mar 1997	investigate this query
+Australia	lost	8 wickets		lost	1st		Test v South Africa	Centurion	21 Mar 1997	investigate this query
+Australia	lost	6 wickets	18	lost	1st		ODI v South Africa	East London	29 Mar 1997	investigate this query
+Australia	won	7 wickets	30	won	2nd		ODI v South Africa	Port Elizabeth	31 Mar 1997	investigate this query
+Australia	lost	46 runs		won	2nd		ODI v South Africa	Cape Town	2 Apr 1997	investigate this query
+Australia	won	15 runs		won	1st		ODI v South Africa	Durban	5 Apr 1997	investigate this query
+Australia	won	8 runs		won	1st		ODI v South Africa	Johannesburg	8 Apr 1997	investigate this query
+Australia	won	5 wickets	6	lost	2nd		ODI v South Africa	Centurion	10 Apr 1997	investigate this query
+Australia	lost	109 runs		won	2nd		ODI v South Africa	Bloemfontein	13 Apr 1997	investigate this query
+Australia	lost	6 wickets	59	lost	1st		ODI v England	Leeds	22 May 1997	investigate this query
+Australia	lost	6 wickets	10	lost	1st		ODI v England	The Oval	24 May 1997	investigate this query
+Australia	lost	6 wickets	6	lost	1st		ODI v England	Lord's	25 May 1997	investigate this query
+Australia	lost	9 wickets		won	1st		Test v England	Birmingham	5 Jun 1997	investigate this query
+Australia	draw	-		won	2nd		Test v England	Lord's	19 Jun 1997	investigate this query
+Australia	won	268 runs		won	1st		Test v England	Manchester	3 Jul 1997	investigate this query
+Australia	won	inns & 61 runs		won	2nd		Test v England	Leeds	24 Jul 1997	investigate this query
+Australia	won	264 runs		won	1st		Test v England	Nottingham	7 Aug 1997	investigate this query
+Australia	lost	19 runs		lost	2nd		Test v England	The Oval	21 Aug 1997	investigate this query
+Australia	won	186 runs		lost	1st		Test v New Zealand	Brisbane	7 Nov 1997	investigate this query
+Australia	won	inns & 70 runs		lost	2nd		Test v New Zealand	Perth	20 Nov 1997	investigate this query
+Australia	draw	-		won	1st		Test v New Zealand	Hobart	27 Nov 1997	investigate this query
+Australia	lost	67 runs		lost	2nd		ODI v South Africa	Sydney	4 Dec 1997	investigate this query
+Australia	won	3 wickets	2	lost	2nd		ODI v New Zealand	Adelaide	7 Dec 1997	investigate this query
+Australia	lost	45 runs		lost	2nd		ODI v South Africa	Melbourne	9 Dec 1997	investigate this query
+Australia	won	6 wickets	67	lost	2nd		ODI v New Zealand	Melbourne	17 Dec 1997	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Melbourne	26 Dec 1997	investigate this query
+Australia	won	inns & 21 runs		lost	2nd		Test v South Africa	Sydney	2 Jan 1998	investigate this query
+Australia	lost	5 wickets	15	won	1st		ODI v South Africa	Brisbane	11 Jan 1998	investigate this query
+Australia	won	131 runs		won	1st		ODI v New Zealand	Sydney	14 Jan 1998	investigate this query
+Australia	lost	7 wickets	130	won	1st		ODI v South Africa	Perth	18 Jan 1998	investigate this query
+Australia	lost	4 wickets	5	won	1st		ODI v New Zealand	Melbourne	21 Jan 1998	investigate this query
+Australia	lost	6 runs		lost	2nd		ODI v South Africa	Melbourne	23 Jan 1998	investigate this query
+Australia	won	7 wickets	49	lost	2nd		ODI v South Africa	Sydney	26 Jan 1998	investigate this query
+Australia	won	14 runs		won	1st		ODI v South Africa	Sydney	27 Jan 1998	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Adelaide	30 Jan 1998	investigate this query
+Australia	won	7 wickets	70	lost	2nd		ODI v New Zealand	Christchurch	8 Feb 1998	investigate this query
+Australia	won	66 runs		won	1st		ODI v New Zealand	Wellington	10 Feb 1998	investigate this query
+Australia	lost	7 wickets	10	won	1st		ODI v New Zealand	Napier	12 Feb 1998	investigate this query
+Australia	lost	30 runs		won	2nd		ODI v New Zealand	Auckland	14 Feb 1998	investigate this query
+Australia	lost	179 runs		lost	2nd		Test v India	Chennai	6 Mar 1998	investigate this query
+Australia	lost	inns & 219 runs		won	1st		Test v India	Kolkata	18 Mar 1998	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v India	Bangalore	25 Mar 1998	investigate this query
+Australia	lost	41 runs		lost	2nd		ODI v India	Kochi	1 Apr 1998	investigate this query
+Australia	won	13 runs		won	1st		ODI v Zimbabwe	Ahmedabad	3 Apr 1998	investigate this query
+Australia	lost	6 wickets	33	won	1st		ODI v India	Kanpur	7 Apr 1998	investigate this query
+Australia	won	16 runs		lost	1st		ODI v Zimbabwe	Delhi	11 Apr 1998	investigate this query
+Australia	won	4 wickets	8	lost	2nd		ODI v India	Delhi	14 Apr 1998	investigate this query
+Australia	won	6 wickets	79	lost	2nd		ODI v New Zealand	Sharjah	18 Apr 1998	investigate this query
+Australia	won	58 runs		won	1st		ODI v India	Sharjah	19 Apr 1998	investigate this query
+Australia	won	5 wickets	13	lost	2nd		ODI v New Zealand	Sharjah	21 Apr 1998	investigate this query
+Australia	won	26 runs		won	1st		ODI v India	Sharjah	22 Apr 1998	investigate this query
+Australia	lost	6 wickets	9	lost	1st		ODI v India	Sharjah	24 Apr 1998	investigate this query
+Australia	won	inns & 99 runs		lost	2nd		Test v Pakistan	Rawalpindi	1 Oct 1998	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Peshawar	15 Oct 1998	investigate this query
+Australia	draw	-		won	1st		Test v Pakistan	Karachi	22 Oct 1998	investigate this query
+Australia	lost	44 runs		won	2nd		ODI v India	Dhaka	28 Oct 1998	investigate this query
+Australia	won	86 runs		lost	1st		ODI v Pakistan	Karachi	6 Nov 1998	investigate this query
+Australia	won	5 wickets	11	lost	2nd		ODI v Pakistan	Peshawar	8 Nov 1998	investigate this query
+Australia	won	6 wickets	7	lost	2nd		ODI v Pakistan	Lahore	10 Nov 1998	investigate this query
+Australia	draw	-		won	1st		Test v England	Brisbane	20 Nov 1998	investigate this query
+Australia	won	7 wickets		won	2nd		Test v England	Perth	28 Nov 1998	investigate this query
+Australia	won	205 runs		won	1st		Test v England	Adelaide	11 Dec 1998	investigate this query
+Australia	lost	12 runs		won	2nd		Test v England	Melbourne	26 Dec 1998	investigate this query
+Australia	won	98 runs		won	1st		Test v England	Sydney	2 Jan 1999	investigate this query
+Australia	lost	7 runs		lost	2nd		ODI v England	Brisbane	10 Jan 1999	investigate this query
+Australia	won	8 wickets	23	lost	2nd		ODI v Sri Lanka	Sydney	13 Jan 1999	investigate this query
+Australia	won	9 wickets	64	lost	2nd		ODI v England	Melbourne	15 Jan 1999	investigate this query
+Australia	lost	7 runs		lost	2nd		ODI v England	Sydney	17 Jan 1999	investigate this query
+Australia	lost	3 wickets	3	lost	1st		ODI v Sri Lanka	Hobart	21 Jan 1999	investigate this query
+Australia	won	80 runs		lost	1st		ODI v Sri Lanka	Adelaide	24 Jan 1999	investigate this query
+Australia	won	16 runs		won	1st		ODI v England	Adelaide	26 Jan 1999	investigate this query
+Australia	won	45 runs		lost	1st		ODI v Sri Lanka	Perth	31 Jan 1999	investigate this query
+Australia	won	4 wickets	18	lost	2nd		ODI v England	Sydney	5 Feb 1999	investigate this query
+Australia	won	43 runs		won	1st		ODI v Sri Lanka	Melbourne	7 Feb 1999	investigate this query
+Australia	won	10 runs		won	1st		ODI v England	Sydney	10 Feb 1999	investigate this query
+Australia	aban	-		lost	2nd		ODI v England	Melbourne	12 Feb 1999	investigate this query
+Australia	won	162 runs		won	1st		ODI v England	Melbourne	13 Feb 1999	investigate this query
+Australia	won	312 runs		won	1st		Test v West Indies	Port of Spain	5 Mar 1999	investigate this query
+Australia	lost	10 wickets		won	1st		Test v West Indies	Kingston	13 Mar 1999	investigate this query
+Australia	lost	1 wickets		won	1st		Test v West Indies	Bridgetown	26 Mar 1999	investigate this query
+Australia	won	176 runs		won	1st		Test v West Indies	St John's	3 Apr 1999	investigate this query
+Australia	lost	44 runs		won	2nd		ODI v West Indies	Kingstown	11 Apr 1999	investigate this query
+Australia	won	46 runs		won	1st		ODI v West Indies	St George's	14 Apr 1999	investigate this query
+Australia	lost	5 wickets	6	won	1st		ODI v West Indies	Port of Spain	17 Apr 1999	investigate this query
+Australia	won	20 runs		won	1st		ODI v West Indies	Port of Spain	18 Apr 1999	investigate this query
+Australia	tied	-		won	2nd		ODI v West Indies	Georgetown	21 Apr 1999	investigate this query
+Australia	won	4 wickets	9	lost	2nd		ODI v West Indies	Bridgetown	24 Apr 1999	investigate this query
+Australia	lost	8 wickets	18	won	1st		ODI v West Indies	Bridgetown	25 Apr 1999	investigate this query
+Australia	won	6 wickets	31	won	2nd		ODI v Scotland	Worcester	16 May 1999	investigate this query
+Australia	lost	5 wickets	28	won	1st		ODI v New Zealand	Cardiff	20 May 1999	investigate this query
+Australia	lost	10 runs		won	2nd		ODI v Pakistan	Leeds	23 May 1999	investigate this query
+Australia	won	7 wickets	181	won	2nd		ODI v Bangladesh	Chester-le-Street	27 May 1999	investigate this query
+Australia	won	6 wickets	56	won	2nd		ODI v West Indies	Manchester	30 May 1999	investigate this query
+Australia	won	77 runs		lost	1st		ODI v India	The Oval	4 Jun 1999	investigate this query
+Australia	won	44 runs		lost	1st		ODI v Zimbabwe	Lord's	9 Jun 1999	investigate this query
+Australia	won	5 wickets	2	lost	2nd		ODI v South Africa	Leeds	13 Jun 1999	investigate this query
+Australia	tied	-		lost	1st		ODI v South Africa	Birmingham	17 Jun 1999	investigate this query
+Australia	won	8 wickets	179	lost	2nd		ODI v Pakistan	Lord's	20 Jun 1999	investigate this query
+Australia	won	50 runs		lost	1st		ODI v Sri Lanka	Galle	22 Aug 1999	investigate this query
+Australia	won	8 wickets	53	lost	2nd		ODI v India	Galle	23 Aug 1999	investigate this query
+Australia	won	27 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	26 Aug 1999	investigate this query
+Australia	won	41 runs		lost	1st		ODI v India	Colombo (SSC)	28 Aug 1999	investigate this query
+Australia	lost	8 wickets	63	won	1st		ODI v Sri Lanka	Colombo (RPS)	31 Aug 1999	investigate this query
+Australia	lost	6 wickets		won	1st		Test v Sri Lanka	Kandy	9 Sep 1999	investigate this query
+Australia	draw	-		lost	2nd		Test v Sri Lanka	Galle	22 Sep 1999	investigate this query
+Australia	draw	-		won	1st		Test v Sri Lanka	Colombo (SSC)	30 Sep 1999	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v Zimbabwe	Harare	14 Oct 1999	investigate this query
+Australia	won	83 runs		lost	1st		ODI v Zimbabwe	Bulawayo	21 Oct 1999	investigate this query
+Australia	won	9 wickets	129	won	2nd		ODI v Zimbabwe	Harare	23 Oct 1999	investigate this query
+Australia	won	9 wickets	66	won	2nd		ODI v Zimbabwe	Harare	24 Oct 1999	investigate this query
+Australia	won	10 wickets		won	2nd		Test v Pakistan	Brisbane	5 Nov 1999	investigate this query
+Australia	won	4 wickets		won	2nd		Test v Pakistan	Hobart	18 Nov 1999	investigate this query
+Australia	won	inns & 20 runs		lost	2nd		Test v Pakistan	Perth	26 Nov 1999	investigate this query
+Australia	won	285 runs		won	1st		Test v India	Adelaide	10 Dec 1999	investigate this query
+Australia	won	180 runs		lost	1st		Test v India	Melbourne	26 Dec 1999	investigate this query
+Australia	won	inns & 141 runs		lost	2nd		Test v India	Sydney	2 Jan 2000	investigate this query
+Australia	lost	45 runs		lost	2nd		ODI v Pakistan	Brisbane	9 Jan 2000	investigate this query
+Australia	won	28 runs		won	1st		ODI v India	Melbourne	12 Jan 2000	investigate this query
+Australia	won	5 wickets	139	lost	2nd		ODI v India	Sydney	14 Jan 2000	investigate this query
+Australia	won	6 wickets	13	won	2nd		ODI v Pakistan	Melbourne	16 Jan 2000	investigate this query
+Australia	won	81 runs		won	1st		ODI v Pakistan	Sydney	19 Jan 2000	investigate this query
+Australia	won	15 runs		won	1st		ODI v Pakistan	Melbourne	23 Jan 2000	investigate this query
+Australia	won	152 runs		won	1st		ODI v India	Adelaide	26 Jan 2000	investigate this query
+Australia	won	4 wickets	3	lost	2nd		ODI v India	Perth	30 Jan 2000	investigate this query
+Australia	won	6 wickets	44	lost	2nd		ODI v Pakistan	Melbourne	2 Feb 2000	investigate this query
+Australia	won	152 runs		won	1st		ODI v Pakistan	Sydney	4 Feb 2000	investigate this query
+Australia	n/r	-		lost	1st		ODI v New Zealand	Wellington	17 Feb 2000	investigate this query
+Australia	won	5 wickets	152	lost	2nd		ODI v New Zealand	Auckland	19 Feb 2000	investigate this query
+Australia	won	50 runs		lost	1st		ODI v New Zealand	Dunedin	23 Feb 2000	investigate this query
+Australia	won	48 runs		lost	1st		ODI v New Zealand	Christchurch	26 Feb 2000	investigate this query
+Australia	won	5 wickets	26	won	2nd		ODI v New Zealand	Napier	1 Mar 2000	investigate this query
+Australia	lost	7 wickets	54	won	1st		ODI v New Zealand	Auckland	3 Mar 2000	investigate this query
+Australia	won	62 runs		won	1st		Test v New Zealand	Auckland	11 Mar 2000	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v New Zealand	Wellington	24 Mar 2000	investigate this query
+Australia	won	6 wickets		won	2nd		Test v New Zealand	Hamilton	31 Mar 2000	investigate this query
+Australia	lost	6 wickets	12	lost	1st		ODI v South Africa	Durban	12 Apr 2000	investigate this query
+Australia	won	5 wickets	153	won	2nd		ODI v South Africa	Cape Town	14 Apr 2000	investigate this query
+Australia	lost	4 wickets	13	lost	1st		ODI v South Africa	Johannesburg	16 Apr 2000	investigate this query
+Australia	won	94 runs		lost	1st		ODI v South Africa	Melbourne (Docklands)	16 Aug 2000	investigate this query
+Australia	tied	-		lost	2nd		ODI v South Africa	Melbourne (Docklands)	18 Aug 2000	investigate this query
+Australia	lost	8 runs		lost	2nd		ODI v South Africa	Melbourne (Docklands)	20 Aug 2000	investigate this query
+Australia	lost	20 runs		won	2nd		ODI v India	Nairobi (Gym)	7 Oct 2000	investigate this query
+Australia	won	inns & 126 runs		won	2nd		Test v West Indies	Brisbane	23 Nov 2000	investigate this query
+Australia	won	inns & 27 runs		won	2nd		Test v West Indies	Perth	1 Dec 2000	investigate this query
+Australia	won	5 wickets		lost	2nd		Test v West Indies	Adelaide	15 Dec 2000	investigate this query
+Australia	won	352 runs		lost	1st		Test v West Indies	Melbourne	26 Dec 2000	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v West Indies	Sydney	2 Jan 2001	investigate this query
+Australia	won	74 runs		won	1st		ODI v West Indies	Melbourne	11 Jan 2001	investigate this query
+Australia	won	9 wickets	38	lost	2nd		ODI v West Indies	Brisbane	14 Jan 2001	investigate this query
+Australia	won	28 runs		lost	1st		ODI v West Indies	Sydney	17 Jan 2001	investigate this query
+Australia	won	8 wickets	79	lost	2nd		ODI v Zimbabwe	Melbourne	21 Jan 2001	investigate this query
+Australia	won	10 wickets	163	lost	2nd		ODI v West Indies	Adelaide	26 Jan 2001	investigate this query
+Australia	won	86 runs		won	1st		ODI v Zimbabwe	Sydney	28 Jan 2001	investigate this query
+Australia	won	6 wickets	36	won	2nd		ODI v Zimbabwe	Hobart	30 Jan 2001	investigate this query
+Australia	won	1 runs		won	1st		ODI v Zimbabwe	Perth	4 Feb 2001	investigate this query
+Australia	won	134 runs		lost	1st		ODI v West Indies	Sydney	7 Feb 2001	investigate this query
+Australia	won	39 runs		lost	1st		ODI v West Indies	Melbourne	9 Feb 2001	investigate this query
+Australia	won	10 wickets		won	2nd		Test v India	Mumbai	27 Feb 2001	investigate this query
+Australia	lost	171 runs		won	1st		Test v India	Kolkata	11 Mar 2001	investigate this query
+Australia	lost	2 wickets		won	1st		Test v India	Chennai	18 Mar 2001	investigate this query
+Australia	lost	60 runs		lost	2nd		ODI v India	Bangalore	25 Mar 2001	investigate this query
+Australia	won	8 wickets	29	lost	2nd		ODI v India	Pune	28 Mar 2001	investigate this query
+Australia	lost	118 runs		won	2nd		ODI v India	Indore	31 Mar 2001	investigate this query
+Australia	won	93 runs		won	1st		ODI v India	Visakhapatnam	3 Apr 2001	investigate this query
+Australia	won	4 wickets	12	lost	2nd		ODI v India	Margao	6 Apr 2001	investigate this query
+Australia	won	7 wickets	26	lost	2nd		ODI v Pakistan	Cardiff	9 Jun 2001	investigate this query
+Australia	won	5 wickets	3	lost	2nd		ODI v England	Bristol	10 Jun 2001	investigate this query
+Australia	won	125 runs		won	1st		ODI v England	Manchester	14 Jun 2001	investigate this query
+Australia	aban	-		-	-		ODI v Pakistan	Chester-le-Street	16 Jun 2001	investigate this query
+Australia	lost	36 runs		lost	2nd		ODI v Pakistan	Nottingham	19 Jun 2001	investigate this query
+Australia	won	8 wickets	119	lost	2nd		ODI v England	The Oval	21 Jun 2001	investigate this query
+Australia	won	9 wickets	141	lost	2nd		ODI v Pakistan	Lord's	23 Jun 2001	investigate this query
+Australia	won	inns & 118 runs		won	2nd		Test v England	Birmingham	5 Jul 2001	investigate this query
+Australia	won	8 wickets		won	2nd		Test v England	Lord's	19 Jul 2001	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v England	Nottingham	2 Aug 2001	investigate this query
+Australia	lost	6 wickets		won	1st		Test v England	Leeds	16 Aug 2001	investigate this query
+Australia	won	inns & 25 runs		won	1st		Test v England	The Oval	23 Aug 2001	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Brisbane	8 Nov 2001	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Hobart	22 Nov 2001	investigate this query
+Australia	draw	-		lost	2nd		Test v New Zealand	Perth	30 Nov 2001	investigate this query
+Australia	won	246 runs		won	1st		Test v South Africa	Adelaide	14 Dec 2001	investigate this query
+Australia	won	9 wickets		won	2nd		Test v South Africa	Melbourne	26 Dec 2001	investigate this query
+Australia	won	10 wickets		won	1st		Test v South Africa	Sydney	2 Jan 2002	investigate this query
+Australia	lost	23 runs		won	2nd		ODI v New Zealand	Melbourne	11 Jan 2002	investigate this query
+Australia	lost	4 wickets	9	won	1st		ODI v South Africa	Melbourne	13 Jan 2002	investigate this query
+Australia	lost	23 runs		lost	2nd		ODI v New Zealand	Sydney	17 Jan 2002	investigate this query
+Australia	won	27 runs		won	1st		ODI v South Africa	Brisbane	20 Jan 2002	investigate this query
+Australia	won	8 wickets	188	lost	2nd		ODI v South Africa	Sydney	22 Jan 2002	investigate this query
+Australia	lost	77 runs		lost	2nd		ODI v New Zealand	Adelaide	26 Jan 2002	investigate this query
+Australia	won	2 wickets	3	lost	2nd		ODI v New Zealand	Melbourne	29 Jan 2002	investigate this query
+Australia	won	33 runs		lost	1st		ODI v South Africa	Perth	3 Feb 2002	investigate this query
+Australia	won	inns & 360 runs		won	1st		Test v South Africa	Johannesburg	22 Feb 2002	investigate this query
+Australia	won	4 wickets		lost	2nd		Test v South Africa	Cape Town	8 Mar 2002	investigate this query
+Australia	lost	5 wickets		lost	1st		Test v South Africa	Durban	15 Mar 2002	investigate this query
+Australia	won	19 runs		won	1st		ODI v South Africa	Johannesburg	22 Mar 2002	investigate this query
+Australia	won	45 runs		lost	1st		ODI v South Africa	Centurion	24 Mar 2002	investigate this query
+Australia	tied	-		lost	2nd		ODI v South Africa	Potchefstroom	27 Mar 2002	investigate this query
+Australia	won	37 runs		won	1st		ODI v South Africa	Bloemfontein	30 Mar 2002	investigate this query
+Australia	won	8 wickets	13	won	2nd		ODI v South Africa	Durban	3 Apr 2002	investigate this query
+Australia	won	3 wickets	5	lost	2nd		ODI v South Africa	Port Elizabeth	6 Apr 2002	investigate this query
+Australia	lost	65 runs		won	2nd		ODI v South Africa	Cape Town	9 Apr 2002	investigate this query
+Australia	won	7 wickets	103	won	2nd		ODI v Pakistan	Melbourne (Docklands)	12 Jun 2002	investigate this query
+Australia	lost	2 wickets	7	won	1st		ODI v Pakistan	Melbourne (Docklands)	15 Jun 2002	investigate this query
+Australia	lost	91 runs		lost	2nd		ODI v Pakistan	Brisbane	19 Jun 2002	investigate this query
+Australia	won	224 runs		lost	1st		ODI v Pakistan	Nairobi (Gym)	30 Aug 2002	investigate this query
+Australia	won	8 wickets	198	won	2nd		ODI v Kenya	Nairobi (Gym)	2 Sep 2002	investigate this query
+Australia	won	9 wickets	185	lost	2nd		ODI v Pakistan	Nairobi (Gym)	4 Sep 2002	investigate this query
+Australia	won	5 wickets	5	lost	2nd		ODI v Kenya	Nairobi (Gym)	5 Sep 2002	investigate this query
+Australia	n/r	-		lost	2nd		ODI v Pakistan	Nairobi (Gym)	7 Sep 2002	investigate this query
+Australia	won	164 runs		won	1st		ODI v New Zealand	Colombo (SSC)	15 Sep 2002	investigate this query
+Australia	won	9 wickets	176	lost	2nd		ODI v Bangladesh	Colombo (SSC)	19 Sep 2002	investigate this query
+Australia	lost	7 wickets	60	won	1st		ODI v Sri Lanka	Colombo (RPS)	27 Sep 2002	investigate this query
+Australia	won	41 runs		won	1st		Test v Pakistan	Colombo (PSS)	3 Oct 2002	investigate this query
+Australia	won	inns & 198 runs		lost	2nd		Test v Pakistan	Sharjah	11 Oct 2002	investigate this query
+Australia	won	inns & 20 runs		won	1st		Test v Pakistan	Sharjah	19 Oct 2002	investigate this query
+Australia	won	384 runs		lost	1st		Test v England	Brisbane	7 Nov 2002	investigate this query
+Australia	won	inns & 51 runs		lost	2nd		Test v England	Adelaide	21 Nov 2002	investigate this query
+Australia	won	inns & 48 runs		lost	2nd		Test v England	Perth	29 Nov 2002	investigate this query
+Australia	won	7 wickets	30	lost	2nd		ODI v England	Sydney	13 Dec 2002	investigate this query
+Australia	won	89 runs		won	1st		ODI v England	Melbourne	15 Dec 2002	investigate this query
+Australia	won	142 runs		won	1st		ODI v Sri Lanka	Perth	22 Dec 2002	investigate this query
+Australia	won	5 wickets		won	1st		Test v England	Melbourne	26 Dec 2002	investigate this query
+Australia	lost	225 runs		lost	2nd		Test v England	Sydney	2 Jan 2003	investigate this query
+Australia	lost	79 runs		won	2nd		ODI v Sri Lanka	Sydney	9 Jan 2003	investigate this query
+Australia	won	7 runs		won	1st		ODI v England	Hobart	11 Jan 2003	investigate this query
+Australia	won	4 wickets	7	lost	2nd		ODI v Sri Lanka	Brisbane	15 Jan 2003	investigate this query
+Australia	won	4 wickets	15	lost	2nd		ODI v England	Adelaide	19 Jan 2003	investigate this query
+Australia	won	9 wickets	93	lost	2nd		ODI v Sri Lanka	Melbourne	21 Jan 2003	investigate this query
+Australia	won	10 wickets	226	lost	2nd		ODI v England	Sydney	23 Jan 2003	investigate this query
+Australia	won	5 runs		won	1st		ODI v England	Melbourne	25 Jan 2003	investigate this query
+Australia	won	82 runs		lost	1st		ODI v Pakistan	Johannesburg	11 Feb 2003	investigate this query
+Australia	won	9 wickets	166	lost	2nd		ODI v India	Centurion	15 Feb 2003	investigate this query
+Australia	won	75 runs		lost	1st		ODI v Netherlands	Potchefstroom	20 Feb 2003	investigate this query
+Australia	won	7 wickets	15	lost	2nd		ODI v Zimbabwe	Bulawayo	24 Feb 2003	investigate this query
+Australia	won	256 runs		won	1st		ODI v Namibia	Potchefstroom	27 Feb 2003	investigate this query
+Australia	won	2 wickets	2	lost	2nd		ODI v England	Port Elizabeth	2 Mar 2003	investigate this query
+Australia	won	96 runs		won	1st		ODI v Sri Lanka	Centurion	7 Mar 2003	investigate this query
+Australia	won	96 runs		lost	1st		ODI v New Zealand	Port Elizabeth	11 Mar 2003	investigate this query
+Australia	won	5 wickets	112	won	2nd		ODI v Kenya	Durban	15 Mar 2003	investigate this query
+Australia	won	48 runs		won	1st		ODI v Sri Lanka	Port Elizabeth	18 Mar 2003	investigate this query
+Australia	won	125 runs		lost	1st		ODI v India	Johannesburg	23 Mar 2003	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v West Indies	Georgetown	10 Apr 2003	investigate this query
+Australia	won	118 runs		won	1st		Test v West Indies	Port of Spain	19 Apr 2003	investigate this query
+Australia	won	9 wickets		lost	1st		Test v West Indies	Bridgetown	1 May 2003	investigate this query
+Australia	lost	3 wickets		won	1st		Test v West Indies	St John's	9 May 2003	investigate this query
+Australia	won	2 runs		lost	1st		ODI v West Indies	Kingston	17 May 2003	investigate this query
+Australia	won	8 wickets	89	lost	2nd		ODI v West Indies	Kingston	18 May 2003	investigate this query
+Australia	won	25 runs		lost	1st		ODI v West Indies	Gros Islet	21 May 2003	investigate this query
+Australia	won	67 runs		won	1st		ODI v West Indies	Port of Spain	24 May 2003	investigate this query
+Australia	lost	39 runs		lost	2nd		ODI v West Indies	Port of Spain	25 May 2003	investigate this query
+Australia	lost	3 wickets	8	won	1st		ODI v West Indies	St George's	30 May 2003	investigate this query
+Australia	lost	9 wickets	39	won	1st		ODI v West Indies	St George's	1 Jun 2003	investigate this query
+Australia	won	inns & 132 runs		won	2nd		Test v Bangladesh	Darwin	18 Jul 2003	investigate this query
+Australia	won	inns & 98 runs		won	2nd		Test v Bangladesh	Cairns	25 Jul 2003	investigate this query
+Australia	won	8 wickets	165	won	2nd		ODI v Bangladesh	Cairns	2 Aug 2003	investigate this query
+Australia	won	9 wickets	178	lost	2nd		ODI v Bangladesh	Cairns	3 Aug 2003	investigate this query
+Australia	won	112 runs		won	1st		ODI v Bangladesh	Darwin	6 Aug 2003	investigate this query
+Australia	won	inns & 175 runs		lost	1st		Test v Zimbabwe	Perth	9 Oct 2003	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v Zimbabwe	Sydney	17 Oct 2003	investigate this query
+Australia	lost	37 runs		lost	2nd		ODI v India	Gwalior	26 Oct 2003	investigate this query
+Australia	won	8 wickets	200	lost	2nd		ODI v New Zealand	Faridabad	29 Oct 2003	investigate this query
+Australia	won	77 runs		won	1st		ODI v India	Mumbai	1 Nov 2003	investigate this query
+Australia	won	2 wickets	1	won	2nd		ODI v New Zealand	Pune	3 Nov 2003	investigate this query
+Australia	won	44 runs		lost	1st		ODI v New Zealand	Guwahati	9 Nov 2003	investigate this query
+Australia	won	61 runs		won	1st		ODI v India	Bangalore	12 Nov 2003	investigate this query
+Australia	won	37 runs		won	1st		ODI v India	Kolkata	18 Nov 2003	investigate this query
+Australia	draw	-		lost	1st		Test v India	Brisbane	4 Dec 2003	investigate this query
+Australia	lost	4 wickets		won	1st		Test v India	Adelaide	12 Dec 2003	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v India	Melbourne	26 Dec 2003	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Sydney	2 Jan 2004	investigate this query
+Australia	won	18 runs		won	1st		ODI v India	Melbourne	9 Jan 2004	investigate this query
+Australia	won	99 runs		won	1st		ODI v Zimbabwe	Sydney	11 Jan 2004	investigate this query
+Australia	won	148 runs		won	1st		ODI v Zimbabwe	Hobart	16 Jan 2004	investigate this query
+Australia	lost	19 runs		lost	2nd		ODI v India	Brisbane	18 Jan 2004	investigate this query
+Australia	won	2 wickets	1	lost	2nd		ODI v India	Sydney	22 Jan 2004	investigate this query
+Australia	won	13 runs		won	1st		ODI v Zimbabwe	Adelaide	26 Jan 2004	investigate this query
+Australia	n/r	-		lost	1st		ODI v Zimbabwe	Melbourne	29 Jan 2004	investigate this query
+Australia	won	5 wickets	108	lost	2nd		ODI v India	Perth	1 Feb 2004	investigate this query
+Australia	won	7 wickets	59	lost	2nd		ODI v India	Melbourne	6 Feb 2004	investigate this query
+Australia	won	208 runs		won	1st		ODI v India	Sydney	8 Feb 2004	investigate this query
+Australia	won	84 runs		won	1st		ODI v Sri Lanka	Dambulla	20 Feb 2004	investigate this query
+Australia	lost	1 runs		lost	2nd		ODI v Sri Lanka	Dambulla	22 Feb 2004	investigate this query
+Australia	won	5 wickets	9	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	25 Feb 2004	investigate this query
+Australia	won	40 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	27 Feb 2004	investigate this query
+Australia	lost	3 wickets	13	won	1st		ODI v Sri Lanka	Colombo (SSC)	29 Feb 2004	investigate this query
+Australia	won	197 runs		won	1st		Test v Sri Lanka	Galle	8 Mar 2004	investigate this query
+Australia	won	27 runs		won	1st		Test v Sri Lanka	Kandy	16 Mar 2004	investigate this query
+Australia	won	121 runs		won	1st		Test v Sri Lanka	Colombo (SSC)	24 Mar 2004	investigate this query
+Australia	won	7 wickets	62	lost	2nd		ODI v Zimbabwe	Harare	25 May 2004	investigate this query
+Australia	won	139 runs		lost	1st		ODI v Zimbabwe	Harare	27 May 2004	investigate this query
+Australia	won	8 wickets	116	won	2nd		ODI v Zimbabwe	Harare	29 May 2004	investigate this query
+Australia	won	149 runs		lost	1st		Test v Sri Lanka	Darwin	1 Jul 2004	investigate this query
+Australia	draw	-		lost	1st		Test v Sri Lanka	Cairns	9 Jul 2004	investigate this query
+Australia	n/r	-		won	1st		ODI v India	Amstelveen	23 Aug 2004	investigate this query
+Australia	aban	-		-	-		ODI v Pakistan	Amstelveen	25 Aug 2004	investigate this query
+Australia	won	17 runs		won	1st		ODI v Pakistan	Amstelveen	28 Aug 2004	investigate this query
+Australia	won	10 runs		lost	1st		ODI v Pakistan	Lord's	4 Sep 2004	investigate this query
+Australia	won	9 wickets	253	won	2nd		ODI v U.S.A.	Southampton	13 Sep 2004	investigate this query
+Australia	won	7 wickets	76	won	2nd		ODI v New Zealand	The Oval	16 Sep 2004	investigate this query
+Australia	lost	6 wickets	21	lost	1st		ODI v England	Birmingham	21 Sep 2004	investigate this query
+Australia	won	217 runs		won	1st		Test v India	Bangalore	6 Oct 2004	investigate this query
+Australia	draw	-		won	1st		Test v India	Chennai	14 Oct 2004	investigate this query
+Australia	won	342 runs		won	1st		Test v India	Nagpur	26 Oct 2004	investigate this query
+Australia	lost	13 runs		lost	2nd		Test v India	Mumbai	3 Nov 2004	investigate this query
+Australia	won	inns & 156 runs		lost	2nd		Test v New Zealand	Brisbane	18 Nov 2004	investigate this query
+Australia	won	213 runs		won	1st		Test v New Zealand	Adelaide	26 Nov 2004	investigate this query
+Australia	lost	4 wickets	2	lost	1st		ODI v New Zealand	Melbourne (Docklands)	5 Dec 2004	investigate this query
+Australia	won	17 runs		won	1st		ODI v New Zealand	Sydney	8 Dec 2004	investigate this query
+Australia	aban	-		-	-		ODI v New Zealand	Brisbane	10 Dec 2004	investigate this query
+Australia	won	491 runs		lost	1st		Test v Pakistan	Perth	16 Dec 2004	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v Pakistan	Melbourne	26 Dec 2004	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v Pakistan	Sydney	2 Jan 2005	investigate this query
+Australia	won	116 runs		won	1st		ODI v West Indies	Melbourne	14 Jan 2005	investigate this query
+Australia	won	4 wickets	12	lost	2nd		ODI v Pakistan	Hobart	16 Jan 2005	investigate this query
+Australia	n/r	-		lost	2nd		ODI v West Indies	Brisbane	21 Jan 2005	investigate this query
+Australia	won	9 wickets	82	won	2nd		ODI v Pakistan	Sydney	23 Jan 2005	investigate this query
+Australia	won	73 runs		won	1st		ODI v West Indies	Adelaide	26 Jan 2005	investigate this query
+Australia	lost	3 wickets	16	won	1st		ODI v Pakistan	Perth	30 Jan 2005	investigate this query
+Australia	won	18 runs		won	1st		ODI v Pakistan	Melbourne	4 Feb 2005	investigate this query
+Australia	won	31 runs		won	1st		ODI v Pakistan	Sydney	6 Feb 2005	investigate this query
+Australia	won	44 runs		won	1st		T20I v New Zealand	Auckland	17 Feb 2005	investigate this query
+Australia	won	10 runs		won	1st		ODI v New Zealand	Wellington	19 Feb 2005	investigate this query
+Australia	won	106 runs		lost	1st		ODI v New Zealand	Christchurch	22 Feb 2005	investigate this query
+Australia	won	86 runs		won	1st		ODI v New Zealand	Auckland	26 Feb 2005	investigate this query
+Australia	won	7 wickets	94	won	2nd		ODI v New Zealand	Wellington	1 Mar 2005	investigate this query
+Australia	won	122 runs		lost	1st		ODI v New Zealand	Napier	5 Mar 2005	investigate this query
+Australia	won	9 wickets		won	2nd		Test v New Zealand	Christchurch	10 Mar 2005	investigate this query
+Australia	draw	-		lost	1st		Test v New Zealand	Wellington	18 Mar 2005	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v New Zealand	Auckland	26 Mar 2005	investigate this query
+Australia	lost	100 runs		lost	2nd		T20I v England	Southampton	13 Jun 2005	investigate this query
+Australia	lost	5 wickets	4	won	1st		ODI v Bangladesh	Cardiff	18 Jun 2005	investigate this query
+Australia	lost	3 wickets	15	won	1st		ODI v England	Bristol	19 Jun 2005	investigate this query
+Australia	won	57 runs		lost	1st		ODI v England	Chester-le-Street	23 Jun 2005	investigate this query
+Australia	won	10 wickets	186	won	2nd		ODI v Bangladesh	Manchester	25 Jun 2005	investigate this query
+Australia	n/r	-		won	1st		ODI v England	Birmingham	28 Jun 2005	investigate this query
+Australia	won	6 wickets	11	won	2nd		ODI v Bangladesh	Canterbury	30 Jun 2005	investigate this query
+Australia	tied	-		lost	1st		ODI v England	Lord's	2 Jul 2005	investigate this query
+Australia	lost	9 wickets	24	lost	1st		ODI v England	Leeds	7 Jul 2005	investigate this query
+Australia	won	7 wickets	34	won	2nd		ODI v England	Lord's	10 Jul 2005	investigate this query
+Australia	won	8 wickets	91	won	2nd		ODI v England	The Oval	12 Jul 2005	investigate this query
+Australia	won	239 runs		won	1st		Test v England	Lord's	21 Jul 2005	investigate this query
+Australia	lost	2 runs		won	2nd		Test v England	Birmingham	4 Aug 2005	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Manchester	11 Aug 2005	investigate this query
+Australia	lost	3 wickets		lost	2nd		Test v England	Nottingham	25 Aug 2005	investigate this query
+Australia	draw	-		lost	2nd		Test v England	The Oval	8 Sep 2005	investigate this query
+Australia	won	93 runs		won	1st		ODI v ICC World XI	Melbourne (Docklands)	5 Oct 2005	investigate this query
+Australia	won	55 runs		won	1st		ODI v ICC World XI	Melbourne (Docklands)	7 Oct 2005	investigate this query
+Australia	won	156 runs		won	1st		ODI v ICC World XI	Melbourne (Docklands)	9 Oct 2005	investigate this query
+Australia	won	210 runs		won	1st		Test v ICC World XI	Sydney	14 Oct 2005	investigate this query
+Australia	won	379 runs		lost	1st		Test v West Indies	Brisbane	3 Nov 2005	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v West Indies	Hobart	17 Nov 2005	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v West Indies	Adelaide	25 Nov 2005	investigate this query
+Australia	won	147 runs		lost	1st		ODI v New Zealand	Auckland	3 Dec 2005	investigate this query
+Australia	won	2 runs		won	1st		ODI v New Zealand	Wellington	7 Dec 2005	investigate this query
+Australia	lost	2 wickets	6	lost	1st		ODI v New Zealand	Christchurch	10 Dec 2005	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Perth	16 Dec 2005	investigate this query
+Australia	won	184 runs		won	1st		Test v South Africa	Melbourne	26 Dec 2005	investigate this query
+Australia	won	8 wickets		lost	2nd		Test v South Africa	Sydney	2 Jan 2006	investigate this query
+Australia	won	95 runs		won	1st		T20I v South Africa	Brisbane	9 Jan 2006	investigate this query
+Australia	won	116 runs		lost	1st		ODI v Sri Lanka	Melbourne (Docklands)	13 Jan 2006	investigate this query
+Australia	lost	5 wickets	7	won	1st		ODI v South Africa	Brisbane	15 Jan 2006	investigate this query
+Australia	won	59 runs		won	1st		ODI v South Africa	Melbourne (Docklands)	20 Jan 2006	investigate this query
+Australia	lost	51 runs		lost	2nd		ODI v Sri Lanka	Sydney	22 Jan 2006	investigate this query
+Australia	won	5 wickets	9	lost	2nd		ODI v Sri Lanka	Adelaide	26 Jan 2006	investigate this query
+Australia	won	6 wickets	54	lost	2nd		ODI v Sri Lanka	Perth	29 Jan 2006	investigate this query
+Australia	won	80 runs		won	1st		ODI v South Africa	Melbourne (Docklands)	3 Feb 2006	investigate this query
+Australia	won	57 runs		won	1st		ODI v South Africa	Sydney	5 Feb 2006	investigate this query
+Australia	lost	22 runs		lost	2nd		ODI v Sri Lanka	Adelaide	10 Feb 2006	investigate this query
+Australia	won	167 runs		won	1st		ODI v Sri Lanka	Sydney	12 Feb 2006	investigate this query
+Australia	won	9 wickets	27	lost	2nd		ODI v Sri Lanka	Brisbane	14 Feb 2006	investigate this query
+Australia	lost	2 runs		lost	2nd		T20I v South Africa	Johannesburg	24 Feb 2006	investigate this query
+Australia	lost	6 wickets	21	won	1st		ODI v South Africa	Centurion	26 Feb 2006	investigate this query
+Australia	lost	196 runs		lost	2nd		ODI v South Africa	Cape Town	3 Mar 2006	investigate this query
+Australia	won	24 runs		lost	1st		ODI v South Africa	Port Elizabeth	5 Mar 2006	investigate this query
+Australia	won	1 wickets	5	lost	2nd		ODI v South Africa	Durban	10 Mar 2006	investigate this query
+Australia	lost	1 wickets	1	won	1st		ODI v South Africa	Johannesburg	12 Mar 2006	investigate this query
+Australia	won	7 wickets		lost	2nd		Test v South Africa	Cape Town	16 Mar 2006	investigate this query
+Australia	won	112 runs		won	1st		Test v South Africa	Durban	24 Mar 2006	investigate this query
+Australia	won	2 wickets		lost	2nd		Test v South Africa	Johannesburg	31 Mar 2006	investigate this query
+Australia	won	3 wickets		lost	2nd		Test v Bangladesh	Fatullah	9 Apr 2006	investigate this query
+Australia	won	inns & 80 runs		lost	2nd		Test v Bangladesh	Chittagong	16 Apr 2006	investigate this query
+Australia	won	4 wickets	36	lost	2nd		ODI v Bangladesh	Chittagong	23 Apr 2006	investigate this query
+Australia	won	67 runs		won	1st		ODI v Bangladesh	Fatullah	26 Apr 2006	investigate this query
+Australia	won	9 wickets	164	lost	2nd		ODI v Bangladesh	Fatullah	28 Apr 2006	investigate this query
+Australia	won	78 runs		won	1st		ODI v West Indies	Kuala Lumpur	12 Sep 2006	investigate this query
+Australia	n/r	-		won	1st		ODI v India	Kuala Lumpur	16 Sep 2006	investigate this query
+Australia	lost	3 wickets	16	won	1st		ODI v West Indies	Kuala Lumpur	18 Sep 2006	investigate this query
+Australia	won	18 runs		won	1st		ODI v India	Kuala Lumpur	22 Sep 2006	investigate this query
+Australia	won	127 runs		won	1st		ODI v West Indies	Kuala Lumpur	24 Sep 2006	investigate this query
+Australia	lost	10 runs		lost	2nd		ODI v West Indies	Mumbai (BS)	18 Oct 2006	investigate this query
+Australia	won	6 wickets	79	won	2nd		ODI v England	Jaipur	21 Oct 2006	investigate this query
+Australia	won	6 wickets	26	lost	2nd		ODI v India	Mohali	29 Oct 2006	investigate this query
+Australia	won	34 runs		lost	1st		ODI v New Zealand	Mohali	1 Nov 2006	investigate this query
+Australia	won	8 wickets	41	lost	2nd		ODI v West Indies	Mumbai (BS)	5 Nov 2006	investigate this query
+Australia	won	277 runs		won	1st		Test v England	Brisbane	23 Nov 2006	investigate this query
+Australia	won	6 wickets		lost	2nd		Test v England	Adelaide	1 Dec 2006	investigate this query
+Australia	won	206 runs		won	1st		Test v England	Perth	14 Dec 2006	investigate this query
+Australia	won	inns & 99 runs		lost	2nd		Test v England	Melbourne	26 Dec 2006	investigate this query
+Australia	won	10 wickets		lost	2nd		Test v England	Sydney	2 Jan 2007	investigate this query
+Australia	won	77 runs		won	1st		T20I v England	Sydney	9 Jan 2007	investigate this query
+Australia	won	8 wickets	28	lost	2nd		ODI v England	Melbourne	12 Jan 2007	investigate this query
+Australia	won	105 runs		won	1st		ODI v New Zealand	Hobart	14 Jan 2007	investigate this query
+Australia	won	4 wickets	68	lost	2nd		ODI v England	Brisbane	19 Jan 2007	investigate this query
+Australia	won	2 wickets	8	lost	2nd		ODI v New Zealand	Sydney	21 Jan 2007	investigate this query
+Australia	won	9 wickets	153	lost	2nd		ODI v England	Adelaide	26 Jan 2007	investigate this query
+Australia	won	8 runs		won	1st		ODI v New Zealand	Perth	28 Jan 2007	investigate this query
+Australia	lost	92 runs		lost	2nd		ODI v England	Sydney	2 Feb 2007	investigate this query
+Australia	won	5 wickets	10	lost	2nd		ODI v New Zealand	Melbourne	4 Feb 2007	investigate this query
+Australia	lost	4 wickets	3	won	1st		ODI v England	Melbourne	9 Feb 2007	investigate this query
+Australia	lost	34 runs		lost	2nd		ODI v England	Sydney	11 Feb 2007	investigate this query
+Australia	lost	10 wickets	138	lost	1st		ODI v New Zealand	Wellington	16 Feb 2007	investigate this query
+Australia	lost	5 wickets	8	lost	1st		ODI v New Zealand	Auckland	18 Feb 2007	investigate this query
+Australia	lost	1 wickets	3	won	1st		ODI v New Zealand	Hamilton	20 Feb 2007	investigate this query
+Australia	won	203 runs		lost	1st		ODI v Scotland	Basseterre	14 Mar 2007	investigate this query
+Australia	won	229 runs		won	1st		ODI v Netherlands	Basseterre	18 Mar 2007	investigate this query
+Australia	won	83 runs		lost	1st		ODI v South Africa	Basseterre	24 Mar 2007	investigate this query
+Australia	won	103 runs		lost	1st		ODI v West Indies	North Sound	27 Mar 2007	investigate this query
+Australia	won	10 wickets	49	won	2nd		ODI v Bangladesh	North Sound	31 Mar 2007	investigate this query
+Australia	won	7 wickets	16	lost	2nd		ODI v England	North Sound	8 Apr 2007	investigate this query
+Australia	won	9 wickets	226	won	2nd		ODI v Ireland	Bridgetown	13 Apr 2007	investigate this query
+Australia	won	7 wickets	44	lost	2nd		ODI v Sri Lanka	St George's	16 Apr 2007	investigate this query
+Australia	won	215 runs		won	1st		ODI v New Zealand	St George's	20 Apr 2007	investigate this query
+Australia	won	7 wickets	111	lost	2nd		ODI v South Africa	Gros Islet	25 Apr 2007	investigate this query
+Australia	won	53 runs		won	1st		ODI v Sri Lanka	Bridgetown	28 Apr 2007	investigate this query
+Australia	lost	5 wickets	1	won	1st		T20I v Zimbabwe	Cape Town	12 Sep 2007	investigate this query
+Australia	won	8 wickets	31	lost	2nd		T20I v England	Cape Town	14 Sep 2007	investigate this query
+Australia	won	9 wickets	37	won	2nd		T20I v Bangladesh	Cape Town	16 Sep 2007	investigate this query
+Australia	lost	6 wickets	5	lost	1st		T20I v Pakistan	Johannesburg	18 Sep 2007	investigate this query
+Australia	won	10 wickets	58	won	2nd		T20I v Sri Lanka	Cape Town	20 Sep 2007	investigate this query
+Australia	lost	15 runs		lost	2nd		T20I v India	Durban	22 Sep 2007	investigate this query
+Australia	n/r	-		won	1st		ODI v India	Bangalore	29 Sep 2007	investigate this query
+Australia	won	84 runs		lost	1st		ODI v India	Kochi	2 Oct 2007	investigate this query
+Australia	won	47 runs		won	1st		ODI v India	Hyderabad (Deccan)	5 Oct 2007	investigate this query
+Australia	lost	8 runs		lost	2nd		ODI v India	Chandigarh	8 Oct 2007	investigate this query
+Australia	won	9 wickets	145	lost	2nd		ODI v India	Vadodara	11 Oct 2007	investigate this query
+Australia	won	18 runs		won	1st		ODI v India	Nagpur	14 Oct 2007	investigate this query
+Australia	lost	2 wickets	24	won	1st		ODI v India	Mumbai	17 Oct 2007	investigate this query
+Australia	lost	7 wickets	11	won	1st		T20I v India	Mumbai (BS)	20 Oct 2007	investigate this query
+Australia	won	inns & 40 runs		lost	1st		Test v Sri Lanka	Brisbane	8 Nov 2007	investigate this query
+Australia	won	96 runs		won	1st		Test v Sri Lanka	Hobart	16 Nov 2007	investigate this query
+Australia	won	54 runs		won	1st		T20I v New Zealand	Perth	11 Dec 2007	investigate this query
+Australia	won	7 wickets	45	lost	2nd		ODI v New Zealand	Adelaide	14 Dec 2007	investigate this query
+Australia	n/r	-		lost	2nd		ODI v New Zealand	Sydney	16 Dec 2007	investigate this query
+Australia	won	114 runs		lost	1st		ODI v New Zealand	Hobart	20 Dec 2007	investigate this query
+Australia	won	337 runs		won	1st		Test v India	Melbourne	26 Dec 2007	investigate this query
+Australia	won	122 runs		won	1st		Test v India	Sydney	2 Jan 2008	investigate this query
+Australia	lost	72 runs		lost	2nd		Test v India	Perth	16 Jan 2008	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Adelaide	24 Jan 2008	investigate this query
+Australia	won	9 wickets	52	lost	2nd		T20I v India	Melbourne	1 Feb 2008	investigate this query
+Australia	n/r	-		lost	2nd		ODI v India	Brisbane	3 Feb 2008	investigate this query
+Australia	won	128 runs		won	1st		ODI v Sri Lanka	Sydney	8 Feb 2008	investigate this query
+Australia	lost	5 wickets	25	won	1st		ODI v India	Melbourne	10 Feb 2008	investigate this query
+Australia	won	63 runs		won	1st		ODI v Sri Lanka	Perth	15 Feb 2008	investigate this query
+Australia	won	50 runs		won	1st		ODI v India	Adelaide	17 Feb 2008	investigate this query
+Australia	won	24 runs		lost	1st		ODI v Sri Lanka	Melbourne	22 Feb 2008	investigate this query
+Australia	won	18 runs		won	1st		ODI v India	Sydney	24 Feb 2008	investigate this query
+Australia	lost	13 runs		lost	2nd		ODI v Sri Lanka	Melbourne	29 Feb 2008	investigate this query
+Australia	lost	6 wickets	25	won	1st		ODI v India	Sydney	2 Mar 2008	investigate this query
+Australia	lost	9 runs		lost	2nd		ODI v India	Brisbane	4 Mar 2008	investigate this query
+Australia	won	95 runs		won	1st		Test v West Indies	Kingston	22 May 2008	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	North Sound	30 May 2008	investigate this query
+Australia	won	87 runs		lost	1st		Test v West Indies	Bridgetown	12 Jun 2008	investigate this query
+Australia	lost	7 wickets	11	lost	1st		T20I v West Indies	Bridgetown	20 Jun 2008	investigate this query
+Australia	won	84 runs		lost	1st		ODI v West Indies	Kingstown	24 Jun 2008	investigate this query
+Australia	won	63 runs		won	1st		ODI v West Indies	St George's	27 Jun 2008	investigate this query
+Australia	won	7 wickets	57	won	2nd		ODI v West Indies	St George's	29 Jun 2008	investigate this query
+Australia	won	1 runs		lost	1st		ODI v West Indies	Basseterre	4 Jul 2008	investigate this query
+Australia	won	169 runs		won	1st		ODI v West Indies	Basseterre	6 Jul 2008	investigate this query
+Australia	won	180 runs		lost	1st		ODI v Bangladesh	Darwin	30 Aug 2008	investigate this query
+Australia	won	8 wickets	164	lost	2nd		ODI v Bangladesh	Darwin	3 Sep 2008	investigate this query
+Australia	won	73 runs		won	1st		ODI v Bangladesh	Darwin	6 Sep 2008	investigate this query
+Australia	draw	-		won	1st		Test v India	Bangalore	9 Oct 2008	investigate this query
+Australia	lost	320 runs		lost	2nd		Test v India	Mohali	17 Oct 2008	investigate this query
+Australia	draw	-		lost	2nd		Test v India	Delhi	29 Oct 2008	investigate this query
+Australia	lost	172 runs		lost	2nd		Test v India	Nagpur	6 Nov 2008	investigate this query
+Australia	won	149 runs		lost	1st		Test v New Zealand	Brisbane	20 Nov 2008	investigate this query
+Australia	won	inns & 62 runs		lost	2nd		Test v New Zealand	Adelaide	28 Nov 2008	investigate this query
+Australia	lost	6 wickets		won	1st		Test v South Africa	Perth	17 Dec 2008	investigate this query
+Australia	lost	9 wickets		won	1st		Test v South Africa	Melbourne	26 Dec 2008	investigate this query
+Australia	won	103 runs		won	1st		Test v South Africa	Sydney	3 Jan 2009	investigate this query
+Australia	won	52 runs		won	1st		T20I v South Africa	Melbourne	11 Jan 2009	investigate this query
+Australia	won	6 wickets	7	lost	2nd		T20I v South Africa	Brisbane	13 Jan 2009	investigate this query
+Australia	lost	3 wickets	3	won	1st		ODI v South Africa	Melbourne	16 Jan 2009	investigate this query
+Australia	won	5 runs		lost	1st		ODI v South Africa	Hobart	18 Jan 2009	investigate this query
+Australia	lost	3 wickets	21	won	1st		ODI v South Africa	Sydney	23 Jan 2009	investigate this query
+Australia	lost	8 wickets	71	won	1st		ODI v South Africa	Adelaide	26 Jan 2009	investigate this query
+Australia	lost	39 runs		lost	2nd		ODI v South Africa	Perth	30 Jan 2009	investigate this query
+Australia	lost	2 wickets	0	won	1st		ODI v New Zealand	Perth	1 Feb 2009	investigate this query
+Australia	lost	6 wickets	7	lost	1st		ODI v New Zealand	Melbourne	6 Feb 2009	investigate this query
+Australia	won	32 runs		lost	1st		ODI v New Zealand	Sydney	8 Feb 2009	investigate this query
+Australia	won	6 wickets	10	lost	2nd		ODI v New Zealand	Adelaide	10 Feb 2009	investigate this query
+Australia	n/r	-		lost	1st		ODI v New Zealand	Brisbane	13 Feb 2009	investigate this query
+Australia	won	1 runs		won	1st		T20I v New Zealand	Sydney	15 Feb 2009	investigate this query
+Australia	won	162 runs		won	1st		Test v South Africa	Johannesburg	26 Feb 2009	investigate this query
+Australia	won	175 runs		won	1st		Test v South Africa	Durban	6 Mar 2009	investigate this query
+Australia	lost	inns & 20 runs		won	1st		Test v South Africa	Cape Town	19 Mar 2009	investigate this query
+Australia	lost	4 wickets	4	lost	1st		T20I v South Africa	Johannesburg	27 Mar 2009	investigate this query
+Australia	lost	17 runs		won	2nd		T20I v South Africa	Centurion	29 Mar 2009	investigate this query
+Australia	won	141 runs		won	1st		ODI v South Africa	Durban	3 Apr 2009	investigate this query
+Australia	lost	7 wickets	142	won	1st		ODI v South Africa	Centurion	5 Apr 2009	investigate this query
+Australia	lost	25 runs		lost	2nd		ODI v South Africa	Cape Town	9 Apr 2009	investigate this query
+Australia	lost	61 runs		won	2nd		ODI v South Africa	Port Elizabeth	13 Apr 2009	investigate this query
+Australia	won	47 runs		lost	1st		ODI v South Africa	Johannesburg	17 Apr 2009	investigate this query
+Australia	lost	4 wickets	35	won	1st		ODI v Pakistan	Dubai (DSC)	22 Apr 2009	investigate this query
+Australia	won	6 wickets	29	lost	2nd		ODI v Pakistan	Dubai (DSC)	24 Apr 2009	investigate this query
+Australia	won	27 runs		won	1st		ODI v Pakistan	Abu Dhabi	27 Apr 2009	investigate this query
+Australia	won	8 wickets	34	lost	2nd		ODI v Pakistan	Abu Dhabi	1 May 2009	investigate this query
+Australia	lost	7 wickets	18	won	1st		ODI v Pakistan	Abu Dhabi	3 May 2009	investigate this query
+Australia	lost	7 wickets	22	lost	1st		T20I v Pakistan	Dubai (DSC)	7 May 2009	investigate this query
+Australia	lost	7 wickets	25	won	1st		T20I v West Indies	The Oval	6 Jun 2009	investigate this query
+Australia	lost	6 wickets	6	lost	1st		T20I v Sri Lanka	Nottingham	8 Jun 2009	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Cardiff	8 Jul 2009	investigate this query
+Australia	lost	115 runs		lost	2nd		Test v England	Lord's	16 Jul 2009	investigate this query
+Australia	draw	-		won	1st		Test v England	Birmingham	30 Jul 2009	investigate this query
+Australia	won	inns & 80 runs		lost	2nd		Test v England	Leeds	7 Aug 2009	investigate this query
+Australia	lost	197 runs		lost	2nd		Test v England	The Oval	20 Aug 2009	investigate this query
+Australia	won	189 runs		lost	1st		ODI v Scotland	Edinburgh	28 Aug 2009	investigate this query
+Australia	n/r	-		lost	1st		T20I v England	Manchester	30 Aug 2009	investigate this query
+Australia	aban	-		-	-		T20I v England	Manchester	1 Sep 2009	investigate this query
+Australia	won	4 runs		lost	1st		ODI v England	The Oval	4 Sep 2009	investigate this query
+Australia	won	39 runs		lost	1st		ODI v England	Lord's	6 Sep 2009	investigate this query
+Australia	won	6 wickets	9	lost	2nd		ODI v England	Southampton	9 Sep 2009	investigate this query
+Australia	won	7 wickets	38	lost	2nd		ODI v England	Lord's	12 Sep 2009	investigate this query
+Australia	won	4 wickets	10	lost	2nd		ODI v England	Nottingham	15 Sep 2009	investigate this query
+Australia	won	111 runs		won	1st		ODI v England	Nottingham	17 Sep 2009	investigate this query
+Australia	lost	4 wickets	60	lost	1st		ODI v England	Chester-le-Street	20 Sep 2009	investigate this query
+Australia	won	50 runs		lost	1st		ODI v West Indies	Johannesburg	26 Sep 2009	investigate this query
+Australia	n/r	-		won	1st		ODI v India	Centurion	28 Sep 2009	investigate this query
+Australia	won	2 wickets	0	won	2nd		ODI v Pakistan	Centurion	30 Sep 2009	investigate this query
+Australia	won	9 wickets	49	lost	2nd		ODI v England	Centurion	2 Oct 2009	investigate this query
+Australia	won	6 wickets	28	lost	2nd		ODI v New Zealand	Centurion	5 Oct 2009	investigate this query
+Australia	won	4 runs		won	1st		ODI v India	Vadodara	25 Oct 2009	investigate this query
+Australia	lost	99 runs		won	2nd		ODI v India	Nagpur	28 Oct 2009	investigate this query
+Australia	lost	6 wickets	10	won	1st		ODI v India	Delhi	31 Oct 2009	investigate this query
+Australia	won	24 runs		lost	1st		ODI v India	Mohali	2 Nov 2009	investigate this query
+Australia	won	3 runs		won	1st		ODI v India	Hyderabad (Deccan)	5 Nov 2009	investigate this query
+Australia	won	6 wickets	49	lost	2nd		ODI v India	Guwahati	8 Nov 2009	investigate this query
+Australia	aban	-		-	-		ODI v India	Mumbai	11 Nov 2009	investigate this query
+Australia	won	inns & 65 runs		won	1st		Test v West Indies	Brisbane	26 Nov 2009	investigate this query
+Australia	draw	-		lost	2nd		Test v West Indies	Adelaide	4 Dec 2009	investigate this query
+Australia	won	35 runs		won	1st		Test v West Indies	Perth	16 Dec 2009	investigate this query
+Australia	won	170 runs		won	1st		Test v Pakistan	Melbourne	26 Dec 2009	investigate this query
+Australia	won	36 runs		won	1st		Test v Pakistan	Sydney	3 Jan 2010	investigate this query
+Australia	won	231 runs		won	1st		Test v Pakistan	Hobart	14 Jan 2010	investigate this query
+Australia	won	5 wickets	9	lost	2nd		ODI v Pakistan	Brisbane	22 Jan 2010	investigate this query
+Australia	won	140 runs		lost	1st		ODI v Pakistan	Sydney	24 Jan 2010	investigate this query
+Australia	won	40 runs		won	1st		ODI v Pakistan	Adelaide	26 Jan 2010	investigate this query
+Australia	won	135 runs		won	1st		ODI v Pakistan	Perth	29 Jan 2010	investigate this query
+Australia	won	2 wickets	4	lost	2nd		ODI v Pakistan	Perth	31 Jan 2010	investigate this query
+Australia	won	2 runs		won	1st		T20I v Pakistan	Melbourne	5 Feb 2010	investigate this query
+Australia	won	113 runs		lost	1st		ODI v West Indies	Melbourne	7 Feb 2010	investigate this query
+Australia	won	8 wickets	141	lost	2nd		ODI v West Indies	Adelaide	9 Feb 2010	investigate this query
+Australia	n/r	-		lost	1st		ODI v West Indies	Sydney	12 Feb 2010	investigate this query
+Australia	won	50 runs		lost	1st		ODI v West Indies	Brisbane	14 Feb 2010	investigate this query
+Australia	won	125 runs		won	1st		ODI v West Indies	Melbourne	19 Feb 2010	investigate this query
+Australia	won	38 runs		won	1st		T20I v West Indies	Hobart	21 Feb 2010	investigate this query
+Australia	won	8 wickets	50	lost	2nd		T20I v West Indies	Sydney	23 Feb 2010	investigate this query
+Australia	won	6 wickets	24	lost	2nd		T20I v New Zealand	Wellington	26 Feb 2010	investigate this query
+Australia	tied	-		lost	2nd		T20I v New Zealand	Christchurch	28 Feb 2010	investigate this query
+Australia	lost	2 wickets	4	won	1st		ODI v New Zealand	Napier	3 Mar 2010	investigate this query
+Australia	won	12 runs		won	1st		ODI v New Zealand	Auckland	6 Mar 2010	investigate this query
+Australia	won	6 wickets	16	won	2nd		ODI v New Zealand	Hamilton	9 Mar 2010	investigate this query
+Australia	won	6 wickets	17	won	2nd		ODI v New Zealand	Auckland	11 Mar 2010	investigate this query
+Australia	lost	51 runs		won	2nd		ODI v New Zealand	Wellington	13 Mar 2010	investigate this query
+Australia	won	10 wickets		won	1st		Test v New Zealand	Wellington	19 Mar 2010	investigate this query
+Australia	won	176 runs		won	1st		Test v New Zealand	Hamilton	27 Mar 2010	investigate this query
+Australia	won	34 runs		won	1st		T20I v Pakistan	Gros Islet	2 May 2010	investigate this query
+Australia	won	27 runs		won	1st		T20I v Bangladesh	Bridgetown	5 May 2010	investigate this query
+Australia	won	49 runs		lost	1st		T20I v India	Bridgetown	7 May 2010	investigate this query
+Australia	won	81 runs		won	1st		T20I v Sri Lanka	Bridgetown	9 May 2010	investigate this query
+Australia	won	6 wickets	22	lost	2nd		T20I v West Indies	Gros Islet	11 May 2010	investigate this query
+Australia	won	3 wickets	1	won	2nd		T20I v Pakistan	Gros Islet	14 May 2010	investigate this query
+Australia	lost	7 wickets	18	lost	1st		T20I v England	Bridgetown	16 May 2010	investigate this query
+Australia	won	39 runs		won	1st		ODI v Ireland	Dublin	17 Jun 2010	investigate this query
+Australia	lost	4 wickets	24	won	1st		ODI v England	Southampton	22 Jun 2010	investigate this query
+Australia	lost	4 wickets	28	won	1st		ODI v England	Cardiff	24 Jun 2010	investigate this query
+Australia	lost	1 wickets	5	lost	1st		ODI v England	Manchester	27 Jun 2010	investigate this query
+Australia	won	78 runs		lost	1st		ODI v England	The Oval	30 Jun 2010	investigate this query
+Australia	won	42 runs		won	1st		ODI v England	Lord's	3 Jul 2010	investigate this query
+Australia	lost	23 runs		lost	2nd		T20I v Pakistan	Birmingham	5 Jul 2010	investigate this query
+Australia	lost	11 runs		lost	2nd		T20I v Pakistan	Birmingham	6 Jul 2010	investigate this query
+Australia	won	150 runs		lost	1st		Test v Pakistan	Lord's	13 Jul 2010	investigate this query
+Australia	lost	3 wickets		won	1st		Test v Pakistan	Leeds	21 Jul 2010	investigate this query
+Australia	lost	1 wickets		won	1st		Test v India	Mohali	1 Oct 2010	investigate this query
+Australia	lost	7 wickets		won	1st		Test v India	Bangalore	9 Oct 2010	investigate this query
+Australia	aban	-		-	-		ODI v India	Kochi	17 Oct 2010	investigate this query
+Australia	lost	5 wickets	7	lost	1st		ODI v India	Visakhapatnam	20 Oct 2010	investigate this query
+Australia	aban	-		-	-		ODI v India	Margao	24 Oct 2010	investigate this query
+Australia	lost	7 wickets	21	won	1st		T20I v Sri Lanka	Perth	31 Oct 2010	investigate this query
+Australia	lost	1 wickets	34	won	1st		ODI v Sri Lanka	Melbourne	3 Nov 2010	investigate this query
+Australia	lost	29 runs		lost	2nd		ODI v Sri Lanka	Sydney	5 Nov 2010	investigate this query
+Australia	won	8 wickets	170	lost	2nd		ODI v Sri Lanka	Brisbane	7 Nov 2010	investigate this query
+Australia	draw	-		lost	2nd		Test v England	Brisbane	25 Nov 2010	investigate this query
+Australia	lost	inns & 71 runs		won	1st		Test v England	Adelaide	3 Dec 2010	investigate this query
+Australia	won	267 runs		lost	1st		Test v England	Perth	16 Dec 2010	investigate this query
+Australia	lost	inns & 157 runs		lost	1st		Test v England	Melbourne	26 Dec 2010	investigate this query
+Australia	lost	inns & 83 runs		won	1st		Test v England	Sydney	3 Jan 2011	investigate this query
+Australia	lost	1 wickets	0	won	1st		T20I v England	Adelaide	12 Jan 2011	investigate this query
+Australia	won	4 runs		won	1st		T20I v England	Melbourne	14 Jan 2011	investigate this query
+Australia	won	6 wickets	5	lost	2nd		ODI v England	Melbourne	16 Jan 2011	investigate this query
+Australia	won	46 runs		lost	1st		ODI v England	Hobart	21 Jan 2011	investigate this query
+Australia	won	4 wickets	24	lost	2nd		ODI v England	Sydney	23 Jan 2011	investigate this query
+Australia	lost	21 runs		lost	2nd		ODI v England	Adelaide	26 Jan 2011	investigate this query
+Australia	won	51 runs		won	1st		ODI v England	Brisbane	30 Jan 2011	investigate this query
+Australia	won	2 wickets	4	lost	2nd		ODI v England	Sydney	2 Feb 2011	investigate this query
+Australia	won	57 runs		won	1st		ODI v England	Perth	6 Feb 2011	investigate this query
+Australia	won	91 runs		won	1st		ODI v Zimbabwe	Ahmedabad	21 Feb 2011	investigate this query
+Australia	won	7 wickets	96	won	2nd		ODI v New Zealand	Nagpur	25 Feb 2011	investigate this query
+Australia	n/r	-		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	5 Mar 2011	investigate this query
+Australia	won	60 runs		won	1st		ODI v Kenya	Bangalore	13 Mar 2011	investigate this query
+Australia	won	7 wickets	91	lost	2nd		ODI v Canada	Bangalore	16 Mar 2011	investigate this query
+Australia	lost	4 wickets	54	won	1st		ODI v Pakistan	Colombo (RPS)	19 Mar 2011	investigate this query
+Australia	lost	5 wickets	14	won	1st		ODI v India	Ahmedabad	24 Mar 2011	investigate this query
+Australia	won	60 runs		lost	1st		ODI v Bangladesh	Dhaka	9 Apr 2011	investigate this query
+Australia	won	9 wickets	144	lost	2nd		ODI v Bangladesh	Dhaka	11 Apr 2011	investigate this query
+Australia	won	66 runs		won	1st		ODI v Bangladesh	Dhaka	13 Apr 2011	investigate this query
+Australia	lost	35 runs		won	2nd		T20I v Sri Lanka	Pallekele	6 Aug 2011	investigate this query
+Australia	lost	8 runs		lost	2nd		T20I v Sri Lanka	Pallekele	8 Aug 2011	investigate this query
+Australia	won	7 wickets	71	lost	2nd		ODI v Sri Lanka	Pallekele	10 Aug 2011	investigate this query
+Australia	won	8 wickets	70	lost	2nd		ODI v Sri Lanka	Hambantota	14 Aug 2011	investigate this query
+Australia	lost	78 runs		won	2nd		ODI v Sri Lanka	Hambantota	16 Aug 2011	investigate this query
+Australia	won	5 wickets	132	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	20 Aug 2011	investigate this query
+Australia	lost	4 wickets	18	lost	1st		ODI v Sri Lanka	Colombo (RPS)	22 Aug 2011	investigate this query
+Australia	won	125 runs		won	1st		Test v Sri Lanka	Galle	31 Aug 2011	investigate this query
+Australia	draw	-		lost	2nd		Test v Sri Lanka	Pallekele	8 Sep 2011	investigate this query
+Australia	draw	-		lost	1st		Test v Sri Lanka	Colombo (SSC)	16 Sep 2011	investigate this query
+Australia	won	5 wickets	3	lost	2nd		T20I v South Africa	Cape Town	13 Oct 2011	investigate this query
+Australia	lost	3 wickets	5	won	1st		T20I v South Africa	Johannesburg	16 Oct 2011	investigate this query
+Australia	won	93 runs		lost	1st		ODI v South Africa	Centurion	19 Oct 2011	investigate this query
+Australia	lost	80 runs		lost	2nd		ODI v South Africa	Port Elizabeth	23 Oct 2011	investigate this query
+Australia	won	3 wickets	15	lost	2nd		ODI v South Africa	Durban	28 Oct 2011	investigate this query
+Australia	lost	8 wickets		lost	1st		Test v South Africa	Cape Town	9 Nov 2011	investigate this query
+Australia	won	2 wickets		lost	2nd		Test v South Africa	Johannesburg	17 Nov 2011	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v New Zealand	Brisbane	1 Dec 2011	investigate this query
+Australia	lost	7 runs		won	2nd		Test v New Zealand	Hobart	9 Dec 2011	investigate this query
+Australia	won	122 runs		won	1st		Test v India	Melbourne	26 Dec 2011	investigate this query
+Australia	won	inns & 68 runs		lost	2nd		Test v India	Sydney	3 Jan 2012	investigate this query
+Australia	won	inns & 37 runs		won	2nd		Test v India	Perth	13 Jan 2012	investigate this query
+Australia	won	298 runs		won	1st		Test v India	Adelaide	24 Jan 2012	investigate this query
+Australia	won	31 runs		lost	1st		T20I v India	Sydney	1 Feb 2012	investigate this query
+Australia	lost	8 wickets	2	won	1st		T20I v India	Melbourne	3 Feb 2012	investigate this query
+Australia	won	65 runs		lost	1st		ODI v India	Melbourne	5 Feb 2012	investigate this query
+Australia	won	5 runs		lost	1st		ODI v Sri Lanka	Perth	10 Feb 2012	investigate this query
+Australia	lost	4 wickets	2	won	1st		ODI v India	Adelaide	12 Feb 2012	investigate this query
+Australia	lost	8 wickets	101	won	1st		ODI v Sri Lanka	Sydney	17 Feb 2012	investigate this query
+Australia	won	110 runs		won	1st		ODI v India	Brisbane	19 Feb 2012	investigate this query
+Australia	lost	3 wickets	4	won	1st		ODI v Sri Lanka	Hobart	24 Feb 2012	investigate this query
+Australia	won	87 runs		won	1st		ODI v India	Sydney	26 Feb 2012	investigate this query
+Australia	lost	9 runs		lost	2nd		ODI v Sri Lanka	Melbourne	2 Mar 2012	investigate this query
+Australia	won	15 runs		won	1st		ODI v Sri Lanka	Brisbane	4 Mar 2012	investigate this query
+Australia	lost	8 wickets	34	won	1st		ODI v Sri Lanka	Adelaide	6 Mar 2012	investigate this query
+Australia	won	16 runs		lost	1st		ODI v Sri Lanka	Adelaide	8 Mar 2012	investigate this query
+Australia	won	64 runs		won	1st		ODI v West Indies	Kingstown	16 Mar 2012	investigate this query
+Australia	lost	5 wickets	10	lost	1st		ODI v West Indies	Kingstown	18 Mar 2012	investigate this query
+Australia	tied	-		won	1st		ODI v West Indies	Kingstown	20 Mar 2012	investigate this query
+Australia	lost	42 runs		won	2nd		ODI v West Indies	Gros Islet	23 Mar 2012	investigate this query
+Australia	won	30 runs		lost	1st		ODI v West Indies	Gros Islet	25 Mar 2012	investigate this query
+Australia	won	8 wickets	11	lost	2nd		T20I v West Indies	Gros Islet	27 Mar 2012	investigate this query
+Australia	lost	14 runs		lost	2nd		T20I v West Indies	Bridgetown	30 Mar 2012	investigate this query
+Australia	won	3 wickets		lost	2nd		Test v West Indies	Bridgetown	7 Apr 2012	investigate this query
+Australia	draw	-		won	1st		Test v West Indies	Port of Spain	15 Apr 2012	investigate this query
+Australia	won	75 runs		won	1st		Test v West Indies	Roseau	23 Apr 2012	investigate this query
+Australia	n/r	-		won	2nd		ODI v Ireland	Belfast	23 Jun 2012	investigate this query
+Australia	lost	15 runs		won	2nd		ODI v England	Lord's	29 Jun 2012	investigate this query
+Australia	lost	6 wickets	26	won	1st		ODI v England	The Oval	1 Jul 2012	investigate this query
+Australia	aban	-		-	-		ODI v England	Birmingham	4 Jul 2012	investigate this query
+Australia	lost	8 wickets	13	lost	1st		ODI v England	Chester-le-Street	7 Jul 2012	investigate this query
+Australia	lost	7 wickets	11	lost	1st		ODI v England	Manchester	10 Jul 2012	investigate this query
+Australia	won	66 runs		won	1st		ODI v Afghanistan	Sharjah	25 Aug 2012	investigate this query
+Australia	won	4 wickets	10	lost	2nd		ODI v Pakistan	Sharjah	28 Aug 2012	investigate this query
+Australia	lost	7 wickets	38	won	1st		ODI v Pakistan	Abu Dhabi	31 Aug 2012	investigate this query
+Australia	won	3 wickets	18	won	2nd		ODI v Pakistan	Sharjah	3 Sep 2012	investigate this query
+Australia	lost	7 wickets	31	lost	1st		T20I v Pakistan	Dubai (DSC)	5 Sep 2012	investigate this query
+Australia	tied	-		lost	2nd		T20I v Pakistan	Dubai (DSC)	7 Sep 2012	investigate this query
+Australia	won	94 runs		lost	1st		T20I v Pakistan	Dubai (DSC)	10 Sep 2012	investigate this query
+Australia	won	7 wickets	29	lost	2nd		T20I v Ireland	Colombo (RPS)	19 Sep 2012	investigate this query
+Australia	won	17 runs		lost	2nd		T20I v West Indies	Colombo (RPS)	22 Sep 2012	investigate this query
+Australia	won	9 wickets	31	lost	2nd		T20I v India	Colombo (RPS)	28 Sep 2012	investigate this query
+Australia	won	8 wickets	14	won	2nd		T20I v South Africa	Colombo (RPS)	30 Sep 2012	investigate this query
+Australia	lost	32 runs		won	2nd		T20I v Pakistan	Colombo (RPS)	2 Oct 2012	investigate this query
+Australia	lost	74 runs		lost	2nd		T20I v West Indies	Colombo (RPS)	5 Oct 2012	investigate this query
+Australia	draw	-		lost	2nd		Test v South Africa	Brisbane	9 Nov 2012	investigate this query
+Australia	draw	-		won	1st		Test v South Africa	Adelaide	22 Nov 2012	investigate this query
+Australia	lost	309 runs		lost	2nd		Test v South Africa	Perth	30 Nov 2012	investigate this query
+Australia	won	137 runs		won	1st		Test v Sri Lanka	Hobart	14 Dec 2012	investigate this query
+Australia	won	inns & 201 runs		lost	2nd		Test v Sri Lanka	Melbourne	26 Dec 2012	investigate this query
+Australia	won	5 wickets		won	2nd		Test v Sri Lanka	Sydney	3 Jan 2013	investigate this query
+Australia	won	107 runs		won	1st		ODI v Sri Lanka	Melbourne	11 Jan 2013	investigate this query
+Australia	lost	8 wickets	59	lost	1st		ODI v Sri Lanka	Adelaide	13 Jan 2013	investigate this query
+Australia	lost	4 wickets	180	won	1st		ODI v Sri Lanka	Brisbane	18 Jan 2013	investigate this query
+Australia	n/r	-		won	1st		ODI v Sri Lanka	Sydney	20 Jan 2013	investigate this query
+Australia	won	32 runs		lost	1st		ODI v Sri Lanka	Hobart	23 Jan 2013	investigate this query
+Australia	lost	5 wickets	7	won	1st		T20I v Sri Lanka	Sydney	26 Jan 2013	investigate this query
+Australia	lost	2 runs		won	2nd		T20I v Sri Lanka	Melbourne	28 Jan 2013	investigate this query
+Australia	won	9 wickets	244	lost	2nd		ODI v West Indies	Perth	1 Feb 2013	investigate this query
+Australia	won	54 runs		lost	1st		ODI v West Indies	Perth	3 Feb 2013	investigate this query
+Australia	won	39 runs		won	1st		ODI v West Indies	Canberra	6 Feb 2013	investigate this query
+Australia	won	5 wickets	31	lost	2nd		ODI v West Indies	Sydney	8 Feb 2013	investigate this query
+Australia	won	17 runs		lost	1st		ODI v West Indies	Melbourne	10 Feb 2013	investigate this query
+Australia	lost	27 runs		lost	2nd		T20I v West Indies	Brisbane	13 Feb 2013	investigate this query
+Australia	lost	8 wickets		won	1st		Test v India	Chennai	22 Feb 2013	investigate this query
+Australia	lost	inns & 135 runs		won	1st		Test v India	Hyderabad (Deccan)	2 Mar 2013	investigate this query
+Australia	lost	6 wickets		won	1st		Test v India	Mohali	14 Mar 2013	investigate this query
+Australia	lost	6 wickets		won	1st		Test v India	Delhi	22 Mar 2013	investigate this query
+Australia	lost	48 runs		lost	2nd		ODI v England	Birmingham	8 Jun 2013	investigate this query
+Australia	n/r	-		won	1st		ODI v New Zealand	Birmingham	12 Jun 2013	investigate this query
+Australia	lost	20 runs		won	2nd		ODI v Sri Lanka	The Oval	17 Jun 2013	investigate this query
+Australia	lost	14 runs		lost	2nd		Test v England	Nottingham	10 Jul 2013	investigate this query
+Australia	lost	347 runs		lost	2nd		Test v England	Lord's	18 Jul 2013	investigate this query
+Australia	draw	-		won	1st		Test v England	Manchester	1 Aug 2013	investigate this query
+Australia	lost	74 runs		lost	2nd		Test v England	Chester-le-Street	9 Aug 2013	investigate this query
+Australia	draw	-		won	1st		Test v England	The Oval	21 Aug 2013	investigate this query
+Australia	won	39 runs		lost	1st		T20I v England	Southampton	29 Aug 2013	investigate this query
+Australia	lost	27 runs		won	2nd		T20I v England	Chester-le-Street	31 Aug 2013	investigate this query
+Australia	won	200 runs		lost	1st		ODI v Scotland	Edinburgh	3 Sep 2013	investigate this query
+Australia	aban	-		-	-		ODI v England	Leeds	6 Sep 2013	investigate this query
+Australia	won	88 runs		lost	1st		ODI v England	Manchester	8 Sep 2013	investigate this query
+Australia	n/r	-		won	2nd		ODI v England	Birmingham	11 Sep 2013	investigate this query
+Australia	lost	3 wickets	3	lost	1st		ODI v England	Cardiff	14 Sep 2013	investigate this query
+Australia	won	49 runs		won	1st		ODI v England	Southampton	16 Sep 2013	investigate this query
+Australia	lost	6 wickets	2	lost	1st		T20I v India	Rajkot	10 Oct 2013	investigate this query
+Australia	won	72 runs		won	1st		ODI v India	Pune	13 Oct 2013	investigate this query
+Australia	lost	9 wickets	39	won	1st		ODI v India	Jaipur	16 Oct 2013	investigate this query
+Australia	won	4 wickets	3	won	2nd		ODI v India	Mohali	19 Oct 2013	investigate this query
+Australia	n/r	-		lost	1st		ODI v India	Ranchi	23 Oct 2013	investigate this query
+Australia	aban	-		-	-		ODI v India	Cuttack	26 Oct 2013	investigate this query
+Australia	lost	6 wickets	3	lost	1st		ODI v India	Nagpur	30 Oct 2013	investigate this query
+Australia	lost	57 runs		won	2nd		ODI v India	Bangalore	2 Nov 2013	investigate this query
+Australia	won	381 runs		won	1st		Test v England	Brisbane	21 Nov 2013	investigate this query
+Australia	won	218 runs		won	1st		Test v England	Adelaide	5 Dec 2013	investigate this query
+Australia	won	150 runs		won	1st		Test v England	Perth	13 Dec 2013	investigate this query
+Australia	won	8 wickets		won	2nd		Test v England	Melbourne	26 Dec 2013	investigate this query
+Australia	won	281 runs		lost	1st		Test v England	Sydney	3 Jan 2014	investigate this query
+Australia	won	6 wickets	26	lost	2nd		ODI v England	Melbourne	12 Jan 2014	investigate this query
+Australia	won	1 wickets	3	lost	2nd		ODI v England	Brisbane	17 Jan 2014	investigate this query
+Australia	won	7 wickets	60	lost	2nd		ODI v England	Sydney	19 Jan 2014	investigate this query
+Australia	lost	57 runs		won	2nd		ODI v England	Perth	24 Jan 2014	investigate this query
+Australia	won	5 runs		won	1st		ODI v England	Adelaide	26 Jan 2014	investigate this query
+Australia	won	13 runs		won	1st		T20I v England	Hobart	29 Jan 2014	investigate this query
+Australia	won	8 wickets	31	lost	2nd		T20I v England	Melbourne	31 Jan 2014	investigate this query
+Australia	won	84 runs		won	1st		T20I v England	Sydney	2 Feb 2014	investigate this query
+Australia	won	281 runs		lost	1st		Test v South Africa	Centurion	12 Feb 2014	investigate this query
+Australia	lost	231 runs		lost	2nd		Test v South Africa	Port Elizabeth	20 Feb 2014	investigate this query
+Australia	won	245 runs		won	1st		Test v South Africa	Cape Town	1 Mar 2014	investigate this query
+Australia	aban	-		-	-		T20I v South Africa	Port Elizabeth	9 Mar 2014	investigate this query
+Australia	won	5 wickets	2	won	2nd		T20I v South Africa	Durban	12 Mar 2014	investigate this query
+Australia	won	6 wickets	30	won	2nd		T20I v South Africa	Centurion	14 Mar 2014	investigate this query
+Australia	lost	16 runs		won	2nd		T20I v Pakistan	Dhaka	23 Mar 2014	investigate this query
+Australia	lost	6 wickets	2	won	1st		T20I v West Indies	Dhaka	28 Mar 2014	investigate this query
+Australia	lost	73 runs		won	2nd		T20I v India	Dhaka	30 Mar 2014	investigate this query
+Australia	won	7 wickets	15	lost	2nd		T20I v Bangladesh	Dhaka	1 Apr 2014	investigate this query
+Australia	won	198 runs		lost	1st		ODI v Zimbabwe	Harare	25 Aug 2014	investigate this query
+Australia	lost	7 wickets	20	lost	1st		ODI v South Africa	Harare	27 Aug 2014	investigate this query
+Australia	lost	3 wickets	12	won	1st		ODI v Zimbabwe	Harare	31 Aug 2014	investigate this query
+Australia	won	62 runs		lost	1st		ODI v South Africa	Harare	2 Sep 2014	investigate this query
+Australia	lost	6 wickets	55	lost	1st		ODI v South Africa	Harare	6 Sep 2014	investigate this query
+Australia	won	6 wickets	36	lost	2nd		T20I v Pakistan	Dubai (DSC)	5 Oct 2014	investigate this query
+Australia	won	93 runs		won	1st		ODI v Pakistan	Sharjah	7 Oct 2014	investigate this query
+Australia	won	5 wickets	40	lost	2nd		ODI v Pakistan	Dubai (DSC)	10 Oct 2014	investigate this query
+Australia	won	1 runs		won	1st		ODI v Pakistan	Abu Dhabi	12 Oct 2014	investigate this query
+Australia	lost	221 runs		lost	2nd		Test v Pakistan	Dubai (DSC)	22 Oct 2014	investigate this query
+Australia	lost	356 runs		lost	2nd		Test v Pakistan	Abu Dhabi	30 Oct 2014	investigate this query
+Australia	lost	7 wickets	6	won	1st		T20I v South Africa	Adelaide	5 Nov 2014	investigate this query
+Australia	won	7 wickets	44	lost	2nd		T20I v South Africa	Melbourne	7 Nov 2014	investigate this query
+Australia	won	2 wickets	1	won	2nd		T20I v South Africa	Sydney	9 Nov 2014	investigate this query
+Australia	won	32 runs		lost	1st		ODI v South Africa	Perth	14 Nov 2014	investigate this query
+Australia	lost	3 wickets	134	won	1st		ODI v South Africa	Perth	16 Nov 2014	investigate this query
+Australia	won	73 runs		won	1st		ODI v South Africa	Canberra	19 Nov 2014	investigate this query
+Australia	won	3 wickets	6	lost	2nd		ODI v South Africa	Melbourne	21 Nov 2014	investigate this query
+Australia	won	2 wickets	5	lost	2nd		ODI v South Africa	Sydney	23 Nov 2014	investigate this query
+Australia	won	48 runs		won	1st		Test v India	Adelaide	9 Dec 2014	investigate this query
+Australia	won	4 wickets		lost	2nd		Test v India	Brisbane	17 Dec 2014	investigate this query
+Australia	draw	-		won	1st		Test v India	Melbourne	26 Dec 2014	investigate this query
+Australia	draw	-		won	1st		Test v India	Sydney	6 Jan 2015	investigate this query
+Australia	won	3 wickets	61	lost	2nd		ODI v England	Sydney	16 Jan 2015	investigate this query
+Australia	won	4 wickets	6	lost	2nd		ODI v India	Melbourne	18 Jan 2015	investigate this query
+Australia	won	3 wickets	1	won	2nd		ODI v England	Hobart	23 Jan 2015	investigate this query
+Australia	n/r	-		won	2nd		ODI v India	Sydney	26 Jan 2015	investigate this query
+Australia	won	112 runs		lost	1st		ODI v England	Perth	1 Feb 2015	investigate this query
+Australia	won	111 runs		lost	1st		ODI v England	Melbourne	14 Feb 2015	investigate this query
+Australia	aban	-		-	-		ODI v Bangladesh	Brisbane	21 Feb 2015	investigate this query
+Australia	lost	1 wickets	161	won	1st		ODI v New Zealand	Auckland	28 Feb 2015	investigate this query
+Australia	won	275 runs		lost	1st		ODI v Afghanistan	Perth	4 Mar 2015	investigate this query
+Australia	won	64 runs		won	1st		ODI v Sri Lanka	Sydney	8 Mar 2015	investigate this query
+Australia	won	7 wickets	208	won	2nd		ODI v Scotland	Hobart	14 Mar 2015	investigate this query
+Australia	won	6 wickets	97	lost	2nd		ODI v Pakistan	Adelaide	20 Mar 2015	investigate this query
+Australia	won	95 runs		won	1st		ODI v India	Sydney	26 Mar 2015	investigate this query
+Australia	won	7 wickets	101	lost	2nd		ODI v New Zealand	Melbourne	29 Mar 2015	investigate this query
+Australia	won	9 wickets		lost	2nd		Test v West Indies	Roseau	3 Jun 2015	investigate this query
+Australia	won	277 runs		lost	1st		Test v West Indies	Kingston	11 Jun 2015	investigate this query
+Australia	lost	169 runs		lost	2nd		Test v England	Cardiff	8 Jul 2015	investigate this query
+Australia	won	405 runs		won	1st		Test v England	Lord's	16 Jul 2015	investigate this query
+Australia	lost	8 wickets		won	1st		Test v England	Birmingham	29 Jul 2015	investigate this query
+Australia	lost	inns & 78 runs		lost	1st		Test v England	Nottingham	6 Aug 2015	investigate this query
+Australia	won	inns & 46 runs		lost	1st		Test v England	The Oval	20 Aug 2015	investigate this query
+Australia	won	23 runs		won	1st		ODI v Ireland	Belfast	27 Aug 2015	investigate this query
+Australia	lost	5 runs		won	2nd		T20I v England	Cardiff	31 Aug 2015	investigate this query
+Australia	won	59 runs		won	1st		ODI v England	Southampton	3 Sep 2015	investigate this query
+Australia	won	64 runs		lost	1st		ODI v England	Lord's	5 Sep 2015	investigate this query
+Australia	lost	93 runs		lost	2nd		ODI v England	Manchester	8 Sep 2015	investigate this query
+Australia	lost	3 wickets	10	won	1st		ODI v England	Leeds	11 Sep 2015	investigate this query
+Australia	won	8 wickets	154	lost	2nd		ODI v England	Manchester	13 Sep 2015	investigate this query

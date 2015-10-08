@@ -1,0 +1,1096 @@
+Sri Lanka	lost	9 wickets	236	lost	1st		ODI v West Indies	Manchester	7 Jun 1975	investigate this query
+Sri Lanka	lost	52 runs		won	2nd		ODI v Australia	The Oval	11 Jun 1975	investigate this query
+Sri Lanka	lost	192 runs		won	2nd		ODI v Pakistan	Nottingham	14 Jun 1975	investigate this query
+Sri Lanka	lost	9 wickets	74	lost	1st		ODI v New Zealand	Nottingham	9 Jun 1979	investigate this query
+Sri Lanka	aban	-		-	-		ODI v West Indies	The Oval	13 Jun 1979	investigate this query
+Sri Lanka	won	47 runs		lost	1st		ODI v India	Manchester	16 Jun 1979	investigate this query
+Sri Lanka	lost	5 runs		won	2nd		ODI v England	Colombo (SSC)	13 Feb 1982	investigate this query
+Sri Lanka	won	3 runs		lost	1st		ODI v England	Colombo (SSC)	14 Feb 1982	investigate this query
+Sri Lanka	lost	7 wickets		won	1st		Test v England	Colombo (PSS)	17 Feb 1982	investigate this query
+Sri Lanka	lost	204 runs		lost	2nd		Test v Pakistan	Karachi	5 Mar 1982	investigate this query
+Sri Lanka	lost	8 wickets	22	lost	1st		ODI v Pakistan	Karachi	12 Mar 1982	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Faisalabad	14 Mar 1982	investigate this query
+Sri Lanka	lost	inns & 102 runs		lost	1st		Test v Pakistan	Lahore	22 Mar 1982	investigate this query
+Sri Lanka	won	30 runs		won	2nd		ODI v Pakistan	Lahore	29 Mar 1982	investigate this query
+Sri Lanka	lost	5 wickets	11	lost	1st		ODI v Pakistan	Karachi	31 Mar 1982	investigate this query
+Sri Lanka	lost	78 runs		won	2nd		ODI v India	Amritsar	12 Sep 1982	investigate this query
+Sri Lanka	lost	6 wickets	55	won	1st		ODI v India	Delhi	15 Sep 1982	investigate this query
+Sri Lanka	draw	-		won	1st		Test v India	Chennai	17 Sep 1982	investigate this query
+Sri Lanka	lost	6 wickets	64	won	1st		ODI v India	Bangalore	26 Sep 1982	investigate this query
+Sri Lanka	lost	65 runs		won	2nd		ODI v New Zealand	Dunedin	2 Mar 1983	investigate this query
+Sri Lanka	lost	inns & 25 runs		won	2nd		Test v New Zealand	Christchurch	4 Mar 1983	investigate this query
+Sri Lanka	lost	6 wickets		lost	1st		Test v New Zealand	Wellington	11 Mar 1983	investigate this query
+Sri Lanka	lost	7 wickets	80	lost	1st		ODI v New Zealand	Napier	19 Mar 1983	investigate this query
+Sri Lanka	lost	116 runs		lost	2nd		ODI v New Zealand	Auckland	20 Mar 1983	investigate this query
+Sri Lanka	won	2 wickets	5	lost	2nd		ODI v Australia	Colombo (PSS)	13 Apr 1983	investigate this query
+Sri Lanka	won	4 wickets	10	won	2nd		ODI v Australia	Colombo (PSS)	16 Apr 1983	investigate this query
+Sri Lanka	lost	inns & 38 runs		lost	2nd		Test v Australia	Kandy	22 Apr 1983	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v Australia	Colombo (SSC)	29 Apr 1983	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v Australia	Colombo (SSC)	30 Apr 1983	investigate this query
+Sri Lanka	lost	50 runs		won	2nd		ODI v Pakistan	Swansea	9 Jun 1983	investigate this query
+Sri Lanka	lost	47 runs		lost	2nd		ODI v England	Taunton	11 Jun 1983	investigate this query
+Sri Lanka	lost	5 wickets	124	lost	1st		ODI v New Zealand	Bristol	13 Jun 1983	investigate this query
+Sri Lanka	lost	11 runs		won	2nd		ODI v Pakistan	Leeds	16 Jun 1983	investigate this query
+Sri Lanka	won	3 wickets	43	won	2nd		ODI v New Zealand	Derby	18 Jun 1983	investigate this query
+Sri Lanka	lost	9 wickets	215	lost	1st		ODI v England	Leeds	20 Jun 1983	investigate this query
+Sri Lanka	lost	104 runs		won	2nd		ODI v New Zealand	Colombo (SSC)	3 Mar 1984	investigate this query
+Sri Lanka	lost	165 runs		lost	2nd		Test v New Zealand	Kandy	9 Mar 1984	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v New Zealand	Colombo (SSC)	16 Mar 1984	investigate this query
+Sri Lanka	lost	inns & 61 runs		won	1st		Test v New Zealand	Colombo (CCC)	24 Mar 1984	investigate this query
+Sri Lanka	won	41 runs		lost	1st		ODI v New Zealand	Moratuwa	31 Mar 1984	investigate this query
+Sri Lanka	lost	86 runs		won	2nd		ODI v New Zealand	Colombo (PSS)	1 Apr 1984	investigate this query
+Sri Lanka	won	5 wickets	15	won	2nd		ODI v Pakistan	Sharjah	6 Apr 1984	investigate this query
+Sri Lanka	lost	10 wickets	170	lost	1st		ODI v India	Sharjah	8 Apr 1984	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v England	Lord's	23 Aug 1984	investigate this query
+Sri Lanka	won	4 wickets	32	lost	2nd		ODI v New Zealand	Colombo (PSS)	3 Nov 1984	investigate this query
+Sri Lanka	lost	7 wickets	56	lost	1st		ODI v New Zealand	Moratuwa	4 Nov 1984	investigate this query
+Sri Lanka	lost	6 wickets	16	won	1st		ODI v Australia	Sydney	8 Jan 1985	investigate this query
+Sri Lanka	lost	8 wickets	56	lost	1st		ODI v West Indies	Hobart	10 Jan 1985	investigate this query
+Sri Lanka	lost	90 runs		won	2nd		ODI v West Indies	Brisbane	12 Jan 1985	investigate this query
+Sri Lanka	lost	65 runs		lost	2nd		ODI v West Indies	Sydney	17 Jan 1985	investigate this query
+Sri Lanka	won	4 wickets	4	won	2nd		ODI v Australia	Melbourne	19 Jan 1985	investigate this query
+Sri Lanka	lost	3 wickets	17	lost	1st		ODI v Australia	Sydney	23 Jan 1985	investigate this query
+Sri Lanka	lost	8 wickets	76	lost	1st		ODI v West Indies	Adelaide	26 Jan 1985	investigate this query
+Sri Lanka	lost	232 runs		won	2nd		ODI v Australia	Adelaide	28 Jan 1985	investigate this query
+Sri Lanka	lost	82 runs		won	2nd		ODI v West Indies	Perth	2 Feb 1985	investigate this query
+Sri Lanka	lost	9 wickets	157	won	1st		ODI v Australia	Perth	3 Feb 1985	investigate this query
+Sri Lanka	lost	51 runs		won	2nd		ODI v New Zealand	Melbourne	23 Feb 1985	investigate this query
+Sri Lanka	lost	8 wickets	143	won	1st		ODI v West Indies	Melbourne	27 Feb 1985	investigate this query
+Sri Lanka	lost	2 wickets	3	lost	1st		ODI v India	Colombo (SSC)	25 Aug 1985	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Colombo (SSC)	30 Aug 1985	investigate this query
+Sri Lanka	won	149 runs		won	1st		Test v India	Colombo (PSS)	6 Sep 1985	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Kandy	14 Sep 1985	investigate this query
+Sri Lanka	won	14 runs		lost	1st		ODI v India	Colombo (PSS)	21 Sep 1985	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v India	Colombo (PSS)	22 Sep 1985	investigate this query
+Sri Lanka	lost	8 wickets	43	lost	1st		ODI v Pakistan	Peshawar	13 Oct 1985	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Faisalabad	16 Oct 1985	investigate this query
+Sri Lanka	lost	15 runs		won	2nd		ODI v Pakistan	Gujranwala	23 Oct 1985	investigate this query
+Sri Lanka	lost	5 wickets	9	lost	1st		ODI v Pakistan	Lahore	25 Oct 1985	investigate this query
+Sri Lanka	lost	8 wickets		lost	1st		Test v Pakistan	Sialkot	27 Oct 1985	investigate this query
+Sri Lanka	lost	89 runs		won	2nd		ODI v Pakistan	Hyderabad (Sind)	3 Nov 1985	investigate this query
+Sri Lanka	lost	10 wickets		won	1st		Test v Pakistan	Karachi	7 Nov 1985	investigate this query
+Sri Lanka	lost	inns & 20 runs		won	1st		Test v Pakistan	Kandy	23 Feb 1986	investigate this query
+Sri Lanka	lost	8 wickets	9	lost	1st		ODI v Pakistan	Kandy	2 Mar 1986	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v Pakistan	Moratuwa	8 Mar 1986	investigate this query
+Sri Lanka	aban	-		-	-		ODI v Pakistan	Colombo (RPS)	9 Mar 1986	investigate this query
+Sri Lanka	lost	8 wickets	6	lost	1st		ODI v Pakistan	Colombo (SSC)	11 Mar 1986	investigate this query
+Sri Lanka	won	8 wickets		won	2nd		Test v Pakistan	Colombo (CCC)	14 Mar 1986	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Colombo (PSS)	22 Mar 1986	investigate this query
+Sri Lanka	lost	81 runs		won	2nd		ODI v Pakistan	Colombo (PSS)	30 Mar 1986	investigate this query
+Sri Lanka	won	7 wickets	81	won	2nd		ODI v Bangladesh	Kandy	2 Apr 1986	investigate this query
+Sri Lanka	lost	6 wickets	40	lost	1st		ODI v New Zealand	Colombo (RPS)	5 Apr 1986	investigate this query
+Sri Lanka	won	5 wickets	16	won	2nd		ODI v Pakistan	Colombo (SSC)	6 Apr 1986	investigate this query
+Sri Lanka	lost	3 wickets	5	lost	1st		ODI v India	Sharjah	13 Apr 1986	investigate this query
+Sri Lanka	lost	7 wickets	21	lost	1st		ODI v India	Sharjah	27 Nov 1986	investigate this query
+Sri Lanka	lost	4 wickets	6	lost	1st		ODI v Pakistan	Sharjah	2 Dec 1986	investigate this query
+Sri Lanka	lost	193 runs		won	2nd		ODI v West Indies	Sharjah	3 Dec 1986	investigate this query
+Sri Lanka	draw	-		won	1st		Test v India	Kanpur	17 Dec 1986	investigate this query
+Sri Lanka	won	117 runs		lost	1st		ODI v India	Kanpur	24 Dec 1986	investigate this query
+Sri Lanka	lost	inns & 106 runs		won	1st		Test v India	Nagpur	27 Dec 1986	investigate this query
+Sri Lanka	lost	inns & 67 runs		lost	2nd		Test v India	Cuttack	4 Jan 1987	investigate this query
+Sri Lanka	lost	8 wickets	111	lost	1st		ODI v India	Guwahati	11 Jan 1987	investigate this query
+Sri Lanka	lost	6 wickets	15	lost	1st		ODI v India	Delhi	13 Jan 1987	investigate this query
+Sri Lanka	lost	94 runs		won	2nd		ODI v India	Vadodara	15 Jan 1987	investigate this query
+Sri Lanka	lost	10 runs		won	2nd		ODI v India	Mumbai	17 Jan 1987	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v New Zealand	Colombo (CCC)	16 Apr 1987	investigate this query
+Sri Lanka	canc	-		-	-		Test v New Zealand	Kandy	24 Apr 1987	investigate this query
+Sri Lanka	canc	-		-	-		Test v New Zealand	Colombo (SSC)	5 May 1987	investigate this query
+Sri Lanka	lost	15 runs		lost	2nd		ODI v Pakistan	Hyderabad (Sind)	8 Oct 1987	investigate this query
+Sri Lanka	lost	191 runs		won	2nd		ODI v West Indies	Karachi	13 Oct 1987	investigate this query
+Sri Lanka	lost	108 runs		lost	2nd		ODI v England	Peshawar	17 Oct 1987	investigate this query
+Sri Lanka	lost	25 runs		won	2nd		ODI v West Indies	Kanpur	21 Oct 1987	investigate this query
+Sri Lanka	lost	113 runs		lost	2nd		ODI v Pakistan	Faisalabad	25 Oct 1987	investigate this query
+Sri Lanka	lost	8 wickets	52	won	1st		ODI v England	Pune	30 Oct 1987	investigate this query
+Sri Lanka	lost	81 runs		won	2nd		ODI v Australia	Perth	2 Jan 1988	investigate this query
+Sri Lanka	lost	6 wickets	8	won	1st		ODI v New Zealand	Sydney	5 Jan 1988	investigate this query
+Sri Lanka	lost	4 wickets	1	won	1st		ODI v New Zealand	Adelaide	9 Jan 1988	investigate this query
+Sri Lanka	lost	81 runs		lost	2nd		ODI v Australia	Adelaide	10 Jan 1988	investigate this query
+Sri Lanka	won	4 wickets	21	won	2nd		ODI v New Zealand	Hobart	12 Jan 1988	investigate this query
+Sri Lanka	lost	38 runs		lost	2nd		ODI v Australia	Melbourne	14 Jan 1988	investigate this query
+Sri Lanka	lost	4 wickets	11	lost	1st		ODI v New Zealand	Brisbane	16 Jan 1988	investigate this query
+Sri Lanka	lost	3 wickets	3	lost	1st		ODI v Australia	Sydney	19 Jan 1988	investigate this query
+Sri Lanka	lost	inns & 108 runs		lost	2nd		Test v Australia	Perth	12 Feb 1988	investigate this query
+Sri Lanka	lost	18 runs		won	2nd		ODI v India	Sharjah	25 Mar 1988	investigate this query
+Sri Lanka	lost	99 runs		won	2nd		ODI v New Zealand	Sharjah	29 Mar 1988	investigate this query
+Sri Lanka	lost	43 runs		lost	2nd		ODI v New Zealand	Sharjah	31 Mar 1988	investigate this query
+Sri Lanka	lost	7 wickets		lost	1st		Test v England	Lord's	25 Aug 1988	investigate this query
+Sri Lanka	lost	5 wickets	14	lost	1st		ODI v England	The Oval	4 Sep 1988	investigate this query
+Sri Lanka	won	5 wickets	31	won	2nd		ODI v Pakistan	Dhaka	27 Oct 1988	investigate this query
+Sri Lanka	won	17 runs		lost	1st		ODI v India	Dhaka	29 Oct 1988	investigate this query
+Sri Lanka	won	9 wickets	85	won	2nd		ODI v Bangladesh	Dhaka	2 Nov 1988	investigate this query
+Sri Lanka	lost	6 wickets	47	lost	1st		ODI v India	Dhaka	4 Nov 1988	investigate this query
+Sri Lanka	lost	30 runs		won	2nd		ODI v Pakistan	Sharjah	23 Mar 1989	investigate this query
+Sri Lanka	lost	7 wickets	13	won	1st		ODI v Pakistan	Sharjah	24 Mar 1989	investigate this query
+Sri Lanka	lost	5 wickets	8	lost	1st		ODI v England	Delhi	15 Oct 1989	investigate this query
+Sri Lanka	won	4 wickets	17	won	2nd		ODI v West Indies	Rajkot	19 Oct 1989	investigate this query
+Sri Lanka	lost	6 runs		lost	2nd		ODI v India	Ahmedabad	22 Oct 1989	investigate this query
+Sri Lanka	lost	28 runs		lost	2nd		ODI v Australia	Margao	25 Oct 1989	investigate this query
+Sri Lanka	lost	6 runs		lost	2nd		ODI v Pakistan	Lucknow	27 Oct 1989	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Australia	Brisbane	8 Dec 1989	investigate this query
+Sri Lanka	lost	173 runs		won	2nd		Test v Australia	Hobart	16 Dec 1989	investigate this query
+Sri Lanka	lost	30 runs		won	2nd		ODI v Australia	Melbourne	26 Dec 1989	investigate this query
+Sri Lanka	lost	9 wickets	55	won	1st		ODI v Australia	Perth	30 Dec 1989	investigate this query
+Sri Lanka	won	3 wickets	9	lost	2nd		ODI v Pakistan	Perth	31 Dec 1989	investigate this query
+Sri Lanka	lost	73 runs		lost	2nd		ODI v Australia	Melbourne	4 Jan 1990	investigate this query
+Sri Lanka	lost	5 wickets	18	lost	1st		ODI v Pakistan	Brisbane	10 Feb 1990	investigate this query
+Sri Lanka	lost	6 wickets	9	lost	1st		ODI v Pakistan	Hobart	15 Feb 1990	investigate this query
+Sri Lanka	lost	27 runs		won	2nd		ODI v Pakistan	Adelaide	17 Feb 1990	investigate this query
+Sri Lanka	lost	7 wickets	60	won	1st		ODI v Australia	Adelaide	18 Feb 1990	investigate this query
+Sri Lanka	won	3 wickets	4	won	2nd		ODI v India	Sharjah	25 Apr 1990	investigate this query
+Sri Lanka	lost	90 runs		won	2nd		ODI v Pakistan	Sharjah	29 Apr 1990	investigate this query
+Sri Lanka	lost	114 runs		lost	2nd		ODI v Australia	Sharjah	2 May 1990	investigate this query
+Sri Lanka	lost	inns & 8 runs		lost	2nd		Test v India	Chandigarh	23 Nov 1990	investigate this query
+Sri Lanka	lost	19 runs		won	2nd		ODI v India	Nagpur	1 Dec 1990	investigate this query
+Sri Lanka	lost	6 wickets	21	lost	1st		ODI v India	Pune	5 Dec 1990	investigate this query
+Sri Lanka	won	7 wickets	103	lost	2nd		ODI v India	Margao	8 Dec 1990	investigate this query
+Sri Lanka	won	6 wickets	31	won	2nd		ODI v Pakistan	Sharjah	20 Dec 1990	investigate this query
+Sri Lanka	lost	50 runs		won	2nd		ODI v Pakistan	Sharjah	21 Dec 1990	investigate this query
+Sri Lanka	won	36 runs		won	1st		ODI v India	Cuttack	28 Dec 1990	investigate this query
+Sri Lanka	won	71 runs		won	1st		ODI v Bangladesh	Kolkata	31 Dec 1990	investigate this query
+Sri Lanka	lost	7 wickets	17	lost	1st		ODI v India	Kolkata	4 Jan 1991	investigate this query
+Sri Lanka	lost	5 wickets	45	lost	1st		ODI v New Zealand	Napier	26 Jan 1991	investigate this query
+Sri Lanka	lost	41 runs		won	2nd		ODI v New Zealand	Auckland	28 Jan 1991	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v New Zealand	Wellington	31 Jan 1991	investigate this query
+Sri Lanka	lost	107 runs		won	2nd		ODI v New Zealand	Dunedin	6 Feb 1991	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v New Zealand	Hamilton	22 Feb 1991	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v New Zealand	Auckland	1 Mar 1991	investigate this query
+Sri Lanka	lost	137 runs		lost	2nd		Test v England	Lord's	22 Aug 1991	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Sialkot	12 Dec 1991	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Pakistan	Gujranwala	20 Dec 1991	investigate this query
+Sri Lanka	lost	3 wickets		lost	1st		Test v Pakistan	Faisalabad	2 Jan 1992	investigate this query
+Sri Lanka	lost	8 wickets	19	lost	1st		ODI v Pakistan	Sargodha	10 Jan 1992	investigate this query
+Sri Lanka	lost	29 runs		won	2nd		ODI v Pakistan	Karachi	13 Jan 1992	investigate this query
+Sri Lanka	lost	59 runs		won	2nd		ODI v Pakistan	Hyderabad (Sind)	15 Jan 1992	investigate this query
+Sri Lanka	won	4 wickets	2	won	2nd		ODI v Pakistan	Multan	17 Jan 1992	investigate this query
+Sri Lanka	lost	117 runs		won	2nd		ODI v Pakistan	Rawalpindi	19 Jan 1992	investigate this query
+Sri Lanka	won	3 wickets	4	won	2nd		ODI v Zimbabwe	New Plymouth	23 Feb 1992	investigate this query
+Sri Lanka	lost	6 wickets	10	lost	1st		ODI v New Zealand	Hamilton	25 Feb 1992	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v India	Mackay	28 Feb 1992	investigate this query
+Sri Lanka	won	3 wickets	1	won	2nd		ODI v South Africa	Wellington	2 Mar 1992	investigate this query
+Sri Lanka	lost	7 wickets	36	lost	1st		ODI v Australia	Adelaide	7 Mar 1992	investigate this query
+Sri Lanka	lost	106 runs		lost	2nd		ODI v England	Ballarat	9 Mar 1992	investigate this query
+Sri Lanka	lost	91 runs		won	2nd		ODI v West Indies	Berri	13 Mar 1992	investigate this query
+Sri Lanka	lost	4 wickets	5	won	1st		ODI v Pakistan	Perth	15 Mar 1992	investigate this query
+Sri Lanka	won	4 wickets	4	won	2nd		ODI v Australia	Colombo (PSS)	15 Aug 1992	investigate this query
+Sri Lanka	lost	16 runs		won	2nd		Test v Australia	Colombo (SSC)	17 Aug 1992	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Australia	Colombo (RPS)	28 Aug 1992	investigate this query
+Sri Lanka	won	5 wickets	7	won	2nd		ODI v Australia	Colombo (RPS)	4 Sep 1992	investigate this query
+Sri Lanka	lost	5 wickets	13	lost	1st		ODI v Australia	Colombo (RPS)	5 Sep 1992	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v Australia	Moratuwa	8 Sep 1992	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v New Zealand	Moratuwa	27 Nov 1992	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v New Zealand	Colombo (RPS)	4 Dec 1992	investigate this query
+Sri Lanka	won	9 wickets		won	1st		Test v New Zealand	Colombo (SSC)	6 Dec 1992	investigate this query
+Sri Lanka	won	8 wickets	74	won	2nd		ODI v New Zealand	Colombo (PSS)	12 Dec 1992	investigate this query
+Sri Lanka	won	31 runs		lost	1st		ODI v New Zealand	Colombo (RPS)	13 Dec 1992	investigate this query
+Sri Lanka	lost	8 wickets	34	lost	1st		ODI v Pakistan	Sharjah	2 Feb 1993	investigate this query
+Sri Lanka	won	30 runs		won	1st		ODI v Zimbabwe	Sharjah	3 Feb 1993	investigate this query
+Sri Lanka	lost	114 runs		won	2nd		ODI v Pakistan	Sharjah	4 Feb 1993	investigate this query
+Sri Lanka	won	32 runs		won	1st		ODI v England	Colombo (RPS)	10 Mar 1993	investigate this query
+Sri Lanka	won	5 wickets		lost	2nd		Test v England	Colombo (SSC)	13 Mar 1993	investigate this query
+Sri Lanka	won	8 wickets	88	won	2nd		ODI v England	Moratuwa	20 Mar 1993	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v India	Kandy	17 Jul 1993	investigate this query
+Sri Lanka	lost	1 runs		won	2nd		ODI v India	Colombo (RPS)	25 Jul 1993	investigate this query
+Sri Lanka	lost	235 runs		lost	2nd		Test v India	Colombo (SSC)	27 Jul 1993	investigate this query
+Sri Lanka	draw	-		won	1st		Test v India	Colombo (PSS)	4 Aug 1993	investigate this query
+Sri Lanka	won	8 runs		lost	1st		ODI v India	Colombo (RPS)	12 Aug 1993	investigate this query
+Sri Lanka	won	4 wickets	3	lost	2nd		ODI v India	Moratuwa	14 Aug 1993	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v South Africa	Kandy	22 Aug 1993	investigate this query
+Sri Lanka	draw	-		won	1st		Test v South Africa	Moratuwa	25 Aug 1993	investigate this query
+Sri Lanka	lost	124 runs		lost	2nd		ODI v South Africa	Colombo (RPS)	2 Sep 1993	investigate this query
+Sri Lanka	won	44 runs		won	1st		ODI v South Africa	Colombo (RPS)	4 Sep 1993	investigate this query
+Sri Lanka	lost	inns & 208 runs		won	1st		Test v South Africa	Colombo (SSC)	6 Sep 1993	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v South Africa	Colombo (PSS)	14 Sep 1993	investigate this query
+Sri Lanka	lost	8 wickets	24	lost	1st		ODI v West Indies	Sharjah	28 Oct 1993	investigate this query
+Sri Lanka	lost	114 runs		won	2nd		ODI v Pakistan	Sharjah	30 Oct 1993	investigate this query
+Sri Lanka	lost	2 wickets	2	won	1st		ODI v Pakistan	Sharjah	2 Nov 1993	investigate this query
+Sri Lanka	lost	8 wickets	68	won	1st		ODI v West Indies	Sharjah	3 Nov 1993	investigate this query
+Sri Lanka	lost	7 wickets	32	lost	1st		ODI v India	Kanpur	7 Nov 1993	investigate this query
+Sri Lanka	lost	46 runs		won	2nd		ODI v West Indies	Mumbai	9 Nov 1993	investigate this query
+Sri Lanka	won	55 runs		lost	1st		ODI v Zimbabwe	Patna	15 Nov 1993	investigate this query
+Sri Lanka	lost	78 runs		won	2nd		ODI v South Africa	Guwahati	19 Nov 1993	investigate this query
+Sri Lanka	lost	7 wickets	49	lost	1st		ODI v West Indies	Kolkata	25 Nov 1993	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v West Indies	Colombo (PSS)	1 Dec 1993	investigate this query
+Sri Lanka	draw	-		won	1st		Test v West Indies	Moratuwa	8 Dec 1993	investigate this query
+Sri Lanka	won	3 wickets	5	lost	2nd		ODI v West Indies	Colombo (RPS)	16 Dec 1993	investigate this query
+Sri Lanka	lost	6 wickets	5	won	1st		ODI v West Indies	Colombo (SSC)	18 Dec 1993	investigate this query
+Sri Lanka	lost	inns & 119 runs		lost	2nd		Test v India	Lucknow	18 Jan 1994	investigate this query
+Sri Lanka	lost	inns & 95 runs		lost	2nd		Test v India	Bangalore	26 Jan 1994	investigate this query
+Sri Lanka	lost	inns & 17 runs		won	1st		Test v India	Ahmedabad	8 Feb 1994	investigate this query
+Sri Lanka	lost	8 runs		won	2nd		ODI v India	Rajkot	15 Feb 1994	investigate this query
+Sri Lanka	lost	7 wickets	10	lost	1st		ODI v India	Hyderabad (Deccan)	18 Feb 1994	investigate this query
+Sri Lanka	won	4 wickets	1	won	2nd		ODI v India	Jalandhar	20 Feb 1994	investigate this query
+Sri Lanka	lost	9 wickets	79	won	1st		ODI v Australia	Sharjah	14 Apr 1994	investigate this query
+Sri Lanka	lost	2 runs		won	2nd		ODI v New Zealand	Sharjah	18 Apr 1994	investigate this query
+Sri Lanka	lost	9 wickets	70	won	1st		ODI v Pakistan	Colombo (RPS)	3 Aug 1994	investigate this query
+Sri Lanka	won	7 wickets	16	won	2nd		ODI v Pakistan	Colombo (RPS)	6 Aug 1994	investigate this query
+Sri Lanka	lost	19 runs		won	2nd		ODI v Pakistan	Colombo (SSC)	7 Aug 1994	investigate this query
+Sri Lanka	lost	301 runs		lost	2nd		Test v Pakistan	Colombo (PSS)	9 Aug 1994	investigate this query
+Sri Lanka	canc	-		-	-		Test v Pakistan	Colombo (SSC)	18 Aug 1994	investigate this query
+Sri Lanka	lost	5 wickets	50	lost	1st		ODI v Pakistan	Colombo (SSC)	22 Aug 1994	investigate this query
+Sri Lanka	lost	27 runs		won	2nd		ODI v Pakistan	Colombo (RPS)	24 Aug 1994	investigate this query
+Sri Lanka	lost	inns & 52 runs		lost	1st		Test v Pakistan	Kandy	26 Aug 1994	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v India	Colombo (RPS)	4 Sep 1994	investigate this query
+Sri Lanka	won	7 wickets	4	won	2nd		ODI v India	Colombo (RPS)	5 Sep 1994	investigate this query
+Sri Lanka	won	7 wickets	16	won	2nd		ODI v Pakistan	Colombo (SSC)	11 Sep 1994	investigate this query
+Sri Lanka	won	6 wickets	8	won	2nd		ODI v Australia	Colombo (PSS)	13 Sep 1994	investigate this query
+Sri Lanka	lost	6 wickets	8	lost	1st		ODI v India	Colombo (SSC)	17 Sep 1994	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Zimbabwe	Harare	11 Oct 1994	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v Zimbabwe	Bulawayo	20 Oct 1994	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Zimbabwe	Harare	26 Oct 1994	investigate this query
+Sri Lanka	won	56 runs		lost	1st		ODI v Zimbabwe	Harare	3 Nov 1994	investigate this query
+Sri Lanka	lost	2 runs		lost	2nd		ODI v Zimbabwe	Harare	5 Nov 1994	investigate this query
+Sri Lanka	won	191 runs		won	1st		ODI v Zimbabwe	Harare	6 Nov 1994	investigate this query
+Sri Lanka	lost	6 wickets	13	won	1st		ODI v Pakistan	Durban	2 Dec 1994	investigate this query
+Sri Lanka	lost	12 runs		won	2nd		ODI v Pakistan	Centurion	4 Dec 1994	investigate this query
+Sri Lanka	n/r	-		won	1st		ODI v New Zealand	Bloemfontein	8 Dec 1994	investigate this query
+Sri Lanka	won	35 runs		won	1st		ODI v South Africa	Bloemfontein	15 Dec 1994	investigate this query
+Sri Lanka	won	5 wickets	17	lost	2nd		ODI v New Zealand	East London	18 Dec 1994	investigate this query
+Sri Lanka	lost	44 runs		lost	2nd		ODI v South Africa	Port Elizabeth	21 Dec 1994	investigate this query
+Sri Lanka	won	241 runs		lost	1st		Test v New Zealand	Napier	11 Mar 1995	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v New Zealand	Dunedin	18 Mar 1995	investigate this query
+Sri Lanka	lost	33 runs		won	2nd		ODI v New Zealand	Christchurch	26 Mar 1995	investigate this query
+Sri Lanka	lost	57 runs		lost	2nd		ODI v New Zealand	Hamilton	29 Mar 1995	investigate this query
+Sri Lanka	won	51 runs		won	1st		ODI v New Zealand	Auckland	1 Apr 1995	investigate this query
+Sri Lanka	won	107 runs		lost	1st		ODI v Bangladesh	Sharjah	6 Apr 1995	investigate this query
+Sri Lanka	lost	8 wickets	101	won	1st		ODI v India	Sharjah	9 Apr 1995	investigate this query
+Sri Lanka	won	5 wickets	115	won	2nd		ODI v Pakistan	Sharjah	11 Apr 1995	investigate this query
+Sri Lanka	lost	8 wickets	49	lost	1st		ODI v India	Sharjah	14 Apr 1995	investigate this query
+Sri Lanka	lost	inns & 40 runs		lost	2nd		Test v Pakistan	Peshawar	8 Sep 1995	investigate this query
+Sri Lanka	won	42 runs		lost	1st		Test v Pakistan	Faisalabad	15 Sep 1995	investigate this query
+Sri Lanka	won	144 runs		won	1st		Test v Pakistan	Sialkot	22 Sep 1995	investigate this query
+Sri Lanka	lost	9 wickets	36	lost	1st		ODI v Pakistan	Gujranwala	29 Sep 1995	investigate this query
+Sri Lanka	won	49 runs		lost	1st		ODI v Pakistan	Faisalabad	1 Oct 1995	investigate this query
+Sri Lanka	won	4 wickets	2	won	2nd		ODI v Pakistan	Rawalpindi	3 Oct 1995	investigate this query
+Sri Lanka	won	6 runs		lost	1st		ODI v West Indies	Sharjah	11 Oct 1995	investigate this query
+Sri Lanka	lost	82 runs		lost	2nd		ODI v Pakistan	Sharjah	12 Oct 1995	investigate this query
+Sri Lanka	lost	4 runs		lost	2nd		ODI v West Indies	Sharjah	16 Oct 1995	investigate this query
+Sri Lanka	won	8 wickets	139	lost	2nd		ODI v Pakistan	Sharjah	17 Oct 1995	investigate this query
+Sri Lanka	won	50 runs		lost	1st		ODI v West Indies	Sharjah	20 Oct 1995	investigate this query
+Sri Lanka	lost	inns & 36 runs		won	1st		Test v Australia	Perth	8 Dec 1995	investigate this query
+Sri Lanka	won	4 wickets	30	won	2nd		ODI v West Indies	Adelaide	15 Dec 1995	investigate this query
+Sri Lanka	lost	5 wickets	2	won	1st		ODI v Australia	Sydney	21 Dec 1995	investigate this query
+Sri Lanka	lost	10 wickets		won	2nd		Test v Australia	Melbourne	26 Dec 1995	investigate this query
+Sri Lanka	lost	70 runs		won	2nd		ODI v West Indies	Hobart	3 Jan 1996	investigate this query
+Sri Lanka	lost	7 wickets	143	won	1st		ODI v West Indies	Brisbane	5 Jan 1996	investigate this query
+Sri Lanka	won	3 wickets	15	lost	2nd		ODI v Australia	Melbourne	9 Jan 1996	investigate this query
+Sri Lanka	lost	83 runs		lost	2nd		ODI v Australia	Perth	12 Jan 1996	investigate this query
+Sri Lanka	won	16 runs		lost	1st		ODI v West Indies	Perth	14 Jan 1996	investigate this query
+Sri Lanka	won	3 wickets	2	lost	2nd		ODI v Australia	Melbourne	16 Jan 1996	investigate this query
+Sri Lanka	lost	18 runs		won	2nd		ODI v Australia	Melbourne	18 Jan 1996	investigate this query
+Sri Lanka	lost	9 runs		won	2nd		ODI v Australia	Sydney	20 Jan 1996	investigate this query
+Sri Lanka	lost	148 runs		lost	2nd		Test v Australia	Adelaide	25 Jan 1996	investigate this query
+Sri Lanka	won			-	-		ODI v Australia	Colombo (RPS)	17 Feb 1996	investigate this query
+Sri Lanka	won	6 wickets	78	lost	2nd		ODI v Zimbabwe	Colombo (SSC)	21 Feb 1996	investigate this query
+Sri Lanka	won			-	-		ODI v West Indies	Colombo (RPS)	25 Feb 1996	investigate this query
+Sri Lanka	won	6 wickets	8	won	2nd		ODI v India	Delhi	2 Mar 1996	investigate this query
+Sri Lanka	won	144 runs		lost	1st		ODI v Kenya	Kandy	6 Mar 1996	investigate this query
+Sri Lanka	won	5 wickets	56	lost	2nd		ODI v England	Faisalabad	9 Mar 1996	investigate this query
+Sri Lanka	won			lost	1st		ODI v India	Kolkata	13 Mar 1996	investigate this query
+Sri Lanka	won	7 wickets	22	won	2nd		ODI v Australia	Lahore	17 Mar 1996	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v Pakistan	Singapore	1 Apr 1996	investigate this query
+Sri Lanka	won	34 runs		lost	1st		ODI v Pakistan	Singapore	2 Apr 1996	investigate this query
+Sri Lanka	lost	12 runs		lost	2nd		ODI v India	Singapore	3 Apr 1996	investigate this query
+Sri Lanka	lost	43 runs		won	2nd		ODI v Pakistan	Singapore	7 Apr 1996	investigate this query
+Sri Lanka	won	35 runs		won	1st		ODI v West Indies	Port of Spain	13 Apr 1996	investigate this query
+Sri Lanka	won	9 wickets	34	lost	2nd		ODI v India	Colombo (RPS)	28 Aug 1996	investigate this query
+Sri Lanka	won	4 wickets	25	lost	2nd		ODI v Australia	Colombo (RPS)	30 Aug 1996	investigate this query
+Sri Lanka	won	6 wickets	18	won	2nd		ODI v Zimbabwe	Colombo (SSC)	3 Sep 1996	investigate this query
+Sri Lanka	won	50 runs		lost	1st		ODI v Australia	Colombo (RPS)	7 Sep 1996	investigate this query
+Sri Lanka	won	inns & 77 runs		won	1st		Test v Zimbabwe	Colombo (RPS)	11 Sep 1996	investigate this query
+Sri Lanka	won	10 wickets		lost	2nd		Test v Zimbabwe	Colombo (SSC)	18 Sep 1996	investigate this query
+Sri Lanka	won	7 wickets	116	won	2nd		ODI v Kenya	Nairobi (Gym)	28 Sep 1996	investigate this query
+Sri Lanka	won	2 wickets	56	lost	2nd		ODI v South Africa	Nairobi (Club)	1 Oct 1996	investigate this query
+Sri Lanka	lost	82 runs		won	2nd		ODI v Pakistan	Nairobi (Gym)	4 Oct 1996	investigate this query
+Sri Lanka	lost	29 runs		won	2nd		ODI v New Zealand	Sharjah	7 Nov 1996	investigate this query
+Sri Lanka	won	75 runs		lost	1st		ODI v Pakistan	Sharjah	8 Nov 1996	investigate this query
+Sri Lanka	tied	-		lost	2nd		ODI v New Zealand	Sharjah	11 Nov 1996	investigate this query
+Sri Lanka	lost	8 wickets	20	won	1st		ODI v Pakistan	Sharjah	12 Nov 1996	investigate this query
+Sri Lanka	lost	inns & 36 runs		won	2nd		Test v New Zealand	Dunedin	7 Mar 1997	investigate this query
+Sri Lanka	lost	120 runs		lost	2nd		Test v New Zealand	Hamilton	14 Mar 1997	investigate this query
+Sri Lanka	aban	-		-	-		ODI v New Zealand	Auckland	22 Mar 1997	investigate this query
+Sri Lanka	won	6 wickets	85	won	2nd		ODI v New Zealand	Christchurch	25 Mar 1997	investigate this query
+Sri Lanka	lost	69 runs		won	2nd		ODI v New Zealand	Wellington	27 Mar 1997	investigate this query
+Sri Lanka	won	7 wickets	26	won	2nd		ODI v Zimbabwe	Sharjah	3 Apr 1997	investigate this query
+Sri Lanka	won	19 runs		lost	1st		ODI v Pakistan	Sharjah	4 Apr 1997	investigate this query
+Sri Lanka	won	51 runs		won	1st		ODI v Pakistan	Sharjah	7 Apr 1997	investigate this query
+Sri Lanka	lost	50 runs		lost	2nd		ODI v Zimbabwe	Sharjah	8 Apr 1997	investigate this query
+Sri Lanka	won	4 wickets	4	lost	2nd		ODI v Pakistan	Sharjah	11 Apr 1997	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Colombo (RPS)	19 Apr 1997	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Colombo (SSC)	26 Apr 1997	investigate this query
+Sri Lanka	lost	30 runs		lost	2nd		ODI v Pakistan	Gwalior	12 May 1997	investigate this query
+Sri Lanka	won	5 wickets	55	lost	2nd		ODI v India	Mumbai	17 May 1997	investigate this query
+Sri Lanka	won	52 runs		won	1st		ODI v New Zealand	Hyderabad (Deccan)	20 May 1997	investigate this query
+Sri Lanka	won	115 runs		won	1st		ODI v Pakistan	Mohali	24 May 1997	investigate this query
+Sri Lanka	won	85 runs		won	1st		ODI v Pakistan	Kolkata	27 May 1997	investigate this query
+Sri Lanka	lost	35 runs		won	2nd		ODI v West Indies	Port of Spain	6 Jun 1997	investigate this query
+Sri Lanka	lost	6 wickets		lost	1st		Test v West Indies	St John's	13 Jun 1997	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v West Indies	Kingstown	20 Jun 1997	investigate this query
+Sri Lanka	won	15 runs		lost	1st		ODI v Pakistan	Colombo (RPS)	14 Jul 1997	investigate this query
+Sri Lanka	won	6 wickets	32	won	2nd		ODI v India	Colombo (RPS)	18 Jul 1997	investigate this query
+Sri Lanka	won	103 runs		lost	1st		ODI v Bangladesh	Colombo (SSC)	22 Jul 1997	investigate this query
+Sri Lanka	won	8 wickets	79	lost	2nd		ODI v India	Colombo (RPS)	26 Jul 1997	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Colombo (RPS)	2 Aug 1997	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v India	Colombo (SSC)	9 Aug 1997	investigate this query
+Sri Lanka	won	2 runs		lost	1st		ODI v India	Colombo (RPS)	17 Aug 1997	investigate this query
+Sri Lanka	won	7 wickets	49	won	2nd		ODI v India	Colombo (RPS)	20 Aug 1997	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v India	Colombo (SSC)	23 Aug 1997	investigate this query
+Sri Lanka	won	9 runs		lost	1st		ODI v India	Colombo (SSC)	24 Aug 1997	investigate this query
+Sri Lanka	won	7 wickets	62	won	2nd		ODI v West Indies	Lahore	1 Nov 1997	investigate this query
+Sri Lanka	won	8 wickets	60	won	2nd		ODI v Pakistan	Lahore	5 Nov 1997	investigate this query
+Sri Lanka	lost	66 runs		won	2nd		ODI v South Africa	Lahore	6 Nov 1997	investigate this query
+Sri Lanka	lost	4 wickets	56	lost	1st		ODI v South Africa	Lahore	8 Nov 1997	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v India	Mohali	19 Nov 1997	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Nagpur	26 Nov 1997	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v India	Mumbai	3 Dec 1997	investigate this query
+Sri Lanka	lost	7 wickets	31	lost	1st		ODI v India	Guwahati	22 Dec 1997	investigate this query
+Sri Lanka	n/r	-		won	1st		ODI v India	Indore	25 Dec 1997	investigate this query
+Sri Lanka	won	5 wickets	10	lost	2nd		ODI v India	Margao	28 Dec 1997	investigate this query
+Sri Lanka	won	8 wickets		won	1st		Test v Zimbabwe	Kandy	7 Jan 1998	investigate this query
+Sri Lanka	won	5 wickets		lost	2nd		Test v Zimbabwe	Colombo (SSC)	14 Jan 1998	investigate this query
+Sri Lanka	won	5 wickets	28	won	2nd		ODI v Zimbabwe	Colombo (SSC)	22 Jan 1998	investigate this query
+Sri Lanka	won	5 wickets	10	lost	2nd		ODI v Zimbabwe	Colombo (RPS)	24 Jan 1998	investigate this query
+Sri Lanka	won	4 wickets	6	lost	2nd		ODI v Zimbabwe	Colombo (SSC)	26 Jan 1998	investigate this query
+Sri Lanka	lost	70 runs		lost	2nd		Test v South Africa	Cape Town	19 Mar 1998	investigate this query
+Sri Lanka	lost	6 wickets		won	1st		Test v South Africa	Centurion	27 Mar 1998	investigate this query
+Sri Lanka	lost	57 runs		lost	2nd		ODI v South Africa	Johannesburg	5 Apr 1998	investigate this query
+Sri Lanka	lost	4 wickets	12	won	1st		ODI v Pakistan	Kimberley	7 Apr 1998	investigate this query
+Sri Lanka	lost	110 runs		lost	2nd		ODI v Pakistan	Paarl	9 Apr 1998	investigate this query
+Sri Lanka	won	6 wickets	20	lost	2nd		ODI v South Africa	Port Elizabeth	13 Apr 1998	investigate this query
+Sri Lanka	won	115 runs		lost	1st		ODI v Pakistan	Benoni	15 Apr 1998	investigate this query
+Sri Lanka	lost	5 wickets	141	lost	1st		ODI v South Africa	Bloemfontein	19 Apr 1998	investigate this query
+Sri Lanka	lost	167 runs		lost	2nd		Test v New Zealand	Colombo (RPS)	27 May 1998	investigate this query
+Sri Lanka	won	inns & 16 runs		lost	2nd		Test v New Zealand	Galle	3 Jun 1998	investigate this query
+Sri Lanka	won	164 runs		won	1st		Test v New Zealand	Colombo (SSC)	10 Jun 1998	investigate this query
+Sri Lanka	lost	8 wickets	38	won	1st		ODI v India	Colombo (RPS)	19 Jun 1998	investigate this query
+Sri Lanka	won	7 wickets	60	lost	2nd		ODI v New Zealand	Colombo (RPS)	21 Jun 1998	investigate this query
+Sri Lanka	aban	-		-	-		ODI v India	Galle	25 Jun 1998	investigate this query
+Sri Lanka	aban	-		-	-		ODI v New Zealand	Galle	27 Jun 1998	investigate this query
+Sri Lanka	won	8 runs		lost	1st		ODI v India	Colombo (SSC)	1 Jul 1998	investigate this query
+Sri Lanka	won	87 runs		lost	1st		ODI v New Zealand	Colombo (SSC)	5 Jul 1998	investigate this query
+Sri Lanka	lost	6 runs		lost	2nd		ODI v India	Colombo (RPS)	7 Jul 1998	investigate this query
+Sri Lanka	won	57 runs		lost	1st		ODI v South Africa	Nottingham	14 Aug 1998	investigate this query
+Sri Lanka	lost	36 runs		won	2nd		ODI v England	Lord's	16 Aug 1998	investigate this query
+Sri Lanka	won	5 wickets	17	lost	2nd		ODI v England	Lord's	20 Aug 1998	investigate this query
+Sri Lanka	won	10 wickets		won	2nd		Test v England	The Oval	27 Aug 1998	investigate this query
+Sri Lanka	won	5 wickets	51	won	2nd		ODI v New Zealand	Dhaka	26 Oct 1998	investigate this query
+Sri Lanka	lost	92 runs		won	2nd		ODI v South Africa	Dhaka	30 Oct 1998	investigate this query
+Sri Lanka	lost	3 wickets	5	lost	1st		ODI v India	Sharjah	6 Nov 1998	investigate this query
+Sri Lanka	lost	7 wickets	23	lost	1st		ODI v Zimbabwe	Sharjah	7 Nov 1998	investigate this query
+Sri Lanka	lost	81 runs		won	2nd		ODI v India	Sharjah	9 Nov 1998	investigate this query
+Sri Lanka	lost	24 runs		won	2nd		ODI v Zimbabwe	Sharjah	10 Nov 1998	investigate this query
+Sri Lanka	lost	4 wickets	3	won	1st		ODI v England	Brisbane	11 Jan 1999	investigate this query
+Sri Lanka	lost	8 wickets	23	won	1st		ODI v Australia	Sydney	13 Jan 1999	investigate this query
+Sri Lanka	lost	7 wickets	28	won	1st		ODI v England	Melbourne	19 Jan 1999	investigate this query
+Sri Lanka	won	3 wickets	3	won	2nd		ODI v Australia	Hobart	21 Jan 1999	investigate this query
+Sri Lanka	won	1 wickets	2	won	2nd		ODI v England	Adelaide	23 Jan 1999	investigate this query
+Sri Lanka	lost	80 runs		won	2nd		ODI v Australia	Adelaide	24 Jan 1999	investigate this query
+Sri Lanka	lost	128 runs		won	2nd		ODI v England	Perth	29 Jan 1999	investigate this query
+Sri Lanka	lost	45 runs		won	2nd		ODI v Australia	Perth	31 Jan 1999	investigate this query
+Sri Lanka	won	11 runs		lost	1st		ODI v England	Sydney	3 Feb 1999	investigate this query
+Sri Lanka	lost	43 runs		lost	2nd		ODI v Australia	Melbourne	7 Feb 1999	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v India	Colombo (SSC)	24 Feb 1999	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v Pakistan	Lahore	4 Mar 1999	investigate this query
+Sri Lanka	lost	inns & 175 runs		won	1st		Test v Pakistan	Dhaka	12 Mar 1999	investigate this query
+Sri Lanka	lost	9 runs		lost	2nd		ODI v Pakistan	Jamshedpur	19 Mar 1999	investigate this query
+Sri Lanka	lost	80 runs		won	2nd		ODI v India	Nagpur	22 Mar 1999	investigate this query
+Sri Lanka	won	12 runs		won	1st		ODI v Pakistan	Visakhapatnam	27 Mar 1999	investigate this query
+Sri Lanka	lost	51 runs		won	2nd		ODI v India	Pune	30 Mar 1999	investigate this query
+Sri Lanka	lost	8 wickets	19	lost	1st		ODI v England	Lord's	14 May 1999	investigate this query
+Sri Lanka	lost	89 runs		won	2nd		ODI v South Africa	Northampton	19 May 1999	investigate this query
+Sri Lanka	won	4 wickets	24	won	2nd		ODI v Zimbabwe	Worcester	22 May 1999	investigate this query
+Sri Lanka	lost	157 runs		won	2nd		ODI v India	Taunton	26 May 1999	investigate this query
+Sri Lanka	won	45 runs		lost	1st		ODI v Kenya	Southampton	30 May 1999	investigate this query
+Sri Lanka	lost	50 runs		won	2nd		ODI v Australia	Galle	22 Aug 1999	investigate this query
+Sri Lanka	won	7 wickets	20	lost	2nd		ODI v India	Colombo (RPS)	25 Aug 1999	investigate this query
+Sri Lanka	lost	27 runs		lost	2nd		ODI v Australia	Colombo (RPS)	26 Aug 1999	investigate this query
+Sri Lanka	lost	23 runs		won	2nd		ODI v India	Colombo (SSC)	29 Aug 1999	investigate this query
+Sri Lanka	won	8 wickets	63	lost	2nd		ODI v Australia	Colombo (RPS)	31 Aug 1999	investigate this query
+Sri Lanka	won	6 wickets		lost	2nd		Test v Australia	Kandy	9 Sep 1999	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Australia	Galle	22 Sep 1999	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v Australia	Colombo (SSC)	30 Sep 1999	investigate this query
+Sri Lanka	lost	3 wickets	4	won	1st		ODI v West Indies	Sharjah	13 Oct 1999	investigate this query
+Sri Lanka	tied	-		lost	2nd		ODI v Pakistan	Sharjah	15 Oct 1999	investigate this query
+Sri Lanka	won	9 wickets	132	lost	2nd		ODI v West Indies	Sharjah	17 Oct 1999	investigate this query
+Sri Lanka	lost	118 runs		lost	2nd		ODI v Pakistan	Sharjah	18 Oct 1999	investigate this query
+Sri Lanka	lost	88 runs		lost	2nd		ODI v Pakistan	Sharjah	22 Oct 1999	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Zimbabwe	Bulawayo	18 Nov 1999	investigate this query
+Sri Lanka	won	6 wickets		won	2nd		Test v Zimbabwe	Harare	26 Nov 1999	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Zimbabwe	Harare	4 Dec 1999	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v Zimbabwe	Bulawayo	11 Dec 1999	investigate this query
+Sri Lanka	won	13 runs		lost	1st		ODI v Zimbabwe	Bulawayo	12 Dec 1999	investigate this query
+Sri Lanka	won	98 runs		lost	1st		ODI v Zimbabwe	Harare	15 Dec 1999	investigate this query
+Sri Lanka	won	6 wickets	32	lost	2nd		ODI v Zimbabwe	Harare	18 Dec 1999	investigate this query
+Sri Lanka	lost	6 wickets	22	won	1st		ODI v Zimbabwe	Harare	19 Dec 1999	investigate this query
+Sri Lanka	won	29 runs		lost	1st		ODI v Pakistan	Karachi	13 Feb 2000	investigate this query
+Sri Lanka	won	34 runs		lost	1st		ODI v Pakistan	Gujranwala	16 Feb 2000	investigate this query
+Sri Lanka	won	104 runs		lost	1st		ODI v Pakistan	Lahore	19 Feb 2000	investigate this query
+Sri Lanka	won	2 wickets		won	2nd		Test v Pakistan	Rawalpindi	26 Feb 2000	investigate this query
+Sri Lanka	won	57 runs		lost	1st		Test v Pakistan	Peshawar	5 Mar 2000	investigate this query
+Sri Lanka	lost	222 runs		won	2nd		Test v Pakistan	Karachi	12 Mar 2000	investigate this query
+Sri Lanka	won	9 wickets	116	won	2nd		ODI v Bangladesh	Dhaka	29 May 2000	investigate this query
+Sri Lanka	won	71 runs		won	1st		ODI v India	Dhaka	1 Jun 2000	investigate this query
+Sri Lanka	lost	7 wickets	10	won	1st		ODI v Pakistan	Dhaka	5 Jun 2000	investigate this query
+Sri Lanka	lost	39 runs		lost	2nd		ODI v Pakistan	Dhaka	7 Jun 2000	investigate this query
+Sri Lanka	lost	5 wickets		won	1st		Test v Pakistan	Colombo (SSC)	14 Jun 2000	investigate this query
+Sri Lanka	lost	inns & 163 runs		won	1st		Test v Pakistan	Galle	21 Jun 2000	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Kandy	28 Jun 2000	investigate this query
+Sri Lanka	won	5 wickets	45	won	2nd		ODI v Pakistan	Galle	5 Jul 2000	investigate this query
+Sri Lanka	won	37 runs		lost	1st		ODI v South Africa	Galle	6 Jul 2000	investigate this query
+Sri Lanka	won	6 wickets	4	lost	2nd		ODI v Pakistan	Colombo (RPS)	9 Jul 2000	investigate this query
+Sri Lanka	won	8 wickets	135	won	2nd		ODI v South Africa	Colombo (SSC)	11 Jul 2000	investigate this query
+Sri Lanka	won	30 runs		won	1st		ODI v South Africa	Colombo (RPS)	14 Jul 2000	investigate this query
+Sri Lanka	won	inns & 15 runs		won	1st		Test v South Africa	Galle	20 Jul 2000	investigate this query
+Sri Lanka	lost	7 runs		won	2nd		Test v South Africa	Kandy	30 Jul 2000	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v South Africa	Colombo (SSC)	6 Aug 2000	investigate this query
+Sri Lanka	won	108 runs		lost	1st		ODI v West Indies	Nairobi (Gym)	4 Oct 2000	investigate this query
+Sri Lanka	lost	9 wickets	40	won	1st		ODI v Pakistan	Nairobi (Gym)	8 Oct 2000	investigate this query
+Sri Lanka	won	5 wickets	37	lost	2nd		ODI v India	Sharjah	20 Oct 2000	investigate this query
+Sri Lanka	won	7 wickets	18	won	2nd		ODI v Zimbabwe	Sharjah	21 Oct 2000	investigate this query
+Sri Lanka	won	123 runs		lost	1st		ODI v Zimbabwe	Sharjah	25 Oct 2000	investigate this query
+Sri Lanka	won	68 runs		lost	1st		ODI v India	Sharjah	27 Oct 2000	investigate this query
+Sri Lanka	won	245 runs		won	1st		ODI v India	Sharjah	29 Oct 2000	investigate this query
+Sri Lanka	lost	4 wickets	16	won	1st		ODI v South Africa	Port Elizabeth	15 Dec 2000	investigate this query
+Sri Lanka	lost	95 runs		lost	2nd		ODI v South Africa	East London	17 Dec 2000	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v South Africa	Durban	26 Dec 2000	investigate this query
+Sri Lanka	lost	inns & 229 runs		won	1st		Test v South Africa	Cape Town	2 Jan 2001	investigate this query
+Sri Lanka	lost	8 wickets	7	won	1st		ODI v South Africa	Paarl	9 Jan 2001	investigate this query
+Sri Lanka	lost	99 runs		lost	2nd		ODI v South Africa	Cape Town	11 Jan 2001	investigate this query
+Sri Lanka	lost	5 wickets	48	lost	1st		ODI v South Africa	Bloemfontein	14 Jan 2001	investigate this query
+Sri Lanka	won	4 runs		lost	1st		ODI v South Africa	Johannesburg	17 Jan 2001	investigate this query
+Sri Lanka	lost	inns & 7 runs		won	2nd		Test v South Africa	Centurion	20 Jan 2001	investigate this query
+Sri Lanka	won	61 runs		won	1st		ODI v New Zealand	Napier	31 Jan 2001	investigate this query
+Sri Lanka	won	3 wickets	3	lost	2nd		ODI v New Zealand	Wellington	3 Feb 2001	investigate this query
+Sri Lanka	won	9 wickets	103	won	2nd		ODI v New Zealand	Auckland	6 Feb 2001	investigate this query
+Sri Lanka	won	3 runs		won	2nd		ODI v New Zealand	Hamilton	8 Feb 2001	investigate this query
+Sri Lanka	lost	13 runs		won	2nd		ODI v New Zealand	Christchurch	11 Feb 2001	investigate this query
+Sri Lanka	won	inns & 28 runs		won	1st		Test v England	Galle	22 Feb 2001	investigate this query
+Sri Lanka	lost	3 wickets		won	1st		Test v England	Kandy	7 Mar 2001	investigate this query
+Sri Lanka	lost	4 wickets		won	1st		Test v England	Colombo (SSC)	15 Mar 2001	investigate this query
+Sri Lanka	won	5 wickets	55	lost	2nd		ODI v England	Dambulla	23 Mar 2001	investigate this query
+Sri Lanka	won	66 runs		won	1st		ODI v England	Colombo (RPS)	25 Mar 2001	investigate this query
+Sri Lanka	won	10 wickets	97	won	2nd		ODI v England	Colombo (SSC)	27 Mar 2001	investigate this query
+Sri Lanka	lost	16 runs		lost	2nd		ODI v Pakistan	Sharjah	8 Apr 2001	investigate this query
+Sri Lanka	won	106 runs		won	1st		ODI v New Zealand	Sharjah	10 Apr 2001	investigate this query
+Sri Lanka	lost	28 runs		lost	2nd		ODI v Pakistan	Sharjah	13 Apr 2001	investigate this query
+Sri Lanka	lost	79 runs		won	2nd		ODI v New Zealand	Sharjah	17 Apr 2001	investigate this query
+Sri Lanka	won	77 runs		won	1st		ODI v Pakistan	Sharjah	20 Apr 2001	investigate this query
+Sri Lanka	won	16 runs		won	1st		ODI v New Zealand	Colombo (RPS)	18 Jul 2001	investigate this query
+Sri Lanka	won	6 runs		won	1st		ODI v India	Colombo (RPS)	22 Jul 2001	investigate this query
+Sri Lanka	won	5 wickets	9	lost	2nd		ODI v New Zealand	Colombo (RPS)	25 Jul 2001	investigate this query
+Sri Lanka	lost	7 wickets	26	won	1st		ODI v India	Colombo (RPS)	28 Jul 2001	investigate this query
+Sri Lanka	won	106 runs		lost	1st		ODI v New Zealand	Colombo (SSC)	31 Jul 2001	investigate this query
+Sri Lanka	lost	46 runs		won	2nd		ODI v India	Colombo (SSC)	1 Aug 2001	investigate this query
+Sri Lanka	won	121 runs		won	1st		ODI v India	Colombo (RPS)	5 Aug 2001	investigate this query
+Sri Lanka	won	10 wickets		won	2nd		Test v India	Galle	14 Aug 2001	investigate this query
+Sri Lanka	lost	7 wickets		lost	1st		Test v India	Kandy	22 Aug 2001	investigate this query
+Sri Lanka	won	inns & 77 runs		lost	2nd		Test v India	Colombo (SSC)	29 Aug 2001	investigate this query
+Sri Lanka	won	inns & 137 runs		won	2nd		Test v Bangladesh	Colombo (SSC)	6 Sep 2001	investigate this query
+Sri Lanka	won	63 runs		won	1st		ODI v Zimbabwe	Sharjah	26 Oct 2001	investigate this query
+Sri Lanka	won	7 wickets	71	lost	2nd		ODI v Pakistan	Sharjah	27 Oct 2001	investigate this query
+Sri Lanka	won	79 runs		won	1st		ODI v Zimbabwe	Sharjah	30 Oct 2001	investigate this query
+Sri Lanka	lost	7 wickets	4	won	1st		ODI v Pakistan	Sharjah	2 Nov 2001	investigate this query
+Sri Lanka	lost	5 wickets	38	won	1st		ODI v Pakistan	Sharjah	4 Nov 2001	investigate this query
+Sri Lanka	won	10 wickets		lost	2nd		Test v West Indies	Galle	13 Nov 2001	investigate this query
+Sri Lanka	won	131 runs		won	1st		Test v West Indies	Kandy	21 Nov 2001	investigate this query
+Sri Lanka	won	10 wickets		lost	2nd		Test v West Indies	Colombo (SSC)	29 Nov 2001	investigate this query
+Sri Lanka	won	9 wickets	274	won	2nd		ODI v Zimbabwe	Colombo (SSC)	8 Dec 2001	investigate this query
+Sri Lanka	lost	49 runs		lost	2nd		ODI v West Indies	Colombo (RPS)	11 Dec 2001	investigate this query
+Sri Lanka	won	59 runs		won	1st		ODI v Zimbabwe	Colombo (RPS)	12 Dec 2001	investigate this query
+Sri Lanka	won	8 wickets	41	won	2nd		ODI v West Indies	Kandy	15 Dec 2001	investigate this query
+Sri Lanka	won	34 runs		won	1st		ODI v West Indies	Colombo (RPS)	19 Dec 2001	investigate this query
+Sri Lanka	won	inns & 166 runs		lost	1st		Test v Zimbabwe	Colombo (SSC)	27 Dec 2001	investigate this query
+Sri Lanka	won	inns & 94 runs		lost	2nd		Test v Zimbabwe	Kandy	4 Jan 2002	investigate this query
+Sri Lanka	won	315 runs		won	1st		Test v Zimbabwe	Galle	12 Jan 2002	investigate this query
+Sri Lanka	won	8 wickets		won	2nd		Test v Pakistan	Lahore	6 Mar 2002	investigate this query
+Sri Lanka	won	41 runs		won	1st		ODI v Pakistan	Sharjah	8 Apr 2002	investigate this query
+Sri Lanka	lost	11 runs		lost	2nd		ODI v New Zealand	Sharjah	9 Apr 2002	investigate this query
+Sri Lanka	won	9 runs		won	1st		ODI v Pakistan	Sharjah	12 Apr 2002	investigate this query
+Sri Lanka	won	46 runs		won	1st		ODI v New Zealand	Sharjah	14 Apr 2002	investigate this query
+Sri Lanka	lost	217 runs		lost	2nd		ODI v Pakistan	Sharjah	17 Apr 2002	investigate this query
+Sri Lanka	draw	-		won	1st		Test v England	Lord's	16 May 2002	investigate this query
+Sri Lanka	lost	inns & 111 runs		lost	1st		Test v England	Birmingham	30 May 2002	investigate this query
+Sri Lanka	lost	10 wickets		lost	2nd		Test v England	Manchester	13 Jun 2002	investigate this query
+Sri Lanka	lost	44 runs		lost	2nd		ODI v England	Nottingham	27 Jun 2002	investigate this query
+Sri Lanka	lost	4 wickets	28	won	1st		ODI v India	The Oval	30 Jun 2002	investigate this query
+Sri Lanka	lost	3 wickets	4	lost	1st		ODI v England	Leeds	2 Jul 2002	investigate this query
+Sri Lanka	lost	4 wickets	11	lost	1st		ODI v India	Birmingham	6 Jul 2002	investigate this query
+Sri Lanka	won	23 runs		won	1st		ODI v England	Manchester	7 Jul 2002	investigate this query
+Sri Lanka	lost	63 runs		lost	2nd		ODI v India	Bristol	11 Jul 2002	investigate this query
+Sri Lanka	won	inns & 196 runs		won	2nd		Test v Bangladesh	Colombo (PSS)	21 Jul 2002	investigate this query
+Sri Lanka	won	288 runs		lost	1st		Test v Bangladesh	Colombo (SSC)	28 Jul 2002	investigate this query
+Sri Lanka	won	5 wickets	32	lost	2nd		ODI v Bangladesh	Colombo (SSC)	4 Aug 2002	investigate this query
+Sri Lanka	won	8 wickets	206	lost	2nd		ODI v Bangladesh	Colombo (SSC)	5 Aug 2002	investigate this query
+Sri Lanka	won	58 runs		lost	1st		ODI v Bangladesh	Colombo (RPS)	7 Aug 2002	investigate this query
+Sri Lanka	lost	28 runs		won	2nd		ODI v Pakistan	Tangier	14 Aug 2002	investigate this query
+Sri Lanka	won	93 runs		won	1st		ODI v South Africa	Tangier	15 Aug 2002	investigate this query
+Sri Lanka	won	39 runs		won	1st		ODI v Pakistan	Tangier	17 Aug 2002	investigate this query
+Sri Lanka	won	6 wickets	47	lost	2nd		ODI v South Africa	Tangier	19 Aug 2002	investigate this query
+Sri Lanka	won	27 runs		won	1st		ODI v South Africa	Tangier	21 Aug 2002	investigate this query
+Sri Lanka	won	8 wickets	83	lost	2nd		ODI v Pakistan	Colombo (RPS)	12 Sep 2002	investigate this query
+Sri Lanka	won	206 runs		won	1st		ODI v Netherlands	Colombo (RPS)	16 Sep 2002	investigate this query
+Sri Lanka	won	7 wickets	60	lost	2nd		ODI v Australia	Colombo (RPS)	27 Sep 2002	investigate this query
+Sri Lanka	n/r	-		won	1st		ODI v India	Colombo (RPS)	29 Sep 2002	investigate this query
+Sri Lanka	n/r	-		won	1st		ODI v India	Colombo (RPS)	30 Sep 2002	investigate this query
+Sri Lanka	lost	inns & 64 runs		won	1st		Test v South Africa	Johannesburg	8 Nov 2002	investigate this query
+Sri Lanka	lost	3 wickets		lost	1st		Test v South Africa	Centurion	15 Nov 2002	investigate this query
+Sri Lanka	lost	6 wickets	123	lost	1st		ODI v South Africa	Johannesburg	27 Nov 2002	investigate this query
+Sri Lanka	lost	177 runs		lost	2nd		ODI v South Africa	Centurion	29 Nov 2002	investigate this query
+Sri Lanka	won	7 wickets	50	won	2nd		ODI v South Africa	Benoni	1 Dec 2002	investigate this query
+Sri Lanka	lost	8 wickets	115	lost	1st		ODI v South Africa	Kimberley	4 Dec 2002	investigate this query
+Sri Lanka	lost	6 wickets	29	won	1st		ODI v South Africa	Bloemfontein	6 Dec 2002	investigate this query
+Sri Lanka	lost	43 runs		lost	2nd		ODI v England	Brisbane	17 Dec 2002	investigate this query
+Sri Lanka	lost	95 runs		lost	2nd		ODI v England	Perth	20 Dec 2002	investigate this query
+Sri Lanka	lost	142 runs		lost	2nd		ODI v Australia	Perth	22 Dec 2002	investigate this query
+Sri Lanka	won	79 runs		lost	1st		ODI v Australia	Sydney	9 Jan 2003	investigate this query
+Sri Lanka	won	31 runs		won	1st		ODI v England	Sydney	13 Jan 2003	investigate this query
+Sri Lanka	lost	4 wickets	7	won	1st		ODI v Australia	Brisbane	15 Jan 2003	investigate this query
+Sri Lanka	lost	19 runs		lost	2nd		ODI v England	Adelaide	17 Jan 2003	investigate this query
+Sri Lanka	lost	9 wickets	93	won	1st		ODI v Australia	Melbourne	21 Jan 2003	investigate this query
+Sri Lanka	won	47 runs		lost	1st		ODI v New Zealand	Bloemfontein	10 Feb 2003	investigate this query
+Sri Lanka	won	10 wickets	173	won	2nd		ODI v Bangladesh	Pietermaritzburg	14 Feb 2003	investigate this query
+Sri Lanka	won	9 wickets	272	won	2nd		ODI v Canada	Paarl	19 Feb 2003	investigate this query
+Sri Lanka	lost	53 runs		won	2nd		ODI v Kenya	Nairobi (Gym)	24 Feb 2003	investigate this query
+Sri Lanka	won	6 runs		won	1st		ODI v West Indies	Cape Town	28 Feb 2003	investigate this query
+Sri Lanka	tied	-		won	1st		ODI v South Africa	Durban	3 Mar 2003	investigate this query
+Sri Lanka	lost	96 runs		lost	2nd		ODI v Australia	Centurion	7 Mar 2003	investigate this query
+Sri Lanka	lost	183 runs		won	2nd		ODI v India	Johannesburg	10 Mar 2003	investigate this query
+Sri Lanka	won	74 runs		won	1st		ODI v Zimbabwe	East London	15 Mar 2003	investigate this query
+Sri Lanka	lost	48 runs		lost	2nd		ODI v Australia	Port Elizabeth	18 Mar 2003	investigate this query
+Sri Lanka	lost	7 wickets	16	won	1st		ODI v Pakistan	Sharjah	4 Apr 2003	investigate this query
+Sri Lanka	won	129 runs		won	1st		ODI v Kenya	Sharjah	6 Apr 2003	investigate this query
+Sri Lanka	lost	4 wickets	8	won	1st		ODI v Zimbabwe	Sharjah	7 Apr 2003	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v New Zealand	Colombo (PSS)	25 Apr 2003	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v New Zealand	Kandy	3 May 2003	investigate this query
+Sri Lanka	lost	79 runs		won	2nd		ODI v Pakistan	Dambulla	10 May 2003	investigate this query
+Sri Lanka	won	5 wickets	14	won	2nd		ODI v New Zealand	Dambulla	13 May 2003	investigate this query
+Sri Lanka	won	12 runs		lost	1st		ODI v Pakistan	Dambulla	18 May 2003	investigate this query
+Sri Lanka	lost	9 runs		won	2nd		ODI v New Zealand	Dambulla	19 May 2003	investigate this query
+Sri Lanka	won	55 runs		lost	1st		ODI v West Indies	Bridgetown	7 Jun 2003	investigate this query
+Sri Lanka	won	4 wickets	3	lost	2nd		ODI v West Indies	Bridgetown	8 Jun 2003	investigate this query
+Sri Lanka	lost	6 wickets	31	lost	1st		ODI v West Indies	Kingstown	11 Jun 2003	investigate this query
+Sri Lanka	draw	-		won	1st		Test v West Indies	Gros Islet	20 Jun 2003	investigate this query
+Sri Lanka	lost	7 wickets		lost	1st		Test v West Indies	Kingston	27 Jun 2003	investigate this query
+Sri Lanka	won	10 wickets	217	lost	2nd		ODI v England	Dambulla	18 Nov 2003	investigate this query
+Sri Lanka	aban	-		-	-		ODI v England	Colombo (RPS)	21 Nov 2003	investigate this query
+Sri Lanka	aban	-		-	-		ODI v England	Colombo (RPS)	23 Nov 2003	investigate this query
+Sri Lanka	draw	-		won	1st		Test v England	Galle	2 Dec 2003	investigate this query
+Sri Lanka	draw	-		won	1st		Test v England	Kandy	10 Dec 2003	investigate this query
+Sri Lanka	won	inns & 215 runs		lost	2nd		Test v England	Colombo (SSC)	18 Dec 2003	investigate this query
+Sri Lanka	lost	84 runs		lost	2nd		ODI v Australia	Dambulla	20 Feb 2004	investigate this query
+Sri Lanka	won	1 runs		won	1st		ODI v Australia	Dambulla	22 Feb 2004	investigate this query
+Sri Lanka	lost	5 wickets	9	won	1st		ODI v Australia	Colombo (RPS)	25 Feb 2004	investigate this query
+Sri Lanka	lost	40 runs		lost	2nd		ODI v Australia	Colombo (RPS)	27 Feb 2004	investigate this query
+Sri Lanka	won	3 wickets	13	lost	2nd		ODI v Australia	Colombo (SSC)	29 Feb 2004	investigate this query
+Sri Lanka	lost	197 runs		lost	2nd		Test v Australia	Galle	8 Mar 2004	investigate this query
+Sri Lanka	lost	27 runs		lost	2nd		Test v Australia	Kandy	16 Mar 2004	investigate this query
+Sri Lanka	lost	121 runs		lost	2nd		Test v Australia	Colombo (SSC)	24 Mar 2004	investigate this query
+Sri Lanka	won	12 runs		won	2nd		ODI v Zimbabwe	Bulawayo	20 Apr 2004	investigate this query
+Sri Lanka	won	9 wickets	175	won	2nd		ODI v Zimbabwe	Bulawayo	22 Apr 2004	investigate this query
+Sri Lanka	won	9 wickets	244	won	2nd		ODI v Zimbabwe	Harare	25 Apr 2004	investigate this query
+Sri Lanka	won	72 runs		lost	1st		ODI v Zimbabwe	Harare	27 Apr 2004	investigate this query
+Sri Lanka	won	25 runs		won	1st		ODI v Zimbabwe	Harare	29 Apr 2004	investigate this query
+Sri Lanka	won	inns & 240 runs		won	2nd		Test v Zimbabwe	Harare	6 May 2004	investigate this query
+Sri Lanka	won	inns & 254 runs		won	2nd		Test v Zimbabwe	Bulawayo	14 May 2004	investigate this query
+Sri Lanka	lost	149 runs		won	2nd		Test v Australia	Darwin	1 Jul 2004	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Australia	Cairns	9 Jul 2004	investigate this query
+Sri Lanka	won	116 runs		won	1st		ODI v U.A.E.	Dambulla	17 Jul 2004	investigate this query
+Sri Lanka	won	12 runs		won	1st		ODI v India	Dambulla	18 Jul 2004	investigate this query
+Sri Lanka	won	7 wickets	108	lost	2nd		ODI v Pakistan	Colombo (RPS)	21 Jul 2004	investigate this query
+Sri Lanka	won	10 wickets	99	lost	2nd		ODI v Bangladesh	Colombo (RPS)	23 Jul 2004	investigate this query
+Sri Lanka	lost	4 runs		lost	2nd		ODI v India	Colombo (RPS)	27 Jul 2004	investigate this query
+Sri Lanka	won	25 runs		won	1st		ODI v India	Colombo (RPS)	1 Aug 2004	investigate this query
+Sri Lanka	draw	-		won	1st		Test v South Africa	Galle	4 Aug 2004	investigate this query
+Sri Lanka	won	313 runs		won	1st		Test v South Africa	Colombo (SSC)	11 Aug 2004	investigate this query
+Sri Lanka	won	3 wickets	6	lost	2nd		ODI v South Africa	Colombo (RPS)	20 Aug 2004	investigate this query
+Sri Lanka	won	37 runs		won	1st		ODI v South Africa	Colombo (RPS)	22 Aug 2004	investigate this query
+Sri Lanka	won	4 wickets	14	lost	2nd		ODI v South Africa	Dambulla	25 Aug 2004	investigate this query
+Sri Lanka	won	7 wickets	23	won	2nd		ODI v South Africa	Dambulla	28 Aug 2004	investigate this query
+Sri Lanka	won	49 runs		lost	1st		ODI v South Africa	Colombo (SSC)	31 Aug 2004	investigate this query
+Sri Lanka	won	4 wickets	37	won	2nd		ODI v Zimbabwe	The Oval	14 Sep 2004	investigate this query
+Sri Lanka	lost	49 runs		won	2nd		ODI v England	Southampton	17 Sep 2004	investigate this query
+Sri Lanka	lost	8 wickets	8	won	1st		ODI v Pakistan	Karachi	6 Oct 2004	investigate this query
+Sri Lanka	won	7 wickets	191	won	2nd		ODI v Zimbabwe	Rawalpindi	9 Oct 2004	investigate this query
+Sri Lanka	aban	-		-	-		ODI v Zimbabwe	Rawalpindi	11 Oct 2004	investigate this query
+Sri Lanka	lost	6 wickets	7	lost	1st		ODI v Pakistan	Lahore	14 Oct 2004	investigate this query
+Sri Lanka	won	119 runs		lost	1st		ODI v Pakistan	Lahore	16 Oct 2004	investigate this query
+Sri Lanka	won	201 runs		won	1st		Test v Pakistan	Faisalabad	20 Oct 2004	investigate this query
+Sri Lanka	lost	6 wickets		lost	1st		Test v Pakistan	Karachi	28 Oct 2004	investigate this query
+Sri Lanka	lost	7 wickets	102	lost	1st		ODI v New Zealand	Auckland	26 Dec 2004	investigate this query
+Sri Lanka	canc	-		-	-		ODI v New Zealand	Napier	29 Dec 2004	investigate this query
+Sri Lanka	canc	-		-	-		ODI v New Zealand	Queenstown	2 Jan 2005	investigate this query
+Sri Lanka	canc	-		-	-		ODI v New Zealand	Christchurch	4 Jan 2005	investigate this query
+Sri Lanka	canc	-		-	-		ODI v New Zealand	Wellington	8 Jan 2005	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v New Zealand	Napier	4 Apr 2005	investigate this query
+Sri Lanka	lost	inns & 38 runs		lost	1st		Test v New Zealand	Wellington	11 Apr 2005	investigate this query
+Sri Lanka	won	6 wickets		lost	2nd		Test v West Indies	Colombo (SSC)	13 Jul 2005	investigate this query
+Sri Lanka	won	240 runs		lost	1st		Test v West Indies	Kandy	22 Jul 2005	investigate this query
+Sri Lanka	won	3 wickets	10	lost	2nd		ODI v India	Dambulla	30 Jul 2005	investigate this query
+Sri Lanka	won	50 runs		won	1st		ODI v West Indies	Dambulla	2 Aug 2005	investigate this query
+Sri Lanka	won	4 wickets	12	lost	2nd		ODI v India	Dambulla	3 Aug 2005	investigate this query
+Sri Lanka	lost	33 runs		lost	2nd		ODI v West Indies	Colombo (RPS)	6 Aug 2005	investigate this query
+Sri Lanka	won	18 runs		won	1st		ODI v India	Colombo (RPS)	9 Aug 2005	investigate this query
+Sri Lanka	won	88 runs		lost	1st		ODI v Bangladesh	Colombo (SSC)	31 Aug 2005	investigate this query
+Sri Lanka	won	75 runs		lost	1st		ODI v Bangladesh	Colombo (RPS)	2 Sep 2005	investigate this query
+Sri Lanka	won	6 wickets	148	won	2nd		ODI v Bangladesh	Colombo (RPS)	4 Sep 2005	investigate this query
+Sri Lanka	won	inns & 96 runs		won	2nd		Test v Bangladesh	Colombo (RPS)	12 Sep 2005	investigate this query
+Sri Lanka	won	inns & 69 runs		won	1st		Test v Bangladesh	Colombo (PSS)	20 Sep 2005	investigate this query
+Sri Lanka	lost	152 runs		lost	2nd		ODI v India	Nagpur	25 Oct 2005	investigate this query
+Sri Lanka	lost	8 wickets	178	lost	1st		ODI v India	Mohali	28 Oct 2005	investigate this query
+Sri Lanka	lost	6 wickets	23	won	1st		ODI v India	Jaipur	31 Oct 2005	investigate this query
+Sri Lanka	lost	4 wickets	26	lost	1st		ODI v India	Pune	3 Nov 2005	investigate this query
+Sri Lanka	won	5 wickets	14	won	2nd		ODI v India	Ahmedabad	6 Nov 2005	investigate this query
+Sri Lanka	lost	7 wickets	91	lost	1st		ODI v India	Rajkot	9 Nov 2005	investigate this query
+Sri Lanka	lost	5 wickets	63	won	1st		ODI v India	Vadodara	12 Nov 2005	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Chennai	2 Dec 2005	investigate this query
+Sri Lanka	lost	188 runs		lost	2nd		Test v India	Delhi	10 Dec 2005	investigate this query
+Sri Lanka	lost	259 runs		lost	2nd		Test v India	Ahmedabad	18 Dec 2005	investigate this query
+Sri Lanka	lost	7 wickets	76	lost	1st		ODI v New Zealand	Queenstown	31 Dec 2005	investigate this query
+Sri Lanka	lost	5 wickets	12	lost	1st		ODI v New Zealand	Christchurch	3 Jan 2006	investigate this query
+Sri Lanka	lost	21 runs		lost	2nd		ODI v New Zealand	Wellington	6 Jan 2006	investigate this query
+Sri Lanka	won	20 runs		won	1st		ODI v New Zealand	Napier	8 Jan 2006	investigate this query
+Sri Lanka	lost	116 runs		won	2nd		ODI v Australia	Melbourne (Docklands)	13 Jan 2006	investigate this query
+Sri Lanka	won	94 runs		lost	1st		ODI v South Africa	Brisbane	17 Jan 2006	investigate this query
+Sri Lanka	won	51 runs		won	1st		ODI v Australia	Sydney	22 Jan 2006	investigate this query
+Sri Lanka	lost	9 runs		lost	2nd		ODI v South Africa	Adelaide	24 Jan 2006	investigate this query
+Sri Lanka	lost	5 wickets	9	won	1st		ODI v Australia	Adelaide	26 Jan 2006	investigate this query
+Sri Lanka	lost	6 wickets	54	won	1st		ODI v Australia	Perth	29 Jan 2006	investigate this query
+Sri Lanka	lost	5 wickets	29	won	1st		ODI v South Africa	Perth	31 Jan 2006	investigate this query
+Sri Lanka	won	76 runs		won	1st		ODI v South Africa	Hobart	7 Feb 2006	investigate this query
+Sri Lanka	won	22 runs		won	1st		ODI v Australia	Adelaide	10 Feb 2006	investigate this query
+Sri Lanka	lost	167 runs		lost	2nd		ODI v Australia	Sydney	12 Feb 2006	investigate this query
+Sri Lanka	lost	9 wickets	27	won	1st		ODI v Australia	Brisbane	14 Feb 2006	investigate this query
+Sri Lanka	won	5 wickets	155	lost	2nd		ODI v Bangladesh	Bogra	20 Feb 2006	investigate this query
+Sri Lanka	lost	4 wickets	12	lost	1st		ODI v Bangladesh	Bogra	22 Feb 2006	investigate this query
+Sri Lanka	won	78 runs		lost	1st		ODI v Bangladesh	Chittagong	25 Feb 2006	investigate this query
+Sri Lanka	won	8 wickets		lost	2nd		Test v Bangladesh	Chittagong	28 Feb 2006	investigate this query
+Sri Lanka	won	10 wickets		lost	2nd		Test v Bangladesh	Bogra	8 Mar 2006	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v Pakistan	Colombo (RPS)	17 Mar 2006	investigate this query
+Sri Lanka	lost	4 wickets	32	lost	1st		ODI v Pakistan	Colombo (RPS)	19 Mar 2006	investigate this query
+Sri Lanka	lost	4 wickets	28	lost	1st		ODI v Pakistan	Colombo (SSC)	22 Mar 2006	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v Pakistan	Colombo (SSC)	26 Mar 2006	investigate this query
+Sri Lanka	lost	8 wickets		lost	1st		Test v Pakistan	Kandy	3 Apr 2006	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v England	Lord's	11 May 2006	investigate this query
+Sri Lanka	lost	6 wickets		won	1st		Test v England	Birmingham	25 May 2006	investigate this query
+Sri Lanka	won	134 runs		won	1st		Test v England	Nottingham	2 Jun 2006	investigate this query
+Sri Lanka	won	2 runs		won	1st		T20I v England	Southampton	15 Jun 2006	investigate this query
+Sri Lanka	won	20 runs		lost	1st		ODI v England	Lord's	17 Jun 2006	investigate this query
+Sri Lanka	won	46 runs		won	1st		ODI v England	The Oval	20 Jun 2006	investigate this query
+Sri Lanka	won	8 wickets	46	lost	2nd		ODI v England	Chester-le-Street	24 Jun 2006	investigate this query
+Sri Lanka	won	33 runs		won	1st		ODI v England	Manchester	28 Jun 2006	investigate this query
+Sri Lanka	won	8 wickets	75	lost	2nd		ODI v England	Leeds	1 Jul 2006	investigate this query
+Sri Lanka	won	195 runs		won	1st		ODI v Netherlands	Amstelveen	4 Jul 2006	investigate this query
+Sri Lanka	won	55 runs		won	1st		ODI v Netherlands	Amstelveen	6 Jul 2006	investigate this query
+Sri Lanka	won	inns & 153 runs		lost	2nd		Test v South Africa	Colombo (SSC)	27 Jul 2006	investigate this query
+Sri Lanka	won	1 wickets		lost	2nd		Test v South Africa	Colombo (PSS)	4 Aug 2006	investigate this query
+Sri Lanka	aban	-		-	-		ODI v South Africa	Colombo (RPS)	14 Aug 2006	investigate this query
+Sri Lanka	aban	-		-	-		ODI v India	Colombo (RPS)	16 Aug 2006	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v India	Colombo (SSC)	18 Aug 2006	investigate this query
+Sri Lanka	aban	-		-	-		ODI v India	Colombo (SSC)	20 Aug 2006	investigate this query
+Sri Lanka	canc	-		-	-		ODI v South Africa	Colombo (SSC)	21 Aug 2006	investigate this query
+Sri Lanka	canc	-		-	-		ODI v India	Colombo (SSC)	22 Aug 2006	investigate this query
+Sri Lanka	canc	-		-	-		ODI v India	Colombo (RPS)	24 Aug 2006	investigate this query
+Sri Lanka	canc	-		-	-		ODI v South Africa	Colombo (RPS)	29 Aug 2006	investigate this query
+Sri Lanka	won	37 runs		lost	1st		ODI v Bangladesh	Mohali	7 Oct 2006	investigate this query
+Sri Lanka	won	144 runs		won	1st		ODI v Zimbabwe	Ahmedabad	10 Oct 2006	investigate this query
+Sri Lanka	won	9 wickets	220	lost	2nd		ODI v West Indies	Mumbai (BS)	14 Oct 2006	investigate this query
+Sri Lanka	lost	4 wickets	11	won	1st		ODI v Pakistan	Jaipur	17 Oct 2006	investigate this query
+Sri Lanka	won	7 wickets	84	lost	2nd		ODI v New Zealand	Mumbai (BS)	20 Oct 2006	investigate this query
+Sri Lanka	lost	78 runs		won	2nd		ODI v South Africa	Ahmedabad	24 Oct 2006	investigate this query
+Sri Lanka	lost	5 wickets		won	1st		Test v New Zealand	Christchurch	7 Dec 2006	investigate this query
+Sri Lanka	won	217 runs		won	1st		Test v New Zealand	Wellington	15 Dec 2006	investigate this query
+Sri Lanka	won	18 runs		lost	2nd		T20I v New Zealand	Wellington	22 Dec 2006	investigate this query
+Sri Lanka	lost	5 wickets	9	lost	1st		T20I v New Zealand	Auckland	26 Dec 2006	investigate this query
+Sri Lanka	won	7 wickets	60	lost	2nd		ODI v New Zealand	Napier	28 Dec 2006	investigate this query
+Sri Lanka	lost	1 wickets	0	lost	1st		ODI v New Zealand	Queenstown	31 Dec 2006	investigate this query
+Sri Lanka	lost	4 wickets	129	lost	1st		ODI v New Zealand	Christchurch	2 Jan 2007	investigate this query
+Sri Lanka	won	189 runs		won	1st		ODI v New Zealand	Auckland	6 Jan 2007	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v New Zealand	Hamilton	9 Jan 2007	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v India	Kolkata	8 Feb 2007	investigate this query
+Sri Lanka	won	5 runs		lost	1st		ODI v India	Rajkot	11 Feb 2007	investigate this query
+Sri Lanka	lost	5 wickets	21	won	1st		ODI v India	Margao	14 Feb 2007	investigate this query
+Sri Lanka	lost	7 wickets	36	lost	1st		ODI v India	Visakhapatnam	17 Feb 2007	investigate this query
+Sri Lanka	won	243 runs		won	1st		ODI v Bermuda	Port of Spain	15 Mar 2007	investigate this query
+Sri Lanka	won	198 runs		lost	1st		ODI v Bangladesh	Port of Spain	21 Mar 2007	investigate this query
+Sri Lanka	won	69 runs		lost	1st		ODI v India	Port of Spain	23 Mar 2007	investigate this query
+Sri Lanka	lost	1 wickets	10	won	1st		ODI v South Africa	Providence	28 Mar 2007	investigate this query
+Sri Lanka	won	113 runs		lost	1st		ODI v West Indies	Providence	1 Apr 2007	investigate this query
+Sri Lanka	won	2 runs		lost	1st		ODI v England	North Sound	4 Apr 2007	investigate this query
+Sri Lanka	won	6 wickets	29	lost	2nd		ODI v New Zealand	St George's	12 Apr 2007	investigate this query
+Sri Lanka	lost	7 wickets	44	won	1st		ODI v Australia	St George's	16 Apr 2007	investigate this query
+Sri Lanka	won	8 wickets	240	won	2nd		ODI v Ireland	St George's	18 Apr 2007	investigate this query
+Sri Lanka	won	81 runs		won	1st		ODI v New Zealand	Kingston	24 Apr 2007	investigate this query
+Sri Lanka	lost	53 runs		lost	2nd		ODI v Australia	Bridgetown	28 Apr 2007	investigate this query
+Sri Lanka	lost	5 wickets	48	won	1st		ODI v Pakistan	Abu Dhabi	18 May 2007	investigate this query
+Sri Lanka	lost	98 runs		lost	2nd		ODI v Pakistan	Abu Dhabi	20 May 2007	investigate this query
+Sri Lanka	won	115 runs		won	1st		ODI v Pakistan	Abu Dhabi	22 May 2007	investigate this query
+Sri Lanka	won	inns & 234 runs		won	2nd		Test v Bangladesh	Colombo (SSC)	25 Jun 2007	investigate this query
+Sri Lanka	won	inns & 90 runs		won	2nd		Test v Bangladesh	Colombo (PSS)	3 Jul 2007	investigate this query
+Sri Lanka	won	inns & 193 runs		won	2nd		Test v Bangladesh	Kandy	11 Jul 2007	investigate this query
+Sri Lanka	won	70 runs		lost	1st		ODI v Bangladesh	Colombo (PSS)	20 Jul 2007	investigate this query
+Sri Lanka	won	5 wickets	113	won	2nd		ODI v Bangladesh	Colombo (RPS)	23 Jul 2007	investigate this query
+Sri Lanka	won	39 runs		lost	1st		ODI v Bangladesh	Colombo (RPS)	25 Jul 2007	investigate this query
+Sri Lanka	won	172 runs		lost	1st		T20I v Kenya	Johannesburg	14 Sep 2007	investigate this query
+Sri Lanka	won	7 wickets	7	lost	2nd		T20I v New Zealand	Johannesburg	15 Sep 2007	investigate this query
+Sri Lanka	lost	33 runs		won	2nd		T20I v Pakistan	Johannesburg	17 Sep 2007	investigate this query
+Sri Lanka	won	64 runs		lost	1st		T20I v Bangladesh	Johannesburg	18 Sep 2007	investigate this query
+Sri Lanka	lost	10 wickets	58	lost	1st		T20I v Australia	Cape Town	20 Sep 2007	investigate this query
+Sri Lanka	won	119 runs		won	1st		ODI v England	Dambulla	1 Oct 2007	investigate this query
+Sri Lanka	lost	65 runs		lost	2nd		ODI v England	Dambulla	4 Oct 2007	investigate this query
+Sri Lanka	lost	2 wickets	7	won	1st		ODI v England	Dambulla	7 Oct 2007	investigate this query
+Sri Lanka	lost	5 wickets	19	won	1st		ODI v England	Colombo (RPS)	10 Oct 2007	investigate this query
+Sri Lanka	won	107 runs		won	1st		ODI v England	Colombo (RPS)	13 Oct 2007	investigate this query
+Sri Lanka	lost	inns & 40 runs		won	2nd		Test v Australia	Brisbane	8 Nov 2007	investigate this query
+Sri Lanka	lost	96 runs		lost	2nd		Test v Australia	Hobart	16 Nov 2007	investigate this query
+Sri Lanka	won	88 runs		won	1st		Test v England	Kandy	1 Dec 2007	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v England	Colombo (SSC)	9 Dec 2007	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v England	Galle	18 Dec 2007	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v India	Brisbane	5 Feb 2008	investigate this query
+Sri Lanka	lost	128 runs		lost	2nd		ODI v Australia	Sydney	8 Feb 2008	investigate this query
+Sri Lanka	won	8 wickets	12	won	2nd		ODI v India	Canberra	12 Feb 2008	investigate this query
+Sri Lanka	lost	63 runs		lost	2nd		ODI v Australia	Perth	15 Feb 2008	investigate this query
+Sri Lanka	lost	2 wickets	5	won	1st		ODI v India	Adelaide	19 Feb 2008	investigate this query
+Sri Lanka	lost	24 runs		won	2nd		ODI v Australia	Melbourne	22 Feb 2008	investigate this query
+Sri Lanka	lost	7 wickets	106	lost	1st		ODI v India	Hobart	26 Feb 2008	investigate this query
+Sri Lanka	won	13 runs		won	1st		ODI v Australia	Melbourne	29 Feb 2008	investigate this query
+Sri Lanka	won	121 runs		won	1st		Test v West Indies	Providence	22 Mar 2008	investigate this query
+Sri Lanka	lost	6 wickets		lost	1st		Test v West Indies	Port of Spain	3 Apr 2008	investigate this query
+Sri Lanka	lost	1 wickets	0	lost	1st		ODI v West Indies	Port of Spain	10 Apr 2008	investigate this query
+Sri Lanka	lost	7 wickets	27	lost	1st		ODI v West Indies	Port of Spain	12 Apr 2008	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v West Indies	Gros Islet	15 Apr 2008	investigate this query
+Sri Lanka	won	131 runs		lost	1st		ODI v Bangladesh	Lahore	25 Jun 2008	investigate this query
+Sri Lanka	won	142 runs		won	1st		ODI v U.A.E.	Lahore	26 Jun 2008	investigate this query
+Sri Lanka	won	64 runs		lost	1st		ODI v Pakistan	Karachi	29 Jun 2008	investigate this query
+Sri Lanka	won	158 runs		won	1st		ODI v Bangladesh	Karachi	30 Jun 2008	investigate this query
+Sri Lanka	lost	6 wickets	19	won	1st		ODI v India	Karachi	3 Jul 2008	investigate this query
+Sri Lanka	won	100 runs		lost	1st		ODI v India	Karachi	6 Jul 2008	investigate this query
+Sri Lanka	won	inns & 239 runs		won	1st		Test v India	Colombo (SSC)	23 Jul 2008	investigate this query
+Sri Lanka	lost	170 runs		lost	2nd		Test v India	Galle	31 Jul 2008	investigate this query
+Sri Lanka	won	8 wickets		lost	2nd		Test v India	Colombo (PSS)	8 Aug 2008	investigate this query
+Sri Lanka	won	8 wickets	91	lost	2nd		ODI v India	Dambulla	18 Aug 2008	investigate this query
+Sri Lanka	lost	3 wickets	62	lost	1st		ODI v India	Dambulla	20 Aug 2008	investigate this query
+Sri Lanka	lost	33 runs		lost	2nd		ODI v India	Colombo (RPS)	24 Aug 2008	investigate this query
+Sri Lanka	aban	-		-	-		ODI v India	Colombo (RPS)	26 Aug 2008	investigate this query
+Sri Lanka	lost	46 runs		lost	2nd		ODI v India	Colombo (RPS)	27 Aug 2008	investigate this query
+Sri Lanka	won	112 runs		won	1st		ODI v India	Colombo (RPS)	29 Aug 2008	investigate this query
+Sri Lanka	won	5 wickets	6	won	2nd		T20I v Zimbabwe	King City (NW)	10 Oct 2008	investigate this query
+Sri Lanka	lost	3 wickets	1	lost	1st		T20I v Pakistan	King City (NW)	11 Oct 2008	investigate this query
+Sri Lanka	won	15 runs		won	1st		T20I v Canada	King City (NW)	12 Oct 2008	investigate this query
+Sri Lanka	won	5 wickets	6	won	2nd		T20I v Pakistan	King City (NW)	13 Oct 2008	investigate this query
+Sri Lanka	won	6 wickets	100	won	2nd		ODI v Zimbabwe	Harare	20 Nov 2008	investigate this query
+Sri Lanka	won	9 wickets	194	lost	2nd		ODI v Zimbabwe	Harare	22 Nov 2008	investigate this query
+Sri Lanka	won	5 runs		lost	1st		ODI v Zimbabwe	Harare	24 Nov 2008	investigate this query
+Sri Lanka	won	2 wickets	15	won	2nd		ODI v Zimbabwe	Harare	28 Nov 2008	investigate this query
+Sri Lanka	won	19 runs		lost	1st		ODI v Zimbabwe	Harare	30 Nov 2008	investigate this query
+Sri Lanka	won	107 runs		won	1st		Test v Bangladesh	Dhaka	26 Dec 2008	investigate this query
+Sri Lanka	won	465 runs		won	1st		Test v Bangladesh	Chittagong	3 Jan 2009	investigate this query
+Sri Lanka	won	130 runs		lost	1st		ODI v Zimbabwe	Dhaka	12 Jan 2009	investigate this query
+Sri Lanka	lost	5 wickets	43	lost	1st		ODI v Bangladesh	Dhaka	14 Jan 2009	investigate this query
+Sri Lanka	won	2 wickets	11	won	2nd		ODI v Bangladesh	Dhaka	16 Jan 2009	investigate this query
+Sri Lanka	lost	8 wickets	25	won	1st		ODI v Pakistan	Karachi	20 Jan 2009	investigate this query
+Sri Lanka	won	129 runs		lost	1st		ODI v Pakistan	Karachi	21 Jan 2009	investigate this query
+Sri Lanka	won	234 runs		won	1st		ODI v Pakistan	Lahore	24 Jan 2009	investigate this query
+Sri Lanka	lost	6 wickets	11	lost	1st		ODI v India	Dambulla	28 Jan 2009	investigate this query
+Sri Lanka	lost	15 runs		lost	2nd		ODI v India	Colombo (RPS)	31 Jan 2009	investigate this query
+Sri Lanka	lost	147 runs		lost	2nd		ODI v India	Colombo (RPS)	3 Feb 2009	investigate this query
+Sri Lanka	lost	67 runs		lost	2nd		ODI v India	Colombo (RPS)	5 Feb 2009	investigate this query
+Sri Lanka	won	68 runs		won	1st		ODI v India	Colombo (RPS)	8 Feb 2009	investigate this query
+Sri Lanka	lost	3 wickets	4	won	1st		T20I v India	Colombo (RPS)	10 Feb 2009	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Karachi	21 Feb 2009	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v Pakistan	Lahore	1 Mar 2009	investigate this query
+Sri Lanka	won	6 wickets	6	won	2nd		T20I v Australia	Nottingham	8 Jun 2009	investigate this query
+Sri Lanka	won	15 runs		lost	1st		T20I v West Indies	Nottingham	10 Jun 2009	investigate this query
+Sri Lanka	won	19 runs		won	1st		T20I v Pakistan	Lord's	12 Jun 2009	investigate this query
+Sri Lanka	won	9 runs		won	1st		T20I v Ireland	Lord's	14 Jun 2009	investigate this query
+Sri Lanka	won	48 runs		won	1st		T20I v New Zealand	Nottingham	16 Jun 2009	investigate this query
+Sri Lanka	won	57 runs		lost	1st		T20I v West Indies	The Oval	19 Jun 2009	investigate this query
+Sri Lanka	lost	8 wickets	8	won	1st		T20I v Pakistan	Lord's	21 Jun 2009	investigate this query
+Sri Lanka	won	50 runs		lost	1st		Test v Pakistan	Galle	4 Jul 2009	investigate this query
+Sri Lanka	won	7 wickets		lost	2nd		Test v Pakistan	Colombo (PSS)	12 Jul 2009	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Pakistan	Colombo (SSC)	20 Jul 2009	investigate this query
+Sri Lanka	won	36 runs		lost	1st		ODI v Pakistan	Dambulla	30 Jul 2009	investigate this query
+Sri Lanka	won	6 wickets	38	won	2nd		ODI v Pakistan	Dambulla	1 Aug 2009	investigate this query
+Sri Lanka	won	6 wickets	21	won	2nd		ODI v Pakistan	Dambulla	3 Aug 2009	investigate this query
+Sri Lanka	lost	146 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	7 Aug 2009	investigate this query
+Sri Lanka	lost	132 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	9 Aug 2009	investigate this query
+Sri Lanka	lost	52 runs		lost	2nd		T20I v Pakistan	Colombo (RPS)	12 Aug 2009	investigate this query
+Sri Lanka	won	202 runs		lost	1st		Test v New Zealand	Galle	18 Aug 2009	investigate this query
+Sri Lanka	won	96 runs		won	1st		Test v New Zealand	Colombo (SSC)	26 Aug 2009	investigate this query
+Sri Lanka	lost	3 runs		lost	2nd		T20I v New Zealand	Colombo (RPS)	2 Sep 2009	investigate this query
+Sri Lanka	lost	22 runs		lost	2nd		T20I v New Zealand	Colombo (RPS)	4 Sep 2009	investigate this query
+Sri Lanka	won	97 runs		won	1st		ODI v New Zealand	Colombo (RPS)	8 Sep 2009	investigate this query
+Sri Lanka	won	139 runs		won	1st		ODI v India	Colombo (RPS)	12 Sep 2009	investigate this query
+Sri Lanka	lost	46 runs		lost	2nd		ODI v India	Colombo (RPS)	14 Sep 2009	investigate this query
+Sri Lanka	won	55 runs		lost	1st		ODI v South Africa	Centurion	22 Sep 2009	investigate this query
+Sri Lanka	lost	6 wickets	30	lost	1st		ODI v England	Johannesburg	25 Sep 2009	investigate this query
+Sri Lanka	lost	38 runs		won	2nd		ODI v New Zealand	Johannesburg	27 Sep 2009	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v India	Ahmedabad	16 Nov 2009	investigate this query
+Sri Lanka	lost	inns & 144 runs		lost	2nd		Test v India	Kanpur	24 Nov 2009	investigate this query
+Sri Lanka	lost	inns & 24 runs		won	1st		Test v India	Mumbai (BS)	2 Dec 2009	investigate this query
+Sri Lanka	won	29 runs		lost	1st		T20I v India	Nagpur	9 Dec 2009	investigate this query
+Sri Lanka	lost	6 wickets	5	won	1st		T20I v India	Mohali	12 Dec 2009	investigate this query
+Sri Lanka	lost	3 runs		won	2nd		ODI v India	Rajkot	15 Dec 2009	investigate this query
+Sri Lanka	won	3 wickets	5	lost	2nd		ODI v India	Nagpur	18 Dec 2009	investigate this query
+Sri Lanka	lost	7 wickets	45	won	1st		ODI v India	Cuttack	21 Dec 2009	investigate this query
+Sri Lanka	lost	7 wickets	11	won	1st		ODI v India	Kolkata	24 Dec 2009	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v India	Delhi	27 Dec 2009	investigate this query
+Sri Lanka	won	7 wickets	31	won	2nd		ODI v Bangladesh	Dhaka	4 Jan 2010	investigate this query
+Sri Lanka	won	5 wickets	12	won	2nd		ODI v India	Dhaka	5 Jan 2010	investigate this query
+Sri Lanka	won	9 wickets	43	won	2nd		ODI v Bangladesh	Dhaka	8 Jan 2010	investigate this query
+Sri Lanka	lost	8 wickets	104	won	1st		ODI v India	Dhaka	10 Jan 2010	investigate this query
+Sri Lanka	won	4 wickets	9	won	2nd		ODI v India	Dhaka	13 Jan 2010	investigate this query
+Sri Lanka	lost	2 wickets	1	won	1st		T20I v New Zealand	Providence	30 Apr 2010	investigate this query
+Sri Lanka	won	14 runs		won	1st		T20I v Zimbabwe	Providence	3 May 2010	investigate this query
+Sri Lanka	won	57 runs		won	1st		T20I v West Indies	Bridgetown	7 May 2010	investigate this query
+Sri Lanka	lost	81 runs		lost	2nd		T20I v Australia	Bridgetown	9 May 2010	investigate this query
+Sri Lanka	won	5 wickets	0	lost	2nd		T20I v India	Gros Islet	11 May 2010	investigate this query
+Sri Lanka	lost	7 wickets	24	won	1st		T20I v England	Gros Islet	13 May 2010	investigate this query
+Sri Lanka	lost	28 runs		lost	2nd		T20I v New Zealand	Lauderhill	22 May 2010	investigate this query
+Sri Lanka	won	7 wickets	27	lost	2nd		T20I v New Zealand	Lauderhill	23 May 2010	investigate this query
+Sri Lanka	lost	7 wickets	39	lost	1st		ODI v India	Bulawayo	30 May 2010	investigate this query
+Sri Lanka	won	9 wickets	64	won	2nd		ODI v Zimbabwe	Bulawayo	1 Jun 2010	investigate this query
+Sri Lanka	won	6 wickets	10	won	2nd		ODI v India	Harare	5 Jun 2010	investigate this query
+Sri Lanka	lost	8 wickets	13	lost	1st		ODI v Zimbabwe	Harare	7 Jun 2010	investigate this query
+Sri Lanka	won	9 wickets	92	won	2nd		ODI v Zimbabwe	Harare	9 Jun 2010	investigate this query
+Sri Lanka	won	16 runs		won	1st		ODI v Pakistan	Dambulla	15 Jun 2010	investigate this query
+Sri Lanka	won	126 runs		won	1st		ODI v Bangladesh	Dambulla	18 Jun 2010	investigate this query
+Sri Lanka	won	7 wickets	75	won	2nd		ODI v India	Dambulla	22 Jun 2010	investigate this query
+Sri Lanka	lost	81 runs		lost	2nd		ODI v India	Dambulla	24 Jun 2010	investigate this query
+Sri Lanka	won	10 wickets		won	1st		Test v India	Galle	18 Jul 2010	investigate this query
+Sri Lanka	draw	-		won	1st		Test v India	Colombo (SSC)	26 Jul 2010	investigate this query
+Sri Lanka	lost	5 wickets		won	1st		Test v India	Colombo (PSS)	3 Aug 2010	investigate this query
+Sri Lanka	won	3 wickets	55	lost	2nd		ODI v New Zealand	Dambulla	13 Aug 2010	investigate this query
+Sri Lanka	lost	6 wickets	93	won	1st		ODI v India	Dambulla	16 Aug 2010	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v New Zealand	Dambulla	19 Aug 2010	investigate this query
+Sri Lanka	won	8 wickets	209	lost	2nd		ODI v India	Dambulla	22 Aug 2010	investigate this query
+Sri Lanka	won	74 runs		won	1st		ODI v India	Dambulla	28 Aug 2010	investigate this query
+Sri Lanka	won	7 wickets	21	lost	2nd		T20I v Australia	Perth	31 Oct 2010	investigate this query
+Sri Lanka	won	1 wickets	34	lost	2nd		ODI v Australia	Melbourne	3 Nov 2010	investigate this query
+Sri Lanka	won	29 runs		won	1st		ODI v Australia	Sydney	5 Nov 2010	investigate this query
+Sri Lanka	lost	8 wickets	170	won	1st		ODI v Australia	Brisbane	7 Nov 2010	investigate this query
+Sri Lanka	draw	-		lost	2nd		Test v West Indies	Galle	15 Nov 2010	investigate this query
+Sri Lanka	draw	-		won	1st		Test v West Indies	Colombo (RPS)	23 Nov 2010	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v West Indies	Pallekele	1 Dec 2010	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v West Indies	Colombo (SSC)	31 Jan 2011	investigate this query
+Sri Lanka	won	8 wickets	27	won	2nd		ODI v West Indies	Colombo (SSC)	3 Feb 2011	investigate this query
+Sri Lanka	won	26 runs		lost	1st		ODI v West Indies	Colombo (SSC)	6 Feb 2011	investigate this query
+Sri Lanka	won	210 runs		won	1st		ODI v Canada	Hambantota	20 Feb 2011	investigate this query
+Sri Lanka	lost	11 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	26 Feb 2011	investigate this query
+Sri Lanka	won	9 wickets	188	lost	2nd		ODI v Kenya	Colombo (RPS)	1 Mar 2011	investigate this query
+Sri Lanka	n/r	-		won	1st		ODI v Australia	Colombo (RPS)	5 Mar 2011	investigate this query
+Sri Lanka	won	139 runs		lost	1st		ODI v Zimbabwe	Pallekele	10 Mar 2011	investigate this query
+Sri Lanka	won	112 runs		won	1st		ODI v New Zealand	Mumbai	18 Mar 2011	investigate this query
+Sri Lanka	won	10 wickets	63	lost	2nd		ODI v England	Colombo (RPS)	26 Mar 2011	investigate this query
+Sri Lanka	won	5 wickets	13	lost	2nd		ODI v New Zealand	Colombo (RPS)	29 Mar 2011	investigate this query
+Sri Lanka	lost	6 wickets	10	won	1st		ODI v India	Mumbai	2 Apr 2011	investigate this query
+Sri Lanka	lost	inns & 14 runs		won	1st		Test v England	Cardiff	26 May 2011	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v England	Lord's	3 Jun 2011	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v England	Southampton	16 Jun 2011	investigate this query
+Sri Lanka	won	9 wickets	16	won	2nd		T20I v England	Bristol	25 Jun 2011	investigate this query
+Sri Lanka	lost	110 runs		won	2nd		ODI v England	The Oval	28 Jun 2011	investigate this query
+Sri Lanka	won	69 runs		lost	1st		ODI v England	Leeds	1 Jul 2011	investigate this query
+Sri Lanka	won	6 wickets	10	lost	2nd		ODI v England	Lord's	3 Jul 2011	investigate this query
+Sri Lanka	lost	10 wickets	145	lost	1st		ODI v England	Nottingham	6 Jul 2011	investigate this query
+Sri Lanka	lost	16 runs		lost	2nd		ODI v England	Manchester	9 Jul 2011	investigate this query
+Sri Lanka	aban	-		-	-		ODI v Ireland	Edinburgh	11 Jul 2011	investigate this query
+Sri Lanka	won	183 runs		lost	1st		ODI v Scotland	Edinburgh	13 Jul 2011	investigate this query
+Sri Lanka	won	35 runs		lost	1st		T20I v Australia	Pallekele	6 Aug 2011	investigate this query
+Sri Lanka	won	8 runs		won	1st		T20I v Australia	Pallekele	8 Aug 2011	investigate this query
+Sri Lanka	lost	7 wickets	71	won	1st		ODI v Australia	Pallekele	10 Aug 2011	investigate this query
+Sri Lanka	lost	8 wickets	70	won	1st		ODI v Australia	Hambantota	14 Aug 2011	investigate this query
+Sri Lanka	won	78 runs		lost	1st		ODI v Australia	Hambantota	16 Aug 2011	investigate this query
+Sri Lanka	lost	5 wickets	132	won	1st		ODI v Australia	Colombo (RPS)	20 Aug 2011	investigate this query
+Sri Lanka	won	4 wickets	18	won	2nd		ODI v Australia	Colombo (RPS)	22 Aug 2011	investigate this query
+Sri Lanka	lost	125 runs		lost	2nd		Test v Australia	Galle	31 Aug 2011	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Australia	Pallekele	8 Sep 2011	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Australia	Colombo (SSC)	16 Sep 2011	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v Pakistan	Abu Dhabi	18 Oct 2011	investigate this query
+Sri Lanka	lost	9 wickets		won	1st		Test v Pakistan	Dubai (DSC)	26 Oct 2011	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Pakistan	Sharjah	3 Nov 2011	investigate this query
+Sri Lanka	lost	8 wickets	169	won	1st		ODI v Pakistan	Dubai (DSC)	11 Nov 2011	investigate this query
+Sri Lanka	won	25 runs		won	1st		ODI v Pakistan	Dubai (DSC)	14 Nov 2011	investigate this query
+Sri Lanka	lost	21 runs		lost	2nd		ODI v Pakistan	Dubai (DSC)	18 Nov 2011	investigate this query
+Sri Lanka	lost	26 runs		lost	2nd		ODI v Pakistan	Sharjah	20 Nov 2011	investigate this query
+Sri Lanka	lost	3 wickets	16	won	1st		ODI v Pakistan	Abu Dhabi	23 Nov 2011	investigate this query
+Sri Lanka	lost	5 wickets	3	won	1st		T20I v Pakistan	Abu Dhabi	25 Nov 2011	investigate this query
+Sri Lanka	lost	inns & 81 runs		lost	1st		Test v South Africa	Centurion	15 Dec 2011	investigate this query
+Sri Lanka	won	208 runs		won	1st		Test v South Africa	Durban	26 Dec 2011	investigate this query
+Sri Lanka	lost	10 wickets		won	2nd		Test v South Africa	Cape Town	3 Jan 2012	investigate this query
+Sri Lanka	lost	258 runs		lost	2nd		ODI v South Africa	Paarl	11 Jan 2012	investigate this query
+Sri Lanka	lost	5 wickets	8	lost	1st		ODI v South Africa	East London	14 Jan 2012	investigate this query
+Sri Lanka	lost	4 runs		won	1st		ODI v South Africa	Bloemfontein	17 Jan 2012	investigate this query
+Sri Lanka	won	5 wickets	8	lost	2nd		ODI v South Africa	Kimberley	20 Jan 2012	investigate this query
+Sri Lanka	won	2 wickets	1	won	2nd		ODI v South Africa	Johannesburg	22 Jan 2012	investigate this query
+Sri Lanka	lost	4 wickets	20	won	1st		ODI v India	Perth	8 Feb 2012	investigate this query
+Sri Lanka	lost	5 runs		won	2nd		ODI v Australia	Perth	10 Feb 2012	investigate this query
+Sri Lanka	tied	-		won	1st		ODI v India	Adelaide	14 Feb 2012	investigate this query
+Sri Lanka	won	8 wickets	101	lost	2nd		ODI v Australia	Sydney	17 Feb 2012	investigate this query
+Sri Lanka	won	51 runs		won	1st		ODI v India	Brisbane	21 Feb 2012	investigate this query
+Sri Lanka	won	3 wickets	4	lost	2nd		ODI v Australia	Hobart	24 Feb 2012	investigate this query
+Sri Lanka	lost	7 wickets	80	lost	1st		ODI v India	Hobart	28 Feb 2012	investigate this query
+Sri Lanka	won	9 runs		won	1st		ODI v Australia	Melbourne	2 Mar 2012	investigate this query
+Sri Lanka	lost	15 runs		lost	2nd		ODI v Australia	Brisbane	4 Mar 2012	investigate this query
+Sri Lanka	won	8 wickets	34	lost	2nd		ODI v Australia	Adelaide	6 Mar 2012	investigate this query
+Sri Lanka	lost	16 runs		won	2nd		ODI v Australia	Adelaide	8 Mar 2012	investigate this query
+Sri Lanka	lost	50 runs		won	2nd		ODI v India	Dhaka	13 Mar 2012	investigate this query
+Sri Lanka	lost	6 wickets	61	won	1st		ODI v Pakistan	Dhaka	15 Mar 2012	investigate this query
+Sri Lanka	lost	5 wickets	17	lost	1st		ODI v Bangladesh	Dhaka	20 Mar 2012	investigate this query
+Sri Lanka	won	75 runs		won	1st		Test v England	Galle	26 Mar 2012	investigate this query
+Sri Lanka	lost	8 wickets		won	1st		Test v England	Colombo (PSS)	3 Apr 2012	investigate this query
+Sri Lanka	won	37 runs		won	1st		T20I v Pakistan	Hambantota	1 Jun 2012	investigate this query
+Sri Lanka	lost	23 runs		lost	2nd		T20I v Pakistan	Hambantota	3 Jun 2012	investigate this query
+Sri Lanka	lost	6 wickets	47	won	1st		ODI v Pakistan	Pallekele	7 Jun 2012	investigate this query
+Sri Lanka	won	76 runs		won	1st		ODI v Pakistan	Pallekele	9 Jun 2012	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v Pakistan	Colombo (RPS)	13 Jun 2012	investigate this query
+Sri Lanka	won	44 runs		won	1st		ODI v Pakistan	Colombo (RPS)	16 Jun 2012	investigate this query
+Sri Lanka	won	2 wickets	2	lost	2nd		ODI v Pakistan	Colombo (RPS)	18 Jun 2012	investigate this query
+Sri Lanka	won	209 runs		won	1st		Test v Pakistan	Galle	22 Jun 2012	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Pakistan	Colombo (SSC)	30 Jun 2012	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v Pakistan	Pallekele	8 Jul 2012	investigate this query
+Sri Lanka	lost	21 runs		lost	2nd		ODI v India	Hambantota	21 Jul 2012	investigate this query
+Sri Lanka	won	9 wickets	181	lost	2nd		ODI v India	Hambantota	24 Jul 2012	investigate this query
+Sri Lanka	lost	5 wickets	2	won	1st		ODI v India	Colombo (RPS)	28 Jul 2012	investigate this query
+Sri Lanka	lost	6 wickets	46	won	1st		ODI v India	Colombo (RPS)	31 Jul 2012	investigate this query
+Sri Lanka	lost	20 runs		lost	2nd		ODI v India	Pallekele	4 Aug 2012	investigate this query
+Sri Lanka	lost	39 runs		won	2nd		T20I v India	Pallekele	7 Aug 2012	investigate this query
+Sri Lanka	won	82 runs		lost	1st		T20I v Zimbabwe	Hambantota	18 Sep 2012	investigate this query
+Sri Lanka	lost	32 runs		won	2nd		T20I v South Africa	Hambantota	22 Sep 2012	investigate this query
+Sri Lanka	tied	-		lost	2nd		T20I v New Zealand	Pallekele	27 Sep 2012	investigate this query
+Sri Lanka	won	9 wickets	28	lost	2nd		T20I v West Indies	Pallekele	29 Sep 2012	investigate this query
+Sri Lanka	won	19 runs		lost	1st		T20I v England	Pallekele	1 Oct 2012	investigate this query
+Sri Lanka	won	16 runs		won	1st		T20I v Pakistan	Colombo (RPS)	4 Oct 2012	investigate this query
+Sri Lanka	lost	36 runs		lost	2nd		T20I v West Indies	Colombo (RPS)	7 Oct 2012	investigate this query
+Sri Lanka	n/r	-		won	2nd		T20I v New Zealand	Pallekele	30 Oct 2012	investigate this query
+Sri Lanka	aban	-		-	-		ODI v New Zealand	Pallekele	1 Nov 2012	investigate this query
+Sri Lanka	won	14 runs		lost	2nd		ODI v New Zealand	Pallekele	4 Nov 2012	investigate this query
+Sri Lanka	won	7 wickets	11	won	2nd		ODI v New Zealand	Pallekele	6 Nov 2012	investigate this query
+Sri Lanka	won	7 wickets	34	won	2nd		ODI v New Zealand	Hambantota	10 Nov 2012	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v New Zealand	Hambantota	12 Nov 2012	investigate this query
+Sri Lanka	won	10 wickets		lost	2nd		Test v New Zealand	Galle	17 Nov 2012	investigate this query
+Sri Lanka	lost	167 runs		lost	2nd		Test v New Zealand	Colombo (PSS)	25 Nov 2012	investigate this query
+Sri Lanka	lost	137 runs		lost	2nd		Test v Australia	Hobart	14 Dec 2012	investigate this query
+Sri Lanka	lost	inns & 201 runs		won	1st		Test v Australia	Melbourne	26 Dec 2012	investigate this query
+Sri Lanka	lost	5 wickets		lost	1st		Test v Australia	Sydney	3 Jan 2013	investigate this query
+Sri Lanka	lost	107 runs		lost	2nd		ODI v Australia	Melbourne	11 Jan 2013	investigate this query
+Sri Lanka	won	8 wickets	59	won	2nd		ODI v Australia	Adelaide	13 Jan 2013	investigate this query
+Sri Lanka	won	4 wickets	180	lost	2nd		ODI v Australia	Brisbane	18 Jan 2013	investigate this query
+Sri Lanka	n/r	-		lost	2nd		ODI v Australia	Sydney	20 Jan 2013	investigate this query
+Sri Lanka	lost	32 runs		won	2nd		ODI v Australia	Hobart	23 Jan 2013	investigate this query
+Sri Lanka	won	5 wickets	7	lost	2nd		T20I v Australia	Sydney	26 Jan 2013	investigate this query
+Sri Lanka	won	2 runs		lost	1st		T20I v Australia	Melbourne	28 Jan 2013	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Bangladesh	Galle	8 Mar 2013	investigate this query
+Sri Lanka	won	7 wickets		won	2nd		Test v Bangladesh	Colombo (RPS)	16 Mar 2013	investigate this query
+Sri Lanka	won	8 wickets	32	won	2nd		ODI v Bangladesh	Hambantota	23 Mar 2013	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v Bangladesh	Hambantota	25 Mar 2013	investigate this query
+Sri Lanka	lost	3 wickets	6	won	1st		ODI v Bangladesh	Pallekele	28 Mar 2013	investigate this query
+Sri Lanka	won	17 runs		lost	1st		T20I v Bangladesh	Pallekele	31 Mar 2013	investigate this query
+Sri Lanka	lost	1 wickets	81	won	1st		ODI v New Zealand	Cardiff	9 Jun 2013	investigate this query
+Sri Lanka	won	7 wickets	17	won	2nd		ODI v England	The Oval	13 Jun 2013	investigate this query
+Sri Lanka	won	20 runs		lost	1st		ODI v Australia	The Oval	17 Jun 2013	investigate this query
+Sri Lanka	lost	8 wickets	90	lost	1st		ODI v India	Cardiff	20 Jun 2013	investigate this query
+Sri Lanka	lost	6 wickets	73	lost	1st		ODI v West Indies	Kingston	28 Jun 2013	investigate this query
+Sri Lanka	won	161 runs		lost	1st		ODI v India	Kingston	2 Jul 2013	investigate this query
+Sri Lanka	won	39 runs		lost	1st		ODI v West Indies	Port of Spain	7 Jul 2013	investigate this query
+Sri Lanka	lost	81 runs		won	2nd		ODI v India	Port of Spain	9 Jul 2013	investigate this query
+Sri Lanka	lost	1 wickets	2	lost	1st		ODI v India	Port of Spain	11 Jul 2013	investigate this query
+Sri Lanka	won	180 runs		lost	1st		ODI v South Africa	Colombo (RPS)	20 Jul 2013	investigate this query
+Sri Lanka	won	17 runs		won	1st		ODI v South Africa	Colombo (RPS)	23 Jul 2013	investigate this query
+Sri Lanka	lost	56 runs		lost	2nd		ODI v South Africa	Pallekele	26 Jul 2013	investigate this query
+Sri Lanka	won	8 wickets	36	lost	2nd		ODI v South Africa	Pallekele	28 Jul 2013	investigate this query
+Sri Lanka	won	128 runs		won	1st		ODI v South Africa	Colombo (RPS)	31 Jul 2013	investigate this query
+Sri Lanka	lost	12 runs		lost	2nd		T20I v South Africa	Colombo (RPS)	2 Aug 2013	investigate this query
+Sri Lanka	lost	22 runs		lost	2nd		T20I v South Africa	Hambantota	4 Aug 2013	investigate this query
+Sri Lanka	won	6 wickets	11	lost	2nd		T20I v South Africa	Hambantota	6 Aug 2013	investigate this query
+Sri Lanka	n/r	-		lost	1st		ODI v New Zealand	Hambantota	10 Nov 2013	investigate this query
+Sri Lanka	lost	4 wickets	0	won	1st		ODI v New Zealand	Hambantota	12 Nov 2013	investigate this query
+Sri Lanka	won	36 runs		lost	1st		ODI v New Zealand	Dambulla	16 Nov 2013	investigate this query
+Sri Lanka	aban	-		-	-		T20I v New Zealand	Pallekele	19 Nov 2013	investigate this query
+Sri Lanka	won	8 wickets	13	won	2nd		T20I v New Zealand	Pallekele	21 Nov 2013	investigate this query
+Sri Lanka	lost	3 wickets	5	lost	1st		T20I v Pakistan	Dubai (DSC)	11 Dec 2013	investigate this query
+Sri Lanka	won	24 runs		lost	1st		T20I v Pakistan	Dubai (DSC)	13 Dec 2013	investigate this query
+Sri Lanka	lost	11 runs		lost	2nd		ODI v Pakistan	Sharjah	18 Dec 2013	investigate this query
+Sri Lanka	won	2 wickets	2	won	2nd		ODI v Pakistan	Dubai (DSC)	20 Dec 2013	investigate this query
+Sri Lanka	lost	113 runs		won	2nd		ODI v Pakistan	Sharjah	22 Dec 2013	investigate this query
+Sri Lanka	lost	8 wickets	53	won	1st		ODI v Pakistan	Abu Dhabi	25 Dec 2013	investigate this query
+Sri Lanka	won	2 wickets	2	lost	2nd		ODI v Pakistan	Abu Dhabi	27 Dec 2013	investigate this query
+Sri Lanka	draw	-		lost	1st		Test v Pakistan	Abu Dhabi	31 Dec 2013	investigate this query
+Sri Lanka	won	9 wickets		won	2nd		Test v Pakistan	Dubai (DSC)	8 Jan 2014	investigate this query
+Sri Lanka	lost	5 wickets		won	1st		Test v Pakistan	Sharjah	16 Jan 2014	investigate this query
+Sri Lanka	won	inns & 248 runs		won	2nd		Test v Bangladesh	Dhaka	27 Jan 2014	investigate this query
+Sri Lanka	draw	-		won	1st		Test v Bangladesh	Chittagong	4 Feb 2014	investigate this query
+Sri Lanka	won	2 runs		lost	1st		T20I v Bangladesh	Chittagong	12 Feb 2014	investigate this query
+Sri Lanka	won	3 wickets	0	lost	2nd		T20I v Bangladesh	Chittagong	14 Feb 2014	investigate this query
+Sri Lanka	won	13 runs		lost	1st		ODI v Bangladesh	Dhaka	17 Feb 2014	investigate this query
+Sri Lanka	won	61 runs		won	1st		ODI v Bangladesh	Dhaka	20 Feb 2014	investigate this query
+Sri Lanka	won	6 wickets	15	won	2nd		ODI v Bangladesh	Dhaka	22 Feb 2014	investigate this query
+Sri Lanka	won	12 runs		won	1st		ODI v Pakistan	Fatullah	25 Feb 2014	investigate this query
+Sri Lanka	won	2 wickets	4	won	2nd		ODI v India	Fatullah	28 Feb 2014	investigate this query
+Sri Lanka	won	129 runs		won	1st		ODI v Afghanistan	Dhaka	3 Mar 2014	investigate this query
+Sri Lanka	won	3 wickets	6	lost	2nd		ODI v Bangladesh	Dhaka	6 Mar 2014	investigate this query
+Sri Lanka	won	5 wickets	22	lost	2nd		ODI v Pakistan	Dhaka	8 Mar 2014	investigate this query
+Sri Lanka	won	5 runs		won	1st		T20I v South Africa	Chittagong	22 Mar 2014	investigate this query
+Sri Lanka	won	9 wickets	90	won	2nd		T20I v Netherlands	Chittagong	24 Mar 2014	investigate this query
+Sri Lanka	lost	6 wickets	4	lost	1st		T20I v England	Chittagong	27 Mar 2014	investigate this query
+Sri Lanka	won	59 runs		lost	1st		T20I v New Zealand	Chittagong	31 Mar 2014	investigate this query
+Sri Lanka	won	27 runs		won	1st		T20I v West Indies	Dhaka	3 Apr 2014	investigate this query
+Sri Lanka	won	6 wickets	13	won	2nd		T20I v India	Dhaka	6 Apr 2014	investigate this query
+Sri Lanka	won	79 runs		lost	1st		ODI v Ireland	Dublin	6 May 2014	investigate this query
+Sri Lanka	aban	-		-	-		ODI v Ireland	Dublin	8 May 2014	investigate this query
+Sri Lanka	won	9 runs		lost	1st		T20I v England	The Oval	20 May 2014	investigate this query
+Sri Lanka	lost	81 runs		won	2nd		ODI v England	The Oval	22 May 2014	investigate this query
+Sri Lanka	won	157 runs		lost	1st		ODI v England	Chester-le-Street	25 May 2014	investigate this query
+Sri Lanka	lost	10 wickets	227	lost	1st		ODI v England	Manchester	28 May 2014	investigate this query
+Sri Lanka	won	7 runs		lost	1st		ODI v England	Lord's	31 May 2014	investigate this query
+Sri Lanka	won	6 wickets	10	lost	2nd		ODI v England	Birmingham	3 Jun 2014	investigate this query
+Sri Lanka	draw	-		won	2nd		Test v England	Lord's	12 Jun 2014	investigate this query
+Sri Lanka	won	100 runs		lost	1st		Test v England	Leeds	20 Jun 2014	investigate this query
+Sri Lanka	lost	75 runs		lost	2nd		ODI v South Africa	Colombo (RPS)	6 Jul 2014	investigate this query
+Sri Lanka	won	87 runs		won	1st		ODI v South Africa	Pallekele	9 Jul 2014	investigate this query
+Sri Lanka	lost	82 runs		lost	2nd		ODI v South Africa	Hambantota	12 Jul 2014	investigate this query
+Sri Lanka	lost	153 runs		lost	2nd		Test v South Africa	Galle	16 Jul 2014	investigate this query
+Sri Lanka	draw	-		won	1st		Test v South Africa	Colombo (SSC)	24 Jul 2014	investigate this query
+Sri Lanka	won	7 wickets		lost	2nd		Test v Pakistan	Galle	6 Aug 2014	investigate this query
+Sri Lanka	won	105 runs		won	1st		Test v Pakistan	Colombo (SSC)	14 Aug 2014	investigate this query
+Sri Lanka	lost	4 wickets	1	lost	1st		ODI v Pakistan	Hambantota	23 Aug 2014	investigate this query
+Sri Lanka	won	77 runs		won	1st		ODI v Pakistan	Hambantota	26 Aug 2014	investigate this query
+Sri Lanka	won	7 wickets	178	lost	2nd		ODI v Pakistan	Dambulla	30 Aug 2014	investigate this query
+Sri Lanka	lost	169 runs		won	2nd		ODI v India	Cuttack	2 Nov 2014	investigate this query
+Sri Lanka	lost	6 wickets	33	won	1st		ODI v India	Ahmedabad	6 Nov 2014	investigate this query
+Sri Lanka	lost	6 wickets	35	won	1st		ODI v India	Hyderabad (Deccan)	9 Nov 2014	investigate this query
+Sri Lanka	lost	153 runs		lost	2nd		ODI v India	Kolkata	13 Nov 2014	investigate this query
+Sri Lanka	lost	3 wickets	8	won	1st		ODI v India	Ranchi	16 Nov 2014	investigate this query
+Sri Lanka	won	25 runs		lost	1st		ODI v England	Colombo (RPS)	26 Nov 2014	investigate this query
+Sri Lanka	won	8 wickets	64	lost	2nd		ODI v England	Colombo (RPS)	29 Nov 2014	investigate this query
+Sri Lanka	lost	5 wickets	8	won	1st		ODI v England	Hambantota	3 Dec 2014	investigate this query
+Sri Lanka	won	6 wickets	2	lost	2nd		ODI v England	Colombo (RPS)	7 Dec 2014	investigate this query
+Sri Lanka	lost	5 wickets	5	lost	1st		ODI v England	Pallekele	10 Dec 2014	investigate this query
+Sri Lanka	won	90 runs		won	1st		ODI v England	Pallekele	13 Dec 2014	investigate this query
+Sri Lanka	won	87 runs		won	1st		ODI v England	Colombo (RPS)	16 Dec 2014	investigate this query
+Sri Lanka	lost	8 wickets		won	2nd		Test v New Zealand	Christchurch	26 Dec 2014	investigate this query
+Sri Lanka	lost	193 runs		won	2nd		Test v New Zealand	Wellington	3 Jan 2015	investigate this query
+Sri Lanka	lost	3 wickets	42	won	1st		ODI v New Zealand	Christchurch	11 Jan 2015	investigate this query
+Sri Lanka	won	6 wickets	14	lost	2nd		ODI v New Zealand	Hamilton	15 Jan 2015	investigate this query
+Sri Lanka	n/r	-		won	2nd		ODI v New Zealand	Auckland	17 Jan 2015	investigate this query
+Sri Lanka	lost	4 wickets	11	won	1st		ODI v New Zealand	Nelson	20 Jan 2015	investigate this query
+Sri Lanka	lost	108 runs		won	2nd		ODI v New Zealand	Dunedin	23 Jan 2015	investigate this query
+Sri Lanka	lost	120 runs		lost	2nd		ODI v New Zealand	Dunedin	25 Jan 2015	investigate this query
+Sri Lanka	won	34 runs		won	1st		ODI v New Zealand	Wellington	29 Jan 2015	investigate this query
+Sri Lanka	lost	98 runs		won	2nd		ODI v New Zealand	Christchurch	14 Feb 2015	investigate this query
+Sri Lanka	won	4 wickets	10	won	2nd		ODI v Afghanistan	Dunedin	22 Feb 2015	investigate this query
+Sri Lanka	won	92 runs		won	1st		ODI v Bangladesh	Melbourne	26 Feb 2015	investigate this query
+Sri Lanka	won	9 wickets	16	lost	2nd		ODI v England	Wellington	1 Mar 2015	investigate this query
+Sri Lanka	lost	64 runs		lost	2nd		ODI v Australia	Sydney	8 Mar 2015	investigate this query
+Sri Lanka	won	148 runs		won	1st		ODI v Scotland	Hobart	11 Mar 2015	investigate this query
+Sri Lanka	lost	9 wickets	192	won	1st		ODI v South Africa	Sydney	18 Mar 2015	investigate this query
+Sri Lanka	lost	10 wickets		lost	1st		Test v Pakistan	Galle	17 Jun 2015	investigate this query
+Sri Lanka	won	7 wickets		lost	2nd		Test v Pakistan	Colombo (PSS)	25 Jun 2015	investigate this query
+Sri Lanka	lost	7 wickets		lost	1st		Test v Pakistan	Pallekele	3 Jul 2015	investigate this query
+Sri Lanka	lost	6 wickets	28	lost	1st		ODI v Pakistan	Dambulla	11 Jul 2015	investigate this query
+Sri Lanka	won	2 wickets	11	lost	2nd		ODI v Pakistan	Pallekele	15 Jul 2015	investigate this query
+Sri Lanka	lost	135 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	19 Jul 2015	investigate this query
+Sri Lanka	lost	7 wickets	55	won	1st		ODI v Pakistan	Colombo (RPS)	22 Jul 2015	investigate this query
+Sri Lanka	won	165 runs		won	1st		ODI v Pakistan	Hambantota	26 Jul 2015	investigate this query
+Sri Lanka	lost	29 runs		lost	2nd		T20I v Pakistan	Colombo (RPS)	30 Jul 2015	investigate this query
+Sri Lanka	lost	1 wickets	4	won	1st		T20I v Pakistan	Colombo (RPS)	1 Aug 2015	investigate this query
+Sri Lanka	won	63 runs		won	1st		Test v India	Galle	12 Aug 2015	investigate this query
+Sri Lanka	lost	278 runs		lost	2nd		Test v India	Colombo (PSS)	20 Aug 2015	investigate this query
+Sri Lanka	lost	117 runs		won	2nd		Test v India	Colombo (SSC)	28 Aug 2015	investigate this query

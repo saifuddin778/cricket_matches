@@ -1,0 +1,22 @@
+Hong Kong	lost	116 runs		won	2nd		ODI v Bangladesh	Colombo (SSC)	16 Jul 2004	investigate this query
+Hong Kong	lost	173 runs		lost	2nd		ODI v Pakistan	Colombo (SSC)	18 Jul 2004	investigate this query
+Hong Kong	lost	155 runs		lost	2nd		ODI v Pakistan	Karachi	24 Jun 2008	investigate this query
+Hong Kong	lost	256 runs		lost	2nd		ODI v India	Karachi	25 Jun 2008	investigate this query
+Hong Kong	lost	80 runs		won	2nd		T20I v Nepal	Chittagong	16 Mar 2014	investigate this query
+Hong Kong	lost	7 wickets	12	won	1st		T20I v Afghanistan	Chittagong	18 Mar 2014	investigate this query
+Hong Kong	won	2 wickets	2	won	2nd		T20I v Bangladesh	Chittagong	20 Mar 2014	investigate this query
+Hong Kong	lost	6 wickets	41	lost	1st		ODI v Afghanistan	Kuala Lumpur	1 May 2014	investigate this query
+Hong Kong	lost	2 wickets	9	lost	1st		ODI v U.A.E.	Kuala Lumpur	4 May 2014	investigate this query
+Hong Kong	lost	4 wickets	66	won	1st		ODI v P.N.G.	Townsville	8 Nov 2014	investigate this query
+Hong Kong	lost	3 wickets	4	won	1st		ODI v P.N.G.	Townsville	9 Nov 2014	investigate this query
+Hong Kong	aban	-		-	-		T20I v Nepal	Dambulla	19 Nov 2014	investigate this query
+Hong Kong	aban	-		-	-		T20I v Nepal	Dambulla	20 Nov 2014	investigate this query
+Hong Kong	aban	-		-	-		T20I v Nepal	Dambulla	21 Nov 2014	investigate this query
+Hong Kong	aban	-		-	-		T20I v Nepal	Dambulla	22 Nov 2014	investigate this query
+Hong Kong	won	2 wickets	1	won	2nd		T20I v Nepal	Colombo (PSS)	24 Nov 2014	investigate this query
+Hong Kong	aban	-		-	-		T20I v P.N.G.	Bready	13 Jul 2015	investigate this query
+Hong Kong	won	5 wickets	5	won	2nd		T20I v Nepal	Belfast	15 Jul 2015	investigate this query
+Hong Kong	won	5 runs		lost	1st		T20I v Ireland	Dublin (Malahide)	17 Jul 2015	investigate this query
+Hong Kong	won	5 wickets	0	lost	2nd		T20I v Afghanistan	Dublin (Malahide)	21 Jul 2015	investigate this query
+Hong Kong	lost	5 wickets	46	lost	1st		T20I v Scotland	Dublin (Malahide)	25 Jul 2015	investigate this query
+Hong Kong	aban	-		-	-		T20I v Ireland	Dublin (Malahide)	26 Jul 2015	investigate this query

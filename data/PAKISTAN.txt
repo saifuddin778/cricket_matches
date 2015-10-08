@@ -1,0 +1,1353 @@
+Pakistan	lost	inns & 70 runs		lost	2nd		Test v India	Delhi	16 Oct 1952	investigate this query
+Pakistan	won	inns & 43 runs		lost	2nd		Test v India	Lucknow	23 Oct 1952	investigate this query
+Pakistan	lost	10 wickets		won	1st		Test v India	Mumbai (BS)	13 Nov 1952	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Chennai	28 Nov 1952	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Kolkata	12 Dec 1952	investigate this query
+Pakistan	draw	-		lost	1st		Test v England	Lord's	10 Jun 1954	investigate this query
+Pakistan	lost	inns & 129 runs		won	1st		Test v England	Nottingham	1 Jul 1954	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Manchester	22 Jul 1954	investigate this query
+Pakistan	won	24 runs		won	1st		Test v England	The Oval	12 Aug 1954	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Dhaka	1 Jan 1955	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Bahawalpur	15 Jan 1955	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Lahore	29 Jan 1955	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Peshawar	13 Feb 1955	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Karachi	26 Feb 1955	investigate this query
+Pakistan	won	inns & 1 runs		lost	2nd		Test v New Zealand	Karachi	13 Oct 1955	investigate this query
+Pakistan	won	4 wickets		lost	2nd		Test v New Zealand	Lahore	26 Oct 1955	investigate this query
+Pakistan	draw	-		lost	2nd		Test v New Zealand	Dhaka	7 Nov 1955	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v Australia	Karachi	11 Oct 1956	investigate this query
+Pakistan	draw	-		lost	2nd		Test v West Indies	Bridgetown	17 Jan 1958	investigate this query
+Pakistan	lost	120 runs		lost	2nd		Test v West Indies	Port of Spain	5 Feb 1958	investigate this query
+Pakistan	lost	inns & 174 runs		won	1st		Test v West Indies	Kingston	26 Feb 1958	investigate this query
+Pakistan	lost	8 wickets		won	1st		Test v West Indies	Georgetown	13 Mar 1958	investigate this query
+Pakistan	won	inns & 1 runs		lost	2nd		Test v West Indies	Port of Spain	26 Mar 1958	investigate this query
+Pakistan	won	10 wickets		won	2nd		Test v West Indies	Karachi	20 Feb 1959	investigate this query
+Pakistan	won	41 runs		lost	1st		Test v West Indies	Dhaka	6 Mar 1959	investigate this query
+Pakistan	lost	inns & 156 runs		lost	2nd		Test v West Indies	Lahore	26 Mar 1959	investigate this query
+Pakistan	lost	8 wickets		lost	1st		Test v Australia	Dhaka	13 Nov 1959	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v Australia	Lahore	21 Nov 1959	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Karachi	4 Dec 1959	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Mumbai (BS)	2 Dec 1960	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Kanpur	16 Dec 1960	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Kolkata	30 Dec 1960	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Chennai	13 Jan 1961	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Delhi	8 Feb 1961	investigate this query
+Pakistan	lost	5 wickets		won	1st		Test v England	Lahore	21 Oct 1961	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Dhaka	19 Jan 1962	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Karachi	2 Feb 1962	investigate this query
+Pakistan	lost	inns & 24 runs		lost	2nd		Test v England	Birmingham	31 May 1962	investigate this query
+Pakistan	lost	9 wickets		won	1st		Test v England	Lord's	21 Jun 1962	investigate this query
+Pakistan	lost	inns & 117 runs		won	2nd		Test v England	Leeds	5 Jul 1962	investigate this query
+Pakistan	draw	-		won	2nd		Test v England	Nottingham	26 Jul 1962	investigate this query
+Pakistan	lost	10 wickets		lost	2nd		Test v England	The Oval	16 Aug 1962	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Karachi	24 Oct 1964	investigate this query
+Pakistan	draw	-		lost	1st		Test v Australia	Melbourne	4 Dec 1964	investigate this query
+Pakistan	draw	-		won	2nd		Test v New Zealand	Wellington	22 Jan 1965	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Auckland	29 Jan 1965	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Christchurch	12 Feb 1965	investigate this query
+Pakistan	won	inns & 64 runs		won	2nd		Test v New Zealand	Rawalpindi	27 Mar 1965	investigate this query
+Pakistan	draw	-		lost	1st		Test v New Zealand	Lahore	2 Apr 1965	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v New Zealand	Karachi	9 Apr 1965	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lord's	27 Jul 1967	investigate this query
+Pakistan	lost	10 wickets		won	1st		Test v England	Nottingham	10 Aug 1967	investigate this query
+Pakistan	lost	8 wickets		lost	1st		Test v England	The Oval	24 Aug 1967	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lahore	21 Feb 1969	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Dhaka	28 Feb 1969	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Karachi	6 Mar 1969	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Karachi	24 Oct 1969	investigate this query
+Pakistan	lost	5 wickets		won	1st		Test v New Zealand	Lahore	30 Oct 1969	investigate this query
+Pakistan	draw	-		lost	2nd		Test v New Zealand	Dhaka	8 Nov 1969	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Birmingham	3 Jun 1971	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lord's	17 Jun 1971	investigate this query
+Pakistan	lost	25 runs		lost	2nd		Test v England	Leeds	8 Jul 1971	investigate this query
+Pakistan	lost	inns & 114 runs		won	1st		Test v Australia	Adelaide	22 Dec 1972	investigate this query
+Pakistan	lost	92 runs		lost	2nd		Test v Australia	Melbourne	29 Dec 1972	investigate this query
+Pakistan	lost	52 runs		won	2nd		Test v Australia	Sydney	6 Jan 1973	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Wellington	2 Feb 1973	investigate this query
+Pakistan	won	inns & 166 runs		won	1st		Test v New Zealand	Dunedin	7 Feb 1973	investigate this query
+Pakistan	lost	22 runs		won	2nd		ODI v New Zealand	Christchurch	11 Feb 1973	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Auckland	16 Feb 1973	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lahore	2 Mar 1973	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Hyderabad (Sind)	16 Mar 1973	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Karachi	24 Mar 1973	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Leeds	25 Jul 1974	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Lord's	8 Aug 1974	investigate this query
+Pakistan	draw	-		won	1st		Test v England	The Oval	22 Aug 1974	investigate this query
+Pakistan	won	7 wickets	43	lost	2nd		ODI v England	Nottingham	31 Aug 1974	investigate this query
+Pakistan	won	8 wickets	102	won	2nd		ODI v England	Birmingham	3 Sep 1974	investigate this query
+Pakistan	draw	-		lost	1st		Test v West Indies	Lahore	15 Feb 1975	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Karachi	1 Mar 1975	investigate this query
+Pakistan	lost	73 runs		lost	2nd		ODI v Australia	Leeds	7 Jun 1975	investigate this query
+Pakistan	lost	1 wickets	2	won	1st		ODI v West Indies	Birmingham	11 Jun 1975	investigate this query
+Pakistan	won	192 runs		lost	1st		ODI v Sri Lanka	Nottingham	14 Jun 1975	investigate this query
+Pakistan	won	6 wickets		won	1st		Test v New Zealand	Lahore	9 Oct 1976	investigate this query
+Pakistan	lost	1 runs		lost	2nd		ODI v New Zealand	Sialkot	16 Oct 1976	investigate this query
+Pakistan	won	10 wickets		won	1st		Test v New Zealand	Hyderabad (Sind)	23 Oct 1976	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Karachi	30 Oct 1976	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Adelaide	24 Dec 1976	investigate this query
+Pakistan	lost	348 runs		lost	2nd		Test v Australia	Melbourne	1 Jan 1977	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v Australia	Sydney	14 Jan 1977	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Bridgetown	18 Feb 1977	investigate this query
+Pakistan	lost	6 wickets		won	1st		Test v West Indies	Port of Spain	4 Mar 1977	investigate this query
+Pakistan	lost	4 wickets	10	lost	1st		ODI v West Indies	Albion	16 Mar 1977	investigate this query
+Pakistan	draw	-		lost	1st		Test v West Indies	Georgetown	18 Mar 1977	investigate this query
+Pakistan	won	266 runs		lost	1st		Test v West Indies	Port of Spain	1 Apr 1977	investigate this query
+Pakistan	lost	140 runs		lost	2nd		Test v West Indies	Kingston	15 Apr 1977	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Lahore	14 Dec 1977	investigate this query
+Pakistan	lost	3 wickets	0	won	1st		ODI v England	Sahiwal	23 Dec 1977	investigate this query
+Pakistan	lost	6 wickets	17	lost	1st		ODI v England	Sialkot	30 Dec 1977	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Hyderabad (Sind)	2 Jan 1978	investigate this query
+Pakistan	won	36 runs		lost	1st		ODI v England	Lahore	13 Jan 1978	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Karachi	18 Jan 1978	investigate this query
+Pakistan	lost	132 runs		lost	2nd		ODI v England	Manchester	24 May 1978	investigate this query
+Pakistan	lost	94 runs		won	2nd		ODI v England	The Oval	26 May 1978	investigate this query
+Pakistan	lost	inns & 57 runs		won	1st		Test v England	Birmingham	1 Jun 1978	investigate this query
+Pakistan	lost	inns & 120 runs		lost	2nd		Test v England	Lord's	15 Jun 1978	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Leeds	29 Jun 1978	investigate this query
+Pakistan	lost	4 runs		lost	2nd		ODI v India	Quetta	1 Oct 1978	investigate this query
+Pakistan	won	8 wickets	139	won	2nd		ODI v India	Sialkot	13 Oct 1978	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Faisalabad	16 Oct 1978	investigate this query
+Pakistan	won	8 wickets		won	2nd		Test v India	Lahore	27 Oct 1978	investigate this query
+Pakistan	won			won	1st		ODI v India	Sahiwal	3 Nov 1978	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v India	Karachi	14 Nov 1978	investigate this query
+Pakistan	won	128 runs		lost	1st		Test v New Zealand	Christchurch	2 Feb 1979	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Napier	16 Feb 1979	investigate this query
+Pakistan	draw	-		won	2nd		Test v New Zealand	Auckland	23 Feb 1979	investigate this query
+Pakistan	won	71 runs		lost	1st		Test v Australia	Melbourne	10 Mar 1979	investigate this query
+Pakistan	lost	7 wickets		lost	1st		Test v Australia	Perth	24 Mar 1979	investigate this query
+Pakistan	won	8 wickets	119	lost	2nd		ODI v Canada	Leeds	9 Jun 1979	investigate this query
+Pakistan	won	89 runs		lost	1st		ODI v Australia	Nottingham	13 Jun 1979	investigate this query
+Pakistan	lost	14 runs		won	2nd		ODI v England	Leeds	16 Jun 1979	investigate this query
+Pakistan	lost	43 runs		won	2nd		ODI v West Indies	The Oval	20 Jun 1979	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Bangalore	21 Nov 1979	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Delhi	4 Dec 1979	investigate this query
+Pakistan	lost	131 runs		lost	2nd		Test v India	Mumbai	16 Dec 1979	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Kanpur	25 Dec 1979	investigate this query
+Pakistan	lost	10 wickets		won	1st		Test v India	Chennai	15 Jan 1980	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Kolkata	29 Jan 1980	investigate this query
+Pakistan	won	7 wickets		lost	2nd		Test v Australia	Karachi	27 Feb 1980	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Faisalabad	6 Mar 1980	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Lahore	18 Mar 1980	investigate this query
+Pakistan	lost	4 wickets	0	lost	1st		ODI v West Indies	Karachi	21 Nov 1980	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Lahore	24 Nov 1980	investigate this query
+Pakistan	lost	7 wickets	27	lost	1st		ODI v West Indies	Sialkot	5 Dec 1980	investigate this query
+Pakistan	lost	156 runs		lost	2nd		Test v West Indies	Faisalabad	8 Dec 1980	investigate this query
+Pakistan	lost	7 runs		won	2nd		ODI v West Indies	Lahore	19 Dec 1980	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Karachi	22 Dec 1980	investigate this query
+Pakistan	draw	-		lost	2nd		Test v West Indies	Multan	30 Dec 1980	investigate this query
+Pakistan	lost	286 runs		won	2nd		Test v Australia	Perth	13 Nov 1981	investigate this query
+Pakistan	lost	18 runs		won	2nd		ODI v West Indies	Melbourne	21 Nov 1981	investigate this query
+Pakistan	won	4 wickets	4	won	2nd		ODI v Australia	Melbourne	22 Nov 1981	investigate this query
+Pakistan	lost	10 wickets		lost	1st		Test v Australia	Brisbane	27 Nov 1981	investigate this query
+Pakistan	won	8 runs		lost	1st		ODI v West Indies	Adelaide	5 Dec 1981	investigate this query
+Pakistan	lost	38 runs		lost	2nd		ODI v Australia	Adelaide	6 Dec 1981	investigate this query
+Pakistan	won	inns & 82 runs		won	1st		Test v Australia	Melbourne	11 Dec 1981	investigate this query
+Pakistan	won	6 wickets	40	won	2nd		ODI v Australia	Sydney	17 Dec 1981	investigate this query
+Pakistan	lost	7 wickets	46	won	1st		ODI v West Indies	Perth	19 Dec 1981	investigate this query
+Pakistan	won	25 runs		lost	1st		ODI v Australia	Melbourne	9 Jan 1982	investigate this query
+Pakistan	lost	7 wickets	47	won	1st		ODI v West Indies	Sydney	12 Jan 1982	investigate this query
+Pakistan	lost	76 runs		won	2nd		ODI v Australia	Sydney	14 Jan 1982	investigate this query
+Pakistan	lost	1 wickets	7	lost	1st		ODI v West Indies	Brisbane	16 Jan 1982	investigate this query
+Pakistan	won	204 runs		won	1st		Test v Sri Lanka	Karachi	5 Mar 1982	investigate this query
+Pakistan	won	8 wickets	22	won	2nd		ODI v Sri Lanka	Karachi	12 Mar 1982	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Faisalabad	14 Mar 1982	investigate this query
+Pakistan	won	inns & 102 runs		won	2nd		Test v Sri Lanka	Lahore	22 Mar 1982	investigate this query
+Pakistan	lost	30 runs		lost	1st		ODI v Sri Lanka	Lahore	29 Mar 1982	investigate this query
+Pakistan	won	5 wickets	11	won	2nd		ODI v Sri Lanka	Karachi	31 Mar 1982	investigate this query
+Pakistan	lost	7 wickets	47	won	1st		ODI v England	Nottingham	17 Jul 1982	investigate this query
+Pakistan	lost	73 runs		won	2nd		ODI v England	Manchester	19 Jul 1982	investigate this query
+Pakistan	lost	113 runs		lost	2nd		Test v England	Birmingham	29 Jul 1982	investigate this query
+Pakistan	won	10 wickets		won	1st		Test v England	Lord's	12 Aug 1982	investigate this query
+Pakistan	lost	3 wickets		won	1st		Test v England	Leeds	26 Aug 1982	investigate this query
+Pakistan	won	59 runs		lost	1st		ODI v Australia	Hyderabad (Sind)	20 Sep 1982	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v Australia	Karachi	22 Sep 1982	investigate this query
+Pakistan	won	inns & 3 runs		won	1st		Test v Australia	Faisalabad	30 Sep 1982	investigate this query
+Pakistan	won	28 runs		lost	1st		ODI v Australia	Lahore	8 Oct 1982	investigate this query
+Pakistan	won	9 wickets		won	2nd		Test v Australia	Lahore	14 Oct 1982	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v Australia	Karachi	22 Oct 1982	investigate this query
+Pakistan	won	14 runs		lost	1st		ODI v India	Gujranwala	3 Dec 1982	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Lahore	10 Dec 1982	investigate this query
+Pakistan	won	37 runs		won	1st		ODI v India	Multan	17 Dec 1982	investigate this query
+Pakistan	won	inns & 86 runs		won	2nd		Test v India	Karachi	23 Dec 1982	investigate this query
+Pakistan	lost	18 runs		won	1st		ODI v India	Lahore	31 Dec 1982	investigate this query
+Pakistan	won	10 wickets		won	2nd		Test v India	Faisalabad	3 Jan 1983	investigate this query
+Pakistan	won	inns & 119 runs		won	1st		Test v India	Hyderabad (Sind)	14 Jan 1983	investigate this query
+Pakistan	won	8 wickets	30	lost	2nd		ODI v India	Karachi	21 Jan 1983	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Lahore	23 Jan 1983	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Karachi	30 Jan 1983	investigate this query
+Pakistan	won	50 runs		lost	1st		ODI v Sri Lanka	Swansea	9 Jun 1983	investigate this query
+Pakistan	lost	52 runs		won	2nd		ODI v New Zealand	Birmingham	11 Jun 1983	investigate this query
+Pakistan	lost	8 wickets	56	won	1st		ODI v England	Lord's	13 Jun 1983	investigate this query
+Pakistan	won	11 runs		lost	1st		ODI v Sri Lanka	Leeds	16 Jun 1983	investigate this query
+Pakistan	lost	7 wickets	16	won	1st		ODI v England	Manchester	18 Jun 1983	investigate this query
+Pakistan	won	11 runs		won	1st		ODI v New Zealand	Nottingham	20 Jun 1983	investigate this query
+Pakistan	lost	8 wickets	68	lost	1st		ODI v West Indies	The Oval	22 Jun 1983	investigate this query
+Pakistan	lost	4 wickets	18	lost	1st		ODI v India	Hyderabad (Deccan)	10 Sep 1983	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Bangalore	14 Sep 1983	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Jalandhar	24 Sep 1983	investigate this query
+Pakistan	lost	4 wickets	32	lost	1st		ODI v India	Jaipur	2 Oct 1983	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Nagpur	5 Oct 1983	investigate this query
+Pakistan	lost	inns & 9 runs		won	2nd		Test v Australia	Perth	11 Nov 1983	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Brisbane	25 Nov 1983	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Adelaide	9 Dec 1983	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Melbourne	26 Dec 1983	investigate this query
+Pakistan	lost	10 wickets		lost	1st		Test v Australia	Sydney	2 Jan 1984	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v Australia	Sydney	10 Jan 1984	investigate this query
+Pakistan	won	97 runs		won	1st		ODI v West Indies	Melbourne	12 Jan 1984	investigate this query
+Pakistan	lost	5 wickets	58	won	1st		ODI v West Indies	Brisbane	14 Jan 1984	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v Australia	Brisbane	15 Jan 1984	investigate this query
+Pakistan	lost	5 wickets	9	won	1st		ODI v West Indies	Sydney	19 Jan 1984	investigate this query
+Pakistan	lost	43 runs		lost	2nd		ODI v Australia	Melbourne	21 Jan 1984	investigate this query
+Pakistan	lost	87 runs		lost	2nd		ODI v Australia	Sydney	25 Jan 1984	investigate this query
+Pakistan	lost	1 wickets	5	won	1st		ODI v West Indies	Adelaide	28 Jan 1984	investigate this query
+Pakistan	lost	70 runs		lost	2nd		ODI v Australia	Adelaide	30 Jan 1984	investigate this query
+Pakistan	lost	7 wickets	30	won	1st		ODI v West Indies	Perth	4 Feb 1984	investigate this query
+Pakistan	won	3 wickets		lost	2nd		Test v England	Karachi	2 Mar 1984	investigate this query
+Pakistan	won	6 wickets	8	won	2nd		ODI v England	Lahore	9 Mar 1984	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Faisalabad	12 Mar 1984	investigate this query
+Pakistan	draw	-		won	2nd		Test v England	Lahore	19 Mar 1984	investigate this query
+Pakistan	lost	6 wickets	8	lost	1st		ODI v England	Karachi	26 Mar 1984	investigate this query
+Pakistan	lost	5 wickets	15	lost	1st		ODI v Sri Lanka	Sharjah	6 Apr 1984	investigate this query
+Pakistan	lost	54 runs		lost	2nd		ODI v India	Sharjah	13 Apr 1984	investigate this query
+Pakistan	won	46 runs		lost	1st		ODI v India	Quetta	12 Oct 1984	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Lahore	17 Oct 1984	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Faisalabad	24 Oct 1984	investigate this query
+Pakistan	n/r	-		won	2nd		ODI v India	Sialkot	31 Oct 1984	investigate this query
+Pakistan	canc	-		-	-		ODI v India	Peshawar	2 Nov 1984	investigate this query
+Pakistan	canc	-		-	-		Test v India	Karachi	4 Nov 1984	investigate this query
+Pakistan	won	46 runs		lost	1st		ODI v New Zealand	Peshawar	12 Nov 1984	investigate this query
+Pakistan	won	6 wickets		lost	2nd		Test v New Zealand	Lahore	16 Nov 1984	investigate this query
+Pakistan	won	5 runs		lost	1st		ODI v New Zealand	Faisalabad	23 Nov 1984	investigate this query
+Pakistan	won	7 wickets		lost	2nd		Test v New Zealand	Hyderabad (Sind)	25 Nov 1984	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v New Zealand	Sialkot	2 Dec 1984	investigate this query
+Pakistan	won	1 wickets	0	lost	2nd		ODI v New Zealand	Multan	7 Dec 1984	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Karachi	10 Dec 1984	investigate this query
+Pakistan	lost	110 runs		lost	2nd		ODI v New Zealand	Napier	12 Jan 1985	investigate this query
+Pakistan	lost	4 wickets	7	won	1st		ODI v New Zealand	Hamilton	15 Jan 1985	investigate this query
+Pakistan	draw	-		lost	2nd		Test v New Zealand	Wellington	18 Jan 1985	investigate this query
+Pakistan	lost	inns & 99 runs		lost	1st		Test v New Zealand	Auckland	25 Jan 1985	investigate this query
+Pakistan	lost	13 runs		lost	2nd		ODI v New Zealand	Christchurch	6 Feb 1985	investigate this query
+Pakistan	lost	2 wickets		lost	1st		Test v New Zealand	Dunedin	9 Feb 1985	investigate this query
+Pakistan	n/r	-		won	1st		ODI v New Zealand	Auckland	16 Feb 1985	investigate this query
+Pakistan	lost	6 wickets	25	won	1st		ODI v India	Melbourne	20 Feb 1985	investigate this query
+Pakistan	won	62 runs		lost	1st		ODI v Australia	Melbourne	24 Feb 1985	investigate this query
+Pakistan	won	67 runs		won	1st		ODI v England	Melbourne	2 Mar 1985	investigate this query
+Pakistan	won	7 wickets	24	lost	2nd		ODI v West Indies	Melbourne	6 Mar 1985	investigate this query
+Pakistan	lost	8 wickets	17	won	1st		ODI v India	Melbourne	10 Mar 1985	investigate this query
+Pakistan	lost	38 runs		won	2nd		ODI v India	Sharjah	22 Mar 1985	investigate this query
+Pakistan	won	43 runs		lost	1st		ODI v England	Sharjah	26 Mar 1985	investigate this query
+Pakistan	won	8 wickets	43	won	2nd		ODI v Sri Lanka	Peshawar	13 Oct 1985	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Faisalabad	16 Oct 1985	investigate this query
+Pakistan	won	15 runs		lost	1st		ODI v Sri Lanka	Gujranwala	23 Oct 1985	investigate this query
+Pakistan	won	5 wickets	9	won	2nd		ODI v Sri Lanka	Lahore	25 Oct 1985	investigate this query
+Pakistan	won	8 wickets		won	2nd		Test v Sri Lanka	Sialkot	27 Oct 1985	investigate this query
+Pakistan	won	89 runs		lost	1st		ODI v Sri Lanka	Hyderabad (Sind)	3 Nov 1985	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v Sri Lanka	Karachi	7 Nov 1985	investigate this query
+Pakistan	lost	7 wickets	5	won	1st		ODI v West Indies	Sharjah	15 Nov 1985	investigate this query
+Pakistan	won	48 runs		lost	1st		ODI v India	Sharjah	17 Nov 1985	investigate this query
+Pakistan	lost	8 wickets	27	lost	1st		ODI v West Indies	Gujranwala	27 Nov 1985	investigate this query
+Pakistan	won	6 wickets	9	won	2nd		ODI v West Indies	Lahore	29 Nov 1985	investigate this query
+Pakistan	lost	40 runs		lost	2nd		ODI v West Indies	Peshawar	2 Dec 1985	investigate this query
+Pakistan	won	5 wickets	5	won	2nd		ODI v West Indies	Rawalpindi	4 Dec 1985	investigate this query
+Pakistan	lost	8 wickets	23	lost	1st		ODI v West Indies	Karachi	6 Dec 1985	investigate this query
+Pakistan	won	inns & 20 runs		lost	2nd		Test v Sri Lanka	Kandy	23 Feb 1986	investigate this query
+Pakistan	won	8 wickets	9	won	2nd		ODI v Sri Lanka	Kandy	2 Mar 1986	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v Sri Lanka	Moratuwa	8 Mar 1986	investigate this query
+Pakistan	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	9 Mar 1986	investigate this query
+Pakistan	won	8 wickets	6	won	2nd		ODI v Sri Lanka	Colombo (SSC)	11 Mar 1986	investigate this query
+Pakistan	lost	8 wickets		lost	1st		Test v Sri Lanka	Colombo (CCC)	14 Mar 1986	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Colombo (PSS)	22 Mar 1986	investigate this query
+Pakistan	won	81 runs		lost	1st		ODI v Sri Lanka	Colombo (PSS)	30 Mar 1986	investigate this query
+Pakistan	won	7 wickets	77	won	2nd		ODI v Bangladesh	Moratuwa	31 Mar 1986	investigate this query
+Pakistan	lost	5 wickets	16	lost	1st		ODI v Sri Lanka	Colombo (SSC)	6 Apr 1986	investigate this query
+Pakistan	won	4 wickets	8	won	2nd		ODI v New Zealand	Colombo (SSC)	7 Apr 1986	investigate this query
+Pakistan	won	8 wickets	5	lost	2nd		ODI v Australia	Sharjah	11 Apr 1986	investigate this query
+Pakistan	won	10 wickets	164	won	2nd		ODI v New Zealand	Sharjah	15 Apr 1986	investigate this query
+Pakistan	won	1 wickets	0	won	2nd		ODI v India	Sharjah	18 Apr 1986	investigate this query
+Pakistan	lost	4 wickets	21	won	1st		ODI v West Indies	Peshawar	17 Oct 1986	investigate this query
+Pakistan	won	186 runs		won	1st		Test v West Indies	Faisalabad	24 Oct 1986	investigate this query
+Pakistan	lost	17 runs		won	2nd		ODI v West Indies	Gujranwala	4 Nov 1986	investigate this query
+Pakistan	lost	inns & 10 runs		won	1st		Test v West Indies	Lahore	7 Nov 1986	investigate this query
+Pakistan	lost	4 wickets	3	won	1st		ODI v West Indies	Sialkot	14 Nov 1986	investigate this query
+Pakistan	lost	89 runs		won	2nd		ODI v West Indies	Multan	17 Nov 1986	investigate this query
+Pakistan	won	11 runs		lost	1st		ODI v West Indies	Hyderabad (Sind)	18 Nov 1986	investigate this query
+Pakistan	draw	-		lost	2nd		Test v West Indies	Karachi	20 Nov 1986	investigate this query
+Pakistan	lost	9 wickets	70	won	1st		ODI v West Indies	Sharjah	28 Nov 1986	investigate this query
+Pakistan	won	4 wickets	6	won	2nd		ODI v Sri Lanka	Sharjah	2 Dec 1986	investigate this query
+Pakistan	won	3 wickets	9	won	2nd		ODI v India	Sharjah	5 Dec 1986	investigate this query
+Pakistan	won	34 runs		lost	1st		ODI v West Indies	Perth	30 Dec 1986	investigate this query
+Pakistan	won	1 wickets	1	lost	2nd		ODI v Australia	Perth	2 Jan 1987	investigate this query
+Pakistan	lost	3 wickets	2	won	1st		ODI v England	Perth	5 Jan 1987	investigate this query
+Pakistan	lost	5 wickets	59	lost	1st		ODI v England	Perth	7 Jan 1987	investigate this query
+Pakistan	won	3 wickets	6	won	2nd		ODI v India	Indore	27 Jan 1987	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Chennai	3 Feb 1987	investigate this query
+Pakistan	draw	-		won	2nd		Test v India	Kolkata	11 Feb 1987	investigate this query
+Pakistan	won	2 wickets	3	won	2nd		ODI v India	Kolkata	18 Feb 1987	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Jaipur	21 Feb 1987	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Ahmedabad	4 Mar 1987	investigate this query
+Pakistan	won	16 runs		won	1st		Test v India	Bangalore	13 Mar 1987	investigate this query
+Pakistan	lost			won	2nd		ODI v India	Hyderabad (Deccan)	20 Mar 1987	investigate this query
+Pakistan	won	6 wickets	28	lost	2nd		ODI v India	Pune	22 Mar 1987	investigate this query
+Pakistan	won	41 runs		lost	1st		ODI v India	Nagpur	24 Mar 1987	investigate this query
+Pakistan	won	5 wickets	4	won	2nd		ODI v India	Jamshedpur	26 Mar 1987	investigate this query
+Pakistan	won	6 wickets	20	won	2nd		ODI v Australia	Sharjah	3 Apr 1987	investigate this query
+Pakistan	lost	5 wickets	16	lost	1st		ODI v England	Sharjah	7 Apr 1987	investigate this query
+Pakistan	won	8 wickets	50	won	2nd		ODI v India	Sharjah	10 Apr 1987	investigate this query
+Pakistan	lost	7 wickets	11	lost	1st		ODI v England	The Oval	21 May 1987	investigate this query
+Pakistan	won	6 wickets	18	won	2nd		ODI v England	Nottingham	23 May 1987	investigate this query
+Pakistan	lost	1 wickets	3	lost	1st		ODI v England	Birmingham	25 May 1987	investigate this query
+Pakistan	draw	-		won	2nd		Test v England	Manchester	4 Jun 1987	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lord's	18 Jun 1987	investigate this query
+Pakistan	won	inns & 18 runs		lost	2nd		Test v England	Leeds	2 Jul 1987	investigate this query
+Pakistan	draw	-		lost	1st		Test v England	Birmingham	23 Jul 1987	investigate this query
+Pakistan	draw	-		won	1st		Test v England	The Oval	6 Aug 1987	investigate this query
+Pakistan	won	15 runs		won	1st		ODI v Sri Lanka	Hyderabad (Sind)	8 Oct 1987	investigate this query
+Pakistan	won	18 runs		lost	1st		ODI v England	Rawalpindi	12 Oct 1987	investigate this query
+Pakistan	won	1 wickets	0	lost	2nd		ODI v West Indies	Lahore	16 Oct 1987	investigate this query
+Pakistan	won	7 wickets	6	won	2nd		ODI v England	Karachi	20 Oct 1987	investigate this query
+Pakistan	won	113 runs		won	1st		ODI v Sri Lanka	Faisalabad	25 Oct 1987	investigate this query
+Pakistan	lost	28 runs		lost	2nd		ODI v West Indies	Karachi	30 Oct 1987	investigate this query
+Pakistan	lost	18 runs		lost	2nd		ODI v Australia	Lahore	4 Nov 1987	investigate this query
+Pakistan	lost	2 wickets	3	won	1st		ODI v England	Lahore	18 Nov 1987	investigate this query
+Pakistan	lost	23 runs		lost	2nd		ODI v England	Karachi	20 Nov 1987	investigate this query
+Pakistan	lost	98 runs		lost	2nd		ODI v England	Peshawar	22 Nov 1987	investigate this query
+Pakistan	won	inns & 87 runs		lost	2nd		Test v England	Lahore	25 Nov 1987	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Faisalabad	7 Dec 1987	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Karachi	16 Dec 1987	investigate this query
+Pakistan	lost	47 runs		won	2nd		ODI v West Indies	Kingston	12 Mar 1988	investigate this query
+Pakistan	lost	5 wickets	53	lost	1st		ODI v West Indies	St John's	15 Mar 1988	investigate this query
+Pakistan	lost	50 runs		won	2nd		ODI v West Indies	Port of Spain	18 Mar 1988	investigate this query
+Pakistan	lost	7 wickets	17	won	1st		ODI v West Indies	Port of Spain	20 Mar 1988	investigate this query
+Pakistan	lost	7 wickets	36	lost	1st		ODI v West Indies	Georgetown	30 Mar 1988	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v West Indies	Georgetown	2 Apr 1988	investigate this query
+Pakistan	draw	-		won	2nd		Test v West Indies	Port of Spain	14 Apr 1988	investigate this query
+Pakistan	lost	2 wickets		lost	1st		Test v West Indies	Bridgetown	22 Apr 1988	investigate this query
+Pakistan	won	inns & 188 runs		won	1st		Test v Australia	Karachi	15 Sep 1988	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Faisalabad	23 Sep 1988	investigate this query
+Pakistan	aban	-		-	-		ODI v Australia	Gujranwala	30 Sep 1988	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Lahore	7 Oct 1988	investigate this query
+Pakistan	aban	-		-	-		ODI v Australia	Karachi	14 Oct 1988	investigate this query
+Pakistan	won			won	2nd		ODI v Australia	Lahore	14 Oct 1988	investigate this query
+Pakistan	won	84 runs		lost	1st		ODI v West Indies	Sharjah	18 Oct 1988	investigate this query
+Pakistan	won	34 runs		lost	1st		ODI v India	Sharjah	19 Oct 1988	investigate this query
+Pakistan	lost	11 runs		won	2nd		ODI v West Indies	Sharjah	22 Oct 1988	investigate this query
+Pakistan	lost	5 wickets	31	lost	1st		ODI v Sri Lanka	Dhaka	27 Oct 1988	investigate this query
+Pakistan	won	173 runs		won	1st		ODI v Bangladesh	Chittagong	29 Oct 1988	investigate this query
+Pakistan	lost	4 wickets	26	lost	1st		ODI v India	Dhaka	31 Oct 1988	investigate this query
+Pakistan	lost	89 runs		won	2nd		ODI v West Indies	Adelaide	10 Dec 1988	investigate this query
+Pakistan	lost	9 wickets	34	won	1st		ODI v Australia	Adelaide	11 Dec 1988	investigate this query
+Pakistan	lost	17 runs		won	2nd		ODI v West Indies	Hobart	17 Dec 1988	investigate this query
+Pakistan	lost	7 wickets	70	lost	1st		ODI v West Indies	Perth	1 Jan 1989	investigate this query
+Pakistan	won	38 runs		won	1st		ODI v Australia	Perth	2 Jan 1989	investigate this query
+Pakistan	won	55 runs		lost	1st		ODI v West Indies	Brisbane	7 Jan 1989	investigate this query
+Pakistan	lost	5 wickets	31	won	1st		ODI v Australia	Brisbane	8 Jan 1989	investigate this query
+Pakistan	lost	6 runs		won	2nd		ODI v Australia	Melbourne	10 Jan 1989	investigate this query
+Pakistan	aban	-		-	-		Test v New Zealand	Dunedin	3 Feb 1989	investigate this query
+Pakistan	lost	8 wickets	9	lost	1st		ODI v New Zealand	Dunedin	6 Feb 1989	investigate this query
+Pakistan	draw	-		won	2nd		Test v New Zealand	Wellington	10 Feb 1989	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Auckland	24 Feb 1989	investigate this query
+Pakistan	lost	7 wickets	37	lost	1st		ODI v New Zealand	Christchurch	4 Mar 1989	investigate this query
+Pakistan	lost	6 wickets	19	lost	1st		ODI v New Zealand	Wellington	8 Mar 1989	investigate this query
+Pakistan	won	7 wickets	9	won	2nd		ODI v New Zealand	Auckland	11 Mar 1989	investigate this query
+Pakistan	lost	7 wickets	62	lost	1st		ODI v New Zealand	Hamilton	14 Mar 1989	investigate this query
+Pakistan	won	30 runs		lost	1st		ODI v Sri Lanka	Sharjah	23 Mar 1989	investigate this query
+Pakistan	won	7 wickets	13	lost	2nd		ODI v Sri Lanka	Sharjah	24 Mar 1989	investigate this query
+Pakistan	won	11 runs		lost	1st		ODI v West Indies	Sharjah	14 Oct 1989	investigate this query
+Pakistan	won	6 wickets	8	lost	2nd		ODI v India	Sharjah	15 Oct 1989	investigate this query
+Pakistan	won	57 runs		won	1st		ODI v West Indies	Sharjah	17 Oct 1989	investigate this query
+Pakistan	won	38 runs		lost	1st		ODI v India	Sharjah	20 Oct 1989	investigate this query
+Pakistan	lost	4 wickets	40	won	1st		ODI v England	Cuttack	22 Oct 1989	investigate this query
+Pakistan	won	66 runs		lost	1st		ODI v Australia	Mumbai (BS)	23 Oct 1989	investigate this query
+Pakistan	lost	6 wickets	9	won	1st		ODI v West Indies	Jalandhar	25 Oct 1989	investigate this query
+Pakistan	won	6 runs		won	1st		ODI v Sri Lanka	Lucknow	27 Oct 1989	investigate this query
+Pakistan	won	77 runs		lost	1st		ODI v India	Kolkata	28 Oct 1989	investigate this query
+Pakistan	won	6 wickets	9	won	2nd		ODI v England	Nagpur	30 Oct 1989	investigate this query
+Pakistan	won	4 wickets	1	lost	2nd		ODI v West Indies	Kolkata	1 Nov 1989	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Karachi	15 Nov 1989	investigate this query
+Pakistan	draw	-		won	2nd		Test v India	Faisalabad	23 Nov 1989	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Lahore	1 Dec 1989	investigate this query
+Pakistan	draw	-		won	2nd		Test v India	Sialkot	9 Dec 1989	investigate this query
+Pakistan	aban	-		-	-		ODI v India	Peshawar	16 Dec 1989	investigate this query
+Pakistan	won	7 runs		lost	1st		ODI v India	Gujranwala	18 Dec 1989	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v India	Karachi	20 Dec 1989	investigate this query
+Pakistan	won	38 runs		lost	1st		ODI v India	Lahore	22 Dec 1989	investigate this query
+Pakistan	lost	3 wickets	9	won	1st		ODI v Sri Lanka	Perth	31 Dec 1989	investigate this query
+Pakistan	lost	7 wickets	54	won	1st		ODI v Australia	Melbourne	3 Jan 1990	investigate this query
+Pakistan	lost	92 runs		won	2nd		Test v Australia	Melbourne	12 Jan 1990	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Adelaide	19 Jan 1990	investigate this query
+Pakistan	draw	-		lost	1st		Test v Australia	Sydney	3 Feb 1990	investigate this query
+Pakistan	won	5 wickets	18	won	2nd		ODI v Sri Lanka	Brisbane	10 Feb 1990	investigate this query
+Pakistan	lost	67 runs		won	2nd		ODI v Australia	Brisbane	11 Feb 1990	investigate this query
+Pakistan	won	5 wickets	9	won	2nd		ODI v Australia	Sydney	13 Feb 1990	investigate this query
+Pakistan	won	6 wickets	9	won	2nd		ODI v Sri Lanka	Hobart	15 Feb 1990	investigate this query
+Pakistan	won	27 runs		lost	1st		ODI v Sri Lanka	Adelaide	17 Feb 1990	investigate this query
+Pakistan	won	2 runs		won	1st		ODI v Australia	Sydney	20 Feb 1990	investigate this query
+Pakistan	lost	7 wickets	25	lost	1st		ODI v Australia	Melbourne	23 Feb 1990	investigate this query
+Pakistan	lost	69 runs		lost	2nd		ODI v Australia	Sydney	25 Feb 1990	investigate this query
+Pakistan	won	26 runs		lost	1st		ODI v India	Sharjah	27 Apr 1990	investigate this query
+Pakistan	won	90 runs		lost	1st		ODI v Sri Lanka	Sharjah	29 Apr 1990	investigate this query
+Pakistan	won	8 wickets	206	lost	2nd		ODI v New Zealand	Sharjah	1 May 1990	investigate this query
+Pakistan	won	36 runs		won	1st		ODI v Australia	Sharjah	4 May 1990	investigate this query
+Pakistan	won	inns & 43 runs		won	2nd		Test v New Zealand	Karachi	10 Oct 1990	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v New Zealand	Lahore	18 Oct 1990	investigate this query
+Pakistan	won	65 runs		lost	1st		Test v New Zealand	Faisalabad	26 Oct 1990	investigate this query
+Pakistan	won	19 runs		lost	1st		ODI v New Zealand	Lahore	2 Nov 1990	investigate this query
+Pakistan	won	8 wickets	65	lost	2nd		ODI v New Zealand	Peshawar	4 Nov 1990	investigate this query
+Pakistan	won	105 runs		lost	1st		ODI v New Zealand	Sialkot	6 Nov 1990	investigate this query
+Pakistan	won	6 runs		won	1st		ODI v West Indies	Karachi	9 Nov 1990	investigate this query
+Pakistan	won	5 wickets	11	lost	2nd		ODI v West Indies	Lahore	11 Nov 1990	investigate this query
+Pakistan	won	31 runs		won	1st		ODI v West Indies	Multan	13 Nov 1990	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v West Indies	Karachi	15 Nov 1990	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v West Indies	Faisalabad	23 Nov 1990	investigate this query
+Pakistan	draw	-		lost	2nd		Test v West Indies	Lahore	6 Dec 1990	investigate this query
+Pakistan	lost	6 wickets	31	lost	1st		ODI v Sri Lanka	Sharjah	20 Dec 1990	investigate this query
+Pakistan	won	50 runs		lost	1st		ODI v Sri Lanka	Sharjah	21 Dec 1990	investigate this query
+Pakistan	lost	1 wickets	15	lost	1st		ODI v West Indies	Sharjah	17 Oct 1991	investigate this query
+Pakistan	lost	60 runs		lost	2nd		ODI v India	Sharjah	18 Oct 1991	investigate this query
+Pakistan	won	1 runs		won	1st		ODI v West Indies	Sharjah	21 Oct 1991	investigate this query
+Pakistan	won	4 runs		won	1st		ODI v India	Sharjah	23 Oct 1991	investigate this query
+Pakistan	won	72 runs		lost	1st		ODI v India	Sharjah	25 Oct 1991	investigate this query
+Pakistan	lost	24 runs		lost	2nd		ODI v West Indies	Karachi	20 Nov 1991	investigate this query
+Pakistan	tied	-		won	2nd		ODI v West Indies	Lahore	22 Nov 1991	investigate this query
+Pakistan	lost	17 runs		won	2nd		ODI v West Indies	Faisalabad	24 Nov 1991	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Sialkot	12 Dec 1991	investigate this query
+Pakistan	draw	-		lost	1st		Test v Sri Lanka	Gujranwala	20 Dec 1991	investigate this query
+Pakistan	won	3 wickets		won	2nd		Test v Sri Lanka	Faisalabad	2 Jan 1992	investigate this query
+Pakistan	won	8 wickets	19	won	2nd		ODI v Sri Lanka	Sargodha	10 Jan 1992	investigate this query
+Pakistan	won	29 runs		lost	1st		ODI v Sri Lanka	Karachi	13 Jan 1992	investigate this query
+Pakistan	won	59 runs		lost	1st		ODI v Sri Lanka	Hyderabad (Sind)	15 Jan 1992	investigate this query
+Pakistan	lost	4 wickets	2	lost	1st		ODI v Sri Lanka	Multan	17 Jan 1992	investigate this query
+Pakistan	won	117 runs		lost	1st		ODI v Sri Lanka	Rawalpindi	19 Jan 1992	investigate this query
+Pakistan	lost	10 wickets	19	lost	1st		ODI v West Indies	Melbourne	23 Feb 1992	investigate this query
+Pakistan	won	53 runs		lost	1st		ODI v Zimbabwe	Hobart	27 Feb 1992	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v England	Adelaide	1 Mar 1992	investigate this query
+Pakistan	lost	43 runs		lost	2nd		ODI v India	Sydney	4 Mar 1992	investigate this query
+Pakistan	lost	20 runs		won	2nd		ODI v South Africa	Brisbane	8 Mar 1992	investigate this query
+Pakistan	won	48 runs		won	1st		ODI v Australia	Perth	11 Mar 1992	investigate this query
+Pakistan	won	4 wickets	5	lost	2nd		ODI v Sri Lanka	Perth	15 Mar 1992	investigate this query
+Pakistan	won	7 wickets	32	won	2nd		ODI v New Zealand	Christchurch	18 Mar 1992	investigate this query
+Pakistan	won	4 wickets	6	lost	2nd		ODI v New Zealand	Auckland	21 Mar 1992	investigate this query
+Pakistan	won	22 runs		won	1st		ODI v England	Melbourne	25 Mar 1992	investigate this query
+Pakistan	lost	79 runs		won	2nd		ODI v England	Lord's	20 May 1992	investigate this query
+Pakistan	lost	39 runs		lost	2nd		ODI v England	The Oval	22 May 1992	investigate this query
+Pakistan	draw	-		lost	1st		Test v England	Birmingham	4 Jun 1992	investigate this query
+Pakistan	won	2 wickets		lost	2nd		Test v England	Lord's	18 Jun 1992	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Manchester	2 Jul 1992	investigate this query
+Pakistan	lost	6 wickets		won	1st		Test v England	Leeds	23 Jul 1992	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v England	The Oval	6 Aug 1992	investigate this query
+Pakistan	lost	198 runs		won	2nd		ODI v England	Nottingham	20 Aug 1992	investigate this query
+Pakistan	won	3 runs		won	1st		ODI v England	Lord's	22 Aug 1992	investigate this query
+Pakistan	lost	6 wickets	68	won	1st		ODI v England	Manchester	24 Aug 1992	investigate this query
+Pakistan	won	5 wickets	4	won	2nd		ODI v West Indies	Perth	4 Dec 1992	investigate this query
+Pakistan	tied	-		lost	2nd		ODI v Australia	Hobart	10 Dec 1992	investigate this query
+Pakistan	lost	4 runs		won	2nd		ODI v West Indies	Adelaide	12 Dec 1992	investigate this query
+Pakistan	lost	8 wickets	12	lost	1st		ODI v Australia	Adelaide	13 Dec 1992	investigate this query
+Pakistan	lost	133 runs		lost	2nd		ODI v West Indies	Sydney	17 Dec 1992	investigate this query
+Pakistan	won	50 runs		lost	1st		ODI v New Zealand	Wellington	26 Dec 1992	investigate this query
+Pakistan	lost	6 wickets	26	lost	1st		ODI v New Zealand	Napier	28 Dec 1992	investigate this query
+Pakistan	lost	6 wickets	44	lost	1st		ODI v New Zealand	Auckland	30 Dec 1992	investigate this query
+Pakistan	won	33 runs		lost	1st		Test v New Zealand	Hamilton	2 Jan 1993	investigate this query
+Pakistan	lost	9 wickets	184	won	1st		ODI v West Indies	Brisbane	9 Jan 1993	investigate this query
+Pakistan	lost	32 runs		lost	2nd		ODI v Australia	Melbourne	12 Jan 1993	investigate this query
+Pakistan	lost	23 runs		lost	2nd		ODI v Australia	Sydney	14 Jan 1993	investigate this query
+Pakistan	won	49 runs		lost	1st		ODI v Zimbabwe	Sharjah	1 Feb 1993	investigate this query
+Pakistan	won	8 wickets	34	won	2nd		ODI v Sri Lanka	Sharjah	2 Feb 1993	investigate this query
+Pakistan	won	114 runs		lost	1st		ODI v Sri Lanka	Sharjah	4 Feb 1993	investigate this query
+Pakistan	won	10 runs		lost	1st		ODI v South Africa	Durban	9 Feb 1993	investigate this query
+Pakistan	lost	8 wickets	11	won	1st		ODI v West Indies	Johannesburg	13 Feb 1993	investigate this query
+Pakistan	won	9 runs		won	1st		ODI v South Africa	East London	15 Feb 1993	investigate this query
+Pakistan	lost	124 runs		won	2nd		ODI v West Indies	Durban	19 Feb 1993	investigate this query
+Pakistan	won	22 runs		won	1st		ODI v South Africa	Centurion	21 Feb 1993	investigate this query
+Pakistan	lost	7 wickets	225	lost	1st		ODI v West Indies	Cape Town	25 Feb 1993	investigate this query
+Pakistan	lost	5 wickets	62	lost	1st		ODI v West Indies	Johannesburg	27 Feb 1993	investigate this query
+Pakistan	won	7 wickets	16	won	2nd		ODI v Zimbabwe	Harare	2 Mar 1993	investigate this query
+Pakistan	lost	4 wickets	36	lost	1st		ODI v West Indies	Kingston	23 Mar 1993	investigate this query
+Pakistan	lost	5 wickets	24	lost	1st		ODI v West Indies	Port of Spain	26 Mar 1993	investigate this query
+Pakistan	won	7 wickets	11	lost	2nd		ODI v West Indies	Port of Spain	27 Mar 1993	investigate this query
+Pakistan	won	38 runs		lost	1st		ODI v West Indies	Kingstown	30 Mar 1993	investigate this query
+Pakistan	tied	-		won	1st		ODI v West Indies	Georgetown	3 Apr 1993	investigate this query
+Pakistan	lost	204 runs		lost	2nd		Test v West Indies	Port of Spain	16 Apr 1993	investigate this query
+Pakistan	lost	10 wickets		won	2nd		Test v West Indies	Bridgetown	23 Apr 1993	investigate this query
+Pakistan	draw	-		lost	2nd		Test v West Indies	St John's	1 May 1993	investigate this query
+Pakistan	lost	39 runs		won	2nd		ODI v West Indies	Sharjah	29 Oct 1993	investigate this query
+Pakistan	won	114 runs		lost	1st		ODI v Sri Lanka	Sharjah	30 Oct 1993	investigate this query
+Pakistan	won	5 wickets	6	lost	2nd		ODI v West Indies	Sharjah	1 Nov 1993	investigate this query
+Pakistan	won	2 wickets	2	lost	2nd		ODI v Sri Lanka	Sharjah	2 Nov 1993	investigate this query
+Pakistan	lost	6 wickets	27	lost	1st		ODI v West Indies	Sharjah	5 Nov 1993	investigate this query
+Pakistan	won	131 runs		won	1st		Test v Zimbabwe	Karachi	1 Dec 1993	investigate this query
+Pakistan	won	52 runs		lost	1st		Test v Zimbabwe	Rawalpindi	9 Dec 1993	investigate this query
+Pakistan	draw	-		lost	1st		Test v Zimbabwe	Lahore	16 Dec 1993	investigate this query
+Pakistan	won	7 wickets	37	won	2nd		ODI v Zimbabwe	Karachi	24 Dec 1993	investigate this query
+Pakistan	won	6 wickets	2	won	2nd		ODI v Zimbabwe	Rawalpindi	25 Dec 1993	investigate this query
+Pakistan	won	75 runs		won	1st		ODI v Zimbabwe	Lahore	27 Dec 1993	investigate this query
+Pakistan	won	5 wickets		won	2nd		Test v New Zealand	Auckland	10 Feb 1994	investigate this query
+Pakistan	won	inns & 12 runs		lost	2nd		Test v New Zealand	Wellington	17 Feb 1994	investigate this query
+Pakistan	lost	5 wickets		lost	1st		Test v New Zealand	Christchurch	24 Feb 1994	investigate this query
+Pakistan	won	5 wickets	23	lost	2nd		ODI v New Zealand	Dunedin	3 Mar 1994	investigate this query
+Pakistan	won	36 runs		lost	1st		ODI v New Zealand	Auckland	6 Mar 1994	investigate this query
+Pakistan	won	11 runs		lost	1st		ODI v New Zealand	Wellington	9 Mar 1994	investigate this query
+Pakistan	tied	-		won	1st		ODI v New Zealand	Auckland	13 Mar 1994	investigate this query
+Pakistan	lost	7 wickets	95	lost	1st		ODI v New Zealand	Christchurch	16 Mar 1994	investigate this query
+Pakistan	won	6 wickets	33	won	2nd		ODI v India	Sharjah	15 Apr 1994	investigate this query
+Pakistan	won	9 wickets	161	lost	2nd		ODI v U.A.E.	Sharjah	17 Apr 1994	investigate this query
+Pakistan	won	62 runs		lost	1st		ODI v New Zealand	Sharjah	20 Apr 1994	investigate this query
+Pakistan	won	39 runs		lost	1st		ODI v India	Sharjah	22 Apr 1994	investigate this query
+Pakistan	won	9 wickets	70	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	3 Aug 1994	investigate this query
+Pakistan	lost	7 wickets	16	lost	1st		ODI v Sri Lanka	Colombo (RPS)	6 Aug 1994	investigate this query
+Pakistan	won	19 runs		lost	1st		ODI v Sri Lanka	Colombo (SSC)	7 Aug 1994	investigate this query
+Pakistan	won	301 runs		won	1st		Test v Sri Lanka	Colombo (PSS)	9 Aug 1994	investigate this query
+Pakistan	canc	-		-	-		Test v Sri Lanka	Colombo (SSC)	18 Aug 1994	investigate this query
+Pakistan	won	5 wickets	50	won	2nd		ODI v Sri Lanka	Colombo (SSC)	22 Aug 1994	investigate this query
+Pakistan	won	27 runs		lost	1st		ODI v Sri Lanka	Colombo (RPS)	24 Aug 1994	investigate this query
+Pakistan	won	inns & 52 runs		won	2nd		Test v Sri Lanka	Kandy	26 Aug 1994	investigate this query
+Pakistan	lost	28 runs		won	2nd		ODI v Australia	Colombo (SSC)	7 Sep 1994	investigate this query
+Pakistan	lost	7 wickets	16	lost	1st		ODI v Sri Lanka	Colombo (SSC)	11 Sep 1994	investigate this query
+Pakistan	aban	-		-	-		ODI v India	Colombo (RPS)	15 Sep 1994	investigate this query
+Pakistan	won	1 wickets		lost	2nd		Test v Australia	Karachi	28 Sep 1994	investigate this query
+Pakistan	draw	-		won	2nd		Test v Australia	Rawalpindi	5 Oct 1994	investigate this query
+Pakistan	lost	7 wickets	24	won	1st		ODI v Australia	Multan	14 Oct 1994	investigate this query
+Pakistan	won	8 wickets	32	lost	2nd		ODI v South Africa	Karachi	16 Oct 1994	investigate this query
+Pakistan	won	39 runs		lost	1st		ODI v South Africa	Rawalpindi	20 Oct 1994	investigate this query
+Pakistan	won	9 wickets	66	won	2nd		ODI v Australia	Rawalpindi	22 Oct 1994	investigate this query
+Pakistan	aban	-		-	-		ODI v Australia	Gujranwala	26 Oct 1994	investigate this query
+Pakistan	won	6 wickets	33	lost	2nd		ODI v South Africa	Faisalabad	28 Oct 1994	investigate this query
+Pakistan	lost	64 runs		lost	2nd		ODI v Australia	Lahore	30 Oct 1994	investigate this query
+Pakistan	draw	-		won	1st		Test v Australia	Lahore	1 Nov 1994	investigate this query
+Pakistan	won	6 wickets	13	lost	2nd		ODI v Sri Lanka	Durban	2 Dec 1994	investigate this query
+Pakistan	won	12 runs		lost	1st		ODI v Sri Lanka	Centurion	4 Dec 1994	investigate this query
+Pakistan	lost	7 wickets	26	won	1st		ODI v South Africa	Johannesburg	10 Dec 1994	investigate this query
+Pakistan	won	5 wickets	22	won	2nd		ODI v New Zealand	Port Elizabeth	13 Dec 1994	investigate this query
+Pakistan	won	8 wickets	90	won	2nd		ODI v South Africa	Durban	17 Dec 1994	investigate this query
+Pakistan	won	5 wickets	67	lost	2nd		ODI v New Zealand	East London	19 Dec 1994	investigate this query
+Pakistan	lost	37 runs		won	2nd		ODI v South Africa	Cape Town	10 Jan 1995	investigate this query
+Pakistan	lost	157 runs		won	2nd		ODI v South Africa	Johannesburg	12 Jan 1995	investigate this query
+Pakistan	lost	324 runs		lost	2nd		Test v South Africa	Johannesburg	19 Jan 1995	investigate this query
+Pakistan	lost	inns & 64 runs		lost	2nd		Test v Zimbabwe	Harare	31 Jan 1995	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v Zimbabwe	Bulawayo	7 Feb 1995	investigate this query
+Pakistan	won	99 runs		won	1st		Test v Zimbabwe	Harare	15 Feb 1995	investigate this query
+Pakistan	tied	-		lost	2nd		ODI v Zimbabwe	Harare	22 Feb 1995	investigate this query
+Pakistan	won	4 wickets	9	won	2nd		ODI v Zimbabwe	Harare	25 Feb 1995	investigate this query
+Pakistan	lost	74 runs		won	2nd		ODI v Zimbabwe	Harare	26 Feb 1995	investigate this query
+Pakistan	won	97 runs		won	1st		ODI v India	Sharjah	7 Apr 1995	investigate this query
+Pakistan	won	6 wickets	122	lost	2nd		ODI v Bangladesh	Sharjah	8 Apr 1995	investigate this query
+Pakistan	lost	5 wickets	115	lost	1st		ODI v Sri Lanka	Sharjah	11 Apr 1995	investigate this query
+Pakistan	won	inns & 40 runs		won	1st		Test v Sri Lanka	Peshawar	8 Sep 1995	investigate this query
+Pakistan	lost	42 runs		won	2nd		Test v Sri Lanka	Faisalabad	15 Sep 1995	investigate this query
+Pakistan	lost	144 runs		lost	2nd		Test v Sri Lanka	Sialkot	22 Sep 1995	investigate this query
+Pakistan	won	9 wickets	36	won	2nd		ODI v Sri Lanka	Gujranwala	29 Sep 1995	investigate this query
+Pakistan	lost	49 runs		won	2nd		ODI v Sri Lanka	Faisalabad	1 Oct 1995	investigate this query
+Pakistan	lost	4 wickets	2	lost	1st		ODI v Sri Lanka	Rawalpindi	3 Oct 1995	investigate this query
+Pakistan	won	82 runs		won	1st		ODI v Sri Lanka	Sharjah	12 Oct 1995	investigate this query
+Pakistan	won	15 runs		won	1st		ODI v West Indies	Sharjah	13 Oct 1995	investigate this query
+Pakistan	lost	4 wickets	65	lost	1st		ODI v West Indies	Sharjah	15 Oct 1995	investigate this query
+Pakistan	lost	8 wickets	139	won	1st		ODI v Sri Lanka	Sharjah	17 Oct 1995	investigate this query
+Pakistan	lost	inns & 126 runs		lost	2nd		Test v Australia	Brisbane	9 Nov 1995	investigate this query
+Pakistan	lost	155 runs		lost	2nd		Test v Australia	Hobart	17 Nov 1995	investigate this query
+Pakistan	won	74 runs		won	1st		Test v Australia	Sydney	30 Nov 1995	investigate this query
+Pakistan	won	161 runs		lost	1st		Test v New Zealand	Christchurch	8 Dec 1995	investigate this query
+Pakistan	won	20 runs		won	1st		ODI v New Zealand	Dunedin	15 Dec 1995	investigate this query
+Pakistan	lost	1 wickets	1	won	1st		ODI v New Zealand	Christchurch	17 Dec 1995	investigate this query
+Pakistan	won	54 runs		lost	1st		ODI v New Zealand	Wellington	20 Dec 1995	investigate this query
+Pakistan	lost	32 runs		won	2nd		ODI v New Zealand	Auckland	23 Dec 1995	investigate this query
+Pakistan	won	9 wickets	90	won	2nd		ODI v U.A.E.	Gujranwala	24 Feb 1996	investigate this query
+Pakistan	won	8 wickets	116	lost	2nd		ODI v Netherlands	Lahore	26 Feb 1996	investigate this query
+Pakistan	lost	5 wickets	34	won	1st		ODI v South Africa	Karachi	29 Feb 1996	investigate this query
+Pakistan	won	7 wickets	14	lost	2nd		ODI v England	Karachi	3 Mar 1996	investigate this query
+Pakistan	won	46 runs		lost	1st		ODI v New Zealand	Lahore	6 Mar 1996	investigate this query
+Pakistan	lost	39 runs		lost	2nd		ODI v India	Bangalore	9 Mar 1996	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v Sri Lanka	Singapore	1 Apr 1996	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v Sri Lanka	Singapore	2 Apr 1996	investigate this query
+Pakistan	won	8 wickets	30	won	2nd		ODI v India	Singapore	5 Apr 1996	investigate this query
+Pakistan	won	43 runs		lost	1st		ODI v Sri Lanka	Singapore	7 Apr 1996	investigate this query
+Pakistan	won	38 runs		lost	1st		ODI v India	Sharjah	12 Apr 1996	investigate this query
+Pakistan	lost	143 runs		lost	2nd		ODI v South Africa	Sharjah	13 Apr 1996	investigate this query
+Pakistan	lost	28 runs		lost	2nd		ODI v India	Sharjah	15 Apr 1996	investigate this query
+Pakistan	lost	8 wickets	101	won	1st		ODI v South Africa	Sharjah	16 Apr 1996	investigate this query
+Pakistan	won	164 runs		won	1st		Test v England	Lord's	25 Jul 1996	investigate this query
+Pakistan	draw	-		lost	1st		Test v England	Leeds	8 Aug 1996	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v England	The Oval	22 Aug 1996	investigate this query
+Pakistan	lost	5 wickets	20	won	1st		ODI v England	Manchester	29 Aug 1996	investigate this query
+Pakistan	lost	107 runs		won	2nd		ODI v England	Birmingham	31 Aug 1996	investigate this query
+Pakistan	won	2 wickets	2	lost	2nd		ODI v England	Nottingham	1 Sep 1996	investigate this query
+Pakistan	lost	8 wickets	19	lost	1st		ODI v India	Toronto	16 Sep 1996	investigate this query
+Pakistan	won	2 wickets	1	won	2nd		ODI v India	Toronto	17 Sep 1996	investigate this query
+Pakistan	lost	55 runs		lost	2nd		ODI v India	Toronto	18 Sep 1996	investigate this query
+Pakistan	won	97 runs		lost	1st		ODI v India	Toronto	21 Sep 1996	investigate this query
+Pakistan	won	52 runs		won	1st		ODI v India	Toronto	23 Sep 1996	investigate this query
+Pakistan	lost	62 runs		won	2nd		ODI v South Africa	Nairobi (Gym)	29 Sep 1996	investigate this query
+Pakistan	won	4 wickets	58	lost	2nd		ODI v Kenya	Nairobi (Aga)	2 Oct 1996	investigate this query
+Pakistan	won	82 runs		lost	1st		ODI v Sri Lanka	Nairobi (Gym)	4 Oct 1996	investigate this query
+Pakistan	lost	7 wickets	64	won	1st		ODI v South Africa	Nairobi (Gym)	6 Oct 1996	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Zimbabwe	Sheikhupura	17 Oct 1996	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v Zimbabwe	Faisalabad	24 Oct 1996	investigate this query
+Pakistan	won	3 wickets	5	lost	2nd		ODI v Zimbabwe	Quetta	30 Oct 1996	investigate this query
+Pakistan	won	9 wickets	128	lost	2nd		ODI v Zimbabwe	Lahore	1 Nov 1996	investigate this query
+Pakistan	won	78 runs		won	1st		ODI v Zimbabwe	Peshawar	3 Nov 1996	investigate this query
+Pakistan	lost	75 runs		won	2nd		ODI v Sri Lanka	Sharjah	8 Nov 1996	investigate this query
+Pakistan	won	4 wickets	21	lost	2nd		ODI v New Zealand	Sharjah	10 Nov 1996	investigate this query
+Pakistan	won	8 wickets	20	lost	2nd		ODI v Sri Lanka	Sharjah	12 Nov 1996	investigate this query
+Pakistan	won	4 wickets	9	won	2nd		ODI v New Zealand	Sharjah	13 Nov 1996	investigate this query
+Pakistan	won	41 runs		lost	1st		ODI v New Zealand	Sharjah	15 Nov 1996	investigate this query
+Pakistan	lost	44 runs		lost	2nd		Test v New Zealand	Lahore	21 Nov 1996	investigate this query
+Pakistan	won	inns & 13 runs		won	2nd		Test v New Zealand	Rawalpindi	28 Nov 1996	investigate this query
+Pakistan	won	11 runs		won	1st		ODI v New Zealand	Gujranwala	4 Dec 1996	investigate this query
+Pakistan	won	46 runs		won	1st		ODI v New Zealand	Sialkot	6 Dec 1996	investigate this query
+Pakistan	lost	7 wickets	29	won	1st		ODI v New Zealand	Karachi	8 Dec 1996	investigate this query
+Pakistan	won	12 runs		won	1st		ODI v Australia	Adelaide	15 Dec 1996	investigate this query
+Pakistan	lost	7 wickets	83	lost	1st		ODI v West Indies	Adelaide	17 Dec 1996	investigate this query
+Pakistan	won	4 wickets	27	lost	2nd		ODI v Australia	Sydney	1 Jan 1997	investigate this query
+Pakistan	lost	6 wickets	11	lost	1st		ODI v West Indies	Brisbane	3 Jan 1997	investigate this query
+Pakistan	won	29 runs		won	1st		ODI v Australia	Hobart	7 Jan 1997	investigate this query
+Pakistan	lost	5 wickets	8	lost	1st		ODI v West Indies	Perth	10 Jan 1997	investigate this query
+Pakistan	won	8 wickets	64	won	2nd		ODI v West Indies	Sydney	14 Jan 1997	investigate this query
+Pakistan	lost	3 wickets	3	won	1st		ODI v Australia	Melbourne	16 Jan 1997	investigate this query
+Pakistan	won	4 wickets	70	won	2nd		ODI v West Indies	Sydney	18 Jan 1997	investigate this query
+Pakistan	won	62 runs		won	1st		ODI v West Indies	Melbourne	20 Jan 1997	investigate this query
+Pakistan	lost	19 runs		won	2nd		ODI v Sri Lanka	Sharjah	4 Apr 1997	investigate this query
+Pakistan	won	93 runs		won	1st		ODI v Zimbabwe	Sharjah	6 Apr 1997	investigate this query
+Pakistan	lost	51 runs		lost	2nd		ODI v Sri Lanka	Sharjah	7 Apr 1997	investigate this query
+Pakistan	won	32 runs		won	1st		ODI v Zimbabwe	Sharjah	9 Apr 1997	investigate this query
+Pakistan	lost	4 wickets	4	won	1st		ODI v Sri Lanka	Sharjah	11 Apr 1997	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Colombo (RPS)	19 Apr 1997	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Colombo (SSC)	26 Apr 1997	investigate this query
+Pakistan	lost	22 runs		won	2nd		ODI v New Zealand	Mohali	9 May 1997	investigate this query
+Pakistan	won	30 runs		won	1st		ODI v Sri Lanka	Gwalior	12 May 1997	investigate this query
+Pakistan	won	35 runs		won	1st		ODI v India	Chennai	21 May 1997	investigate this query
+Pakistan	lost	115 runs		lost	2nd		ODI v Sri Lanka	Mohali	24 May 1997	investigate this query
+Pakistan	lost	85 runs		lost	2nd		ODI v Sri Lanka	Kolkata	27 May 1997	investigate this query
+Pakistan	lost	15 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	14 Jul 1997	investigate this query
+Pakistan	won	109 runs		won	1st		ODI v Bangladesh	Colombo (RPS)	16 Jul 1997	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v India	Colombo (SSC)	20 Jul 1997	investigate this query
+Pakistan	aban	-		-	-		ODI v India	Colombo (SSC)	21 Jul 1997	investigate this query
+Pakistan	lost	20 runs		won	2nd		ODI v India	Toronto	13 Sep 1997	investigate this query
+Pakistan	lost	7 wickets	92	won	1st		ODI v India	Toronto	14 Sep 1997	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v India	Toronto	17 Sep 1997	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v India	Toronto	18 Sep 1997	investigate this query
+Pakistan	lost	7 wickets	3	lost	1st		ODI v India	Toronto	20 Sep 1997	investigate this query
+Pakistan	won	5 wickets	37	won	2nd		ODI v India	Toronto	21 Sep 1997	investigate this query
+Pakistan	won	5 wickets	33	lost	2nd		ODI v India	Hyderabad (Sind)	28 Sep 1997	investigate this query
+Pakistan	lost	4 wickets	3	won	1st		ODI v India	Karachi	30 Sep 1997	investigate this query
+Pakistan	won	9 wickets	136	won	2nd		ODI v India	Lahore	2 Oct 1997	investigate this query
+Pakistan	draw	-		won	1st		Test v South Africa	Rawalpindi	6 Oct 1997	investigate this query
+Pakistan	draw	-		lost	2nd		Test v South Africa	Sheikhupura	17 Oct 1997	investigate this query
+Pakistan	lost	53 runs		lost	2nd		Test v South Africa	Faisalabad	24 Oct 1997	investigate this query
+Pakistan	lost	9 runs		won	2nd		ODI v South Africa	Lahore	2 Nov 1997	investigate this query
+Pakistan	won	8 wickets	56	won	2nd		ODI v West Indies	Lahore	4 Nov 1997	investigate this query
+Pakistan	lost	8 wickets	60	lost	1st		ODI v Sri Lanka	Lahore	5 Nov 1997	investigate this query
+Pakistan	won	inns & 19 runs		lost	2nd		Test v West Indies	Peshawar	17 Nov 1997	investigate this query
+Pakistan	won	inns & 29 runs		won	2nd		Test v West Indies	Rawalpindi	29 Nov 1997	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v West Indies	Karachi	6 Dec 1997	investigate this query
+Pakistan	lost	43 runs		lost	2nd		ODI v West Indies	Sharjah	12 Dec 1997	investigate this query
+Pakistan	won	4 wickets	16	lost	2nd		ODI v India	Sharjah	14 Dec 1997	investigate this query
+Pakistan	lost	8 runs		lost	2nd		ODI v England	Sharjah	15 Dec 1997	investigate this query
+Pakistan	lost	18 runs		won	2nd		ODI v India	Dhaka	11 Jan 1998	investigate this query
+Pakistan	won	9 wickets	100	won	2nd		ODI v Bangladesh	Dhaka	12 Jan 1998	investigate this query
+Pakistan	lost	8 wickets	53	won	1st		ODI v India	Dhaka	14 Jan 1998	investigate this query
+Pakistan	won	6 wickets	111	lost	2nd		ODI v India	Dhaka	16 Jan 1998	investigate this query
+Pakistan	lost	3 wickets	1	lost	1st		ODI v India	Dhaka	18 Jan 1998	investigate this query
+Pakistan	draw	-		won	2nd		Test v South Africa	Johannesburg	14 Feb 1998	investigate this query
+Pakistan	won	29 runs		lost	1st		Test v South Africa	Durban	26 Feb 1998	investigate this query
+Pakistan	lost	259 runs		won	2nd		Test v South Africa	Port Elizabeth	6 Mar 1998	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Zimbabwe	Bulawayo	14 Mar 1998	investigate this query
+Pakistan	won	3 wickets		lost	2nd		Test v Zimbabwe	Harare	21 Mar 1998	investigate this query
+Pakistan	won	4 wickets	14	won	2nd		ODI v Zimbabwe	Harare	28 Mar 1998	investigate this query
+Pakistan	won	4 wickets	20	won	2nd		ODI v Zimbabwe	Harare	29 Mar 1998	investigate this query
+Pakistan	lost	52 runs		lost	2nd		ODI v South Africa	Durban	3 Apr 1998	investigate this query
+Pakistan	won	4 wickets	12	lost	2nd		ODI v Sri Lanka	Kimberley	7 Apr 1998	investigate this query
+Pakistan	won	110 runs		won	1st		ODI v Sri Lanka	Paarl	9 Apr 1998	investigate this query
+Pakistan	lost	3 wickets	22	lost	1st		ODI v South Africa	East London	11 Apr 1998	investigate this query
+Pakistan	lost	115 runs		won	2nd		ODI v Sri Lanka	Benoni	15 Apr 1998	investigate this query
+Pakistan	lost	7 wickets	87	won	1st		ODI v South Africa	Centurion	17 Apr 1998	investigate this query
+Pakistan	lost	9 wickets	134	lost	1st		ODI v South Africa	Cape Town	23 Apr 1998	investigate this query
+Pakistan	lost	6 wickets	38	lost	1st		ODI v India	Toronto	12 Sep 1998	investigate this query
+Pakistan	won	51 runs		lost	1st		ODI v India	Toronto	13 Sep 1998	investigate this query
+Pakistan	won	77 runs		lost	1st		ODI v India	Toronto	16 Sep 1998	investigate this query
+Pakistan	won	134 runs		lost	1st		ODI v India	Toronto	19 Sep 1998	investigate this query
+Pakistan	won	5 wickets	10	lost	2nd		ODI v India	Toronto	20 Sep 1998	investigate this query
+Pakistan	lost	inns & 99 runs		won	1st		Test v Australia	Rawalpindi	1 Oct 1998	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Peshawar	15 Oct 1998	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Australia	Karachi	22 Oct 1998	investigate this query
+Pakistan	lost	30 runs		lost	2nd		ODI v West Indies	Dhaka	29 Oct 1998	investigate this query
+Pakistan	lost	86 runs		won	2nd		ODI v Australia	Karachi	6 Nov 1998	investigate this query
+Pakistan	lost	5 wickets	11	won	1st		ODI v Australia	Peshawar	8 Nov 1998	investigate this query
+Pakistan	lost	6 wickets	7	won	1st		ODI v Australia	Lahore	10 Nov 1998	investigate this query
+Pakistan	won	4 wickets	14	won	2nd		ODI v Zimbabwe	Gujranwala	20 Nov 1998	investigate this query
+Pakistan	lost	6 wickets	56	lost	1st		ODI v Zimbabwe	Sheikhupura	22 Nov 1998	investigate this query
+Pakistan	won	111 runs		lost	1st		ODI v Zimbabwe	Rawalpindi	24 Nov 1998	investigate this query
+Pakistan	lost	7 wickets		lost	1st		Test v Zimbabwe	Peshawar	27 Nov 1998	investigate this query
+Pakistan	draw	-		won	2nd		Test v Zimbabwe	Lahore	10 Dec 1998	investigate this query
+Pakistan	aban	-		-	-		Test v Zimbabwe	Faisalabad	17 Dec 1998	investigate this query
+Pakistan	won	12 runs		won	1st		Test v India	Chennai	28 Jan 1999	investigate this query
+Pakistan	lost	212 runs		lost	2nd		Test v India	Delhi	4 Feb 1999	investigate this query
+Pakistan	won	46 runs		won	1st		Test v India	Kolkata	16 Feb 1999	investigate this query
+Pakistan	draw	-		won	1st		Test v Sri Lanka	Lahore	4 Mar 1999	investigate this query
+Pakistan	won	inns & 175 runs		lost	2nd		Test v Sri Lanka	Dhaka	12 Mar 1999	investigate this query
+Pakistan	won	152 runs		lost	1st		ODI v Bangladesh	Dhaka	16 Mar 1999	investigate this query
+Pakistan	won	9 runs		won	1st		ODI v Sri Lanka	Jamshedpur	19 Mar 1999	investigate this query
+Pakistan	won	143 runs		won	1st		ODI v India	Jaipur	24 Mar 1999	investigate this query
+Pakistan	lost	12 runs		lost	2nd		ODI v Sri Lanka	Visakhapatnam	27 Mar 1999	investigate this query
+Pakistan	won	7 wickets	30	lost	2nd		ODI v India	Mohali	1 Apr 1999	investigate this query
+Pakistan	won	123 runs		won	1st		ODI v India	Bangalore	4 Apr 1999	investigate this query
+Pakistan	won	90 runs		won	1st		ODI v England	Sharjah	7 Apr 1999	investigate this query
+Pakistan	won	116 runs		won	1st		ODI v India	Sharjah	8 Apr 1999	investigate this query
+Pakistan	lost	62 runs		lost	2nd		ODI v England	Sharjah	12 Apr 1999	investigate this query
+Pakistan	lost	6 wickets	11	won	1st		ODI v India	Sharjah	13 Apr 1999	investigate this query
+Pakistan	won	8 wickets	132	lost	2nd		ODI v India	Sharjah	16 Apr 1999	investigate this query
+Pakistan	won	27 runs		won	1st		ODI v West Indies	Bristol	16 May 1999	investigate this query
+Pakistan	won	94 runs		lost	1st		ODI v Scotland	Chester-le-Street	20 May 1999	investigate this query
+Pakistan	won	10 runs		lost	1st		ODI v Australia	Leeds	23 May 1999	investigate this query
+Pakistan	won	62 runs		lost	1st		ODI v New Zealand	Derby	28 May 1999	investigate this query
+Pakistan	lost	62 runs		won	2nd		ODI v Bangladesh	Northampton	31 May 1999	investigate this query
+Pakistan	lost	3 wickets	6	won	1st		ODI v South Africa	Nottingham	5 Jun 1999	investigate this query
+Pakistan	lost	47 runs		lost	2nd		ODI v India	Manchester	8 Jun 1999	investigate this query
+Pakistan	won	148 runs		won	1st		ODI v Zimbabwe	The Oval	11 Jun 1999	investigate this query
+Pakistan	won	9 wickets	15	lost	2nd		ODI v New Zealand	Manchester	16 Jun 1999	investigate this query
+Pakistan	lost	8 wickets	179	won	1st		ODI v Australia	Lord's	20 Jun 1999	investigate this query
+Pakistan	won	15 runs		won	1st		ODI v West Indies	Toronto	16 Sep 1999	investigate this query
+Pakistan	won	42 runs		won	1st		ODI v West Indies	Toronto	18 Sep 1999	investigate this query
+Pakistan	won	7 wickets	62	lost	2nd		ODI v West Indies	Toronto	19 Sep 1999	investigate this query
+Pakistan	won	130 runs		won	1st		ODI v West Indies	Sharjah	14 Oct 1999	investigate this query
+Pakistan	tied	-		won	1st		ODI v Sri Lanka	Sharjah	15 Oct 1999	investigate this query
+Pakistan	won	118 runs		won	1st		ODI v Sri Lanka	Sharjah	18 Oct 1999	investigate this query
+Pakistan	won	138 runs		won	1st		ODI v West Indies	Sharjah	19 Oct 1999	investigate this query
+Pakistan	won	88 runs		won	1st		ODI v Sri Lanka	Sharjah	22 Oct 1999	investigate this query
+Pakistan	lost	10 wickets		lost	1st		Test v Australia	Brisbane	5 Nov 1999	investigate this query
+Pakistan	lost	4 wickets		lost	1st		Test v Australia	Hobart	18 Nov 1999	investigate this query
+Pakistan	lost	inns & 20 runs		won	1st		Test v Australia	Perth	26 Nov 1999	investigate this query
+Pakistan	won	45 runs		won	1st		ODI v Australia	Brisbane	9 Jan 2000	investigate this query
+Pakistan	won	2 wickets	0	lost	2nd		ODI v India	Brisbane	10 Jan 2000	investigate this query
+Pakistan	lost	6 wickets	13	lost	1st		ODI v Australia	Melbourne	16 Jan 2000	investigate this query
+Pakistan	lost	81 runs		lost	2nd		ODI v Australia	Sydney	19 Jan 2000	investigate this query
+Pakistan	won	32 runs		lost	1st		ODI v India	Hobart	21 Jan 2000	investigate this query
+Pakistan	lost	15 runs		lost	2nd		ODI v Australia	Melbourne	23 Jan 2000	investigate this query
+Pakistan	lost	48 runs		lost	2nd		ODI v India	Adelaide	25 Jan 2000	investigate this query
+Pakistan	won	104 runs		won	1st		ODI v India	Perth	28 Jan 2000	investigate this query
+Pakistan	lost	6 wickets	44	won	1st		ODI v Australia	Melbourne	2 Feb 2000	investigate this query
+Pakistan	lost	152 runs		lost	2nd		ODI v Australia	Sydney	4 Feb 2000	investigate this query
+Pakistan	lost	29 runs		won	2nd		ODI v Sri Lanka	Karachi	13 Feb 2000	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v Sri Lanka	Gujranwala	16 Feb 2000	investigate this query
+Pakistan	lost	104 runs		won	2nd		ODI v Sri Lanka	Lahore	19 Feb 2000	investigate this query
+Pakistan	lost	2 wickets		lost	1st		Test v Sri Lanka	Rawalpindi	26 Feb 2000	investigate this query
+Pakistan	lost	57 runs		won	2nd		Test v Sri Lanka	Peshawar	5 Mar 2000	investigate this query
+Pakistan	won	222 runs		lost	1st		Test v Sri Lanka	Karachi	12 Mar 2000	investigate this query
+Pakistan	lost	5 wickets	39	won	1st		ODI v India	Sharjah	23 Mar 2000	investigate this query
+Pakistan	lost	3 wickets	33	won	1st		ODI v South Africa	Sharjah	24 Mar 2000	investigate this query
+Pakistan	won	98 runs		won	1st		ODI v India	Sharjah	26 Mar 2000	investigate this query
+Pakistan	won	67 runs		won	1st		ODI v South Africa	Sharjah	28 Mar 2000	investigate this query
+Pakistan	won	16 runs		won	1st		ODI v South Africa	Sharjah	31 Mar 2000	investigate this query
+Pakistan	won	5 wickets	17	lost	2nd		ODI v Zimbabwe	St John's	5 Apr 2000	investigate this query
+Pakistan	lost	96 runs		lost	2nd		ODI v West Indies	Kingstown	12 Apr 2000	investigate this query
+Pakistan	won	6 wickets	41	lost	2nd		ODI v Zimbabwe	St George's	15 Apr 2000	investigate this query
+Pakistan	lost	17 runs		lost	2nd		ODI v West Indies	St George's	16 Apr 2000	investigate this query
+Pakistan	won	17 runs		won	1st		ODI v West Indies	Bridgetown	19 Apr 2000	investigate this query
+Pakistan	lost	60 runs		lost	2nd		ODI v West Indies	Port of Spain	22 Apr 2000	investigate this query
+Pakistan	won	4 wickets	29	lost	2nd		ODI v West Indies	Port of Spain	23 Apr 2000	investigate this query
+Pakistan	draw	-		lost	1st		Test v West Indies	Georgetown	5 May 2000	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Bridgetown	18 May 2000	investigate this query
+Pakistan	lost	1 wickets		lost	1st		Test v West Indies	St John's	25 May 2000	investigate this query
+Pakistan	won	233 runs		won	1st		ODI v Bangladesh	Dhaka	2 Jun 2000	investigate this query
+Pakistan	won	44 runs		won	1st		ODI v India	Dhaka	3 Jun 2000	investigate this query
+Pakistan	won	7 wickets	10	lost	2nd		ODI v Sri Lanka	Dhaka	5 Jun 2000	investigate this query
+Pakistan	won	39 runs		won	1st		ODI v Sri Lanka	Dhaka	7 Jun 2000	investigate this query
+Pakistan	won	5 wickets		lost	2nd		Test v Sri Lanka	Colombo (SSC)	14 Jun 2000	investigate this query
+Pakistan	won	inns & 163 runs		lost	2nd		Test v Sri Lanka	Galle	21 Jun 2000	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Kandy	28 Jun 2000	investigate this query
+Pakistan	lost	5 wickets	45	lost	1st		ODI v Sri Lanka	Galle	5 Jul 2000	investigate this query
+Pakistan	lost	18 runs		lost	2nd		ODI v South Africa	Colombo (RPS)	8 Jul 2000	investigate this query
+Pakistan	lost	6 wickets	4	won	1st		ODI v Sri Lanka	Colombo (RPS)	9 Jul 2000	investigate this query
+Pakistan	lost	7 wickets	75	won	1st		ODI v South Africa	Colombo (SSC)	12 Jul 2000	investigate this query
+Pakistan	won	12 runs		lost	1st		ODI v New Zealand	Singapore	20 Aug 2000	investigate this query
+Pakistan	won	28 runs		won	1st		ODI v South Africa	Singapore	23 Aug 2000	investigate this query
+Pakistan	lost	93 runs		lost	2nd		ODI v South Africa	Singapore	27 Aug 2000	investigate this query
+Pakistan	won	9 wickets	40	lost	2nd		ODI v Sri Lanka	Nairobi (Gym)	8 Oct 2000	investigate this query
+Pakistan	lost	4 wickets	6	won	1st		ODI v New Zealand	Nairobi (Gym)	11 Oct 2000	investigate this query
+Pakistan	lost	5 wickets	16	won	1st		ODI v England	Karachi	24 Oct 2000	investigate this query
+Pakistan	won	8 wickets	34	won	2nd		ODI v England	Lahore	27 Oct 2000	investigate this query
+Pakistan	won	6 wickets	39	won	2nd		ODI v England	Rawalpindi	30 Oct 2000	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lahore	15 Nov 2000	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Faisalabad	29 Nov 2000	investigate this query
+Pakistan	lost	6 wickets		won	1st		Test v England	Karachi	7 Dec 2000	investigate this query
+Pakistan	won	6 wickets	30	won	2nd		ODI v New Zealand	Auckland	17 Feb 2001	investigate this query
+Pakistan	lost	6 wickets	117	lost	1st		ODI v New Zealand	Napier	20 Feb 2001	investigate this query
+Pakistan	won	28 runs		lost	1st		ODI v New Zealand	Wellington	22 Feb 2001	investigate this query
+Pakistan	lost	138 runs		won	2nd		ODI v New Zealand	Christchurch	25 Feb 2001	investigate this query
+Pakistan	lost	4 wickets	11	won	1st		ODI v New Zealand	Dunedin	28 Feb 2001	investigate this query
+Pakistan	won	299 runs		lost	1st		Test v New Zealand	Auckland	8 Mar 2001	investigate this query
+Pakistan	draw	-		won	2nd		Test v New Zealand	Christchurch	15 Mar 2001	investigate this query
+Pakistan	lost	inns & 185 runs		lost	1st		Test v New Zealand	Hamilton	27 Mar 2001	investigate this query
+Pakistan	won	16 runs		won	1st		ODI v Sri Lanka	Sharjah	8 Apr 2001	investigate this query
+Pakistan	won	8 wickets	47	lost	2nd		ODI v New Zealand	Sharjah	12 Apr 2001	investigate this query
+Pakistan	won	28 runs		won	1st		ODI v Sri Lanka	Sharjah	13 Apr 2001	investigate this query
+Pakistan	won	7 wickets	148	lost	2nd		ODI v New Zealand	Sharjah	15 Apr 2001	investigate this query
+Pakistan	lost	77 runs		lost	2nd		ODI v Sri Lanka	Sharjah	20 Apr 2001	investigate this query
+Pakistan	lost	inns & 9 runs		won	2nd		Test v England	Lord's	17 May 2001	investigate this query
+Pakistan	won	108 runs		won	1st		Test v England	Manchester	31 May 2001	investigate this query
+Pakistan	won	108 runs		won	1st		ODI v England	Birmingham	7 Jun 2001	investigate this query
+Pakistan	lost	7 wickets	26	won	1st		ODI v Australia	Cardiff	9 Jun 2001	investigate this query
+Pakistan	won	2 runs		lost	1st		ODI v England	Lord's	12 Jun 2001	investigate this query
+Pakistan	aban	-		-	-		ODI v Australia	Chester-le-Street	16 Jun 2001	investigate this query
+Pakistan	won			won	2nd		ODI v England	Leeds	17 Jun 2001	investigate this query
+Pakistan	won	36 runs		won	1st		ODI v Australia	Nottingham	19 Jun 2001	investigate this query
+Pakistan	lost	9 wickets	141	won	1st		ODI v Australia	Lord's	23 Jun 2001	investigate this query
+Pakistan	won	inns & 264 runs		lost	2nd		Test v Bangladesh	Multan	29 Aug 2001	investigate this query
+Pakistan	lost	7 wickets	71	won	1st		ODI v Sri Lanka	Sharjah	27 Oct 2001	investigate this query
+Pakistan	won	106 runs		won	1st		ODI v Zimbabwe	Sharjah	28 Oct 2001	investigate this query
+Pakistan	won	29 runs		won	1st		ODI v Zimbabwe	Sharjah	31 Oct 2001	investigate this query
+Pakistan	won	7 wickets	4	lost	2nd		ODI v Sri Lanka	Sharjah	2 Nov 2001	investigate this query
+Pakistan	won	5 wickets	38	lost	2nd		ODI v Sri Lanka	Sharjah	4 Nov 2001	investigate this query
+Pakistan	won	inns & 178 runs		won	2nd		Test v Bangladesh	Dhaka	9 Jan 2002	investigate this query
+Pakistan	won	inns & 169 runs		lost	2nd		Test v Bangladesh	Chittagong	16 Jan 2002	investigate this query
+Pakistan	won	49 runs		won	1st		ODI v Bangladesh	Chittagong	22 Jan 2002	investigate this query
+Pakistan	won	72 runs		won	1st		ODI v Bangladesh	Dhaka	24 Jan 2002	investigate this query
+Pakistan	won	8 wickets	81	lost	2nd		ODI v Bangladesh	Dhaka	25 Jan 2002	investigate this query
+Pakistan	won	170 runs		won	1st		Test v West Indies	Sharjah	31 Jan 2002	investigate this query
+Pakistan	won	244 runs		lost	1st		Test v West Indies	Sharjah	7 Feb 2002	investigate this query
+Pakistan	won	4 wickets	23	lost	2nd		ODI v West Indies	Sharjah	14 Feb 2002	investigate this query
+Pakistan	won	51 runs		won	1st		ODI v West Indies	Sharjah	15 Feb 2002	investigate this query
+Pakistan	lost	110 runs		lost	2nd		ODI v West Indies	Sharjah	17 Feb 2002	investigate this query
+Pakistan	lost	8 wickets		lost	1st		Test v Sri Lanka	Lahore	6 Mar 2002	investigate this query
+Pakistan	lost	41 runs		lost	2nd		ODI v Sri Lanka	Sharjah	8 Apr 2002	investigate this query
+Pakistan	won	51 runs		won	1st		ODI v New Zealand	Sharjah	11 Apr 2002	investigate this query
+Pakistan	lost	9 runs		lost	2nd		ODI v Sri Lanka	Sharjah	12 Apr 2002	investigate this query
+Pakistan	won	8 wickets	105	lost	2nd		ODI v New Zealand	Sharjah	15 Apr 2002	investigate this query
+Pakistan	won	217 runs		won	1st		ODI v Sri Lanka	Sharjah	17 Apr 2002	investigate this query
+Pakistan	won	153 runs		won	1st		ODI v New Zealand	Karachi	21 Apr 2002	investigate this query
+Pakistan	won	3 wickets	17	lost	2nd		ODI v New Zealand	Rawalpindi	24 Apr 2002	investigate this query
+Pakistan	won	66 runs		won	1st		ODI v New Zealand	Lahore	27 Apr 2002	investigate this query
+Pakistan	won	inns & 324 runs		won	1st		Test v New Zealand	Lahore	1 May 2002	investigate this query
+Pakistan	canc	-		-	-		Test v New Zealand	Karachi	8 May 2002	investigate this query
+Pakistan	lost	7 wickets	103	lost	1st		ODI v Australia	Melbourne (Docklands)	12 Jun 2002	investigate this query
+Pakistan	won	2 wickets	7	lost	2nd		ODI v Australia	Melbourne (Docklands)	15 Jun 2002	investigate this query
+Pakistan	won	91 runs		won	1st		ODI v Australia	Brisbane	19 Jun 2002	investigate this query
+Pakistan	lost	54 runs		lost	2nd		ODI v South Africa	Tangier	12 Aug 2002	investigate this query
+Pakistan	won	28 runs		lost	1st		ODI v Sri Lanka	Tangier	14 Aug 2002	investigate this query
+Pakistan	lost	39 runs		lost	2nd		ODI v Sri Lanka	Tangier	17 Aug 2002	investigate this query
+Pakistan	lost	8 runs		lost	2nd		ODI v South Africa	Tangier	18 Aug 2002	investigate this query
+Pakistan	won	4 wickets	99	won	2nd		ODI v Kenya	Nairobi (Gym)	29 Aug 2002	investigate this query
+Pakistan	lost	224 runs		won	2nd		ODI v Australia	Nairobi (Gym)	30 Aug 2002	investigate this query
+Pakistan	won	7 wickets	68	lost	2nd		ODI v Kenya	Nairobi (Gym)	1 Sep 2002	investigate this query
+Pakistan	lost	9 wickets	185	won	1st		ODI v Australia	Nairobi (Gym)	4 Sep 2002	investigate this query
+Pakistan	n/r	-		won	1st		ODI v Australia	Nairobi (Gym)	7 Sep 2002	investigate this query
+Pakistan	lost	8 wickets	83	won	1st		ODI v Sri Lanka	Colombo (RPS)	12 Sep 2002	investigate this query
+Pakistan	won	9 wickets	202	lost	2nd		ODI v Netherlands	Colombo (SSC)	21 Sep 2002	investigate this query
+Pakistan	lost	41 runs		lost	2nd		Test v Australia	Colombo (PSS)	3 Oct 2002	investigate this query
+Pakistan	lost	inns & 198 runs		won	1st		Test v Australia	Sharjah	11 Oct 2002	investigate this query
+Pakistan	lost	inns & 20 runs		lost	2nd		Test v Australia	Sharjah	19 Oct 2002	investigate this query
+Pakistan	won	119 runs		lost	1st		Test v Zimbabwe	Harare	9 Nov 2002	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v Zimbabwe	Bulawayo	16 Nov 2002	investigate this query
+Pakistan	won	7 runs		won	1st		ODI v Zimbabwe	Bulawayo	23 Nov 2002	investigate this query
+Pakistan	won	104 runs		won	1st		ODI v Zimbabwe	Bulawayo	24 Nov 2002	investigate this query
+Pakistan	won	48 runs		lost	1st		ODI v Zimbabwe	Harare	27 Nov 2002	investigate this query
+Pakistan	won	8 wickets	86	lost	2nd		ODI v Zimbabwe	Harare	30 Nov 2002	investigate this query
+Pakistan	won	70 runs		lost	1st		ODI v Zimbabwe	Harare	1 Dec 2002	investigate this query
+Pakistan	lost	132 runs		won	2nd		ODI v South Africa	Durban	8 Dec 2002	investigate this query
+Pakistan	won	182 runs		won	1st		ODI v South Africa	Port Elizabeth	11 Dec 2002	investigate this query
+Pakistan	lost	62 runs		lost	2nd		ODI v South Africa	East London	13 Dec 2002	investigate this query
+Pakistan	lost	9 wickets	48	won	1st		ODI v South Africa	Paarl	16 Dec 2002	investigate this query
+Pakistan	lost	34 runs		lost	2nd		ODI v South Africa	Cape Town	18 Dec 2002	investigate this query
+Pakistan	lost	10 wickets		won	2nd		Test v South Africa	Durban	26 Dec 2002	investigate this query
+Pakistan	lost	inns & 142 runs		lost	2nd		Test v South Africa	Cape Town	2 Jan 2003	investigate this query
+Pakistan	lost	82 runs		won	2nd		ODI v Australia	Johannesburg	11 Feb 2003	investigate this query
+Pakistan	won	171 runs		won	1st		ODI v Namibia	Kimberley	16 Feb 2003	investigate this query
+Pakistan	lost	112 runs		lost	2nd		ODI v England	Cape Town	22 Feb 2003	investigate this query
+Pakistan	won	97 runs		lost	1st		ODI v Netherlands	Paarl	25 Feb 2003	investigate this query
+Pakistan	lost	6 wickets	26	won	1st		ODI v India	Centurion	1 Mar 2003	investigate this query
+Pakistan	n/r	-		won	1st		ODI v Zimbabwe	Bulawayo	4 Mar 2003	investigate this query
+Pakistan	won	68 runs		won	1st		ODI v Zimbabwe	Sharjah	3 Apr 2003	investigate this query
+Pakistan	won	7 wickets	16	lost	2nd		ODI v Sri Lanka	Sharjah	4 Apr 2003	investigate this query
+Pakistan	won	143 runs		won	1st		ODI v Kenya	Sharjah	8 Apr 2003	investigate this query
+Pakistan	won	8 wickets	88	lost	2nd		ODI v Zimbabwe	Sharjah	10 Apr 2003	investigate this query
+Pakistan	won	79 runs		lost	1st		ODI v Sri Lanka	Dambulla	10 May 2003	investigate this query
+Pakistan	lost	7 wickets	135	lost	1st		ODI v New Zealand	Dambulla	11 May 2003	investigate this query
+Pakistan	lost	12 runs		won	2nd		ODI v Sri Lanka	Dambulla	18 May 2003	investigate this query
+Pakistan	won	22 runs		lost	1st		ODI v New Zealand	Dambulla	20 May 2003	investigate this query
+Pakistan	lost	4 wickets	28	won	1st		ODI v New Zealand	Dambulla	23 May 2003	investigate this query
+Pakistan	won	2 wickets	4	lost	2nd		ODI v England	Manchester	17 Jun 2003	investigate this query
+Pakistan	lost	7 wickets	168	won	1st		ODI v England	The Oval	20 Jun 2003	investigate this query
+Pakistan	lost	4 wickets	9	lost	1st		ODI v England	Lord's	22 Jun 2003	investigate this query
+Pakistan	won	7 wickets		won	2nd		Test v Bangladesh	Karachi	20 Aug 2003	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v Bangladesh	Peshawar	27 Aug 2003	investigate this query
+Pakistan	won	1 wickets		lost	2nd		Test v Bangladesh	Multan	3 Sep 2003	investigate this query
+Pakistan	won	137 runs		won	1st		ODI v Bangladesh	Multan	9 Sep 2003	investigate this query
+Pakistan	won	74 runs		won	1st		ODI v Bangladesh	Faisalabad	12 Sep 2003	investigate this query
+Pakistan	won	42 runs		won	1st		ODI v Bangladesh	Lahore	15 Sep 2003	investigate this query
+Pakistan	won	5 wickets	1	lost	2nd		ODI v Bangladesh	Rawalpindi	18 Sep 2003	investigate this query
+Pakistan	won	58 runs		won	1st		ODI v Bangladesh	Karachi	21 Sep 2003	investigate this query
+Pakistan	won	8 runs		won	1st		ODI v South Africa	Lahore	3 Oct 2003	investigate this query
+Pakistan	won	42 runs		lost	1st		ODI v South Africa	Lahore	5 Oct 2003	investigate this query
+Pakistan	lost	13 runs		won	1st		ODI v South Africa	Faisalabad	7 Oct 2003	investigate this query
+Pakistan	lost	6 wickets	67	won	1st		ODI v South Africa	Rawalpindi	10 Oct 2003	investigate this query
+Pakistan	lost	7 wickets	25	won	1st		ODI v South Africa	Rawalpindi	12 Oct 2003	investigate this query
+Pakistan	won	8 wickets		lost	2nd		Test v South Africa	Lahore	17 Oct 2003	investigate this query
+Pakistan	draw	-		lost	2nd		Test v South Africa	Faisalabad	24 Oct 2003	investigate this query
+Pakistan	won	3 wickets	12	lost	2nd		ODI v New Zealand	Lahore	29 Nov 2003	investigate this query
+Pakistan	won	124 runs		won	1st		ODI v New Zealand	Lahore	1 Dec 2003	investigate this query
+Pakistan	won	51 runs		won	1st		ODI v New Zealand	Faisalabad	3 Dec 2003	investigate this query
+Pakistan	won	7 wickets	52	lost	2nd		ODI v New Zealand	Rawalpindi	5 Dec 2003	investigate this query
+Pakistan	won	49 runs		won	1st		ODI v New Zealand	Rawalpindi	7 Dec 2003	investigate this query
+Pakistan	draw	-		won	2nd		Test v New Zealand	Hamilton	19 Dec 2003	investigate this query
+Pakistan	won	7 wickets		lost	2nd		Test v New Zealand	Wellington	26 Dec 2003	investigate this query
+Pakistan	lost	4 wickets	5	lost	1st		ODI v New Zealand	Auckland	3 Jan 2004	investigate this query
+Pakistan	won	6 wickets	18	won	2nd		ODI v New Zealand	Queenstown	7 Jan 2004	investigate this query
+Pakistan	lost	7 wickets	22	lost	1st		ODI v New Zealand	Christchurch	10 Jan 2004	investigate this query
+Pakistan	lost	8 wickets	163	lost	1st		ODI v New Zealand	Napier	14 Jan 2004	investigate this query
+Pakistan	lost	4 runs		lost	2nd		ODI v New Zealand	Wellington	17 Jan 2004	investigate this query
+Pakistan	lost	5 runs		won	2nd		ODI v India	Karachi	13 Mar 2004	investigate this query
+Pakistan	won	12 runs		won	1st		ODI v India	Rawalpindi	16 Mar 2004	investigate this query
+Pakistan	won	4 wickets	16	won	2nd		ODI v India	Peshawar	19 Mar 2004	investigate this query
+Pakistan	lost	5 wickets	30	won	1st		ODI v India	Lahore	21 Mar 2004	investigate this query
+Pakistan	lost	40 runs		won	2nd		ODI v India	Lahore	24 Mar 2004	investigate this query
+Pakistan	lost	inns & 52 runs		lost	2nd		Test v India	Multan	28 Mar 2004	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v India	Lahore	5 Apr 2004	investigate this query
+Pakistan	lost	inns & 131 runs		lost	1st		Test v India	Rawalpindi	13 Apr 2004	investigate this query
+Pakistan	won	76 runs		won	1st		ODI v Bangladesh	Colombo (SSC)	17 Jul 2004	investigate this query
+Pakistan	won	173 runs		won	1st		ODI v Hong Kong	Colombo (SSC)	18 Jul 2004	investigate this query
+Pakistan	lost	7 wickets	108	won	1st		ODI v Sri Lanka	Colombo (RPS)	21 Jul 2004	investigate this query
+Pakistan	won	59 runs		won	1st		ODI v India	Colombo (RPS)	25 Jul 2004	investigate this query
+Pakistan	won	6 wickets	54	lost	2nd		ODI v Bangladesh	Colombo (RPS)	29 Jul 2004	investigate this query
+Pakistan	won	66 runs		lost	1st		ODI v India	Amstelveen	21 Aug 2004	investigate this query
+Pakistan	aban	-		-	-		ODI v Australia	Amstelveen	25 Aug 2004	investigate this query
+Pakistan	lost	17 runs		lost	2nd		ODI v Australia	Amstelveen	28 Aug 2004	investigate this query
+Pakistan	lost	10 runs		won	2nd		ODI v Australia	Lord's	4 Sep 2004	investigate this query
+Pakistan	won	7 wickets	188	won	2nd		ODI v Kenya	Birmingham	14 Sep 2004	investigate this query
+Pakistan	won	3 wickets	4	won	2nd		ODI v India	Birmingham	19 Sep 2004	investigate this query
+Pakistan	lost	7 wickets	131	won	1st		ODI v West Indies	Southampton	22 Sep 2004	investigate this query
+Pakistan	won	144 runs		won	1st		ODI v Zimbabwe	Multan	30 Sep 2004	investigate this query
+Pakistan	won	3 wickets	11	won	2nd		ODI v Zimbabwe	Peshawar	3 Oct 2004	investigate this query
+Pakistan	won	8 wickets	8	lost	2nd		ODI v Sri Lanka	Karachi	6 Oct 2004	investigate this query
+Pakistan	won	6 wickets	7	won	2nd		ODI v Sri Lanka	Lahore	14 Oct 2004	investigate this query
+Pakistan	lost	119 runs		won	2nd		ODI v Sri Lanka	Lahore	16 Oct 2004	investigate this query
+Pakistan	lost	201 runs		lost	2nd		Test v Sri Lanka	Faisalabad	20 Oct 2004	investigate this query
+Pakistan	won	6 wickets		won	2nd		Test v Sri Lanka	Karachi	28 Oct 2004	investigate this query
+Pakistan	won	6 wickets	6	lost	2nd		ODI v India	Kolkata	13 Nov 2004	investigate this query
+Pakistan	lost	491 runs		won	2nd		Test v Australia	Perth	16 Dec 2004	investigate this query
+Pakistan	lost	9 wickets		won	1st		Test v Australia	Melbourne	26 Dec 2004	investigate this query
+Pakistan	lost	9 wickets		won	1st		Test v Australia	Sydney	2 Jan 2005	investigate this query
+Pakistan	lost	4 wickets	12	won	1st		ODI v Australia	Hobart	16 Jan 2005	investigate this query
+Pakistan	won	6 wickets	18	won	2nd		ODI v West Indies	Brisbane	19 Jan 2005	investigate this query
+Pakistan	lost	9 wickets	82	lost	1st		ODI v Australia	Sydney	23 Jan 2005	investigate this query
+Pakistan	lost	58 runs		won	2nd		ODI v West Indies	Adelaide	28 Jan 2005	investigate this query
+Pakistan	won	3 wickets	16	lost	2nd		ODI v Australia	Perth	30 Jan 2005	investigate this query
+Pakistan	won	30 runs		lost	1st		ODI v West Indies	Perth	1 Feb 2005	investigate this query
+Pakistan	lost	18 runs		lost	2nd		ODI v Australia	Melbourne	4 Feb 2005	investigate this query
+Pakistan	lost	31 runs		lost	2nd		ODI v Australia	Sydney	6 Feb 2005	investigate this query
+Pakistan	draw	-		lost	1st		Test v India	Mohali	8 Mar 2005	investigate this query
+Pakistan	lost	195 runs		lost	2nd		Test v India	Kolkata	16 Mar 2005	investigate this query
+Pakistan	won	168 runs		won	1st		Test v India	Bangalore	24 Mar 2005	investigate this query
+Pakistan	lost	87 runs		lost	2nd		ODI v India	Kochi	2 Apr 2005	investigate this query
+Pakistan	lost	58 runs		lost	2nd		ODI v India	Visakhapatnam	5 Apr 2005	investigate this query
+Pakistan	won	106 runs		won	1st		ODI v India	Jamshedpur	9 Apr 2005	investigate this query
+Pakistan	won	3 wickets	0	lost	2nd		ODI v India	Ahmedabad	12 Apr 2005	investigate this query
+Pakistan	won	5 wickets	47	lost	2nd		ODI v India	Kanpur	15 Apr 2005	investigate this query
+Pakistan	won	159 runs		won	1st		ODI v India	Delhi	17 Apr 2005	investigate this query
+Pakistan	won	59 runs		lost	1st		ODI v West Indies	Kingstown	18 May 2005	investigate this query
+Pakistan	won	40 runs		won	1st		ODI v West Indies	Gros Islet	21 May 2005	investigate this query
+Pakistan	won	22 runs		lost	1st		ODI v West Indies	Gros Islet	22 May 2005	investigate this query
+Pakistan	lost	276 runs		lost	2nd		Test v West Indies	Bridgetown	26 May 2005	investigate this query
+Pakistan	won	136 runs		won	1st		Test v West Indies	Kingston	3 Jun 2005	investigate this query
+Pakistan	won	22 runs		won	1st		Test v England	Multan	12 Nov 2005	investigate this query
+Pakistan	draw	-		won	1st		Test v England	Faisalabad	20 Nov 2005	investigate this query
+Pakistan	won	inns & 100 runs		lost	2nd		Test v England	Lahore	29 Nov 2005	investigate this query
+Pakistan	lost	42 runs		lost	2nd		ODI v England	Lahore	10 Dec 2005	investigate this query
+Pakistan	won	7 wickets	36	lost	2nd		ODI v England	Lahore	12 Dec 2005	investigate this query
+Pakistan	won	165 runs		lost	1st		ODI v England	Karachi	15 Dec 2005	investigate this query
+Pakistan	won	13 runs		won	1st		ODI v England	Rawalpindi	19 Dec 2005	investigate this query
+Pakistan	lost	6 runs		lost	2nd		ODI v England	Rawalpindi	21 Dec 2005	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Lahore	13 Jan 2006	investigate this query
+Pakistan	draw	-		won	1st		Test v India	Faisalabad	21 Jan 2006	investigate this query
+Pakistan	won	341 runs		lost	1st		Test v India	Karachi	29 Jan 2006	investigate this query
+Pakistan	won	7 runs		won	2nd		ODI v India	Peshawar	6 Feb 2006	investigate this query
+Pakistan	lost	7 wickets	41	won	1st		ODI v India	Rawalpindi	11 Feb 2006	investigate this query
+Pakistan	lost	5 wickets	14	lost	1st		ODI v India	Lahore	13 Feb 2006	investigate this query
+Pakistan	lost	5 wickets	105	lost	1st		ODI v India	Multan	16 Feb 2006	investigate this query
+Pakistan	lost	8 wickets	19	lost	1st		ODI v India	Karachi	19 Feb 2006	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v Sri Lanka	Colombo (RPS)	17 Mar 2006	investigate this query
+Pakistan	won	4 wickets	32	won	2nd		ODI v Sri Lanka	Colombo (RPS)	19 Mar 2006	investigate this query
+Pakistan	won	4 wickets	28	won	2nd		ODI v Sri Lanka	Colombo (SSC)	22 Mar 2006	investigate this query
+Pakistan	draw	-		won	2nd		Test v Sri Lanka	Colombo (SSC)	26 Mar 2006	investigate this query
+Pakistan	won	8 wickets		won	2nd		Test v Sri Lanka	Kandy	3 Apr 2006	investigate this query
+Pakistan	won	6 wickets	9	lost	2nd		ODI v India	Abu Dhabi	18 Apr 2006	investigate this query
+Pakistan	lost	51 runs		lost	2nd		ODI v India	Abu Dhabi	19 Apr 2006	investigate this query
+Pakistan	won	5 wickets	37	won	2nd		ODI v Scotland	Edinburgh	27 Jun 2006	investigate this query
+Pakistan	draw	-		lost	2nd		Test v England	Lord's	13 Jul 2006	investigate this query
+Pakistan	lost	inns & 120 runs		won	1st		Test v England	Manchester	27 Jul 2006	investigate this query
+Pakistan	lost	167 runs		lost	2nd		Test v England	Leeds	4 Aug 2006	investigate this query
+Pakistan	lost			won	2nd		Test v England	The Oval	17 Aug 2006	investigate this query
+Pakistan	won	5 wickets	13	lost	2nd		T20I v England	Bristol	28 Aug 2006	investigate this query
+Pakistan	n/r	-		won	2nd		ODI v England	Cardiff	30 Aug 2006	investigate this query
+Pakistan	won	7 wickets	20	won	2nd		ODI v England	Lord's	2 Sep 2006	investigate this query
+Pakistan	won	2 wickets	7	won	2nd		ODI v England	Southampton	5 Sep 2006	investigate this query
+Pakistan	lost	8 wickets	22	won	1st		ODI v England	Nottingham	8 Sep 2006	investigate this query
+Pakistan	lost	3 wickets	114	lost	1st		ODI v England	Birmingham	10 Sep 2006	investigate this query
+Pakistan	won	4 wickets	11	lost	2nd		ODI v Sri Lanka	Jaipur	17 Oct 2006	investigate this query
+Pakistan	lost	51 runs		won	2nd		ODI v New Zealand	Mohali	25 Oct 2006	investigate this query
+Pakistan	lost	124 runs		lost	2nd		ODI v South Africa	Mohali	27 Oct 2006	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v West Indies	Lahore	11 Nov 2006	investigate this query
+Pakistan	draw	-		won	1st		Test v West Indies	Multan	19 Nov 2006	investigate this query
+Pakistan	won	199 runs		won	1st		Test v West Indies	Karachi	27 Nov 2006	investigate this query
+Pakistan	aban	-		-	-		ODI v West Indies	Rawalpindi	5 Dec 2006	investigate this query
+Pakistan	won	2 wickets	10	won	2nd		ODI v West Indies	Faisalabad	7 Dec 2006	investigate this query
+Pakistan	won	7 wickets	8	won	2nd		ODI v West Indies	Lahore	10 Dec 2006	investigate this query
+Pakistan	lost	7 wickets	91	won	1st		ODI v West Indies	Multan	13 Dec 2006	investigate this query
+Pakistan	won	7 wickets	19	won	2nd		ODI v West Indies	Karachi	16 Dec 2006	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v South Africa	Centurion	11 Jan 2007	investigate this query
+Pakistan	won	5 wickets		lost	2nd		Test v South Africa	Port Elizabeth	19 Jan 2007	investigate this query
+Pakistan	lost	5 wickets		lost	1st		Test v South Africa	Cape Town	26 Jan 2007	investigate this query
+Pakistan	lost	10 wickets	51	lost	1st		T20I v South Africa	Johannesburg	2 Feb 2007	investigate this query
+Pakistan	lost	164 runs		won	2nd		ODI v South Africa	Centurion	4 Feb 2007	investigate this query
+Pakistan	won	141 runs		won	1st		ODI v South Africa	Durban	7 Feb 2007	investigate this query
+Pakistan	n/r	-		won	1st		ODI v South Africa	Port Elizabeth	9 Feb 2007	investigate this query
+Pakistan	lost	10 wickets	216	lost	1st		ODI v South Africa	Cape Town	11 Feb 2007	investigate this query
+Pakistan	lost	9 wickets	130	won	1st		ODI v South Africa	Johannesburg	14 Feb 2007	investigate this query
+Pakistan	lost	54 runs		won	2nd		ODI v West Indies	Kingston	13 Mar 2007	investigate this query
+Pakistan	lost	3 wickets	32	lost	1st		ODI v Ireland	Kingston	17 Mar 2007	investigate this query
+Pakistan	won	93 runs		lost	1st		ODI v Zimbabwe	Kingston	21 Mar 2007	investigate this query
+Pakistan	won	5 wickets	48	lost	2nd		ODI v Sri Lanka	Abu Dhabi	18 May 2007	investigate this query
+Pakistan	won	98 runs		won	1st		ODI v Sri Lanka	Abu Dhabi	20 May 2007	investigate this query
+Pakistan	lost	115 runs		lost	2nd		ODI v Sri Lanka	Abu Dhabi	22 May 2007	investigate this query
+Pakistan	aban	-		-	-		ODI v Scotland	Edinburgh	1 Jul 2007	investigate this query
+Pakistan	aban	-		-	-		ODI v India	Glasgow	3 Jul 2007	investigate this query
+Pakistan	won	30 runs		lost	1st		T20I v Bangladesh	Nairobi (Gym)	2 Sep 2007	investigate this query
+Pakistan	won	8 wickets	36	lost	2nd		T20I v Kenya	Nairobi (Gym)	4 Sep 2007	investigate this query
+Pakistan	won	51 runs		lost	1st		T20I v Scotland	Durban	12 Sep 2007	investigate this query
+Pakistan	tied	-		won	2nd		T20I v India	Durban	14 Sep 2007	investigate this query
+Pakistan	won	33 runs		lost	1st		T20I v Sri Lanka	Johannesburg	17 Sep 2007	investigate this query
+Pakistan	won	6 wickets	5	won	2nd		T20I v Australia	Johannesburg	18 Sep 2007	investigate this query
+Pakistan	won	4 wickets	6	won	2nd		T20I v Bangladesh	Cape Town	20 Sep 2007	investigate this query
+Pakistan	won	6 wickets	7	lost	2nd		T20I v New Zealand	Cape Town	22 Sep 2007	investigate this query
+Pakistan	lost	5 runs		lost	2nd		T20I v India	Johannesburg	24 Sep 2007	investigate this query
+Pakistan	lost	160 runs		lost	2nd		Test v South Africa	Karachi	1 Oct 2007	investigate this query
+Pakistan	draw	-		lost	2nd		Test v South Africa	Lahore	8 Oct 2007	investigate this query
+Pakistan	lost	45 runs		lost	2nd		ODI v South Africa	Lahore	18 Oct 2007	investigate this query
+Pakistan	won	25 runs		won	1st		ODI v South Africa	Lahore	20 Oct 2007	investigate this query
+Pakistan	won	6 wickets	11	lost	2nd		ODI v South Africa	Faisalabad	23 Oct 2007	investigate this query
+Pakistan	lost	7 wickets	74	won	1st		ODI v South Africa	Multan	26 Oct 2007	investigate this query
+Pakistan	lost	14 runs		lost	2nd		ODI v South Africa	Lahore	29 Oct 2007	investigate this query
+Pakistan	lost	5 wickets	18	won	1st		ODI v India	Guwahati	5 Nov 2007	investigate this query
+Pakistan	won	4 wickets	1	lost	2nd		ODI v India	Mohali	8 Nov 2007	investigate this query
+Pakistan	lost	46 runs		won	2nd		ODI v India	Kanpur	11 Nov 2007	investigate this query
+Pakistan	lost	6 wickets	21	won	1st		ODI v India	Gwalior	15 Nov 2007	investigate this query
+Pakistan	won	31 runs		lost	1st		ODI v India	Jaipur	18 Nov 2007	investigate this query
+Pakistan	lost	6 wickets		won	1st		Test v India	Delhi	22 Nov 2007	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Kolkata	30 Nov 2007	investigate this query
+Pakistan	draw	-		lost	2nd		Test v India	Bangalore	8 Dec 2007	investigate this query
+Pakistan	won	104 runs		lost	1st		ODI v Zimbabwe	Karachi	21 Jan 2008	investigate this query
+Pakistan	won	5 wickets	22	lost	2nd		ODI v Zimbabwe	Hyderabad (Sind)	24 Jan 2008	investigate this query
+Pakistan	won	37 runs		won	1st		ODI v Zimbabwe	Multan	27 Jan 2008	investigate this query
+Pakistan	won	7 wickets	18	lost	2nd		ODI v Zimbabwe	Faisalabad	30 Jan 2008	investigate this query
+Pakistan	won	7 wickets	114	lost	2nd		ODI v Zimbabwe	Sheikhupura	2 Feb 2008	investigate this query
+Pakistan	won	152 runs		won	1st		ODI v Bangladesh	Lahore	8 Apr 2008	investigate this query
+Pakistan	won	7 wickets	10	lost	2nd		ODI v Bangladesh	Faisalabad	11 Apr 2008	investigate this query
+Pakistan	won	23 runs		won	1st		ODI v Bangladesh	Lahore	13 Apr 2008	investigate this query
+Pakistan	won	7 wickets	33	lost	2nd		ODI v Bangladesh	Multan	16 Apr 2008	investigate this query
+Pakistan	won	150 runs		won	1st		ODI v Bangladesh	Karachi	19 Apr 2008	investigate this query
+Pakistan	won	102 runs		won	1st		T20I v Bangladesh	Karachi	20 Apr 2008	investigate this query
+Pakistan	won	70 runs		lost	1st		ODI v Bangladesh	Dhaka	8 Jun 2008	investigate this query
+Pakistan	lost	140 runs		lost	2nd		ODI v India	Dhaka	10 Jun 2008	investigate this query
+Pakistan	won	25 runs		won	1st		ODI v India	Dhaka	14 Jun 2008	investigate this query
+Pakistan	won	155 runs		won	1st		ODI v Hong Kong	Karachi	24 Jun 2008	investigate this query
+Pakistan	lost	6 wickets	47	won	1st		ODI v India	Karachi	26 Jun 2008	investigate this query
+Pakistan	lost	64 runs		won	2nd		ODI v Sri Lanka	Karachi	29 Jun 2008	investigate this query
+Pakistan	won	8 wickets	27	lost	2nd		ODI v India	Karachi	2 Jul 2008	investigate this query
+Pakistan	won	10 wickets	182	lost	2nd		ODI v Bangladesh	Karachi	4 Jul 2008	investigate this query
+Pakistan	won	35 runs		won	1st		T20I v Canada	King City (NW)	10 Oct 2008	investigate this query
+Pakistan	won	3 wickets	1	won	2nd		T20I v Sri Lanka	King City (NW)	11 Oct 2008	investigate this query
+Pakistan	won	7 wickets	6	lost	2nd		T20I v Zimbabwe	King City (NW)	12 Oct 2008	investigate this query
+Pakistan	lost	5 wickets	6	lost	1st		T20I v Sri Lanka	King City (NW)	13 Oct 2008	investigate this query
+Pakistan	won	4 wickets	1	lost	2nd		ODI v West Indies	Abu Dhabi	12 Nov 2008	investigate this query
+Pakistan	won	24 runs		won	1st		ODI v West Indies	Abu Dhabi	14 Nov 2008	investigate this query
+Pakistan	won	31 runs		won	1st		ODI v West Indies	Abu Dhabi	16 Nov 2008	investigate this query
+Pakistan	won	8 wickets	25	lost	2nd		ODI v Sri Lanka	Karachi	20 Jan 2009	investigate this query
+Pakistan	lost	129 runs		won	2nd		ODI v Sri Lanka	Karachi	21 Jan 2009	investigate this query
+Pakistan	lost	234 runs		lost	2nd		ODI v Sri Lanka	Lahore	24 Jan 2009	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Karachi	21 Feb 2009	investigate this query
+Pakistan	draw	-		won	2nd		Test v Sri Lanka	Lahore	1 Mar 2009	investigate this query
+Pakistan	won	4 wickets	35	lost	2nd		ODI v Australia	Dubai (DSC)	22 Apr 2009	investigate this query
+Pakistan	lost	6 wickets	29	won	1st		ODI v Australia	Dubai (DSC)	24 Apr 2009	investigate this query
+Pakistan	lost	27 runs		lost	2nd		ODI v Australia	Abu Dhabi	27 Apr 2009	investigate this query
+Pakistan	lost	8 wickets	34	won	1st		ODI v Australia	Abu Dhabi	1 May 2009	investigate this query
+Pakistan	won	7 wickets	18	lost	2nd		ODI v Australia	Abu Dhabi	3 May 2009	investigate this query
+Pakistan	won	7 wickets	22	won	2nd		T20I v Australia	Dubai (DSC)	7 May 2009	investigate this query
+Pakistan	lost	48 runs		won	2nd		T20I v England	The Oval	7 Jun 2009	investigate this query
+Pakistan	won	82 runs		won	1st		T20I v Netherlands	Lord's	9 Jun 2009	investigate this query
+Pakistan	lost	19 runs		lost	2nd		T20I v Sri Lanka	Lord's	12 Jun 2009	investigate this query
+Pakistan	won	6 wickets	41	lost	2nd		T20I v New Zealand	The Oval	13 Jun 2009	investigate this query
+Pakistan	won	39 runs		won	1st		T20I v Ireland	The Oval	15 Jun 2009	investigate this query
+Pakistan	won	7 runs		won	1st		T20I v South Africa	Nottingham	18 Jun 2009	investigate this query
+Pakistan	won	8 wickets	8	lost	2nd		T20I v Sri Lanka	Lord's	21 Jun 2009	investigate this query
+Pakistan	lost	50 runs		won	2nd		Test v Sri Lanka	Galle	4 Jul 2009	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v Sri Lanka	Colombo (PSS)	12 Jul 2009	investigate this query
+Pakistan	draw	-		lost	1st		Test v Sri Lanka	Colombo (SSC)	20 Jul 2009	investigate this query
+Pakistan	lost	36 runs		won	2nd		ODI v Sri Lanka	Dambulla	30 Jul 2009	investigate this query
+Pakistan	lost	6 wickets	38	lost	1st		ODI v Sri Lanka	Dambulla	1 Aug 2009	investigate this query
+Pakistan	lost	6 wickets	21	lost	1st		ODI v Sri Lanka	Dambulla	3 Aug 2009	investigate this query
+Pakistan	won	146 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	7 Aug 2009	investigate this query
+Pakistan	won	132 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	9 Aug 2009	investigate this query
+Pakistan	won	52 runs		won	1st		T20I v Sri Lanka	Colombo (RPS)	12 Aug 2009	investigate this query
+Pakistan	won	5 wickets	117	lost	2nd		ODI v West Indies	Johannesburg	23 Sep 2009	investigate this query
+Pakistan	won	54 runs		won	1st		ODI v India	Centurion	26 Sep 2009	investigate this query
+Pakistan	lost	2 wickets	0	lost	1st		ODI v Australia	Centurion	30 Sep 2009	investigate this query
+Pakistan	lost	5 wickets	13	won	1st		ODI v New Zealand	Johannesburg	3 Oct 2009	investigate this query
+Pakistan	won	138 runs		won	1st		ODI v New Zealand	Abu Dhabi	3 Nov 2009	investigate this query
+Pakistan	lost	64 runs		lost	2nd		ODI v New Zealand	Abu Dhabi	6 Nov 2009	investigate this query
+Pakistan	lost	7 runs		lost	2nd		ODI v New Zealand	Abu Dhabi	9 Nov 2009	investigate this query
+Pakistan	won	49 runs		lost	1st		T20I v New Zealand	Dubai (DSC)	12 Nov 2009	investigate this query
+Pakistan	won	7 runs		won	1st		T20I v New Zealand	Dubai (DSC)	13 Nov 2009	investigate this query
+Pakistan	lost	32 runs		won	2nd		Test v New Zealand	Dunedin	24 Nov 2009	investigate this query
+Pakistan	won	141 runs		lost	1st		Test v New Zealand	Wellington	3 Dec 2009	investigate this query
+Pakistan	draw	-		won	1st		Test v New Zealand	Napier	11 Dec 2009	investigate this query
+Pakistan	lost	170 runs		lost	2nd		Test v Australia	Melbourne	26 Dec 2009	investigate this query
+Pakistan	lost	36 runs		lost	2nd		Test v Australia	Sydney	3 Jan 2010	investigate this query
+Pakistan	lost	231 runs		lost	2nd		Test v Australia	Hobart	14 Jan 2010	investigate this query
+Pakistan	lost	5 wickets	9	won	1st		ODI v Australia	Brisbane	22 Jan 2010	investigate this query
+Pakistan	lost	140 runs		won	2nd		ODI v Australia	Sydney	24 Jan 2010	investigate this query
+Pakistan	lost	40 runs		lost	2nd		ODI v Australia	Adelaide	26 Jan 2010	investigate this query
+Pakistan	lost	135 runs		lost	2nd		ODI v Australia	Perth	29 Jan 2010	investigate this query
+Pakistan	lost	2 wickets	4	won	1st		ODI v Australia	Perth	31 Jan 2010	investigate this query
+Pakistan	lost	2 runs		lost	2nd		T20I v Australia	Melbourne	5 Feb 2010	investigate this query
+Pakistan	lost	7 wickets	9	won	1st		T20I v England	Dubai (DSC)	19 Feb 2010	investigate this query
+Pakistan	won	4 wickets	6	won	2nd		T20I v England	Dubai (DSC)	20 Feb 2010	investigate this query
+Pakistan	won	21 runs		won	1st		T20I v Bangladesh	Gros Islet	1 May 2010	investigate this query
+Pakistan	lost	34 runs		lost	2nd		T20I v Australia	Gros Islet	2 May 2010	investigate this query
+Pakistan	lost	6 wickets	3	lost	1st		T20I v England	Bridgetown	6 May 2010	investigate this query
+Pakistan	lost	1 runs		won	2nd		T20I v New Zealand	Bridgetown	8 May 2010	investigate this query
+Pakistan	won	11 runs		won	1st		T20I v South Africa	Gros Islet	10 May 2010	investigate this query
+Pakistan	lost	3 wickets	1	lost	1st		T20I v Australia	Gros Islet	14 May 2010	investigate this query
+Pakistan	lost	16 runs		lost	2nd		ODI v Sri Lanka	Dambulla	15 Jun 2010	investigate this query
+Pakistan	lost	3 wickets	1	won	1st		ODI v India	Dambulla	19 Jun 2010	investigate this query
+Pakistan	won	139 runs		won	1st		ODI v Bangladesh	Dambulla	21 Jun 2010	investigate this query
+Pakistan	won	23 runs		won	1st		T20I v Australia	Birmingham	5 Jul 2010	investigate this query
+Pakistan	won	11 runs		won	1st		T20I v Australia	Birmingham	6 Jul 2010	investigate this query
+Pakistan	lost	150 runs		won	2nd		Test v Australia	Lord's	13 Jul 2010	investigate this query
+Pakistan	won	3 wickets		lost	2nd		Test v Australia	Leeds	21 Jul 2010	investigate this query
+Pakistan	lost	354 runs		lost	2nd		Test v England	Nottingham	29 Jul 2010	investigate this query
+Pakistan	lost	9 wickets		won	1st		Test v England	Birmingham	6 Aug 2010	investigate this query
+Pakistan	won	4 wickets		lost	2nd		Test v England	The Oval	18 Aug 2010	investigate this query
+Pakistan	lost	inns & 225 runs		won	2nd		Test v England	Lord's	26 Aug 2010	investigate this query
+Pakistan	lost	5 wickets	17	lost	1st		T20I v England	Cardiff	5 Sep 2010	investigate this query
+Pakistan	lost	6 wickets	36	won	1st		T20I v England	Cardiff	7 Sep 2010	investigate this query
+Pakistan	lost	24 runs		won	2nd		ODI v England	Chester-le-Street	10 Sep 2010	investigate this query
+Pakistan	lost	4 wickets	3	won	1st		ODI v England	Leeds	12 Sep 2010	investigate this query
+Pakistan	won	23 runs		won	1st		ODI v England	The Oval	17 Sep 2010	investigate this query
+Pakistan	won	38 runs		won	1st		ODI v England	Lord's	20 Sep 2010	investigate this query
+Pakistan	lost	121 runs		lost	2nd		ODI v England	Southampton	22 Sep 2010	investigate this query
+Pakistan	lost	6 wickets	10	won	1st		T20I v South Africa	Abu Dhabi	26 Oct 2010	investigate this query
+Pakistan	lost	6 wickets	8	won	1st		T20I v South Africa	Abu Dhabi	27 Oct 2010	investigate this query
+Pakistan	lost	8 wickets	63	won	1st		ODI v South Africa	Abu Dhabi	29 Oct 2010	investigate this query
+Pakistan	won	1 wickets	1	lost	2nd		ODI v South Africa	Abu Dhabi	31 Oct 2010	investigate this query
+Pakistan	lost	2 runs		won	2nd		ODI v South Africa	Dubai (DSC)	2 Nov 2010	investigate this query
+Pakistan	won	1 wickets	1	lost	2nd		ODI v South Africa	Dubai (DSC)	5 Nov 2010	investigate this query
+Pakistan	lost	57 runs		lost	2nd		ODI v South Africa	Dubai (DSC)	8 Nov 2010	investigate this query
+Pakistan	draw	-		lost	2nd		Test v South Africa	Dubai (DSC)	12 Nov 2010	investigate this query
+Pakistan	draw	-		won	2nd		Test v South Africa	Abu Dhabi	20 Nov 2010	investigate this query
+Pakistan	lost	5 wickets	17	lost	1st		T20I v New Zealand	Auckland	26 Dec 2010	investigate this query
+Pakistan	lost	39 runs		won	2nd		T20I v New Zealand	Hamilton	28 Dec 2010	investigate this query
+Pakistan	won	103 runs		won	1st		T20I v New Zealand	Christchurch	30 Dec 2010	investigate this query
+Pakistan	won	10 wickets		won	2nd		Test v New Zealand	Hamilton	7 Jan 2011	investigate this query
+Pakistan	draw	-		lost	2nd		Test v New Zealand	Wellington	15 Jan 2011	investigate this query
+Pakistan	lost	9 wickets	196	won	1st		ODI v New Zealand	Wellington	22 Jan 2011	investigate this query
+Pakistan	n/r	-		lost	1st		ODI v New Zealand	Queenstown	26 Jan 2011	investigate this query
+Pakistan	won	43 runs		lost	1st		ODI v New Zealand	Christchurch	29 Jan 2011	investigate this query
+Pakistan	won	2 wickets	6	lost	2nd		ODI v New Zealand	Napier	1 Feb 2011	investigate this query
+Pakistan	won	41 runs		lost	1st		ODI v New Zealand	Hamilton	3 Feb 2011	investigate this query
+Pakistan	lost	57 runs		won	2nd		ODI v New Zealand	Auckland	5 Feb 2011	investigate this query
+Pakistan	won	205 runs		won	1st		ODI v Kenya	Hambantota	23 Feb 2011	investigate this query
+Pakistan	won	11 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	26 Feb 2011	investigate this query
+Pakistan	won	46 runs		won	1st		ODI v Canada	Colombo (RPS)	3 Mar 2011	investigate this query
+Pakistan	lost	110 runs		lost	2nd		ODI v New Zealand	Pallekele	8 Mar 2011	investigate this query
+Pakistan	won	7 wickets	23	lost	2nd		ODI v Zimbabwe	Pallekele	14 Mar 2011	investigate this query
+Pakistan	won	4 wickets	54	lost	2nd		ODI v Australia	Colombo (RPS)	19 Mar 2011	investigate this query
+Pakistan	won	10 wickets	175	lost	2nd		ODI v West Indies	Dhaka	23 Mar 2011	investigate this query
+Pakistan	lost	29 runs		lost	2nd		ODI v India	Mohali	30 Mar 2011	investigate this query
+Pakistan	lost	7 runs		lost	2nd		T20I v West Indies	Gros Islet	21 Apr 2011	investigate this query
+Pakistan	won	8 wickets	51	lost	2nd		ODI v West Indies	Gros Islet	23 Apr 2011	investigate this query
+Pakistan	won	7 wickets	12	won	2nd		ODI v West Indies	Gros Islet	25 Apr 2011	investigate this query
+Pakistan	won	3 wickets	29	won	2nd		ODI v West Indies	Bridgetown	28 Apr 2011	investigate this query
+Pakistan	lost	1 runs		lost	1st		ODI v West Indies	Bridgetown	2 May 2011	investigate this query
+Pakistan	lost	10 wickets	159	won	1st		ODI v West Indies	Providence	5 May 2011	investigate this query
+Pakistan	lost	40 runs		lost	2nd		Test v West Indies	Providence	12 May 2011	investigate this query
+Pakistan	won	196 runs		won	1st		Test v West Indies	Basseterre	20 May 2011	investigate this query
+Pakistan	won	7 wickets	51	won	2nd		ODI v Ireland	Belfast	28 May 2011	investigate this query
+Pakistan	won	5 wickets	8	lost	2nd		ODI v Ireland	Belfast	30 May 2011	investigate this query
+Pakistan	won	7 wickets		won	2nd		Test v Zimbabwe	Bulawayo	1 Sep 2011	investigate this query
+Pakistan	won	5 runs		won	1st		ODI v Zimbabwe	Bulawayo	8 Sep 2011	investigate this query
+Pakistan	won	10 wickets	47	lost	2nd		ODI v Zimbabwe	Harare	11 Sep 2011	investigate this query
+Pakistan	won	28 runs		lost	1st		ODI v Zimbabwe	Harare	14 Sep 2011	investigate this query
+Pakistan	won	85 runs		lost	1st		T20I v Zimbabwe	Harare	16 Sep 2011	investigate this query
+Pakistan	won	5 runs		won	1st		T20I v Zimbabwe	Harare	18 Sep 2011	investigate this query
+Pakistan	draw	-		won	2nd		Test v Sri Lanka	Abu Dhabi	18 Oct 2011	investigate this query
+Pakistan	won	9 wickets		lost	2nd		Test v Sri Lanka	Dubai (DSC)	26 Oct 2011	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Sri Lanka	Sharjah	3 Nov 2011	investigate this query
+Pakistan	won	8 wickets	169	lost	2nd		ODI v Sri Lanka	Dubai (DSC)	11 Nov 2011	investigate this query
+Pakistan	lost	25 runs		lost	2nd		ODI v Sri Lanka	Dubai (DSC)	14 Nov 2011	investigate this query
+Pakistan	won	21 runs		won	1st		ODI v Sri Lanka	Dubai (DSC)	18 Nov 2011	investigate this query
+Pakistan	won	26 runs		won	1st		ODI v Sri Lanka	Sharjah	20 Nov 2011	investigate this query
+Pakistan	won	3 wickets	16	lost	2nd		ODI v Sri Lanka	Abu Dhabi	23 Nov 2011	investigate this query
+Pakistan	won	5 wickets	3	lost	2nd		T20I v Sri Lanka	Abu Dhabi	25 Nov 2011	investigate this query
+Pakistan	won	50 runs		won	1st		T20I v Bangladesh	Dhaka	29 Nov 2011	investigate this query
+Pakistan	won	5 wickets	146	lost	2nd		ODI v Bangladesh	Dhaka	1 Dec 2011	investigate this query
+Pakistan	won	76 runs		won	1st		ODI v Bangladesh	Dhaka	3 Dec 2011	investigate this query
+Pakistan	won	58 runs		won	1st		ODI v Bangladesh	Chittagong	6 Dec 2011	investigate this query
+Pakistan	won	inns & 184 runs		won	2nd		Test v Bangladesh	Chittagong	9 Dec 2011	investigate this query
+Pakistan	won	7 wickets		won	2nd		Test v Bangladesh	Dhaka	17 Dec 2011	investigate this query
+Pakistan	won	10 wickets		lost	2nd		Test v England	Dubai (DSC)	17 Jan 2012	investigate this query
+Pakistan	won	72 runs		won	1st		Test v England	Abu Dhabi	25 Jan 2012	investigate this query
+Pakistan	won	71 runs		won	1st		Test v England	Dubai (DSC)	3 Feb 2012	investigate this query
+Pakistan	won	7 wickets	77	lost	2nd		ODI v Afghanistan	Sharjah	10 Feb 2012	investigate this query
+Pakistan	lost	130 runs		lost	2nd		ODI v England	Abu Dhabi	13 Feb 2012	investigate this query
+Pakistan	lost	20 runs		lost	2nd		ODI v England	Abu Dhabi	15 Feb 2012	investigate this query
+Pakistan	lost	9 wickets	76	won	1st		ODI v England	Dubai (DSC)	18 Feb 2012	investigate this query
+Pakistan	lost	4 wickets	4	won	1st		ODI v England	Dubai (DSC)	21 Feb 2012	investigate this query
+Pakistan	won	8 runs		lost	1st		T20I v England	Dubai (DSC)	23 Feb 2012	investigate this query
+Pakistan	lost	38 runs		lost	2nd		T20I v England	Dubai (DSC)	25 Feb 2012	investigate this query
+Pakistan	lost	5 runs		lost	2nd		T20I v England	Abu Dhabi	27 Feb 2012	investigate this query
+Pakistan	won	21 runs		lost	1st		ODI v Bangladesh	Dhaka	11 Mar 2012	investigate this query
+Pakistan	won	6 wickets	61	lost	2nd		ODI v Sri Lanka	Dhaka	15 Mar 2012	investigate this query
+Pakistan	lost	6 wickets	13	won	1st		ODI v India	Dhaka	18 Mar 2012	investigate this query
+Pakistan	won	2 runs		lost	1st		ODI v Bangladesh	Dhaka	22 Mar 2012	investigate this query
+Pakistan	lost	37 runs		lost	2nd		T20I v Sri Lanka	Hambantota	1 Jun 2012	investigate this query
+Pakistan	won	23 runs		won	1st		T20I v Sri Lanka	Hambantota	3 Jun 2012	investigate this query
+Pakistan	won	6 wickets	47	lost	2nd		ODI v Sri Lanka	Pallekele	7 Jun 2012	investigate this query
+Pakistan	lost	76 runs		lost	2nd		ODI v Sri Lanka	Pallekele	9 Jun 2012	investigate this query
+Pakistan	n/r	-		won	1st		ODI v Sri Lanka	Colombo (RPS)	13 Jun 2012	investigate this query
+Pakistan	lost	44 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	16 Jun 2012	investigate this query
+Pakistan	lost	2 wickets	2	won	1st		ODI v Sri Lanka	Colombo (RPS)	18 Jun 2012	investigate this query
+Pakistan	lost	209 runs		lost	2nd		Test v Sri Lanka	Galle	22 Jun 2012	investigate this query
+Pakistan	draw	-		lost	1st		Test v Sri Lanka	Colombo (SSC)	30 Jun 2012	investigate this query
+Pakistan	draw	-		lost	1st		Test v Sri Lanka	Pallekele	8 Jul 2012	investigate this query
+Pakistan	lost	4 wickets	10	won	1st		ODI v Australia	Sharjah	28 Aug 2012	investigate this query
+Pakistan	won	7 wickets	38	lost	2nd		ODI v Australia	Abu Dhabi	31 Aug 2012	investigate this query
+Pakistan	lost	3 wickets	18	lost	1st		ODI v Australia	Sharjah	3 Sep 2012	investigate this query
+Pakistan	won	7 wickets	31	won	2nd		T20I v Australia	Dubai (DSC)	5 Sep 2012	investigate this query
+Pakistan	tied	-		won	1st		T20I v Australia	Dubai (DSC)	7 Sep 2012	investigate this query
+Pakistan	lost	94 runs		won	2nd		T20I v Australia	Dubai (DSC)	10 Sep 2012	investigate this query
+Pakistan	won	13 runs		won	1st		T20I v New Zealand	Pallekele	23 Sep 2012	investigate this query
+Pakistan	won	8 wickets	8	lost	2nd		T20I v Bangladesh	Pallekele	25 Sep 2012	investigate this query
+Pakistan	won	2 wickets	2	lost	2nd		T20I v South Africa	Colombo (RPS)	28 Sep 2012	investigate this query
+Pakistan	lost	8 wickets	18	won	1st		T20I v India	Colombo (RPS)	30 Sep 2012	investigate this query
+Pakistan	won	32 runs		lost	1st		T20I v Australia	Colombo (RPS)	2 Oct 2012	investigate this query
+Pakistan	lost	16 runs		lost	2nd		T20I v Sri Lanka	Colombo (RPS)	4 Oct 2012	investigate this query
+Pakistan	won	5 wickets	2	won	2nd		T20I v India	Bangalore	25 Dec 2012	investigate this query
+Pakistan	lost	11 runs		won	2nd		T20I v India	Ahmedabad	28 Dec 2012	investigate this query
+Pakistan	won	6 wickets	11	won	2nd		ODI v India	Chennai	30 Dec 2012	investigate this query
+Pakistan	won	85 runs		lost	1st		ODI v India	Kolkata	3 Jan 2013	investigate this query
+Pakistan	lost	10 runs		lost	2nd		ODI v India	Delhi	6 Jan 2013	investigate this query
+Pakistan	lost	211 runs		lost	2nd		Test v South Africa	Johannesburg	1 Feb 2013	investigate this query
+Pakistan	lost	4 wickets		lost	1st		Test v South Africa	Cape Town	14 Feb 2013	investigate this query
+Pakistan	lost	inns & 18 runs		lost	2nd		Test v South Africa	Centurion	22 Feb 2013	investigate this query
+Pakistan	aban	-		-	-		T20I v South Africa	Durban	1 Mar 2013	investigate this query
+Pakistan	won	95 runs		won	1st		T20I v South Africa	Centurion	3 Mar 2013	investigate this query
+Pakistan	lost	125 runs		won	2nd		ODI v South Africa	Bloemfontein	10 Mar 2013	investigate this query
+Pakistan	won	6 wickets	28	lost	2nd		ODI v South Africa	Centurion	15 Mar 2013	investigate this query
+Pakistan	lost	34 runs		won	2nd		ODI v South Africa	Johannesburg	17 Mar 2013	investigate this query
+Pakistan	won	3 wickets	8	lost	2nd		ODI v South Africa	Durban	21 Mar 2013	investigate this query
+Pakistan	lost	6 wickets	36	won	1st		ODI v South Africa	Benoni	24 Mar 2013	investigate this query
+Pakistan	won	96 runs		won	1st		ODI v Scotland	Edinburgh	17 May 2013	investigate this query
+Pakistan	aban	-		-	-		ODI v Scotland	Edinburgh	19 May 2013	investigate this query
+Pakistan	tied	-		won	1st		ODI v Ireland	Dublin	23 May 2013	investigate this query
+Pakistan	won	2 wickets	8	won	2nd		ODI v Ireland	Dublin	26 May 2013	investigate this query
+Pakistan	lost	2 wickets	56	lost	1st		ODI v West Indies	The Oval	7 Jun 2013	investigate this query
+Pakistan	lost	67 runs		lost	2nd		ODI v South Africa	Birmingham	10 Jun 2013	investigate this query
+Pakistan	lost	8 wickets	17	lost	1st		ODI v India	Birmingham	15 Jun 2013	investigate this query
+Pakistan	won	126 runs		lost	1st		ODI v West Indies	Providence	14 Jul 2013	investigate this query
+Pakistan	lost	37 runs		won	2nd		ODI v West Indies	Providence	16 Jul 2013	investigate this query
+Pakistan	tied	-		lost	1st		ODI v West Indies	Gros Islet	19 Jul 2013	investigate this query
+Pakistan	won	6 wickets	6	won	2nd		ODI v West Indies	Gros Islet	21 Jul 2013	investigate this query
+Pakistan	won	4 wickets	1	won	2nd		ODI v West Indies	Gros Islet	24 Jul 2013	investigate this query
+Pakistan	won	2 wickets	0	lost	2nd		T20I v West Indies	Kingstown	27 Jul 2013	investigate this query
+Pakistan	won	11 runs		won	1st		T20I v West Indies	Kingstown	28 Jul 2013	investigate this query
+Pakistan	won	25 runs		lost	1st		T20I v Zimbabwe	Harare	23 Aug 2013	investigate this query
+Pakistan	won	19 runs		lost	1st		T20I v Zimbabwe	Harare	24 Aug 2013	investigate this query
+Pakistan	lost	7 wickets	10	won	1st		ODI v Zimbabwe	Harare	27 Aug 2013	investigate this query
+Pakistan	won	90 runs		lost	1st		ODI v Zimbabwe	Harare	29 Aug 2013	investigate this query
+Pakistan	won	108 runs		lost	1st		ODI v Zimbabwe	Harare	31 Aug 2013	investigate this query
+Pakistan	won	221 runs		lost	1st		Test v Zimbabwe	Harare	3 Sep 2013	investigate this query
+Pakistan	lost	24 runs		lost	2nd		Test v Zimbabwe	Harare	10 Sep 2013	investigate this query
+Pakistan	won	7 wickets		lost	2nd		Test v South Africa	Abu Dhabi	14 Oct 2013	investigate this query
+Pakistan	lost	inns & 92 runs		won	1st		Test v South Africa	Dubai (DSC)	23 Oct 2013	investigate this query
+Pakistan	lost	1 runs		lost	2nd		ODI v South Africa	Sharjah	30 Oct 2013	investigate this query
+Pakistan	won	66 runs		won	1st		ODI v South Africa	Dubai (DSC)	1 Nov 2013	investigate this query
+Pakistan	lost	68 runs		lost	2nd		ODI v South Africa	Abu Dhabi	6 Nov 2013	investigate this query
+Pakistan	lost	28 runs		lost	2nd		ODI v South Africa	Abu Dhabi	8 Nov 2013	investigate this query
+Pakistan	lost	117 runs		lost	2nd		ODI v South Africa	Sharjah	11 Nov 2013	investigate this query
+Pakistan	lost	9 wickets	33	won	1st		T20I v South Africa	Dubai (DSC)	13 Nov 2013	investigate this query
+Pakistan	lost	6 runs		lost	2nd		T20I v South Africa	Dubai (DSC)	15 Nov 2013	investigate this query
+Pakistan	lost	4 runs		won	2nd		T20I v South Africa	Johannesburg	20 Nov 2013	investigate this query
+Pakistan	won	6 runs		won	1st		T20I v South Africa	Cape Town	22 Nov 2013	investigate this query
+Pakistan	won	23 runs		won	1st		ODI v South Africa	Cape Town	24 Nov 2013	investigate this query
+Pakistan	won	1 runs		lost	1st		ODI v South Africa	Port Elizabeth	27 Nov 2013	investigate this query
+Pakistan	lost	4 wickets	68	lost	1st		ODI v South Africa	Centurion	30 Nov 2013	investigate this query
+Pakistan	won	6 wickets	1	lost	2nd		T20I v Afghanistan	Sharjah	8 Dec 2013	investigate this query
+Pakistan	won	3 wickets	5	won	2nd		T20I v Sri Lanka	Dubai (DSC)	11 Dec 2013	investigate this query
+Pakistan	lost	24 runs		won	2nd		T20I v Sri Lanka	Dubai (DSC)	13 Dec 2013	investigate this query
+Pakistan	won	11 runs		won	1st		ODI v Sri Lanka	Sharjah	18 Dec 2013	investigate this query
+Pakistan	lost	2 wickets	2	lost	1st		ODI v Sri Lanka	Dubai (DSC)	20 Dec 2013	investigate this query
+Pakistan	won	113 runs		lost	1st		ODI v Sri Lanka	Sharjah	22 Dec 2013	investigate this query
+Pakistan	won	8 wickets	53	lost	2nd		ODI v Sri Lanka	Abu Dhabi	25 Dec 2013	investigate this query
+Pakistan	lost	2 wickets	2	won	1st		ODI v Sri Lanka	Abu Dhabi	27 Dec 2013	investigate this query
+Pakistan	draw	-		won	2nd		Test v Sri Lanka	Abu Dhabi	31 Dec 2013	investigate this query
+Pakistan	lost	9 wickets		lost	1st		Test v Sri Lanka	Dubai (DSC)	8 Jan 2014	investigate this query
+Pakistan	won	5 wickets		lost	2nd		Test v Sri Lanka	Sharjah	16 Jan 2014	investigate this query
+Pakistan	lost	12 runs		lost	2nd		ODI v Sri Lanka	Fatullah	25 Feb 2014	investigate this query
+Pakistan	won	72 runs		lost	1st		ODI v Afghanistan	Fatullah	27 Feb 2014	investigate this query
+Pakistan	won	1 wickets	2	won	2nd		ODI v India	Dhaka	2 Mar 2014	investigate this query
+Pakistan	won	3 wickets	1	lost	2nd		ODI v Bangladesh	Dhaka	4 Mar 2014	investigate this query
+Pakistan	lost	5 wickets	22	won	1st		ODI v Sri Lanka	Dhaka	8 Mar 2014	investigate this query
+Pakistan	lost	7 wickets	9	lost	1st		T20I v India	Dhaka	21 Mar 2014	investigate this query
+Pakistan	won	16 runs		lost	1st		T20I v Australia	Dhaka	23 Mar 2014	investigate this query
+Pakistan	won	50 runs		won	1st		T20I v Bangladesh	Dhaka	30 Mar 2014	investigate this query
+Pakistan	lost	84 runs		lost	2nd		T20I v West Indies	Dhaka	1 Apr 2014	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v Sri Lanka	Galle	6 Aug 2014	investigate this query
+Pakistan	lost	105 runs		lost	2nd		Test v Sri Lanka	Colombo (SSC)	14 Aug 2014	investigate this query
+Pakistan	won	4 wickets	1	won	2nd		ODI v Sri Lanka	Hambantota	23 Aug 2014	investigate this query
+Pakistan	lost	77 runs		lost	2nd		ODI v Sri Lanka	Hambantota	26 Aug 2014	investigate this query
+Pakistan	lost	7 wickets	178	won	1st		ODI v Sri Lanka	Dambulla	30 Aug 2014	investigate this query
+Pakistan	lost	6 wickets	36	won	1st		T20I v Australia	Dubai (DSC)	5 Oct 2014	investigate this query
+Pakistan	lost	93 runs		lost	2nd		ODI v Australia	Sharjah	7 Oct 2014	investigate this query
+Pakistan	lost	5 wickets	40	won	1st		ODI v Australia	Dubai (DSC)	10 Oct 2014	investigate this query
+Pakistan	lost	1 runs		lost	2nd		ODI v Australia	Abu Dhabi	12 Oct 2014	investigate this query
+Pakistan	won	221 runs		won	1st		Test v Australia	Dubai (DSC)	22 Oct 2014	investigate this query
+Pakistan	won	356 runs		won	1st		Test v Australia	Abu Dhabi	30 Oct 2014	investigate this query
+Pakistan	won	248 runs		won	1st		Test v New Zealand	Abu Dhabi	9 Nov 2014	investigate this query
+Pakistan	draw	-		lost	2nd		Test v New Zealand	Dubai (DSC)	17 Nov 2014	investigate this query
+Pakistan	lost	inns & 80 runs		won	1st		Test v New Zealand	Sharjah	26 Nov 2014	investigate this query
+Pakistan	won	7 wickets	5	won	2nd		T20I v New Zealand	Dubai (DSC)	4 Dec 2014	investigate this query
+Pakistan	lost	17 runs		won	2nd		T20I v New Zealand	Dubai (DSC)	5 Dec 2014	investigate this query
+Pakistan	won	3 wickets	3	won	2nd		ODI v New Zealand	Dubai (DSC)	8 Dec 2014	investigate this query
+Pakistan	lost	4 wickets	24	won	1st		ODI v New Zealand	Sharjah	12 Dec 2014	investigate this query
+Pakistan	won	147 runs		won	1st		ODI v New Zealand	Sharjah	14 Dec 2014	investigate this query
+Pakistan	lost	7 runs		lost	2nd		ODI v New Zealand	Abu Dhabi	17 Dec 2014	investigate this query
+Pakistan	lost	68 runs		lost	2nd		ODI v New Zealand	Abu Dhabi	19 Dec 2014	investigate this query
+Pakistan	lost	7 wickets	63	lost	1st		ODI v New Zealand	Wellington	31 Jan 2015	investigate this query
+Pakistan	lost	119 runs		lost	2nd		ODI v New Zealand	Napier	3 Feb 2015	investigate this query
+Pakistan	lost	76 runs		lost	2nd		ODI v India	Adelaide	15 Feb 2015	investigate this query
+Pakistan	lost	150 runs		won	2nd		ODI v West Indies	Christchurch	21 Feb 2015	investigate this query
+Pakistan	won	20 runs		won	1st		ODI v Zimbabwe	Brisbane	1 Mar 2015	investigate this query
+Pakistan	won	129 runs		lost	1st		ODI v U.A.E.	Napier	4 Mar 2015	investigate this query
+Pakistan	won	29 runs		lost	1st		ODI v South Africa	Auckland	7 Mar 2015	investigate this query
+Pakistan	won	7 wickets	23	lost	2nd		ODI v Ireland	Adelaide	15 Mar 2015	investigate this query
+Pakistan	lost	6 wickets	97	won	1st		ODI v Australia	Adelaide	20 Mar 2015	investigate this query
+Pakistan	lost	79 runs		lost	2nd		ODI v Bangladesh	Dhaka	17 Apr 2015	investigate this query
+Pakistan	lost	7 wickets	71	won	1st		ODI v Bangladesh	Dhaka	19 Apr 2015	investigate this query
+Pakistan	lost	8 wickets	63	won	1st		ODI v Bangladesh	Dhaka	22 Apr 2015	investigate this query
+Pakistan	lost	7 wickets	22	won	1st		T20I v Bangladesh	Dhaka	24 Apr 2015	investigate this query
+Pakistan	draw	-		lost	2nd		Test v Bangladesh	Khulna	28 Apr 2015	investigate this query
+Pakistan	won	328 runs		lost	1st		Test v Bangladesh	Dhaka	6 May 2015	investigate this query
+Pakistan	won	5 wickets	3	lost	2nd		T20I v Zimbabwe	Lahore	22 May 2015	investigate this query
+Pakistan	won	2 wickets	2	lost	2nd		T20I v Zimbabwe	Lahore	24 May 2015	investigate this query
+Pakistan	won	41 runs		won	1st		ODI v Zimbabwe	Lahore	26 May 2015	investigate this query
+Pakistan	won	6 wickets	16	won	2nd		ODI v Zimbabwe	Lahore	29 May 2015	investigate this query
+Pakistan	n/r	-		won	1st		ODI v Zimbabwe	Lahore	31 May 2015	investigate this query
+Pakistan	won	10 wickets		won	2nd		Test v Sri Lanka	Galle	17 Jun 2015	investigate this query
+Pakistan	lost	7 wickets		won	1st		Test v Sri Lanka	Colombo (PSS)	25 Jun 2015	investigate this query
+Pakistan	won	7 wickets		won	2nd		Test v Sri Lanka	Pallekele	3 Jul 2015	investigate this query
+Pakistan	won	6 wickets	28	won	2nd		ODI v Sri Lanka	Dambulla	11 Jul 2015	investigate this query
+Pakistan	lost	2 wickets	11	won	1st		ODI v Sri Lanka	Pallekele	15 Jul 2015	investigate this query
+Pakistan	won	135 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	19 Jul 2015	investigate this query
+Pakistan	won	7 wickets	55	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	22 Jul 2015	investigate this query
+Pakistan	lost	165 runs		lost	2nd		ODI v Sri Lanka	Hambantota	26 Jul 2015	investigate this query
+Pakistan	won	29 runs		won	1st		T20I v Sri Lanka	Colombo (RPS)	30 Jul 2015	investigate this query
+Pakistan	won	1 wickets	4	lost	2nd		T20I v Sri Lanka	Colombo (RPS)	1 Aug 2015	investigate this query
+Pakistan	won	13 runs		won	1st		T20I v Zimbabwe	Harare	27 Sep 2015	investigate this query
+Pakistan	won	15 runs		won	1st		T20I v Zimbabwe	Harare	29 Sep 2015	investigate this query
+Pakistan	-	-		lost	1st		ODI v Zimbabwe	Harare	1 Oct 2015	investigate this query

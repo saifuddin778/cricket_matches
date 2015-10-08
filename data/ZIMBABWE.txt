@@ -1,0 +1,604 @@
+Zimbabwe	won	13 runs		lost	1st		ODI v Australia	Nottingham	9 Jun 1983	investigate this query
+Zimbabwe	lost	5 wickets	135	lost	1st		ODI v India	Leicester	11 Jun 1983	investigate this query
+Zimbabwe	lost	8 wickets	69	lost	1st		ODI v West Indies	Worcester	13 Jun 1983	investigate this query
+Zimbabwe	lost	32 runs		lost	2nd		ODI v Australia	Southampton	16 Jun 1983	investigate this query
+Zimbabwe	lost	31 runs		lost	2nd		ODI v India	Tunbridge Wells	18 Jun 1983	investigate this query
+Zimbabwe	lost	10 wickets	89	won	1st		ODI v West Indies	Birmingham	20 Jun 1983	investigate this query
+Zimbabwe	lost	3 runs		won	2nd		ODI v New Zealand	Hyderabad (Deccan)	10 Oct 1987	investigate this query
+Zimbabwe	lost	96 runs		won	2nd		ODI v Australia	Chennai	13 Oct 1987	investigate this query
+Zimbabwe	lost	8 wickets	133	won	1st		ODI v India	Mumbai	17 Oct 1987	investigate this query
+Zimbabwe	lost	4 wickets	14	lost	1st		ODI v New Zealand	Kolkata	23 Oct 1987	investigate this query
+Zimbabwe	lost	7 wickets	48	lost	1st		ODI v India	Ahmedabad	26 Oct 1987	investigate this query
+Zimbabwe	lost	70 runs		won	2nd		ODI v Australia	Cuttack	30 Oct 1987	investigate this query
+Zimbabwe	lost	3 wickets	4	lost	1st		ODI v Sri Lanka	New Plymouth	23 Feb 1992	investigate this query
+Zimbabwe	lost	53 runs		won	2nd		ODI v Pakistan	Hobart	27 Feb 1992	investigate this query
+Zimbabwe	lost	75 runs		won	2nd		ODI v West Indies	Brisbane	29 Feb 1992	investigate this query
+Zimbabwe	lost	48 runs		won	2nd		ODI v New Zealand	Napier	3 Mar 1992	investigate this query
+Zimbabwe	lost	55 runs		lost	2nd		ODI v India	Hamilton	7 Mar 1992	investigate this query
+Zimbabwe	lost	7 wickets	29	lost	1st		ODI v South Africa	Canberra	10 Mar 1992	investigate this query
+Zimbabwe	lost	128 runs		lost	2nd		ODI v Australia	Hobart	14 Mar 1992	investigate this query
+Zimbabwe	won	9 runs		lost	1st		ODI v England	Albury	18 Mar 1992	investigate this query
+Zimbabwe	draw	-		won	1st		Test v India	Harare	18 Oct 1992	investigate this query
+Zimbabwe	lost	30 runs		won	2nd		ODI v India	Harare	25 Oct 1992	investigate this query
+Zimbabwe	lost	22 runs		won	2nd		ODI v New Zealand	Bulawayo	31 Oct 1992	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v New Zealand	Bulawayo	1 Nov 1992	investigate this query
+Zimbabwe	lost	177 runs		lost	2nd		Test v New Zealand	Harare	7 Nov 1992	investigate this query
+Zimbabwe	lost	4 wickets	19	won	1st		ODI v New Zealand	Harare	8 Nov 1992	investigate this query
+Zimbabwe	lost	49 runs		won	2nd		ODI v Pakistan	Sharjah	1 Feb 1993	investigate this query
+Zimbabwe	lost	30 runs		lost	2nd		ODI v Sri Lanka	Sharjah	3 Feb 1993	investigate this query
+Zimbabwe	lost	7 wickets	16	lost	1st		ODI v Pakistan	Harare	2 Mar 1993	investigate this query
+Zimbabwe	lost	inns & 13 runs		lost	2nd		Test v India	Delhi	13 Mar 1993	investigate this query
+Zimbabwe	lost	67 runs		won	2nd		ODI v India	Faridabad	19 Mar 1993	investigate this query
+Zimbabwe	lost	7 wickets	3	lost	1st		ODI v India	Guwahati	22 Mar 1993	investigate this query
+Zimbabwe	lost	8 wickets	27	lost	1st		ODI v India	Pune	25 Mar 1993	investigate this query
+Zimbabwe	n/r	-		won	2nd		ODI v South Africa	Bangalore	10 Nov 1993	investigate this query
+Zimbabwe	lost	55 runs		won	2nd		ODI v Sri Lanka	Patna	15 Nov 1993	investigate this query
+Zimbabwe	tied	-		won	2nd		ODI v India	Indore	18 Nov 1993	investigate this query
+Zimbabwe	lost	134 runs		lost	2nd		ODI v West Indies	Hyderabad (Deccan)	21 Nov 1993	investigate this query
+Zimbabwe	lost	131 runs		lost	2nd		Test v Pakistan	Karachi	1 Dec 1993	investigate this query
+Zimbabwe	lost	52 runs		won	2nd		Test v Pakistan	Rawalpindi	9 Dec 1993	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v Pakistan	Lahore	16 Dec 1993	investigate this query
+Zimbabwe	lost	7 wickets	37	lost	1st		ODI v Pakistan	Karachi	24 Dec 1993	investigate this query
+Zimbabwe	lost	6 wickets	2	lost	1st		ODI v Pakistan	Rawalpindi	25 Dec 1993	investigate this query
+Zimbabwe	lost	75 runs		lost	2nd		ODI v Pakistan	Lahore	27 Dec 1993	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v Sri Lanka	Harare	11 Oct 1994	investigate this query
+Zimbabwe	draw	-		won	1st		Test v Sri Lanka	Bulawayo	20 Oct 1994	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v Sri Lanka	Harare	26 Oct 1994	investigate this query
+Zimbabwe	lost	56 runs		won	2nd		ODI v Sri Lanka	Harare	3 Nov 1994	investigate this query
+Zimbabwe	won	2 runs		won	1st		ODI v Sri Lanka	Harare	5 Nov 1994	investigate this query
+Zimbabwe	lost	191 runs		lost	2nd		ODI v Sri Lanka	Harare	6 Nov 1994	investigate this query
+Zimbabwe	lost	2 wickets	16	lost	1st		ODI v Australia	Perth	2 Dec 1994	investigate this query
+Zimbabwe	lost	84 runs		lost	2nd		ODI v Australia	Hobart	8 Dec 1994	investigate this query
+Zimbabwe	won	13 runs		won	1st		ODI v England	Sydney	15 Dec 1994	investigate this query
+Zimbabwe	lost	26 runs		lost	2nd		ODI v England	Brisbane	7 Jan 1995	investigate this query
+Zimbabwe	won	inns & 64 runs		won	1st		Test v Pakistan	Harare	31 Jan 1995	investigate this query
+Zimbabwe	lost	8 wickets		won	1st		Test v Pakistan	Bulawayo	7 Feb 1995	investigate this query
+Zimbabwe	lost	99 runs		lost	2nd		Test v Pakistan	Harare	15 Feb 1995	investigate this query
+Zimbabwe	tied	-		won	1st		ODI v Pakistan	Harare	22 Feb 1995	investigate this query
+Zimbabwe	lost	4 wickets	9	lost	1st		ODI v Pakistan	Harare	25 Feb 1995	investigate this query
+Zimbabwe	won	74 runs		lost	1st		ODI v Pakistan	Harare	26 Feb 1995	investigate this query
+Zimbabwe	lost	7 wickets		won	1st		Test v South Africa	Harare	13 Oct 1995	investigate this query
+Zimbabwe	lost	134 runs		won	2nd		ODI v South Africa	Harare	21 Oct 1995	investigate this query
+Zimbabwe	lost	112 runs		lost	2nd		ODI v South Africa	Harare	22 Oct 1995	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v New Zealand	Hamilton	13 Jan 1996	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v New Zealand	Auckland	20 Jan 1996	investigate this query
+Zimbabwe	lost	74 runs		lost	2nd		ODI v New Zealand	Auckland	28 Jan 1996	investigate this query
+Zimbabwe	lost	6 wickets	63	won	1st		ODI v New Zealand	Wellington	31 Jan 1996	investigate this query
+Zimbabwe	won	21 runs		lost	1st		ODI v New Zealand	Napier	3 Feb 1996	investigate this query
+Zimbabwe	lost	6 wickets	123	won	1st		ODI v West Indies	Hyderabad (Deccan)	16 Feb 1996	investigate this query
+Zimbabwe	lost	6 wickets	78	won	1st		ODI v Sri Lanka	Colombo (SSC)	21 Feb 1996	investigate this query
+Zimbabwe	n/r	-		won	1st		ODI v Kenya	Patna	26 Feb 1996	investigate this query
+Zimbabwe	won	5 wickets	46	won	2nd		ODI v Kenya	Patna	27 Feb 1996	investigate this query
+Zimbabwe	lost	8 wickets	84	won	1st		ODI v Australia	Nagpur	1 Mar 1996	investigate this query
+Zimbabwe	lost	40 runs		won	2nd		ODI v India	Kanpur	6 Mar 1996	investigate this query
+Zimbabwe	lost	125 runs		lost	2nd		ODI v Australia	Colombo (RPS)	26 Aug 1996	investigate this query
+Zimbabwe	lost	7 wickets	37	lost	1st		ODI v India	Colombo (SSC)	1 Sep 1996	investigate this query
+Zimbabwe	lost	6 wickets	18	lost	1st		ODI v Sri Lanka	Colombo (SSC)	3 Sep 1996	investigate this query
+Zimbabwe	lost	inns & 77 runs		lost	2nd		Test v Sri Lanka	Colombo (RPS)	11 Sep 1996	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v Sri Lanka	Colombo (SSC)	18 Sep 1996	investigate this query
+Zimbabwe	draw	-		won	1st		Test v Pakistan	Sheikhupura	17 Oct 1996	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v Pakistan	Faisalabad	24 Oct 1996	investigate this query
+Zimbabwe	lost	3 wickets	5	won	1st		ODI v Pakistan	Quetta	30 Oct 1996	investigate this query
+Zimbabwe	lost	9 wickets	128	won	1st		ODI v Pakistan	Lahore	1 Nov 1996	investigate this query
+Zimbabwe	lost	78 runs		lost	2nd		ODI v Pakistan	Peshawar	3 Nov 1996	investigate this query
+Zimbabwe	won	2 wickets	37	won	2nd		ODI v England	Bulawayo	15 Dec 1996	investigate this query
+Zimbabwe	draw	-		won	1st		Test v England	Bulawayo	18 Dec 1996	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v England	Harare	26 Dec 1996	investigate this query
+Zimbabwe	won	7 runs		lost	1st		ODI v England	Harare	1 Jan 1997	investigate this query
+Zimbabwe	won	131 runs		lost	1st		ODI v England	Harare	3 Jan 1997	investigate this query
+Zimbabwe	lost	5 wickets	23	won	1st		ODI v South Africa	Centurion	25 Jan 1997	investigate this query
+Zimbabwe	tied	-		won	1st		ODI v India	Paarl	27 Jan 1997	investigate this query
+Zimbabwe	lost	5 wickets	18	won	1st		ODI v South Africa	Cape Town	29 Jan 1997	investigate this query
+Zimbabwe	lost	4 wickets	9	won	1st		ODI v South Africa	Johannesburg	31 Jan 1997	investigate this query
+Zimbabwe	won	3 wickets	2	lost	2nd		ODI v India	Centurion	7 Feb 1997	investigate this query
+Zimbabwe	lost	6 wickets	64	lost	1st		ODI v India	Benoni	9 Feb 1997	investigate this query
+Zimbabwe	won	8 wickets	73	won	2nd		ODI v India	Bulawayo	15 Feb 1997	investigate this query
+Zimbabwe	canc	-		-	-		ODI v India	Harare	17 Feb 1997	investigate this query
+Zimbabwe	lost	7 wickets	26	lost	1st		ODI v Sri Lanka	Sharjah	3 Apr 1997	investigate this query
+Zimbabwe	lost	93 runs		lost	2nd		ODI v Pakistan	Sharjah	6 Apr 1997	investigate this query
+Zimbabwe	won	50 runs		won	1st		ODI v Sri Lanka	Sharjah	8 Apr 1997	investigate this query
+Zimbabwe	lost	32 runs		lost	2nd		ODI v Pakistan	Sharjah	9 Apr 1997	investigate this query
+Zimbabwe	draw	-		lost	1st		Test v New Zealand	Harare	18 Sep 1997	investigate this query
+Zimbabwe	draw	-		won	1st		Test v New Zealand	Bulawayo	25 Sep 1997	investigate this query
+Zimbabwe	tied	-		won	1st		ODI v New Zealand	Bulawayo	1 Oct 1997	investigate this query
+Zimbabwe	won	3 wickets	10	lost	2nd		ODI v New Zealand	Harare	4 Oct 1997	investigate this query
+Zimbabwe	lost	83 runs		lost	2nd		ODI v New Zealand	Harare	5 Oct 1997	investigate this query
+Zimbabwe	won	48 runs		won	1st		ODI v Bangladesh	Nairobi (Gym)	11 Oct 1997	investigate this query
+Zimbabwe	won	6 wickets	3	lost	2nd		ODI v Kenya	Nairobi (Gym)	12 Oct 1997	investigate this query
+Zimbabwe	won	192 runs		won	1st		ODI v Bangladesh	Nairobi (Aga)	14 Oct 1997	investigate this query
+Zimbabwe	won	7 wickets	52	won	2nd		ODI v Kenya	Nairobi (Aga)	16 Oct 1997	investigate this query
+Zimbabwe	won	83 runs		won	1st		ODI v Kenya	Nairobi (Gym)	18 Oct 1997	investigate this query
+Zimbabwe	won	82 runs		won	1st		ODI v Kenya	Nairobi (Gym)	19 Oct 1997	investigate this query
+Zimbabwe	lost	8 wickets		lost	2nd		Test v Sri Lanka	Kandy	7 Jan 1998	investigate this query
+Zimbabwe	lost	5 wickets		won	1st		Test v Sri Lanka	Colombo (SSC)	14 Jan 1998	investigate this query
+Zimbabwe	lost	5 wickets	28	lost	1st		ODI v Sri Lanka	Colombo (SSC)	22 Jan 1998	investigate this query
+Zimbabwe	lost	5 wickets	10	won	1st		ODI v Sri Lanka	Colombo (RPS)	24 Jan 1998	investigate this query
+Zimbabwe	lost	4 wickets	6	won	1st		ODI v Sri Lanka	Colombo (SSC)	26 Jan 1998	investigate this query
+Zimbabwe	lost	40 runs		lost	2nd		ODI v New Zealand	Hamilton	4 Feb 1998	investigate this query
+Zimbabwe	lost	8 wickets	130	lost	1st		ODI v New Zealand	Wellington	6 Feb 1998	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v New Zealand	Wellington	19 Feb 1998	investigate this query
+Zimbabwe	lost	inns & 13 runs		won	1st		Test v New Zealand	Auckland	26 Feb 1998	investigate this query
+Zimbabwe	won	1 runs		lost	1st		ODI v New Zealand	Christchurch	4 Mar 1998	investigate this query
+Zimbabwe	lost	9 wickets	26	won	1st		ODI v New Zealand	Napier	6 Mar 1998	investigate this query
+Zimbabwe	lost	2 runs		lost	2nd		ODI v New Zealand	Auckland	8 Mar 1998	investigate this query
+Zimbabwe	draw	-		won	1st		Test v Pakistan	Bulawayo	14 Mar 1998	investigate this query
+Zimbabwe	lost	3 wickets		won	1st		Test v Pakistan	Harare	21 Mar 1998	investigate this query
+Zimbabwe	lost	4 wickets	14	lost	1st		ODI v Pakistan	Harare	28 Mar 1998	investigate this query
+Zimbabwe	lost	4 wickets	20	lost	1st		ODI v Pakistan	Harare	29 Mar 1998	investigate this query
+Zimbabwe	lost	13 runs		lost	2nd		ODI v Australia	Ahmedabad	3 Apr 1998	investigate this query
+Zimbabwe	lost	13 runs		won	2nd		ODI v India	Vadodara	5 Apr 1998	investigate this query
+Zimbabwe	lost	32 runs		won	2nd		ODI v India	Cuttack	9 Apr 1998	investigate this query
+Zimbabwe	lost	16 runs		won	2nd		ODI v Australia	Delhi	11 Apr 1998	investigate this query
+Zimbabwe	lost	8 wickets	46	lost	1st		ODI v India	Bulawayo	26 Sep 1998	investigate this query
+Zimbabwe	lost	8 wickets	19	lost	1st		ODI v India	Bulawayo	27 Sep 1998	investigate this query
+Zimbabwe	won	37 runs		lost	1st		ODI v India	Harare	30 Sep 1998	investigate this query
+Zimbabwe	won	61 runs		lost	1st		Test v India	Harare	7 Oct 1998	investigate this query
+Zimbabwe	lost	5 wickets	0	won	1st		ODI v New Zealand	Dhaka	24 Oct 1998	investigate this query
+Zimbabwe	won	7 wickets	23	won	2nd		ODI v Sri Lanka	Sharjah	7 Nov 1998	investigate this query
+Zimbabwe	lost	7 wickets	56	lost	1st		ODI v India	Sharjah	8 Nov 1998	investigate this query
+Zimbabwe	won	24 runs		lost	1st		ODI v Sri Lanka	Sharjah	10 Nov 1998	investigate this query
+Zimbabwe	won	13 runs		lost	1st		ODI v India	Sharjah	11 Nov 1998	investigate this query
+Zimbabwe	lost	10 wickets	120	lost	1st		ODI v India	Sharjah	13 Nov 1998	investigate this query
+Zimbabwe	lost	4 wickets	14	lost	1st		ODI v Pakistan	Gujranwala	20 Nov 1998	investigate this query
+Zimbabwe	won	6 wickets	56	won	2nd		ODI v Pakistan	Sheikhupura	22 Nov 1998	investigate this query
+Zimbabwe	lost	111 runs		won	2nd		ODI v Pakistan	Rawalpindi	24 Nov 1998	investigate this query
+Zimbabwe	won	7 wickets		won	2nd		Test v Pakistan	Peshawar	27 Nov 1998	investigate this query
+Zimbabwe	draw	-		lost	1st		Test v Pakistan	Lahore	10 Dec 1998	investigate this query
+Zimbabwe	aban	-		-	-		Test v Pakistan	Faisalabad	17 Dec 1998	investigate this query
+Zimbabwe	won	133 runs		won	1st		ODI v Kenya	Dhaka	19 Mar 1999	investigate this query
+Zimbabwe	won	126 runs		won	1st		ODI v Bangladesh	Dhaka	21 Mar 1999	investigate this query
+Zimbabwe	won	64 runs		won	1st		ODI v Kenya	Dhaka	23 Mar 1999	investigate this query
+Zimbabwe	won	3 wickets	3	lost	2nd		ODI v Bangladesh	Dhaka	25 Mar 1999	investigate this query
+Zimbabwe	won	202 runs		won	1st		ODI v Kenya	Dhaka	27 Mar 1999	investigate this query
+Zimbabwe	won	5 wickets	54	won	2nd		ODI v Kenya	Taunton	15 May 1999	investigate this query
+Zimbabwe	won	3 runs		lost	1st		ODI v India	Leicester	19 May 1999	investigate this query
+Zimbabwe	lost	4 wickets	24	lost	1st		ODI v Sri Lanka	Worcester	22 May 1999	investigate this query
+Zimbabwe	lost	7 wickets	69	lost	1st		ODI v England	Nottingham	25 May 1999	investigate this query
+Zimbabwe	won	48 runs		won	1st		ODI v South Africa	Chelmsford	29 May 1999	investigate this query
+Zimbabwe	n/r	-		won	1st		ODI v New Zealand	Leeds	6 Jun 1999	investigate this query
+Zimbabwe	lost	44 runs		won	2nd		ODI v Australia	Lord's	9 Jun 1999	investigate this query
+Zimbabwe	lost	148 runs		lost	2nd		ODI v Pakistan	The Oval	11 Jun 1999	investigate this query
+Zimbabwe	lost	6 wickets	38	won	1st		ODI v West Indies	Singapore	2 Sep 1999	investigate this query
+Zimbabwe	lost	115 runs		won	2nd		ODI v India	Singapore	4 Sep 1999	investigate this query
+Zimbabwe	won	3 wickets	4	won	2nd		ODI v Kenya	Nairobi (Gym)	25 Sep 1999	investigate this query
+Zimbabwe	lost	9 wickets	90	lost	1st		ODI v South Africa	Nairobi (Gym)	28 Sep 1999	investigate this query
+Zimbabwe	lost	107 runs		won	2nd		ODI v India	Nairobi (Gym)	1 Oct 1999	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v Australia	Harare	14 Oct 1999	investigate this query
+Zimbabwe	lost	83 runs		won	2nd		ODI v Australia	Bulawayo	21 Oct 1999	investigate this query
+Zimbabwe	lost	9 wickets	129	lost	1st		ODI v Australia	Harare	23 Oct 1999	investigate this query
+Zimbabwe	lost	9 wickets	66	lost	1st		ODI v Australia	Harare	24 Oct 1999	investigate this query
+Zimbabwe	lost	inns & 13 runs		lost	1st		Test v South Africa	Bloemfontein	29 Oct 1999	investigate this query
+Zimbabwe	lost	inns & 219 runs		lost	1st		Test v South Africa	Harare	11 Nov 1999	investigate this query
+Zimbabwe	draw	-		lost	1st		Test v Sri Lanka	Bulawayo	18 Nov 1999	investigate this query
+Zimbabwe	lost	6 wickets		lost	1st		Test v Sri Lanka	Harare	26 Nov 1999	investigate this query
+Zimbabwe	draw	-		lost	1st		Test v Sri Lanka	Harare	4 Dec 1999	investigate this query
+Zimbabwe	n/r	-		won	2nd		ODI v Sri Lanka	Bulawayo	11 Dec 1999	investigate this query
+Zimbabwe	lost	13 runs		won	2nd		ODI v Sri Lanka	Bulawayo	12 Dec 1999	investigate this query
+Zimbabwe	lost	98 runs		won	2nd		ODI v Sri Lanka	Harare	15 Dec 1999	investigate this query
+Zimbabwe	lost	6 wickets	32	won	1st		ODI v Sri Lanka	Harare	18 Dec 1999	investigate this query
+Zimbabwe	won	6 wickets	22	lost	2nd		ODI v Sri Lanka	Harare	19 Dec 1999	investigate this query
+Zimbabwe	lost	6 wickets	11	won	1st		ODI v South Africa	Johannesburg	21 Jan 2000	investigate this query
+Zimbabwe	won	104 runs		won	1st		ODI v England	Cape Town	28 Jan 2000	investigate this query
+Zimbabwe	lost	8 wickets	107	won	1st		ODI v England	Kimberley	30 Jan 2000	investigate this query
+Zimbabwe	won	2 wickets	0	lost	2nd		ODI v South Africa	Durban	2 Feb 2000	investigate this query
+Zimbabwe	lost	53 runs		lost	2nd		ODI v South Africa	Port Elizabeth	6 Feb 2000	investigate this query
+Zimbabwe	aban	-		-	-		ODI v England	Centurion	9 Feb 2000	investigate this query
+Zimbabwe	lost	5 wickets	9	won	1st		ODI v England	Bulawayo	16 Feb 2000	investigate this query
+Zimbabwe	lost	1 wickets	22	lost	1st		ODI v England	Bulawayo	18 Feb 2000	investigate this query
+Zimbabwe	lost	85 runs		won	2nd		ODI v England	Harare	20 Feb 2000	investigate this query
+Zimbabwe	aban	-		-	-		ODI v England	Harare	23 Feb 2000	investigate this query
+Zimbabwe	lost	35 runs		won	2nd		Test v West Indies	Port of Spain	16 Mar 2000	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v West Indies	Kingston	24 Mar 2000	investigate this query
+Zimbabwe	lost	87 runs		won	2nd		ODI v West Indies	Kingston	1 Apr 2000	investigate this query
+Zimbabwe	lost	41 runs		lost	2nd		ODI v West Indies	Kingston	2 Apr 2000	investigate this query
+Zimbabwe	lost	5 wickets	17	won	1st		ODI v Pakistan	St John's	5 Apr 2000	investigate this query
+Zimbabwe	lost	6 wickets	41	won	1st		ODI v Pakistan	St George's	15 Apr 2000	investigate this query
+Zimbabwe	lost	inns & 209 runs		lost	1st		Test v England	Lord's	18 May 2000	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v England	Nottingham	1 Jun 2000	investigate this query
+Zimbabwe	won	6 wickets	30	lost	2nd		ODI v West Indies	Bristol	6 Jul 2000	investigate this query
+Zimbabwe	won	5 wickets	10	lost	2nd		ODI v England	The Oval	8 Jul 2000	investigate this query
+Zimbabwe	won	70 runs		lost	1st		ODI v West Indies	Canterbury	11 Jul 2000	investigate this query
+Zimbabwe	lost	8 wickets	177	won	1st		ODI v England	Manchester	13 Jul 2000	investigate this query
+Zimbabwe	won	6 wickets	5	lost	2nd		ODI v West Indies	Chester-le-Street	16 Jul 2000	investigate this query
+Zimbabwe	lost	52 runs		lost	2nd		ODI v England	Birmingham	18 Jul 2000	investigate this query
+Zimbabwe	lost	6 wickets	28	lost	1st		ODI v England	Lord's	22 Jul 2000	investigate this query
+Zimbabwe	lost	7 wickets		won	1st		Test v New Zealand	Bulawayo	12 Sep 2000	investigate this query
+Zimbabwe	lost	8 wickets		lost	2nd		Test v New Zealand	Harare	19 Sep 2000	investigate this query
+Zimbabwe	lost	7 wickets	55	lost	1st		ODI v New Zealand	Harare	27 Sep 2000	investigate this query
+Zimbabwe	won	21 runs		lost	1st		ODI v New Zealand	Bulawayo	30 Sep 2000	investigate this query
+Zimbabwe	won	6 wickets	13	lost	2nd		ODI v New Zealand	Bulawayo	1 Oct 2000	investigate this query
+Zimbabwe	lost	64 runs		won	2nd		ODI v New Zealand	Nairobi (Gym)	9 Oct 2000	investigate this query
+Zimbabwe	lost	7 wickets	18	lost	1st		ODI v Sri Lanka	Sharjah	21 Oct 2000	investigate this query
+Zimbabwe	lost	13 runs		won	2nd		ODI v India	Sharjah	22 Oct 2000	investigate this query
+Zimbabwe	lost	123 runs		won	2nd		ODI v Sri Lanka	Sharjah	25 Oct 2000	investigate this query
+Zimbabwe	lost	3 wickets	9	lost	1st		ODI v India	Sharjah	26 Oct 2000	investigate this query
+Zimbabwe	lost	7 wickets		won	1st		Test v India	Delhi	18 Nov 2000	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v India	Nagpur	25 Nov 2000	investigate this query
+Zimbabwe	lost	3 wickets	10	won	1st		ODI v India	Cuttack	2 Dec 2000	investigate this query
+Zimbabwe	lost	61 runs		lost	2nd		ODI v India	Ahmedabad	5 Dec 2000	investigate this query
+Zimbabwe	won	1 wickets	1	lost	2nd		ODI v India	Jodhpur	8 Dec 2000	investigate this query
+Zimbabwe	lost	9 wickets	150	won	1st		ODI v India	Kanpur	11 Dec 2000	investigate this query
+Zimbabwe	lost	39 runs		won	2nd		ODI v India	Rajkot	14 Dec 2000	investigate this query
+Zimbabwe	draw	-		lost	2nd		Test v New Zealand	Wellington	26 Dec 2000	investigate this query
+Zimbabwe	won	70 runs		lost	1st		ODI v New Zealand	Taupo	2 Jan 2001	investigate this query
+Zimbabwe	lost	8 wickets	28	won	1st		ODI v New Zealand	Wellington	4 Jan 2001	investigate this query
+Zimbabwe	won	1 wickets	8	won	2nd		ODI v New Zealand	Auckland	7 Jan 2001	investigate this query
+Zimbabwe	lost	1 wickets	8	won	1st		ODI v West Indies	Brisbane	13 Jan 2001	investigate this query
+Zimbabwe	lost	8 wickets	79	won	1st		ODI v Australia	Melbourne	21 Jan 2001	investigate this query
+Zimbabwe	won	47 runs		lost	1st		ODI v West Indies	Sydney	23 Jan 2001	investigate this query
+Zimbabwe	lost	77 runs		lost	2nd		ODI v West Indies	Adelaide	25 Jan 2001	investigate this query
+Zimbabwe	lost	86 runs		lost	2nd		ODI v Australia	Sydney	28 Jan 2001	investigate this query
+Zimbabwe	lost	6 wickets	36	lost	1st		ODI v Australia	Hobart	30 Jan 2001	investigate this query
+Zimbabwe	lost	44 runs		lost	2nd		ODI v West Indies	Perth	2 Feb 2001	investigate this query
+Zimbabwe	lost	1 runs		lost	2nd		ODI v Australia	Perth	4 Feb 2001	investigate this query
+Zimbabwe	won	7 wickets	41	lost	2nd		ODI v Bangladesh	Harare	7 Apr 2001	investigate this query
+Zimbabwe	won	127 runs		lost	1st		ODI v Bangladesh	Harare	8 Apr 2001	investigate this query
+Zimbabwe	won	36 runs		won	1st		ODI v Bangladesh	Bulawayo	11 Apr 2001	investigate this query
+Zimbabwe	won	inns & 32 runs		won	2nd		Test v Bangladesh	Bulawayo	19 Apr 2001	investigate this query
+Zimbabwe	won	8 wickets		won	2nd		Test v Bangladesh	Harare	26 Apr 2001	investigate this query
+Zimbabwe	lost	8 wickets		won	1st		Test v India	Bulawayo	7 Jun 2001	investigate this query
+Zimbabwe	won	4 wickets		lost	2nd		Test v India	Harare	15 Jun 2001	investigate this query
+Zimbabwe	lost	27 runs		won	2nd		ODI v West Indies	Harare	23 Jun 2001	investigate this query
+Zimbabwe	lost	9 wickets	142	lost	1st		ODI v India	Harare	24 Jun 2001	investigate this query
+Zimbabwe	lost	4 wickets	4	lost	1st		ODI v India	Bulawayo	27 Jun 2001	investigate this query
+Zimbabwe	lost	5 wickets	1	lost	1st		ODI v West Indies	Bulawayo	1 Jul 2001	investigate this query
+Zimbabwe	lost	inns & 176 runs		won	1st		Test v West Indies	Bulawayo	19 Jul 2001	investigate this query
+Zimbabwe	draw	-		lost	1st		Test v West Indies	Harare	27 Jul 2001	investigate this query
+Zimbabwe	lost	9 wickets		lost	2nd		Test v South Africa	Harare	7 Sep 2001	investigate this query
+Zimbabwe	draw	-		won	1st		Test v South Africa	Bulawayo	14 Sep 2001	investigate this query
+Zimbabwe	lost	153 runs		lost	2nd		ODI v South Africa	Bulawayo	23 Sep 2001	investigate this query
+Zimbabwe	lost	148 runs		lost	2nd		ODI v South Africa	Harare	29 Sep 2001	investigate this query
+Zimbabwe	lost	6 wickets	54	won	1st		ODI v South Africa	Harare	30 Sep 2001	investigate this query
+Zimbabwe	lost	5 wickets	20	won	1st		ODI v England	Harare	3 Oct 2001	investigate this query
+Zimbabwe	lost	8 wickets	75	won	1st		ODI v England	Harare	6 Oct 2001	investigate this query
+Zimbabwe	lost	4 wickets	15	won	1st		ODI v England	Harare	7 Oct 2001	investigate this query
+Zimbabwe	lost	70 runs		lost	2nd		ODI v England	Bulawayo	10 Oct 2001	investigate this query
+Zimbabwe	lost	7 wickets	38	won	1st		ODI v England	Bulawayo	13 Oct 2001	investigate this query
+Zimbabwe	lost	63 runs		lost	2nd		ODI v Sri Lanka	Sharjah	26 Oct 2001	investigate this query
+Zimbabwe	lost	106 runs		lost	2nd		ODI v Pakistan	Sharjah	28 Oct 2001	investigate this query
+Zimbabwe	lost	79 runs		lost	2nd		ODI v Sri Lanka	Sharjah	30 Oct 2001	investigate this query
+Zimbabwe	lost	29 runs		lost	2nd		ODI v Pakistan	Sharjah	31 Oct 2001	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v Bangladesh	Dhaka	8 Nov 2001	investigate this query
+Zimbabwe	won	8 wickets		lost	1st		Test v Bangladesh	Chittagong	15 Nov 2001	investigate this query
+Zimbabwe	won	5 wickets	46	won	2nd		ODI v Bangladesh	Chittagong	23 Nov 2001	investigate this query
+Zimbabwe	won	42 runs		won	1st		ODI v Bangladesh	Dhaka	25 Nov 2001	investigate this query
+Zimbabwe	won	7 wickets	5	lost	2nd		ODI v Bangladesh	Dhaka	26 Nov 2001	investigate this query
+Zimbabwe	lost	9 wickets	274	lost	1st		ODI v Sri Lanka	Colombo (SSC)	8 Dec 2001	investigate this query
+Zimbabwe	won	4 wickets	11	won	2nd		ODI v West Indies	Colombo (SSC)	9 Dec 2001	investigate this query
+Zimbabwe	lost	59 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	12 Dec 2001	investigate this query
+Zimbabwe	lost	8 wickets	96	lost	1st		ODI v West Indies	Kandy	16 Dec 2001	investigate this query
+Zimbabwe	lost	inns & 166 runs		won	2nd		Test v Sri Lanka	Colombo (SSC)	27 Dec 2001	investigate this query
+Zimbabwe	lost	inns & 94 runs		won	1st		Test v Sri Lanka	Kandy	4 Jan 2002	investigate this query
+Zimbabwe	lost	315 runs		lost	2nd		Test v Sri Lanka	Galle	12 Jan 2002	investigate this query
+Zimbabwe	lost	inns & 101 runs		won	1st		Test v India	Nagpur	21 Feb 2002	investigate this query
+Zimbabwe	lost	4 wickets		won	1st		Test v India	Delhi	28 Feb 2002	investigate this query
+Zimbabwe	won	1 wickets	2	lost	2nd		ODI v India	Faridabad	7 Mar 2002	investigate this query
+Zimbabwe	lost	64 runs		lost	2nd		ODI v India	Mohali	10 Mar 2002	investigate this query
+Zimbabwe	won	6 wickets	34	lost	2nd		ODI v India	Kochi	13 Mar 2002	investigate this query
+Zimbabwe	lost	5 wickets	11	won	1st		ODI v India	Hyderabad (Deccan)	16 Mar 2002	investigate this query
+Zimbabwe	lost	101 runs		lost	2nd		ODI v India	Guwahati	19 Mar 2002	investigate this query
+Zimbabwe	lost	14 runs		lost	2nd		ODI v India	Colombo (RPS)	14 Sep 2002	investigate this query
+Zimbabwe	lost	108 runs		lost	2nd		ODI v England	Colombo (RPS)	18 Sep 2002	investigate this query
+Zimbabwe	lost	119 runs		won	2nd		Test v Pakistan	Harare	9 Nov 2002	investigate this query
+Zimbabwe	lost	10 wickets		won	1st		Test v Pakistan	Bulawayo	16 Nov 2002	investigate this query
+Zimbabwe	lost	7 runs		lost	2nd		ODI v Pakistan	Bulawayo	23 Nov 2002	investigate this query
+Zimbabwe	lost	104 runs		lost	2nd		ODI v Pakistan	Bulawayo	24 Nov 2002	investigate this query
+Zimbabwe	lost	48 runs		won	2nd		ODI v Pakistan	Harare	27 Nov 2002	investigate this query
+Zimbabwe	lost	8 wickets	86	won	1st		ODI v Pakistan	Harare	30 Nov 2002	investigate this query
+Zimbabwe	lost	70 runs		won	2nd		ODI v Pakistan	Harare	1 Dec 2002	investigate this query
+Zimbabwe	n/r	-		lost	2nd		ODI v Kenya	Harare	8 Dec 2002	investigate this query
+Zimbabwe	won	47 runs		lost	1st		ODI v Kenya	Kwekwe	11 Dec 2002	investigate this query
+Zimbabwe	won	9 wickets	204	lost	2nd		ODI v Kenya	Bulawayo	15 Dec 2002	investigate this query
+Zimbabwe	won	86 runs		lost	1st		ODI v Namibia	Harare	10 Feb 2003	investigate this query
+Zimbabwe	won			-	-		ODI v England	Harare	13 Feb 2003	investigate this query
+Zimbabwe	lost	83 runs		won	2nd		ODI v India	Harare	19 Feb 2003	investigate this query
+Zimbabwe	lost	7 wickets	15	won	1st		ODI v Australia	Bulawayo	24 Feb 2003	investigate this query
+Zimbabwe	won	99 runs		lost	1st		ODI v Netherlands	Bulawayo	28 Feb 2003	investigate this query
+Zimbabwe	n/r	-		lost	2nd		ODI v Pakistan	Bulawayo	4 Mar 2003	investigate this query
+Zimbabwe	lost	6 wickets	16	won	1st		ODI v New Zealand	Bloemfontein	8 Mar 2003	investigate this query
+Zimbabwe	lost	7 wickets	144	won	1st		ODI v Kenya	Bloemfontein	12 Mar 2003	investigate this query
+Zimbabwe	lost	74 runs		lost	2nd		ODI v Sri Lanka	East London	15 Mar 2003	investigate this query
+Zimbabwe	lost	68 runs		lost	2nd		ODI v Pakistan	Sharjah	3 Apr 2003	investigate this query
+Zimbabwe	won	5 wickets	6	lost	2nd		ODI v Kenya	Sharjah	5 Apr 2003	investigate this query
+Zimbabwe	won	4 wickets	8	lost	2nd		ODI v Sri Lanka	Sharjah	7 Apr 2003	investigate this query
+Zimbabwe	lost	8 wickets	88	won	1st		ODI v Pakistan	Sharjah	10 Apr 2003	investigate this query
+Zimbabwe	lost	inns & 92 runs		won	2nd		Test v England	Lord's	22 May 2003	investigate this query
+Zimbabwe	lost	inns & 69 runs		lost	2nd		Test v England	Chester-le-Street	5 Jun 2003	investigate this query
+Zimbabwe	won	4 wickets	12	won	2nd		ODI v England	Nottingham	26 Jun 2003	investigate this query
+Zimbabwe	lost	46 runs		won	2nd		ODI v South Africa	Canterbury	29 Jun 2003	investigate this query
+Zimbabwe	n/r	-		won	2nd		ODI v England	Leeds	1 Jul 2003	investigate this query
+Zimbabwe	lost	9 wickets	94	lost	1st		ODI v South Africa	Cardiff	5 Jul 2003	investigate this query
+Zimbabwe	lost	6 wickets	193	lost	1st		ODI v England	Bristol	6 Jul 2003	investigate this query
+Zimbabwe	lost	7 wickets	88	won	1st		ODI v South Africa	Southampton	10 Jul 2003	investigate this query
+Zimbabwe	lost	inns & 175 runs		won	2nd		Test v Australia	Perth	9 Oct 2003	investigate this query
+Zimbabwe	lost	9 wickets		won	1st		Test v Australia	Sydney	17 Oct 2003	investigate this query
+Zimbabwe	draw	-		won	1st		Test v West Indies	Harare	4 Nov 2003	investigate this query
+Zimbabwe	lost	128 runs		lost	2nd		Test v West Indies	Bulawayo	12 Nov 2003	investigate this query
+Zimbabwe	lost	51 runs		lost	2nd		ODI v West Indies	Bulawayo	22 Nov 2003	investigate this query
+Zimbabwe	won	6 wickets	122	lost	2nd		ODI v West Indies	Bulawayo	23 Nov 2003	investigate this query
+Zimbabwe	won	21 runs		lost	1st		ODI v West Indies	Harare	26 Nov 2003	investigate this query
+Zimbabwe	lost	72 runs		won	2nd		ODI v West Indies	Harare	29 Nov 2003	investigate this query
+Zimbabwe	lost	8 wickets	146	won	1st		ODI v West Indies	Harare	30 Nov 2003	investigate this query
+Zimbabwe	lost	99 runs		lost	2nd		ODI v Australia	Sydney	11 Jan 2004	investigate this query
+Zimbabwe	lost	7 wickets	74	won	1st		ODI v India	Hobart	14 Jan 2004	investigate this query
+Zimbabwe	lost	148 runs		lost	2nd		ODI v Australia	Hobart	16 Jan 2004	investigate this query
+Zimbabwe	lost	24 runs		lost	2nd		ODI v India	Brisbane	20 Jan 2004	investigate this query
+Zimbabwe	lost	3 runs		lost	2nd		ODI v India	Adelaide	24 Jan 2004	investigate this query
+Zimbabwe	lost	13 runs		lost	2nd		ODI v Australia	Adelaide	26 Jan 2004	investigate this query
+Zimbabwe	n/r	-		won	2nd		ODI v Australia	Melbourne	29 Jan 2004	investigate this query
+Zimbabwe	lost	4 wickets	117	won	1st		ODI v India	Perth	3 Feb 2004	investigate this query
+Zimbabwe	won	183 runs		won	1st		Test v Bangladesh	Harare	19 Feb 2004	investigate this query
+Zimbabwe	draw	-		won	2nd		Test v Bangladesh	Bulawayo	26 Feb 2004	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Bangladesh	Bulawayo	6 Mar 2004	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Bangladesh	Bulawayo	7 Mar 2004	investigate this query
+Zimbabwe	lost	8 runs		won	2nd		ODI v Bangladesh	Harare	10 Mar 2004	investigate this query
+Zimbabwe	won	14 runs		won	1st		ODI v Bangladesh	Harare	12 Mar 2004	investigate this query
+Zimbabwe	won	3 wickets	45	lost	2nd		ODI v Bangladesh	Harare	14 Mar 2004	investigate this query
+Zimbabwe	lost	12 runs		lost	1st		ODI v Sri Lanka	Bulawayo	20 Apr 2004	investigate this query
+Zimbabwe	lost	9 wickets	175	lost	1st		ODI v Sri Lanka	Bulawayo	22 Apr 2004	investigate this query
+Zimbabwe	lost	9 wickets	244	lost	1st		ODI v Sri Lanka	Harare	25 Apr 2004	investigate this query
+Zimbabwe	lost	72 runs		won	2nd		ODI v Sri Lanka	Harare	27 Apr 2004	investigate this query
+Zimbabwe	lost	25 runs		lost	2nd		ODI v Sri Lanka	Harare	29 Apr 2004	investigate this query
+Zimbabwe	lost	inns & 240 runs		lost	1st		Test v Sri Lanka	Harare	6 May 2004	investigate this query
+Zimbabwe	lost	inns & 254 runs		lost	1st		Test v Sri Lanka	Bulawayo	14 May 2004	investigate this query
+Zimbabwe	lost	7 wickets	62	won	1st		ODI v Australia	Harare	25 May 2004	investigate this query
+Zimbabwe	lost	139 runs		won	2nd		ODI v Australia	Harare	27 May 2004	investigate this query
+Zimbabwe	lost	8 wickets	116	lost	1st		ODI v Australia	Harare	29 May 2004	investigate this query
+Zimbabwe	lost	152 runs		won	2nd		ODI v England	Birmingham	10 Sep 2004	investigate this query
+Zimbabwe	lost	4 wickets	37	lost	1st		ODI v Sri Lanka	The Oval	14 Sep 2004	investigate this query
+Zimbabwe	lost	144 runs		lost	2nd		ODI v Pakistan	Multan	30 Sep 2004	investigate this query
+Zimbabwe	lost	3 wickets	11	lost	1st		ODI v Pakistan	Peshawar	3 Oct 2004	investigate this query
+Zimbabwe	lost	7 wickets	191	lost	1st		ODI v Sri Lanka	Rawalpindi	9 Oct 2004	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Sri Lanka	Rawalpindi	11 Oct 2004	investigate this query
+Zimbabwe	lost	5 wickets	14	lost	1st		ODI v England	Harare	28 Nov 2004	investigate this query
+Zimbabwe	lost	161 runs		lost	2nd		ODI v England	Harare	1 Dec 2004	investigate this query
+Zimbabwe	lost	8 wickets	41	won	1st		ODI v England	Bulawayo	4 Dec 2004	investigate this query
+Zimbabwe	lost	74 runs		lost	2nd		ODI v England	Bulawayo	5 Dec 2004	investigate this query
+Zimbabwe	lost	226 runs		lost	2nd		Test v Bangladesh	Chittagong	6 Jan 2005	investigate this query
+Zimbabwe	draw	-		won	1st		Test v Bangladesh	Dhaka	14 Jan 2005	investigate this query
+Zimbabwe	won	22 runs		won	1st		ODI v Bangladesh	Dhaka	20 Jan 2005	investigate this query
+Zimbabwe	won	31 runs		won	1st		ODI v Bangladesh	Chittagong	24 Jan 2005	investigate this query
+Zimbabwe	lost	40 runs		lost	2nd		ODI v Bangladesh	Chittagong	26 Jan 2005	investigate this query
+Zimbabwe	lost	58 runs		lost	2nd		ODI v Bangladesh	Dhaka	29 Jan 2005	investigate this query
+Zimbabwe	lost	8 wickets	102	won	1st		ODI v Bangladesh	Dhaka	31 Jan 2005	investigate this query
+Zimbabwe	lost	165 runs		won	2nd		ODI v South Africa	Johannesburg	25 Feb 2005	investigate this query
+Zimbabwe	lost	131 runs		won	2nd		ODI v South Africa	Durban	27 Feb 2005	investigate this query
+Zimbabwe	lost	5 wickets	21	won	1st		ODI v South Africa	Port Elizabeth	2 Mar 2005	investigate this query
+Zimbabwe	lost	inns & 21 runs		won	1st		Test v South Africa	Cape Town	4 Mar 2005	investigate this query
+Zimbabwe	lost	inns & 62 runs		lost	1st		Test v South Africa	Centurion	11 Mar 2005	investigate this query
+Zimbabwe	lost	inns & 294 runs		won	2nd		Test v New Zealand	Harare	7 Aug 2005	investigate this query
+Zimbabwe	lost	inns & 46 runs		won	1st		Test v New Zealand	Bulawayo	15 Aug 2005	investigate this query
+Zimbabwe	lost	192 runs		won	2nd		ODI v New Zealand	Bulawayo	24 Aug 2005	investigate this query
+Zimbabwe	lost	161 runs		won	2nd		ODI v India	Harare	29 Aug 2005	investigate this query
+Zimbabwe	lost	27 runs		lost	2nd		ODI v New Zealand	Harare	31 Aug 2005	investigate this query
+Zimbabwe	lost	4 wickets	11	lost	1st		ODI v India	Harare	4 Sep 2005	investigate this query
+Zimbabwe	lost	inns & 90 runs		won	1st		Test v India	Bulawayo	13 Sep 2005	investigate this query
+Zimbabwe	lost	10 wickets		lost	1st		Test v India	Harare	20 Sep 2005	investigate this query
+Zimbabwe	won	8 wickets	39	lost	2nd		ODI v Kenya	Bulawayo	25 Feb 2006	investigate this query
+Zimbabwe	lost	79 runs		won	2nd		ODI v Kenya	Bulawayo	26 Feb 2006	investigate this query
+Zimbabwe	lost	65 runs		lost	2nd		ODI v Kenya	Harare	1 Mar 2006	investigate this query
+Zimbabwe	won	109 runs		won	1st		ODI v Kenya	Harare	3 Mar 2006	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Kenya	Harare	4 Mar 2006	investigate this query
+Zimbabwe	lost	5 wickets	70	lost	1st		ODI v West Indies	St John's	29 Apr 2006	investigate this query
+Zimbabwe	lost	98 runs		lost	2nd		ODI v West Indies	St John's	30 Apr 2006	investigate this query
+Zimbabwe	aban	-		-	-		ODI v West Indies	Georgetown	6 May 2006	investigate this query
+Zimbabwe	lost	82 runs		lost	2nd		ODI v West Indies	Georgetown	7 May 2006	investigate this query
+Zimbabwe	lost	10 wickets	134	won	1st		ODI v West Indies	Gros Islet	10 May 2006	investigate this query
+Zimbabwe	n/r	-		lost	2nd		ODI v West Indies	Port of Spain	13 May 2006	investigate this query
+Zimbabwe	lost	104 runs		lost	2nd		ODI v West Indies	Port of Spain	14 May 2006	investigate this query
+Zimbabwe	won	143 runs		won	1st		ODI v Canada	Port of Spain	16 May 2006	investigate this query
+Zimbabwe	won	194 runs		lost	1st		ODI v Bermuda	Port of Spain	18 May 2006	investigate this query
+Zimbabwe	won	83 runs		won	1st		ODI v Bermuda	Port of Spain	20 May 2006	investigate this query
+Zimbabwe	won	2 wickets	5	won	2nd		ODI v Bangladesh	Harare	29 Jul 2006	investigate this query
+Zimbabwe	lost	62 runs		won	2nd		ODI v Bangladesh	Harare	30 Jul 2006	investigate this query
+Zimbabwe	won	2 wickets	0	won	2nd		ODI v Bangladesh	Harare	2 Aug 2006	investigate this query
+Zimbabwe	won	7 wickets	50	lost	2nd		ODI v Bangladesh	Harare	4 Aug 2006	investigate this query
+Zimbabwe	lost	8 wickets	32	won	1st		ODI v Bangladesh	Harare	6 Aug 2006	investigate this query
+Zimbabwe	lost	5 wickets	37	won	1st		ODI v South Africa	Bloemfontein	15 Sep 2006	investigate this query
+Zimbabwe	aban	-		-	-		ODI v South Africa	East London	17 Sep 2006	investigate this query
+Zimbabwe	lost	6 wickets	134	won	1st		ODI v South Africa	East London	18 Sep 2006	investigate this query
+Zimbabwe	lost	171 runs		lost	2nd		ODI v South Africa	Potchefstroom	20 Sep 2006	investigate this query
+Zimbabwe	lost	9 wickets	214	won	1st		ODI v West Indies	Ahmedabad	8 Oct 2006	investigate this query
+Zimbabwe	lost	144 runs		lost	2nd		ODI v Sri Lanka	Ahmedabad	10 Oct 2006	investigate this query
+Zimbabwe	lost	101 runs		won	2nd		ODI v Bangladesh	Jaipur	13 Oct 2006	investigate this query
+Zimbabwe	lost	43 runs		won	2nd		T20I v Bangladesh	Khulna	28 Nov 2006	investigate this query
+Zimbabwe	lost	9 wickets	27	won	1st		ODI v Bangladesh	Khulna	30 Nov 2006	investigate this query
+Zimbabwe	lost	6 wickets	44	lost	1st		ODI v Bangladesh	Bogra	3 Dec 2006	investigate this query
+Zimbabwe	lost	26 runs		won	2nd		ODI v Bangladesh	Bogra	5 Dec 2006	investigate this query
+Zimbabwe	lost	8 wickets	106	lost	1st		ODI v Bangladesh	Dhaka	8 Dec 2006	investigate this query
+Zimbabwe	lost	3 wickets	6	lost	1st		ODI v Bangladesh	Dhaka	9 Dec 2006	investigate this query
+Zimbabwe	lost	45 runs		won	2nd		ODI v Bangladesh	Harare	4 Feb 2007	investigate this query
+Zimbabwe	won	8 wickets	88	lost	2nd		ODI v Bangladesh	Harare	6 Feb 2007	investigate this query
+Zimbabwe	lost	14 runs		won	2nd		ODI v Bangladesh	Harare	9 Feb 2007	investigate this query
+Zimbabwe	lost	1 wickets	16	lost	1st		ODI v Bangladesh	Harare	10 Feb 2007	investigate this query
+Zimbabwe	tied	-		won	2nd		ODI v Ireland	Kingston	15 Mar 2007	investigate this query
+Zimbabwe	lost	6 wickets	13	lost	1st		ODI v West Indies	Kingston	19 Mar 2007	investigate this query
+Zimbabwe	lost	93 runs		won	2nd		ODI v Pakistan	Kingston	21 Mar 2007	investigate this query
+Zimbabwe	lost	5 wickets	19	won	1st		ODI v South Africa	Bulawayo	22 Aug 2007	investigate this query
+Zimbabwe	lost	8 wickets	65	lost	1st		ODI v South Africa	Harare	25 Aug 2007	investigate this query
+Zimbabwe	lost	28 runs		lost	2nd		ODI v South Africa	Harare	26 Aug 2007	investigate this query
+Zimbabwe	won	5 wickets	1	lost	2nd		T20I v Australia	Cape Town	12 Sep 2007	investigate this query
+Zimbabwe	lost	50 runs		lost	2nd		T20I v England	Cape Town	13 Sep 2007	investigate this query
+Zimbabwe	won	30 runs		lost	1st		ODI v West Indies	Harare	30 Nov 2007	investigate this query
+Zimbabwe	lost	110 runs		won	2nd		ODI v West Indies	Harare	2 Dec 2007	investigate this query
+Zimbabwe	lost	6 wickets	133	lost	1st		ODI v West Indies	Harare	4 Dec 2007	investigate this query
+Zimbabwe	lost	5 wickets	18	lost	1st		ODI v West Indies	Bulawayo	7 Dec 2007	investigate this query
+Zimbabwe	aban	-		-	-		ODI v West Indies	Bulawayo	9 Dec 2007	investigate this query
+Zimbabwe	lost	104 runs		won	2nd		ODI v Pakistan	Karachi	21 Jan 2008	investigate this query
+Zimbabwe	lost	5 wickets	22	won	1st		ODI v Pakistan	Hyderabad (Sind)	24 Jan 2008	investigate this query
+Zimbabwe	lost	37 runs		lost	2nd		ODI v Pakistan	Multan	27 Jan 2008	investigate this query
+Zimbabwe	lost	7 wickets	18	won	1st		ODI v Pakistan	Faisalabad	30 Jan 2008	investigate this query
+Zimbabwe	lost	7 wickets	114	won	1st		ODI v Pakistan	Sheikhupura	2 Feb 2008	investigate this query
+Zimbabwe	lost	5 wickets	6	lost	1st		T20I v Sri Lanka	King City (NW)	10 Oct 2008	investigate this query
+Zimbabwe	tied	-		won	2nd		T20I v Canada	King City (NW)	11 Oct 2008	investigate this query
+Zimbabwe	lost	7 wickets	6	won	1st		T20I v Pakistan	King City (NW)	12 Oct 2008	investigate this query
+Zimbabwe	won	109 runs		lost	1st		T20I v Canada	King City (NW)	13 Oct 2008	investigate this query
+Zimbabwe	won	156 runs		won	1st		ODI v Ireland	Nairobi (Gym)	17 Oct 2008	investigate this query
+Zimbabwe	lost	95 runs		lost	2nd		ODI v Kenya	Nairobi (Gym)	19 Oct 2008	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Ireland	Nairobi (Gym)	21 Oct 2008	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Kenya	Nairobi (Gym)	23 Oct 2008	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Kenya	Nairobi (Gym)	25 Oct 2008	investigate this query
+Zimbabwe	lost	6 wickets	100	lost	1st		ODI v Sri Lanka	Harare	20 Nov 2008	investigate this query
+Zimbabwe	lost	9 wickets	194	won	1st		ODI v Sri Lanka	Harare	22 Nov 2008	investigate this query
+Zimbabwe	lost	5 runs		won	2nd		ODI v Sri Lanka	Harare	24 Nov 2008	investigate this query
+Zimbabwe	lost	2 wickets	15	lost	1st		ODI v Sri Lanka	Harare	28 Nov 2008	investigate this query
+Zimbabwe	lost	19 runs		won	2nd		ODI v Sri Lanka	Harare	30 Nov 2008	investigate this query
+Zimbabwe	won	38 runs		lost	1st		ODI v Bangladesh	Dhaka	10 Jan 2009	investigate this query
+Zimbabwe	lost	130 runs		won	2nd		ODI v Sri Lanka	Dhaka	12 Jan 2009	investigate this query
+Zimbabwe	won	2 wickets	4	lost	2nd		ODI v Bangladesh	Dhaka	19 Jan 2009	investigate this query
+Zimbabwe	lost	6 wickets	31	lost	1st		ODI v Bangladesh	Dhaka	21 Jan 2009	investigate this query
+Zimbabwe	lost	6 wickets	27	lost	1st		ODI v Bangladesh	Dhaka	23 Jan 2009	investigate this query
+Zimbabwe	won	109 runs		won	1st		ODI v Kenya	Mombasa	27 Jan 2009	investigate this query
+Zimbabwe	won	151 runs		won	1st		ODI v Kenya	Mombasa	29 Jan 2009	investigate this query
+Zimbabwe	won	4 wickets	10	lost	2nd		ODI v Kenya	Nairobi (Gym)	31 Jan 2009	investigate this query
+Zimbabwe	won	66 runs		won	1st		ODI v Kenya	Nairobi (Gym)	1 Feb 2009	investigate this query
+Zimbabwe	won	7 wickets	90	lost	2nd		ODI v Kenya	Nairobi (Gym)	4 Feb 2009	investigate this query
+Zimbabwe	lost	8 wickets	93	lost	1st		ODI v Bangladesh	Bulawayo	9 Aug 2009	investigate this query
+Zimbabwe	lost	49 runs		won	2nd		ODI v Bangladesh	Bulawayo	11 Aug 2009	investigate this query
+Zimbabwe	won	69 runs		lost	1st		ODI v Bangladesh	Bulawayo	14 Aug 2009	investigate this query
+Zimbabwe	lost	4 wickets	13	won	1st		ODI v Bangladesh	Bulawayo	16 Aug 2009	investigate this query
+Zimbabwe	lost	5 wickets	13	won	1st		ODI v Bangladesh	Bulawayo	18 Aug 2009	investigate this query
+Zimbabwe	won	91 runs		won	1st		ODI v Kenya	Harare	12 Oct 2009	investigate this query
+Zimbabwe	won	86 runs		won	1st		ODI v Kenya	Harare	13 Oct 2009	investigate this query
+Zimbabwe	lost	20 runs		lost	2nd		ODI v Kenya	Harare	15 Oct 2009	investigate this query
+Zimbabwe	won	6 wickets	12	lost	2nd		ODI v Kenya	Harare	17 Oct 2009	investigate this query
+Zimbabwe	won	142 runs		won	1st		ODI v Kenya	Harare	18 Oct 2009	investigate this query
+Zimbabwe	won	5 wickets	92	won	2nd		ODI v Bangladesh	Dhaka	27 Oct 2009	investigate this query
+Zimbabwe	lost	7 wickets	123	won	1st		ODI v Bangladesh	Dhaka	29 Oct 2009	investigate this query
+Zimbabwe	lost	4 wickets	56	lost	1st		ODI v Bangladesh	Dhaka	31 Oct 2009	investigate this query
+Zimbabwe	lost	6 wickets	229	won	1st		ODI v Bangladesh	Chittagong	3 Nov 2009	investigate this query
+Zimbabwe	lost	1 wickets	6	lost	1st		ODI v Bangladesh	Chittagong	5 Nov 2009	investigate this query
+Zimbabwe	lost	45 runs		won	2nd		ODI v South Africa	Benoni	8 Nov 2009	investigate this query
+Zimbabwe	lost	212 runs		won	2nd		ODI v South Africa	Centurion	10 Nov 2009	investigate this query
+Zimbabwe	won	26 runs		won	1st		T20I v West Indies	Port of Spain	28 Feb 2010	investigate this query
+Zimbabwe	won	2 runs		won	1st		ODI v West Indies	Providence	4 Mar 2010	investigate this query
+Zimbabwe	lost	4 wickets	13	won	1st		ODI v West Indies	Providence	6 Mar 2010	investigate this query
+Zimbabwe	lost	141 runs		won	2nd		ODI v West Indies	Kingstown	10 Mar 2010	investigate this query
+Zimbabwe	lost	4 wickets	93	lost	1st		ODI v West Indies	Kingstown	12 Mar 2010	investigate this query
+Zimbabwe	lost	4 wickets	134	lost	1st		ODI v West Indies	Kingstown	14 Mar 2010	investigate this query
+Zimbabwe	lost	14 runs		lost	2nd		T20I v Sri Lanka	Providence	3 May 2010	investigate this query
+Zimbabwe	lost	7 runs		lost	1st		T20I v New Zealand	Providence	4 May 2010	investigate this query
+Zimbabwe	won	6 wickets	10	lost	2nd		ODI v India	Bulawayo	28 May 2010	investigate this query
+Zimbabwe	lost	9 wickets	64	lost	1st		ODI v Sri Lanka	Bulawayo	1 Jun 2010	investigate this query
+Zimbabwe	won	7 wickets	70	won	2nd		ODI v India	Harare	3 Jun 2010	investigate this query
+Zimbabwe	won	8 wickets	13	won	2nd		ODI v Sri Lanka	Harare	7 Jun 2010	investigate this query
+Zimbabwe	lost	9 wickets	92	lost	1st		ODI v Sri Lanka	Harare	9 Jun 2010	investigate this query
+Zimbabwe	lost	6 wickets	30	lost	1st		T20I v India	Harare	12 Jun 2010	investigate this query
+Zimbabwe	lost	7 wickets	12	lost	1st		T20I v India	Harare	13 Jun 2010	investigate this query
+Zimbabwe	won	2 wickets	0	won	2nd		ODI v Ireland	Harare	26 Sep 2010	investigate this query
+Zimbabwe	won	3 wickets	7	won	2nd		ODI v Ireland	Harare	28 Sep 2010	investigate this query
+Zimbabwe	lost	20 runs		won	2nd		ODI v Ireland	Harare	30 Sep 2010	investigate this query
+Zimbabwe	lost	7 wickets	25	won	1st		T20I v South Africa	Bloemfontein	8 Oct 2010	investigate this query
+Zimbabwe	lost	8 runs		lost	2nd		T20I v South Africa	Kimberley	10 Oct 2010	investigate this query
+Zimbabwe	lost	64 runs		lost	2nd		ODI v South Africa	Bloemfontein	15 Oct 2010	investigate this query
+Zimbabwe	lost	8 wickets	66	won	1st		ODI v South Africa	Potchefstroom	17 Oct 2010	investigate this query
+Zimbabwe	lost	272 runs		lost	2nd		ODI v South Africa	Benoni	22 Oct 2010	investigate this query
+Zimbabwe	won	9 runs		lost	1st		ODI v Bangladesh	Dhaka	1 Dec 2010	investigate this query
+Zimbabwe	lost	6 wickets	62	lost	1st		ODI v Bangladesh	Dhaka	3 Dec 2010	investigate this query
+Zimbabwe	lost	65 runs		won	2nd		ODI v Bangladesh	Dhaka	6 Dec 2010	investigate this query
+Zimbabwe	aban	-		-	-		ODI v Bangladesh	Chittagong	10 Dec 2010	investigate this query
+Zimbabwe	lost	6 wickets	42	won	1st		ODI v Bangladesh	Chittagong	12 Dec 2010	investigate this query
+Zimbabwe	lost	91 runs		lost	2nd		ODI v Australia	Ahmedabad	21 Feb 2011	investigate this query
+Zimbabwe	won	175 runs		won	1st		ODI v Canada	Nagpur	28 Feb 2011	investigate this query
+Zimbabwe	lost	10 wickets	99	won	1st		ODI v New Zealand	Ahmedabad	4 Mar 2011	investigate this query
+Zimbabwe	lost	139 runs		won	2nd		ODI v Sri Lanka	Pallekele	10 Mar 2011	investigate this query
+Zimbabwe	lost	7 wickets	23	won	1st		ODI v Pakistan	Pallekele	14 Mar 2011	investigate this query
+Zimbabwe	won	161 runs		won	1st		ODI v Kenya	Kolkata	20 Mar 2011	investigate this query
+Zimbabwe	won	130 runs		lost	1st		Test v Bangladesh	Harare	4 Aug 2011	investigate this query
+Zimbabwe	won	4 wickets	52	won	2nd		ODI v Bangladesh	Harare	12 Aug 2011	investigate this query
+Zimbabwe	won	7 wickets	35	won	2nd		ODI v Bangladesh	Harare	14 Aug 2011	investigate this query
+Zimbabwe	won	5 runs		lost	1st		ODI v Bangladesh	Harare	16 Aug 2011	investigate this query
+Zimbabwe	lost	6 wickets	80	lost	1st		ODI v Bangladesh	Bulawayo	19 Aug 2011	investigate this query
+Zimbabwe	lost	93 runs		won	2nd		ODI v Bangladesh	Bulawayo	21 Aug 2011	investigate this query
+Zimbabwe	lost	7 wickets		lost	1st		Test v Pakistan	Bulawayo	1 Sep 2011	investigate this query
+Zimbabwe	lost	5 runs		lost	2nd		ODI v Pakistan	Bulawayo	8 Sep 2011	investigate this query
+Zimbabwe	lost	10 wickets	47	won	1st		ODI v Pakistan	Harare	11 Sep 2011	investigate this query
+Zimbabwe	lost	28 runs		won	2nd		ODI v Pakistan	Harare	14 Sep 2011	investigate this query
+Zimbabwe	lost	85 runs		won	2nd		T20I v Pakistan	Harare	16 Sep 2011	investigate this query
+Zimbabwe	lost	5 runs		lost	2nd		T20I v Pakistan	Harare	18 Sep 2011	investigate this query
+Zimbabwe	lost	10 wickets	39	lost	1st		T20I v New Zealand	Harare	15 Oct 2011	investigate this query
+Zimbabwe	lost	34 runs		won	2nd		T20I v New Zealand	Harare	17 Oct 2011	investigate this query
+Zimbabwe	lost	9 wickets	39	won	1st		ODI v New Zealand	Harare	20 Oct 2011	investigate this query
+Zimbabwe	lost	4 wickets	10	lost	1st		ODI v New Zealand	Harare	22 Oct 2011	investigate this query
+Zimbabwe	won	1 wickets	1	lost	2nd		ODI v New Zealand	Bulawayo	25 Oct 2011	investigate this query
+Zimbabwe	lost	34 runs		lost	2nd		Test v New Zealand	Bulawayo	1 Nov 2011	investigate this query
+Zimbabwe	lost	inns & 301 runs		won	2nd		Test v New Zealand	Napier	26 Jan 2012	investigate this query
+Zimbabwe	lost	90 runs		won	2nd		ODI v New Zealand	Dunedin	3 Feb 2012	investigate this query
+Zimbabwe	lost	141 runs		won	2nd		ODI v New Zealand	Whangarei	6 Feb 2012	investigate this query
+Zimbabwe	lost	202 runs		lost	2nd		ODI v New Zealand	Napier	9 Feb 2012	investigate this query
+Zimbabwe	lost	7 wickets	19	won	1st		T20I v New Zealand	Auckland	11 Feb 2012	investigate this query
+Zimbabwe	lost	5 wickets	2	won	1st		T20I v New Zealand	Hamilton	14 Feb 2012	investigate this query
+Zimbabwe	lost	82 runs		won	2nd		T20I v Sri Lanka	Hambantota	18 Sep 2012	investigate this query
+Zimbabwe	lost	10 wickets	44	lost	1st		T20I v South Africa	Hambantota	20 Sep 2012	investigate this query
+Zimbabwe	lost	156 runs		won	2nd		ODI v West Indies	St George's	22 Feb 2013	investigate this query
+Zimbabwe	lost	7 wickets	6	won	1st		ODI v West Indies	St George's	24 Feb 2013	investigate this query
+Zimbabwe	lost	5 wickets	22	won	1st		ODI v West Indies	St George's	26 Feb 2013	investigate this query
+Zimbabwe	lost	8 wickets	23	won	1st		T20I v West Indies	North Sound	2 Mar 2013	investigate this query
+Zimbabwe	lost	41 runs		lost	2nd		T20I v West Indies	North Sound	3 Mar 2013	investigate this query
+Zimbabwe	lost	9 wickets		won	1st		Test v West Indies	Bridgetown	12 Mar 2013	investigate this query
+Zimbabwe	lost	inns & 65 runs		lost	1st		Test v West Indies	Roseau	20 Mar 2013	investigate this query
+Zimbabwe	won	335 runs		lost	1st		Test v Bangladesh	Harare	17 Apr 2013	investigate this query
+Zimbabwe	lost	143 runs		won	2nd		Test v Bangladesh	Harare	25 Apr 2013	investigate this query
+Zimbabwe	lost	121 runs		won	2nd		ODI v Bangladesh	Bulawayo	3 May 2013	investigate this query
+Zimbabwe	won	6 wickets	13	won	2nd		ODI v Bangladesh	Bulawayo	5 May 2013	investigate this query
+Zimbabwe	won	7 wickets	17	won	2nd		ODI v Bangladesh	Bulawayo	8 May 2013	investigate this query
+Zimbabwe	won	6 runs		won	1st		T20I v Bangladesh	Bulawayo	11 May 2013	investigate this query
+Zimbabwe	lost	34 runs		lost	2nd		T20I v Bangladesh	Bulawayo	12 May 2013	investigate this query
+Zimbabwe	lost	6 wickets	31	lost	1st		ODI v India	Harare	24 Jul 2013	investigate this query
+Zimbabwe	lost	58 runs		won	2nd		ODI v India	Harare	26 Jul 2013	investigate this query
+Zimbabwe	lost	7 wickets	87	lost	1st		ODI v India	Harare	28 Jul 2013	investigate this query
+Zimbabwe	lost	9 wickets	115	lost	1st		ODI v India	Bulawayo	1 Aug 2013	investigate this query
+Zimbabwe	lost	7 wickets	96	lost	1st		ODI v India	Bulawayo	3 Aug 2013	investigate this query
+Zimbabwe	lost	25 runs		won	2nd		T20I v Pakistan	Harare	23 Aug 2013	investigate this query
+Zimbabwe	lost	19 runs		won	2nd		T20I v Pakistan	Harare	24 Aug 2013	investigate this query
+Zimbabwe	won	7 wickets	10	lost	2nd		ODI v Pakistan	Harare	27 Aug 2013	investigate this query
+Zimbabwe	lost	90 runs		won	2nd		ODI v Pakistan	Harare	29 Aug 2013	investigate this query
+Zimbabwe	lost	108 runs		won	2nd		ODI v Pakistan	Harare	31 Aug 2013	investigate this query
+Zimbabwe	lost	221 runs		won	2nd		Test v Pakistan	Harare	3 Sep 2013	investigate this query
+Zimbabwe	won	24 runs		won	1st		Test v Pakistan	Harare	10 Sep 2013	investigate this query
+Zimbabwe	lost	3 wickets	0	lost	1st		T20I v Ireland	Sylhet	17 Mar 2014	investigate this query
+Zimbabwe	won	5 wickets	0	lost	2nd		T20I v Netherlands	Sylhet	19 Mar 2014	investigate this query
+Zimbabwe	won	5 wickets	38	won	2nd		T20I v U.A.E.	Sylhet	21 Mar 2014	investigate this query
+Zimbabwe	won	6 wickets	28	won	2nd		ODI v Afghanistan	Bulawayo	18 Jul 2014	investigate this query
+Zimbabwe	won	8 wickets	39	won	2nd		ODI v Afghanistan	Bulawayo	20 Jul 2014	investigate this query
+Zimbabwe	lost	2 wickets	2	lost	1st		ODI v Afghanistan	Bulawayo	22 Jul 2014	investigate this query
+Zimbabwe	lost	100 runs		won	2nd		ODI v Afghanistan	Bulawayo	24 Jul 2014	investigate this query
+Zimbabwe	lost	9 wickets		won	1st		Test v South Africa	Harare	9 Aug 2014	investigate this query
+Zimbabwe	lost	93 runs		won	2nd		ODI v South Africa	Bulawayo	17 Aug 2014	investigate this query
+Zimbabwe	lost	61 runs		won	2nd		ODI v South Africa	Bulawayo	19 Aug 2014	investigate this query
+Zimbabwe	lost	7 wickets	136	lost	1st		ODI v South Africa	Bulawayo	21 Aug 2014	investigate this query
+Zimbabwe	lost	198 runs		won	2nd		ODI v Australia	Harare	25 Aug 2014	investigate this query
+Zimbabwe	lost	61 runs		won	2nd		ODI v South Africa	Harare	29 Aug 2014	investigate this query
+Zimbabwe	won	3 wickets	12	lost	2nd		ODI v Australia	Harare	31 Aug 2014	investigate this query
+Zimbabwe	lost	63 runs		won	2nd		ODI v South Africa	Harare	4 Sep 2014	investigate this query
+Zimbabwe	lost	3 wickets		won	1st		Test v Bangladesh	Dhaka	25 Oct 2014	investigate this query
+Zimbabwe	lost	162 runs		lost	2nd		Test v Bangladesh	Khulna	3 Nov 2014	investigate this query
+Zimbabwe	lost	186 runs		lost	2nd		Test v Bangladesh	Chittagong	12 Nov 2014	investigate this query
+Zimbabwe	lost	87 runs		won	2nd		ODI v Bangladesh	Chittagong	21 Nov 2014	investigate this query
+Zimbabwe	lost	68 runs		lost	2nd		ODI v Bangladesh	Chittagong	23 Nov 2014	investigate this query
+Zimbabwe	lost	124 runs		won	2nd		ODI v Bangladesh	Dhaka	26 Nov 2014	investigate this query
+Zimbabwe	lost	21 runs		lost	2nd		ODI v Bangladesh	Dhaka	28 Nov 2014	investigate this query
+Zimbabwe	lost	5 wickets	153	won	1st		ODI v Bangladesh	Dhaka	1 Dec 2014	investigate this query
+Zimbabwe	lost	62 runs		won	2nd		ODI v South Africa	Hamilton	15 Feb 2015	investigate this query
+Zimbabwe	won	4 wickets	12	won	2nd		ODI v U.A.E.	Nelson	19 Feb 2015	investigate this query
+Zimbabwe	lost	73 runs		lost	2nd		ODI v West Indies	Canberra	24 Feb 2015	investigate this query
+Zimbabwe	lost	20 runs		lost	2nd		ODI v Pakistan	Brisbane	1 Mar 2015	investigate this query
+Zimbabwe	lost	5 runs		won	2nd		ODI v Ireland	Hobart	7 Mar 2015	investigate this query
+Zimbabwe	lost	6 wickets	8	lost	1st		ODI v India	Auckland	14 Mar 2015	investigate this query
+Zimbabwe	lost	5 wickets	3	won	1st		T20I v Pakistan	Lahore	22 May 2015	investigate this query
+Zimbabwe	lost	2 wickets	2	won	1st		T20I v Pakistan	Lahore	24 May 2015	investigate this query
+Zimbabwe	lost	41 runs		lost	2nd		ODI v Pakistan	Lahore	26 May 2015	investigate this query
+Zimbabwe	lost	6 wickets	16	lost	1st		ODI v Pakistan	Lahore	29 May 2015	investigate this query
+Zimbabwe	n/r	-		lost	2nd		ODI v Pakistan	Lahore	31 May 2015	investigate this query
+Zimbabwe	lost	4 runs		won	2nd		ODI v India	Harare	10 Jul 2015	investigate this query
+Zimbabwe	lost	62 runs		won	2nd		ODI v India	Harare	12 Jul 2015	investigate this query
+Zimbabwe	lost	83 runs		won	2nd		ODI v India	Harare	14 Jul 2015	investigate this query
+Zimbabwe	lost	54 runs		lost	2nd		T20I v India	Harare	17 Jul 2015	investigate this query
+Zimbabwe	won	10 runs		won	1st		T20I v India	Harare	19 Jul 2015	investigate this query
+Zimbabwe	won	7 wickets	6	won	2nd		ODI v New Zealand	Harare	2 Aug 2015	investigate this query
+Zimbabwe	lost	10 wickets	46	won	1st		ODI v New Zealand	Harare	4 Aug 2015	investigate this query
+Zimbabwe	lost	38 runs		won	2nd		ODI v New Zealand	Harare	7 Aug 2015	investigate this query
+Zimbabwe	lost	80 runs		won	2nd		T20I v New Zealand	Harare	9 Aug 2015	investigate this query
+Zimbabwe	lost	13 runs		lost	2nd		T20I v Pakistan	Harare	27 Sep 2015	investigate this query
+Zimbabwe	lost	15 runs		lost	2nd		T20I v Pakistan	Harare	29 Sep 2015	investigate this query
+Zimbabwe	lost	131 runs		won	2nd		ODI v Pakistan	Harare	1 Oct 2015	investigate this query

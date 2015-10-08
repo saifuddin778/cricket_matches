@@ -1,0 +1,1205 @@
+New Zealand	lost	8 wickets		won	1st		Test v England	Christchurch	10 Jan 1930	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Wellington	24 Jan 1930	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Auckland	14 Feb 1930	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Auckland	21 Feb 1930	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Lord's	27 Jun 1931	investigate this query
+New Zealand	lost	inns & 26 runs		lost	2nd		Test v England	The Oval	29 Jul 1931	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Manchester	15 Aug 1931	investigate this query
+New Zealand	lost	inns & 12 runs		won	1st		Test v South Africa	Christchurch	27 Feb 1932	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v South Africa	Wellington	4 Mar 1932	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Christchurch	24 Mar 1933	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Auckland	31 Mar 1933	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Lord's	26 Jun 1937	investigate this query
+New Zealand	lost	130 runs		lost	2nd		Test v England	Manchester	24 Jul 1937	investigate this query
+New Zealand	draw	-		won	1st		Test v England	The Oval	14 Aug 1937	investigate this query
+New Zealand	lost	inns & 103 runs		won	1st		Test v Australia	Wellington	29 Mar 1946	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Christchurch	21 Mar 1947	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Leeds	11 Jun 1949	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Lord's	25 Jun 1949	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Manchester	23 Jul 1949	investigate this query
+New Zealand	draw	-		won	1st		Test v England	The Oval	13 Aug 1949	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Christchurch	17 Mar 1951	investigate this query
+New Zealand	lost	6 wickets		won	1st		Test v England	Wellington	24 Mar 1951	investigate this query
+New Zealand	lost	5 wickets		won	1st		Test v West Indies	Christchurch	8 Feb 1952	investigate this query
+New Zealand	draw	-		won	2nd		Test v West Indies	Auckland	15 Feb 1952	investigate this query
+New Zealand	lost	inns & 180 runs		lost	2nd		Test v South Africa	Wellington	6 Mar 1953	investigate this query
+New Zealand	draw	-		lost	2nd		Test v South Africa	Auckland	13 Mar 1953	investigate this query
+New Zealand	lost	inns & 58 runs		lost	2nd		Test v South Africa	Durban	11 Dec 1953	investigate this query
+New Zealand	lost	132 runs		lost	2nd		Test v South Africa	Johannesburg	24 Dec 1953	investigate this query
+New Zealand	draw	-		won	1st		Test v South Africa	Cape Town	1 Jan 1954	investigate this query
+New Zealand	lost	9 wickets		won	2nd		Test v South Africa	Johannesburg	29 Jan 1954	investigate this query
+New Zealand	lost	5 wickets		won	1st		Test v South Africa	Port Elizabeth	5 Feb 1954	investigate this query
+New Zealand	lost	8 wickets		lost	1st		Test v England	Dunedin	11 Mar 1955	investigate this query
+New Zealand	lost	inns & 20 runs		won	1st		Test v England	Auckland	25 Mar 1955	investigate this query
+New Zealand	lost	inns & 1 runs		won	1st		Test v Pakistan	Karachi	13 Oct 1955	investigate this query
+New Zealand	lost	4 wickets		won	1st		Test v Pakistan	Lahore	26 Oct 1955	investigate this query
+New Zealand	draw	-		won	1st		Test v Pakistan	Dhaka	7 Nov 1955	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Hyderabad (Deccan)	19 Nov 1955	investigate this query
+New Zealand	lost	inns & 27 runs		lost	2nd		Test v India	Mumbai (BS)	2 Dec 1955	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Delhi	16 Dec 1955	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Kolkata	28 Dec 1955	investigate this query
+New Zealand	lost	inns & 109 runs		lost	2nd		Test v India	Chennai	6 Jan 1956	investigate this query
+New Zealand	lost	inns & 71 runs		won	1st		Test v West Indies	Dunedin	3 Feb 1956	investigate this query
+New Zealand	lost	inns & 64 runs		lost	2nd		Test v West Indies	Christchurch	18 Feb 1956	investigate this query
+New Zealand	lost	9 wickets		lost	2nd		Test v West Indies	Wellington	3 Mar 1956	investigate this query
+New Zealand	won	190 runs		won	1st		Test v West Indies	Auckland	9 Mar 1956	investigate this query
+New Zealand	lost	205 runs		lost	2nd		Test v England	Birmingham	5 Jun 1958	investigate this query
+New Zealand	lost	inns & 148 runs		lost	2nd		Test v England	Lord's	19 Jun 1958	investigate this query
+New Zealand	lost	inns & 71 runs		won	1st		Test v England	Leeds	3 Jul 1958	investigate this query
+New Zealand	lost	inns & 13 runs		won	1st		Test v England	Manchester	24 Jul 1958	investigate this query
+New Zealand	draw	-		won	1st		Test v England	The Oval	21 Aug 1958	investigate this query
+New Zealand	lost	inns & 99 runs		lost	2nd		Test v England	Christchurch	27 Feb 1959	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Auckland	14 Mar 1959	investigate this query
+New Zealand	lost	30 runs		lost	2nd		Test v South Africa	Durban	8 Dec 1961	investigate this query
+New Zealand	draw	-		lost	2nd		Test v South Africa	Johannesburg	26 Dec 1961	investigate this query
+New Zealand	won	72 runs		won	1st		Test v South Africa	Cape Town	1 Jan 1962	investigate this query
+New Zealand	lost	inns & 51 runs		won	1st		Test v South Africa	Johannesburg	2 Feb 1962	investigate this query
+New Zealand	won	40 runs		won	1st		Test v South Africa	Port Elizabeth	16 Feb 1962	investigate this query
+New Zealand	lost	inns & 215 runs		lost	2nd		Test v England	Auckland	23 Feb 1963	investigate this query
+New Zealand	lost	inns & 47 runs		lost	1st		Test v England	Wellington	1 Mar 1963	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	Christchurch	15 Mar 1963	investigate this query
+New Zealand	draw	-		lost	2nd		Test v South Africa	Wellington	21 Feb 1964	investigate this query
+New Zealand	draw	-		won	1st		Test v South Africa	Dunedin	28 Feb 1964	investigate this query
+New Zealand	draw	-		won	2nd		Test v South Africa	Auckland	13 Mar 1964	investigate this query
+New Zealand	draw	-		lost	1st		Test v Pakistan	Wellington	22 Jan 1965	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Auckland	29 Jan 1965	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Christchurch	12 Feb 1965	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Chennai	27 Feb 1965	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Kolkata	5 Mar 1965	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Mumbai (BS)	12 Mar 1965	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v India	Delhi	19 Mar 1965	investigate this query
+New Zealand	lost	inns & 64 runs		lost	1st		Test v Pakistan	Rawalpindi	27 Mar 1965	investigate this query
+New Zealand	draw	-		won	2nd		Test v Pakistan	Lahore	2 Apr 1965	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v Pakistan	Karachi	9 Apr 1965	investigate this query
+New Zealand	lost	9 wickets		lost	2nd		Test v England	Birmingham	27 May 1965	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	Lord's	17 Jun 1965	investigate this query
+New Zealand	lost	inns & 187 runs		lost	2nd		Test v England	Leeds	8 Jul 1965	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Christchurch	25 Feb 1966	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Dunedin	4 Mar 1966	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Auckland	11 Mar 1966	investigate this query
+New Zealand	lost	5 wickets		won	1st		Test v India	Dunedin	15 Feb 1968	investigate this query
+New Zealand	won	6 wickets		lost	1st		Test v India	Christchurch	22 Feb 1968	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v India	Wellington	29 Feb 1968	investigate this query
+New Zealand	lost	272 runs		won	2nd		Test v India	Auckland	7 Mar 1968	investigate this query
+New Zealand	lost	5 wickets		lost	1st		Test v West Indies	Auckland	27 Feb 1969	investigate this query
+New Zealand	won	6 wickets		won	2nd		Test v West Indies	Wellington	7 Mar 1969	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Christchurch	13 Mar 1969	investigate this query
+New Zealand	lost	230 runs		lost	2nd		Test v England	Lord's	24 Jul 1969	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Nottingham	7 Aug 1969	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v England	The Oval	21 Aug 1969	investigate this query
+New Zealand	lost	60 runs		lost	2nd		Test v India	Mumbai (BS)	25 Sep 1969	investigate this query
+New Zealand	won	167 runs		won	1st		Test v India	Nagpur	3 Oct 1969	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Hyderabad (Deccan)	15 Oct 1969	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Karachi	24 Oct 1969	investigate this query
+New Zealand	won	5 wickets		lost	2nd		Test v Pakistan	Lahore	30 Oct 1969	investigate this query
+New Zealand	draw	-		won	1st		Test v Pakistan	Dhaka	8 Nov 1969	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v England	Christchurch	25 Feb 1971	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Auckland	5 Mar 1971	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Kingston	16 Feb 1972	investigate this query
+New Zealand	draw	-		lost	1st		Test v West Indies	Port of Spain	9 Mar 1972	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Bridgetown	23 Mar 1972	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Georgetown	6 Apr 1972	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Port of Spain	20 Apr 1972	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Wellington	2 Feb 1973	investigate this query
+New Zealand	lost	inns & 166 runs		lost	2nd		Test v Pakistan	Dunedin	7 Feb 1973	investigate this query
+New Zealand	won	22 runs		lost	1st		ODI v Pakistan	Christchurch	11 Feb 1973	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Auckland	16 Feb 1973	investigate this query
+New Zealand	lost	38 runs		lost	2nd		Test v England	Nottingham	7 Jun 1973	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Lord's	21 Jun 1973	investigate this query
+New Zealand	lost	inns & 1 runs		won	1st		Test v England	Leeds	5 Jul 1973	investigate this query
+New Zealand	lost	7 wickets	57	won	1st		ODI v England	Swansea	18 Jul 1973	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v England	Manchester	20 Jul 1973	investigate this query
+New Zealand	lost	inns & 25 runs		lost	2nd		Test v Australia	Melbourne	29 Dec 1973	investigate this query
+New Zealand	draw	-		lost	1st		Test v Australia	Sydney	5 Jan 1974	investigate this query
+New Zealand	lost	inns & 57 runs		lost	2nd		Test v Australia	Adelaide	26 Jan 1974	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Australia	Wellington	1 Mar 1974	investigate this query
+New Zealand	won	5 wickets		won	2nd		Test v Australia	Christchurch	8 Mar 1974	investigate this query
+New Zealand	lost	297 runs		won	2nd		Test v Australia	Auckland	22 Mar 1974	investigate this query
+New Zealand	lost	7 wickets	85	won	1st		ODI v Australia	Dunedin	30 Mar 1974	investigate this query
+New Zealand	lost	31 runs		lost	2nd		ODI v Australia	Christchurch	31 Mar 1974	investigate this query
+New Zealand	lost	inns & 83 runs		lost	2nd		Test v England	Auckland	20 Feb 1975	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Christchurch	28 Feb 1975	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v England	Dunedin	8 Mar 1975	investigate this query
+New Zealand	n/r	-		won	1st		ODI v England	Wellington	9 Mar 1975	investigate this query
+New Zealand	won	181 runs		won	1st		ODI v East Africa	Birmingham	7 Jun 1975	investigate this query
+New Zealand	lost	80 runs		won	2nd		ODI v England	Nottingham	11 Jun 1975	investigate this query
+New Zealand	won	4 wickets	7	lost	2nd		ODI v India	Manchester	14 Jun 1975	investigate this query
+New Zealand	lost	5 wickets	119	lost	1st		ODI v West Indies	The Oval	18 Jun 1975	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v India	Auckland	24 Jan 1976	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Christchurch	5 Feb 1976	investigate this query
+New Zealand	won	inns & 33 runs		lost	2nd		Test v India	Wellington	13 Feb 1976	investigate this query
+New Zealand	won	9 wickets	37	lost	2nd		ODI v India	Christchurch	21 Feb 1976	investigate this query
+New Zealand	won	80 runs		won	1st		ODI v India	Auckland	22 Feb 1976	investigate this query
+New Zealand	lost	6 wickets		lost	2nd		Test v Pakistan	Lahore	9 Oct 1976	investigate this query
+New Zealand	won	1 runs		won	1st		ODI v Pakistan	Sialkot	16 Oct 1976	investigate this query
+New Zealand	lost	10 wickets		lost	2nd		Test v Pakistan	Hyderabad (Sind)	23 Oct 1976	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Karachi	30 Oct 1976	investigate this query
+New Zealand	lost	162 runs		lost	2nd		Test v India	Mumbai	10 Nov 1976	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Kanpur	18 Nov 1976	investigate this query
+New Zealand	lost	216 runs		lost	2nd		Test v India	Chennai	26 Nov 1976	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Christchurch	18 Feb 1977	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v Australia	Auckland	25 Feb 1977	investigate this query
+New Zealand	won	72 runs		lost	1st		Test v England	Wellington	10 Feb 1978	investigate this query
+New Zealand	lost	174 runs		lost	2nd		Test v England	Christchurch	24 Feb 1978	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Auckland	4 Mar 1978	investigate this query
+New Zealand	lost	19 runs		won	2nd		ODI v England	Scarborough	15 Jul 1978	investigate this query
+New Zealand	lost	126 runs		lost	2nd		ODI v England	Manchester	17 Jul 1978	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	The Oval	27 Jul 1978	investigate this query
+New Zealand	lost	inns & 119 runs		lost	2nd		Test v England	Nottingham	10 Aug 1978	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	Lord's	24 Aug 1978	investigate this query
+New Zealand	lost	128 runs		won	2nd		Test v Pakistan	Christchurch	2 Feb 1979	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Napier	16 Feb 1979	investigate this query
+New Zealand	draw	-		lost	1st		Test v Pakistan	Auckland	23 Feb 1979	investigate this query
+New Zealand	won	9 wickets	74	won	2nd		ODI v Sri Lanka	Nottingham	9 Jun 1979	investigate this query
+New Zealand	won	8 wickets	18	won	2nd		ODI v India	Leeds	13 Jun 1979	investigate this query
+New Zealand	lost	32 runs		won	2nd		ODI v West Indies	Nottingham	16 Jun 1979	investigate this query
+New Zealand	lost	9 runs		won	2nd		ODI v England	Manchester	20 Jun 1979	investigate this query
+New Zealand	won	1 wickets	2	won	2nd		ODI v West Indies	Christchurch	6 Feb 1980	investigate this query
+New Zealand	won	1 wickets		lost	2nd		Test v West Indies	Dunedin	8 Feb 1980	investigate this query
+New Zealand	draw	-		won	2nd		Test v West Indies	Christchurch	22 Feb 1980	investigate this query
+New Zealand	draw	-		won	2nd		Test v West Indies	Auckland	29 Feb 1980	investigate this query
+New Zealand	won	3 wickets	5	won	2nd		ODI v Australia	Adelaide	23 Nov 1980	investigate this query
+New Zealand	lost	94 runs		lost	2nd		ODI v Australia	Sydney	25 Nov 1980	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v Australia	Brisbane	28 Nov 1980	investigate this query
+New Zealand	lost	4 wickets	16	won	1st		ODI v Australia	Melbourne	7 Dec 1980	investigate this query
+New Zealand	lost	5 runs		lost	2nd		ODI v India	Perth	9 Dec 1980	investigate this query
+New Zealand	lost	8 wickets		lost	1st		Test v Australia	Perth	12 Dec 1980	investigate this query
+New Zealand	won	3 wickets	2	lost	2nd		ODI v India	Brisbane	21 Dec 1980	investigate this query
+New Zealand	lost	6 runs		lost	2nd		ODI v India	Adelaide	23 Dec 1980	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Melbourne	26 Dec 1980	investigate this query
+New Zealand	won	10 wickets	30	won	2nd		ODI v India	Melbourne	10 Jan 1981	investigate this query
+New Zealand	won	1 runs		won	1st		ODI v Australia	Sydney	13 Jan 1981	investigate this query
+New Zealand	won	22 runs		lost	1st		ODI v India	Brisbane	18 Jan 1981	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v Australia	Sydney	21 Jan 1981	investigate this query
+New Zealand	won	78 runs		lost	1st		ODI v Australia	Sydney	29 Jan 1981	investigate this query
+New Zealand	lost	7 wickets	63	lost	1st		ODI v Australia	Melbourne	31 Jan 1981	investigate this query
+New Zealand	lost	6 runs		lost	2nd		ODI v Australia	Melbourne	1 Feb 1981	investigate this query
+New Zealand	lost	6 wickets	14	won	1st		ODI v Australia	Sydney	3 Feb 1981	investigate this query
+New Zealand	won	78 runs		lost	1st		ODI v India	Auckland	14 Feb 1981	investigate this query
+New Zealand	won	57 runs		lost	1st		ODI v India	Hamilton	15 Feb 1981	investigate this query
+New Zealand	won	62 runs		lost	1st		Test v India	Wellington	21 Feb 1981	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Christchurch	6 Mar 1981	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Auckland	13 Mar 1981	investigate this query
+New Zealand	won	46 runs		lost	1st		ODI v Australia	Auckland	13 Feb 1982	investigate this query
+New Zealand	lost	6 wickets	24	lost	1st		ODI v Australia	Dunedin	17 Feb 1982	investigate this query
+New Zealand	lost	8 wickets	177	lost	1st		ODI v Australia	Wellington	20 Feb 1982	investigate this query
+New Zealand	draw	-		lost	1st		Test v Australia	Wellington	26 Feb 1982	investigate this query
+New Zealand	won	5 wickets		won	2nd		Test v Australia	Auckland	12 Mar 1982	investigate this query
+New Zealand	lost	8 wickets		won	2nd		Test v Australia	Christchurch	19 Mar 1982	investigate this query
+New Zealand	lost	8 wickets	20	lost	1st		ODI v Australia	Melbourne	9 Jan 1983	investigate this query
+New Zealand	won	2 runs		lost	1st		ODI v England	Melbourne	13 Jan 1983	investigate this query
+New Zealand	lost	54 runs		won	2nd		ODI v England	Brisbane	15 Jan 1983	investigate this query
+New Zealand	won	47 runs		lost	1st		ODI v Australia	Sydney	18 Jan 1983	investigate this query
+New Zealand	lost	8 wickets	44	won	1st		ODI v England	Sydney	20 Jan 1983	investigate this query
+New Zealand	won	58 runs		lost	1st		ODI v Australia	Melbourne	22 Jan 1983	investigate this query
+New Zealand	won	4 wickets	7	lost	2nd		ODI v England	Adelaide	29 Jan 1983	investigate this query
+New Zealand	won	47 runs		won	1st		ODI v Australia	Adelaide	31 Jan 1983	investigate this query
+New Zealand	won	7 wickets	15	won	2nd		ODI v England	Perth	5 Feb 1983	investigate this query
+New Zealand	lost	27 runs		won	2nd		ODI v Australia	Perth	6 Feb 1983	investigate this query
+New Zealand	lost	6 wickets	29	won	1st		ODI v Australia	Sydney	9 Feb 1983	investigate this query
+New Zealand	lost	149 runs		lost	2nd		ODI v Australia	Melbourne	13 Feb 1983	investigate this query
+New Zealand	won	6 wickets	21	lost	2nd		ODI v England	Auckland	19 Feb 1983	investigate this query
+New Zealand	won	103 runs		lost	1st		ODI v England	Wellington	23 Feb 1983	investigate this query
+New Zealand	won	84 runs		won	1st		ODI v England	Christchurch	26 Feb 1983	investigate this query
+New Zealand	won	65 runs		lost	1st		ODI v Sri Lanka	Dunedin	2 Mar 1983	investigate this query
+New Zealand	won	inns & 25 runs		lost	1st		Test v Sri Lanka	Christchurch	4 Mar 1983	investigate this query
+New Zealand	won	6 wickets		won	2nd		Test v Sri Lanka	Wellington	11 Mar 1983	investigate this query
+New Zealand	won	14 runs		lost	1st		ODI v Australia	Sydney	17 Mar 1983	investigate this query
+New Zealand	won	7 wickets	80	won	2nd		ODI v Sri Lanka	Napier	19 Mar 1983	investigate this query
+New Zealand	won	116 runs		won	1st		ODI v Sri Lanka	Auckland	20 Mar 1983	investigate this query
+New Zealand	lost	106 runs		lost	2nd		ODI v England	The Oval	9 Jun 1983	investigate this query
+New Zealand	won	52 runs		lost	1st		ODI v Pakistan	Birmingham	11 Jun 1983	investigate this query
+New Zealand	won	5 wickets	124	won	2nd		ODI v Sri Lanka	Bristol	13 Jun 1983	investigate this query
+New Zealand	won	2 wickets	1	lost	2nd		ODI v England	Birmingham	15 Jun 1983	investigate this query
+New Zealand	lost	3 wickets	43	lost	1st		ODI v Sri Lanka	Derby	18 Jun 1983	investigate this query
+New Zealand	lost	11 runs		lost	2nd		ODI v Pakistan	Nottingham	20 Jun 1983	investigate this query
+New Zealand	lost	189 runs		lost	2nd		Test v England	The Oval	14 Jul 1983	investigate this query
+New Zealand	won	5 wickets		won	2nd		Test v England	Leeds	28 Jul 1983	investigate this query
+New Zealand	lost	127 runs		won	2nd		Test v England	Lord's	11 Aug 1983	investigate this query
+New Zealand	lost	165 runs		lost	2nd		Test v England	Nottingham	25 Aug 1983	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Wellington	20 Jan 1984	investigate this query
+New Zealand	won	inns & 132 runs		won	1st		Test v England	Christchurch	3 Feb 1984	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Auckland	10 Feb 1984	investigate this query
+New Zealand	lost	54 runs		won	2nd		ODI v England	Christchurch	18 Feb 1984	investigate this query
+New Zealand	lost	6 wickets	29	won	1st		ODI v England	Wellington	22 Feb 1984	investigate this query
+New Zealand	won	7 wickets	27	lost	2nd		ODI v England	Auckland	25 Feb 1984	investigate this query
+New Zealand	won	104 runs		lost	1st		ODI v Sri Lanka	Colombo (SSC)	3 Mar 1984	investigate this query
+New Zealand	won	165 runs		won	1st		Test v Sri Lanka	Kandy	9 Mar 1984	investigate this query
+New Zealand	draw	-		won	2nd		Test v Sri Lanka	Colombo (SSC)	16 Mar 1984	investigate this query
+New Zealand	won	inns & 61 runs		lost	2nd		Test v Sri Lanka	Colombo (CCC)	24 Mar 1984	investigate this query
+New Zealand	lost	41 runs		won	2nd		ODI v Sri Lanka	Moratuwa	31 Mar 1984	investigate this query
+New Zealand	won	86 runs		lost	1st		ODI v Sri Lanka	Colombo (PSS)	1 Apr 1984	investigate this query
+New Zealand	lost	4 wickets	32	won	1st		ODI v Sri Lanka	Colombo (PSS)	3 Nov 1984	investigate this query
+New Zealand	won	7 wickets	56	won	2nd		ODI v Sri Lanka	Moratuwa	4 Nov 1984	investigate this query
+New Zealand	lost	46 runs		won	2nd		ODI v Pakistan	Peshawar	12 Nov 1984	investigate this query
+New Zealand	lost	6 wickets		won	1st		Test v Pakistan	Lahore	16 Nov 1984	investigate this query
+New Zealand	lost	5 runs		won	2nd		ODI v Pakistan	Faisalabad	23 Nov 1984	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v Pakistan	Hyderabad (Sind)	25 Nov 1984	investigate this query
+New Zealand	won	34 runs		lost	1st		ODI v Pakistan	Sialkot	2 Dec 1984	investigate this query
+New Zealand	lost	1 wickets	0	won	1st		ODI v Pakistan	Multan	7 Dec 1984	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Karachi	10 Dec 1984	investigate this query
+New Zealand	won	110 runs		won	1st		ODI v Pakistan	Napier	12 Jan 1985	investigate this query
+New Zealand	won	4 wickets	7	lost	2nd		ODI v Pakistan	Hamilton	15 Jan 1985	investigate this query
+New Zealand	draw	-		won	1st		Test v Pakistan	Wellington	18 Jan 1985	investigate this query
+New Zealand	won	inns & 99 runs		won	2nd		Test v Pakistan	Auckland	25 Jan 1985	investigate this query
+New Zealand	won	13 runs		won	1st		ODI v Pakistan	Christchurch	6 Feb 1985	investigate this query
+New Zealand	won	2 wickets		won	2nd		Test v Pakistan	Dunedin	9 Feb 1985	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v Pakistan	Auckland	16 Feb 1985	investigate this query
+New Zealand	n/r	-		won	1st		ODI v West Indies	Sydney	19 Feb 1985	investigate this query
+New Zealand	won	51 runs		lost	1st		ODI v Sri Lanka	Melbourne	23 Feb 1985	investigate this query
+New Zealand	lost	7 wickets	39	lost	1st		ODI v India	Sydney	5 Mar 1985	investigate this query
+New Zealand	lost	6 wickets	76	lost	1st		ODI v West Indies	Sydney	9 Mar 1985	investigate this query
+New Zealand	lost	23 runs		won	2nd		ODI v West Indies	St John's	20 Mar 1985	investigate this query
+New Zealand	lost	6 wickets	30	lost	1st		ODI v West Indies	Port of Spain	27 Mar 1985	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Port of Spain	29 Mar 1985	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Georgetown	6 Apr 1985	investigate this query
+New Zealand	lost	130 runs		won	2nd		ODI v West Indies	Albion	14 Apr 1985	investigate this query
+New Zealand	lost	10 wickets	154	lost	1st		ODI v West Indies	Port of Spain	17 Apr 1985	investigate this query
+New Zealand	lost	112 runs		won	2nd		ODI v West Indies	Bridgetown	23 Apr 1985	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v West Indies	Bridgetown	26 Apr 1985	investigate this query
+New Zealand	lost	10 wickets		won	2nd		Test v West Indies	Kingston	4 May 1985	investigate this query
+New Zealand	won	inns & 41 runs		won	2nd		Test v Australia	Brisbane	8 Nov 1985	investigate this query
+New Zealand	lost	4 wickets		lost	1st		Test v Australia	Sydney	22 Nov 1985	investigate this query
+New Zealand	won	6 wickets		won	2nd		Test v Australia	Perth	30 Nov 1985	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v Australia	Melbourne	9 Jan 1986	investigate this query
+New Zealand	lost	5 wickets	12	lost	1st		ODI v India	Brisbane	11 Jan 1986	investigate this query
+New Zealand	lost	4 wickets	29	lost	1st		ODI v Australia	Sydney	14 Jan 1986	investigate this query
+New Zealand	won	3 wickets	59	won	2nd		ODI v India	Perth	18 Jan 1986	investigate this query
+New Zealand	lost	4 wickets	29	lost	1st		ODI v Australia	Perth	19 Jan 1986	investigate this query
+New Zealand	won	5 wickets	1	won	2nd		ODI v India	Melbourne	23 Jan 1986	investigate this query
+New Zealand	lost	5 wickets	24	lost	1st		ODI v India	Adelaide	25 Jan 1986	investigate this query
+New Zealand	won	206 runs		won	1st		ODI v Australia	Adelaide	27 Jan 1986	investigate this query
+New Zealand	lost	99 runs		lost	2nd		ODI v Australia	Sydney	29 Jan 1986	investigate this query
+New Zealand	lost	22 runs		won	2nd		ODI v India	Launceston	2 Feb 1986	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Wellington	21 Feb 1986	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Christchurch	28 Feb 1986	investigate this query
+New Zealand	won	8 wickets		lost	2nd		Test v Australia	Auckland	13 Mar 1986	investigate this query
+New Zealand	won	30 runs		lost	1st		ODI v Australia	Dunedin	19 Mar 1986	investigate this query
+New Zealand	won	53 runs		lost	1st		ODI v Australia	Christchurch	22 Mar 1986	investigate this query
+New Zealand	lost	3 wickets	3	won	1st		ODI v Australia	Wellington	26 Mar 1986	investigate this query
+New Zealand	lost	44 runs		lost	2nd		ODI v Australia	Auckland	29 Mar 1986	investigate this query
+New Zealand	won	6 wickets	40	won	2nd		ODI v Sri Lanka	Colombo (RPS)	5 Apr 1986	investigate this query
+New Zealand	lost	4 wickets	8	lost	1st		ODI v Pakistan	Colombo (SSC)	7 Apr 1986	investigate this query
+New Zealand	lost	3 wickets	14	lost	1st		ODI v India	Sharjah	10 Apr 1986	investigate this query
+New Zealand	lost	10 wickets	164	lost	1st		ODI v Pakistan	Sharjah	15 Apr 1986	investigate this query
+New Zealand	won	47 runs		won	1st		ODI v England	Leeds	16 Jul 1986	investigate this query
+New Zealand	lost	6 wickets	8	lost	1st		ODI v England	Manchester	18 Jul 1986	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Lord's	24 Jul 1986	investigate this query
+New Zealand	won	8 wickets		won	2nd		Test v England	Nottingham	7 Aug 1986	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	The Oval	21 Aug 1986	investigate this query
+New Zealand	draw	-		lost	1st		Test v West Indies	Wellington	20 Feb 1987	investigate this query
+New Zealand	lost	10 wickets		lost	2nd		Test v West Indies	Auckland	27 Feb 1987	investigate this query
+New Zealand	won	5 wickets		won	2nd		Test v West Indies	Christchurch	12 Mar 1987	investigate this query
+New Zealand	lost	95 runs		won	2nd		ODI v West Indies	Dunedin	18 Mar 1987	investigate this query
+New Zealand	lost	6 wickets	6	lost	1st		ODI v West Indies	Auckland	21 Mar 1987	investigate this query
+New Zealand	aban	-		-	-		ODI v West Indies	Wellington	25 Mar 1987	investigate this query
+New Zealand	lost	10 wickets	64	won	1st		ODI v West Indies	Christchurch	28 Mar 1987	investigate this query
+New Zealand	draw	-		won	2nd		Test v Sri Lanka	Colombo (CCC)	16 Apr 1987	investigate this query
+New Zealand	canc	-		-	-		Test v Sri Lanka	Kandy	24 Apr 1987	investigate this query
+New Zealand	canc	-		-	-		Test v Sri Lanka	Colombo (SSC)	5 May 1987	investigate this query
+New Zealand	won	3 runs		lost	1st		ODI v Zimbabwe	Hyderabad (Deccan)	10 Oct 1987	investigate this query
+New Zealand	lost	16 runs		won	2nd		ODI v India	Bangalore	14 Oct 1987	investigate this query
+New Zealand	lost	3 runs		won	2nd		ODI v Australia	Indore	18 Oct 1987	investigate this query
+New Zealand	won	4 wickets	14	won	2nd		ODI v Zimbabwe	Kolkata	23 Oct 1987	investigate this query
+New Zealand	lost	17 runs		lost	2nd		ODI v Australia	Chandigarh	27 Oct 1987	investigate this query
+New Zealand	lost	9 wickets	107	won	1st		ODI v India	Nagpur	31 Oct 1987	investigate this query
+New Zealand	lost	9 wickets		lost	1st		Test v Australia	Brisbane	4 Dec 1987	investigate this query
+New Zealand	draw	-		won	1st		Test v Australia	Adelaide	11 Dec 1987	investigate this query
+New Zealand	draw	-		lost	1st		Test v Australia	Melbourne	26 Dec 1987	investigate this query
+New Zealand	won	1 runs		won	1st		ODI v Australia	Perth	3 Jan 1988	investigate this query
+New Zealand	won	6 wickets	8	lost	2nd		ODI v Sri Lanka	Sydney	5 Jan 1988	investigate this query
+New Zealand	lost	6 runs		lost	2nd		ODI v Australia	Melbourne	7 Jan 1988	investigate this query
+New Zealand	won	4 wickets	1	lost	2nd		ODI v Sri Lanka	Adelaide	9 Jan 1988	investigate this query
+New Zealand	lost	4 wickets	21	lost	1st		ODI v Sri Lanka	Hobart	12 Jan 1988	investigate this query
+New Zealand	won	4 wickets	11	won	2nd		ODI v Sri Lanka	Brisbane	16 Jan 1988	investigate this query
+New Zealand	lost	5 wickets	64	lost	1st		ODI v Australia	Brisbane	17 Jan 1988	investigate this query
+New Zealand	lost	78 runs		lost	2nd		ODI v Australia	Sydney	20 Jan 1988	investigate this query
+New Zealand	lost	8 wickets	31	lost	1st		ODI v Australia	Melbourne	22 Jan 1988	investigate this query
+New Zealand	lost	6 wickets	23	lost	1st		ODI v Australia	Sydney	24 Jan 1988	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Christchurch	12 Feb 1988	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Auckland	25 Feb 1988	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Wellington	3 Mar 1988	investigate this query
+New Zealand	lost	5 wickets	4	won	1st		ODI v England	Dunedin	9 Mar 1988	investigate this query
+New Zealand	lost	6 wickets	13	lost	1st		ODI v England	Christchurch	12 Mar 1988	investigate this query
+New Zealand	won	7 wickets	21	won	2nd		ODI v England	Napier	16 Mar 1988	investigate this query
+New Zealand	won	4 wickets	4	won	2nd		ODI v England	Auckland	19 Mar 1988	investigate this query
+New Zealand	lost	73 runs		won	2nd		ODI v India	Sharjah	27 Mar 1988	investigate this query
+New Zealand	won	99 runs		lost	1st		ODI v Sri Lanka	Sharjah	29 Mar 1988	investigate this query
+New Zealand	won	43 runs		won	1st		ODI v Sri Lanka	Sharjah	31 Mar 1988	investigate this query
+New Zealand	lost	52 runs		lost	2nd		ODI v India	Sharjah	1 Apr 1988	investigate this query
+New Zealand	lost	172 runs		lost	2nd		Test v India	Bangalore	12 Nov 1988	investigate this query
+New Zealand	won	136 runs		won	1st		Test v India	Mumbai	24 Nov 1988	investigate this query
+New Zealand	lost	10 wickets		won	1st		Test v India	Hyderabad (Deccan)	2 Dec 1988	investigate this query
+New Zealand	lost	4 wickets	22	lost	1st		ODI v India	Visakhapatnam	10 Dec 1988	investigate this query
+New Zealand	lost	5 wickets	21	won	1st		ODI v India	Cuttack	12 Dec 1988	investigate this query
+New Zealand	lost	53 runs		won	2nd		ODI v India	Indore	15 Dec 1988	investigate this query
+New Zealand	lost	2 wickets	17	won	1st		ODI v India	Vadodara	17 Dec 1988	investigate this query
+New Zealand	aban	-		-	-		ODI v India	Jammu	19 Dec 1988	investigate this query
+New Zealand	aban	-		-	-		Test v Pakistan	Dunedin	3 Feb 1989	investigate this query
+New Zealand	won	8 wickets	9	won	2nd		ODI v Pakistan	Dunedin	6 Feb 1989	investigate this query
+New Zealand	draw	-		lost	1st		Test v Pakistan	Wellington	10 Feb 1989	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Auckland	24 Feb 1989	investigate this query
+New Zealand	won	7 wickets	37	won	2nd		ODI v Pakistan	Christchurch	4 Mar 1989	investigate this query
+New Zealand	won	6 wickets	19	won	2nd		ODI v Pakistan	Wellington	8 Mar 1989	investigate this query
+New Zealand	lost	7 wickets	9	lost	1st		ODI v Pakistan	Auckland	11 Mar 1989	investigate this query
+New Zealand	won	7 wickets	62	won	2nd		ODI v Pakistan	Hamilton	14 Mar 1989	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Perth	24 Nov 1989	investigate this query
+New Zealand	won	10 wickets		won	1st		Test v India	Christchurch	2 Feb 1990	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Napier	9 Feb 1990	investigate this query
+New Zealand	draw	-		lost	1st		Test v India	Auckland	22 Feb 1990	investigate this query
+New Zealand	won	108 runs		lost	1st		ODI v India	Dunedin	1 Mar 1990	investigate this query
+New Zealand	lost	150 runs		lost	2nd		ODI v Australia	Christchurch	4 Mar 1990	investigate this query
+New Zealand	lost	1 runs		lost	2nd		ODI v India	Wellington	6 Mar 1990	investigate this query
+New Zealand	lost	10 runs		won	2nd		ODI v Australia	Auckland	10 Mar 1990	investigate this query
+New Zealand	lost	8 wickets	65	won	1st		ODI v Australia	Auckland	11 Mar 1990	investigate this query
+New Zealand	won	9 wickets		lost	2nd		Test v Australia	Wellington	15 Mar 1990	investigate this query
+New Zealand	lost	63 runs		won	2nd		ODI v Australia	Sharjah	26 Apr 1990	investigate this query
+New Zealand	won	161 runs		won	1st		ODI v Bangladesh	Sharjah	28 Apr 1990	investigate this query
+New Zealand	lost	8 wickets	206	won	1st		ODI v Pakistan	Sharjah	1 May 1990	investigate this query
+New Zealand	won	4 wickets	1	won	2nd		ODI v England	Leeds	23 May 1990	investigate this query
+New Zealand	lost	6 wickets	33	lost	1st		ODI v England	The Oval	25 May 1990	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Nottingham	7 Jun 1990	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Lord's	21 Jun 1990	investigate this query
+New Zealand	lost	114 runs		won	2nd		Test v England	Birmingham	5 Jul 1990	investigate this query
+New Zealand	lost	inns & 43 runs		lost	1st		Test v Pakistan	Karachi	10 Oct 1990	investigate this query
+New Zealand	lost	9 wickets		won	1st		Test v Pakistan	Lahore	18 Oct 1990	investigate this query
+New Zealand	lost	65 runs		won	2nd		Test v Pakistan	Faisalabad	26 Oct 1990	investigate this query
+New Zealand	lost	19 runs		won	2nd		ODI v Pakistan	Lahore	2 Nov 1990	investigate this query
+New Zealand	lost	8 wickets	65	won	1st		ODI v Pakistan	Peshawar	4 Nov 1990	investigate this query
+New Zealand	lost	105 runs		won	2nd		ODI v Pakistan	Sialkot	6 Nov 1990	investigate this query
+New Zealand	lost	61 runs		won	2nd		ODI v Australia	Sydney	29 Nov 1990	investigate this query
+New Zealand	won	7 runs		lost	1st		ODI v England	Adelaide	1 Dec 1990	investigate this query
+New Zealand	lost	6 wickets	18	won	1st		ODI v Australia	Adelaide	2 Dec 1990	investigate this query
+New Zealand	lost	4 wickets	37	won	1st		ODI v England	Perth	7 Dec 1990	investigate this query
+New Zealand	lost	39 runs		won	2nd		ODI v Australia	Melbourne	11 Dec 1990	investigate this query
+New Zealand	lost	33 runs		won	2nd		ODI v England	Sydney	13 Dec 1990	investigate this query
+New Zealand	won	8 wickets	33	won	2nd		ODI v England	Brisbane	15 Dec 1990	investigate this query
+New Zealand	won	1 runs		lost	1st		ODI v Australia	Hobart	18 Dec 1990	investigate this query
+New Zealand	lost	6 wickets	5	won	1st		ODI v Australia	Sydney	13 Jan 1991	investigate this query
+New Zealand	lost	7 wickets	27	won	1st		ODI v Australia	Melbourne	15 Jan 1991	investigate this query
+New Zealand	won	5 wickets	45	won	2nd		ODI v Sri Lanka	Napier	26 Jan 1991	investigate this query
+New Zealand	won	41 runs		lost	1st		ODI v Sri Lanka	Auckland	28 Jan 1991	investigate this query
+New Zealand	draw	-		lost	1st		Test v Sri Lanka	Wellington	31 Jan 1991	investigate this query
+New Zealand	won	107 runs		lost	1st		ODI v Sri Lanka	Dunedin	6 Feb 1991	investigate this query
+New Zealand	lost	14 runs		lost	2nd		ODI v England	Christchurch	9 Feb 1991	investigate this query
+New Zealand	won	9 runs		lost	1st		ODI v England	Wellington	13 Feb 1991	investigate this query
+New Zealand	won	7 runs		lost	1st		ODI v England	Auckland	16 Feb 1991	investigate this query
+New Zealand	draw	-		lost	1st		Test v Sri Lanka	Hamilton	22 Feb 1991	investigate this query
+New Zealand	draw	-		won	2nd		Test v Sri Lanka	Auckland	1 Mar 1991	investigate this query
+New Zealand	lost	7 wickets	97	won	1st		ODI v England	Auckland	11 Jan 1992	investigate this query
+New Zealand	lost	inns & 4 runs		won	2nd		Test v England	Christchurch	18 Jan 1992	investigate this query
+New Zealand	lost	168 runs		won	2nd		Test v England	Auckland	30 Jan 1992	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Wellington	6 Feb 1992	investigate this query
+New Zealand	lost	3 wickets	5	won	1st		ODI v England	Dunedin	12 Feb 1992	investigate this query
+New Zealand	lost	71 runs		won	2nd		ODI v England	Christchurch	15 Feb 1992	investigate this query
+New Zealand	won	37 runs		won	1st		ODI v Australia	Auckland	22 Feb 1992	investigate this query
+New Zealand	won	6 wickets	10	won	2nd		ODI v Sri Lanka	Hamilton	25 Feb 1992	investigate this query
+New Zealand	won	7 wickets	93	lost	2nd		ODI v South Africa	Auckland	29 Feb 1992	investigate this query
+New Zealand	won	48 runs		lost	1st		ODI v Zimbabwe	Napier	3 Mar 1992	investigate this query
+New Zealand	won	5 wickets	9	won	2nd		ODI v West Indies	Auckland	8 Mar 1992	investigate this query
+New Zealand	won	4 wickets	17	won	2nd		ODI v India	Dunedin	12 Mar 1992	investigate this query
+New Zealand	won	7 wickets	55	won	2nd		ODI v England	Wellington	15 Mar 1992	investigate this query
+New Zealand	lost	7 wickets	32	lost	1st		ODI v Pakistan	Christchurch	18 Mar 1992	investigate this query
+New Zealand	lost	4 wickets	6	won	1st		ODI v Pakistan	Auckland	21 Mar 1992	investigate this query
+New Zealand	won	22 runs		lost	1st		ODI v Zimbabwe	Bulawayo	31 Oct 1992	investigate this query
+New Zealand	draw	-		won	1st		Test v Zimbabwe	Bulawayo	1 Nov 1992	investigate this query
+New Zealand	won	177 runs		won	1st		Test v Zimbabwe	Harare	7 Nov 1992	investigate this query
+New Zealand	won	4 wickets	19	lost	2nd		ODI v Zimbabwe	Harare	8 Nov 1992	investigate this query
+New Zealand	draw	-		lost	1st		Test v Sri Lanka	Moratuwa	27 Nov 1992	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v Sri Lanka	Colombo (RPS)	4 Dec 1992	investigate this query
+New Zealand	lost	9 wickets		lost	2nd		Test v Sri Lanka	Colombo (SSC)	6 Dec 1992	investigate this query
+New Zealand	lost	8 wickets	74	lost	1st		ODI v Sri Lanka	Colombo (PSS)	12 Dec 1992	investigate this query
+New Zealand	lost	31 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	13 Dec 1992	investigate this query
+New Zealand	lost	50 runs		won	2nd		ODI v Pakistan	Wellington	26 Dec 1992	investigate this query
+New Zealand	won	6 wickets	26	won	2nd		ODI v Pakistan	Napier	28 Dec 1992	investigate this query
+New Zealand	won	6 wickets	44	won	2nd		ODI v Pakistan	Auckland	30 Dec 1992	investigate this query
+New Zealand	lost	33 runs		won	2nd		Test v Pakistan	Hamilton	2 Jan 1993	investigate this query
+New Zealand	lost	inns & 60 runs		won	2nd		Test v Australia	Christchurch	25 Feb 1993	investigate this query
+New Zealand	draw	-		lost	1st		Test v Australia	Wellington	4 Mar 1993	investigate this query
+New Zealand	won	5 wickets		lost	2nd		Test v Australia	Auckland	12 Mar 1993	investigate this query
+New Zealand	lost	129 runs		won	2nd		ODI v Australia	Dunedin	19 Mar 1993	investigate this query
+New Zealand	lost	1 wickets	3	won	1st		ODI v Australia	Christchurch	21 Mar 1993	investigate this query
+New Zealand	won	88 runs		won	1st		ODI v Australia	Wellington	24 Mar 1993	investigate this query
+New Zealand	won	3 wickets	2	lost	2nd		ODI v Australia	Hamilton	27 Mar 1993	investigate this query
+New Zealand	lost	3 runs		won	2nd		ODI v Australia	Auckland	28 Mar 1993	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Perth	12 Nov 1993	investigate this query
+New Zealand	lost	inns & 222 runs		lost	2nd		Test v Australia	Hobart	26 Nov 1993	investigate this query
+New Zealand	lost	inns & 96 runs		won	1st		Test v Australia	Brisbane	3 Dec 1993	investigate this query
+New Zealand	aban	-		-	-		ODI v South Africa	Adelaide	11 Dec 1993	investigate this query
+New Zealand	lost	8 wickets	67	won	1st		ODI v Australia	Adelaide	12 Dec 1993	investigate this query
+New Zealand	lost	3 runs		lost	2nd		ODI v Australia	Melbourne	16 Dec 1993	investigate this query
+New Zealand	won	4 wickets	35	lost	2nd		ODI v South Africa	Hobart	18 Dec 1993	investigate this query
+New Zealand	won	9 runs		lost	1st		ODI v South Africa	Brisbane	8 Jan 1994	investigate this query
+New Zealand	won	13 runs		won	1st		ODI v Australia	Sydney	11 Jan 1994	investigate this query
+New Zealand	lost	5 wickets	117	won	1st		ODI v South Africa	Perth	14 Jan 1994	investigate this query
+New Zealand	lost	51 runs		lost	2nd		ODI v Australia	Melbourne	19 Jan 1994	investigate this query
+New Zealand	lost	5 wickets		lost	1st		Test v Pakistan	Auckland	10 Feb 1994	investigate this query
+New Zealand	lost	inns & 12 runs		won	1st		Test v Pakistan	Wellington	17 Feb 1994	investigate this query
+New Zealand	won	5 wickets		won	2nd		Test v Pakistan	Christchurch	24 Feb 1994	investigate this query
+New Zealand	lost	5 wickets	23	won	1st		ODI v Pakistan	Dunedin	3 Mar 1994	investigate this query
+New Zealand	lost	36 runs		won	2nd		ODI v Pakistan	Auckland	6 Mar 1994	investigate this query
+New Zealand	lost	11 runs		won	2nd		ODI v Pakistan	Wellington	9 Mar 1994	investigate this query
+New Zealand	tied	-		lost	2nd		ODI v Pakistan	Auckland	13 Mar 1994	investigate this query
+New Zealand	won	7 wickets	95	won	2nd		ODI v Pakistan	Christchurch	16 Mar 1994	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Hamilton	19 Mar 1994	investigate this query
+New Zealand	won	28 runs		lost	1st		ODI v India	Napier	25 Mar 1994	investigate this query
+New Zealand	lost	7 wickets	160	won	1st		ODI v India	Auckland	27 Mar 1994	investigate this query
+New Zealand	lost	12 runs		won	2nd		ODI v India	Wellington	30 Mar 1994	investigate this query
+New Zealand	won	6 wickets	1	lost	2nd		ODI v India	Christchurch	2 Apr 1994	investigate this query
+New Zealand	lost	7 wickets	13	won	1st		ODI v Australia	Sharjah	16 Apr 1994	investigate this query
+New Zealand	won	2 runs		lost	1st		ODI v Sri Lanka	Sharjah	18 Apr 1994	investigate this query
+New Zealand	lost	62 runs		won	2nd		ODI v Pakistan	Sharjah	20 Apr 1994	investigate this query
+New Zealand	lost	42 runs		won	2nd		ODI v England	Birmingham	19 May 1994	investigate this query
+New Zealand	aban	-		-	-		ODI v England	Lord's	21 May 1994	investigate this query
+New Zealand	lost	inns & 90 runs		won	1st		Test v England	Nottingham	2 Jun 1994	investigate this query
+New Zealand	draw	-		won	1st		Test v England	Lord's	16 Jun 1994	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Manchester	30 Jun 1994	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v West Indies	Margao	26 Oct 1994	investigate this query
+New Zealand	lost	7 wickets	11	won	1st		ODI v India	Vadodara	28 Oct 1994	investigate this query
+New Zealand	lost	135 runs		lost	2nd		ODI v West Indies	Guwahati	1 Nov 1994	investigate this query
+New Zealand	lost	107 runs		lost	2nd		ODI v India	Delhi	3 Nov 1994	investigate this query
+New Zealand	won	137 runs		won	1st		Test v South Africa	Johannesburg	25 Nov 1994	investigate this query
+New Zealand	lost	69 runs		lost	2nd		ODI v South Africa	Cape Town	6 Dec 1994	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v Sri Lanka	Bloemfontein	8 Dec 1994	investigate this query
+New Zealand	lost	81 runs		lost	2nd		ODI v South Africa	Centurion	11 Dec 1994	investigate this query
+New Zealand	lost	5 wickets	22	lost	1st		ODI v Pakistan	Port Elizabeth	13 Dec 1994	investigate this query
+New Zealand	lost	5 wickets	17	won	1st		ODI v Sri Lanka	East London	18 Dec 1994	investigate this query
+New Zealand	lost	5 wickets	67	won	1st		ODI v Pakistan	East London	19 Dec 1994	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v South Africa	Durban	26 Dec 1994	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v South Africa	Cape Town	2 Jan 1995	investigate this query
+New Zealand	lost	25 runs		won	1st		ODI v West Indies	Auckland	22 Jan 1995	investigate this query
+New Zealand	lost	41 runs		won	2nd		ODI v West Indies	Wellington	25 Jan 1995	investigate this query
+New Zealand	lost	9 wickets	74	lost	1st		ODI v West Indies	Christchurch	28 Jan 1995	investigate this query
+New Zealand	draw	-		lost	1st		Test v West Indies	Christchurch	3 Feb 1995	investigate this query
+New Zealand	lost	inns & 322 runs		lost	2nd		Test v West Indies	Wellington	10 Feb 1995	investigate this query
+New Zealand	won	4 wickets	106	won	2nd		ODI v India	Napier	16 Feb 1995	investigate this query
+New Zealand	lost	27 runs		lost	2nd		ODI v Australia	Auckland	19 Feb 1995	investigate this query
+New Zealand	won	46 runs		lost	1st		ODI v South Africa	Christchurch	23 Feb 1995	investigate this query
+New Zealand	lost	6 wickets	113	won	1st		ODI v Australia	Auckland	26 Feb 1995	investigate this query
+New Zealand	lost	93 runs		lost	2nd		Test v South Africa	Auckland	4 Mar 1995	investigate this query
+New Zealand	lost	241 runs		won	2nd		Test v Sri Lanka	Napier	11 Mar 1995	investigate this query
+New Zealand	draw	-		won	2nd		Test v Sri Lanka	Dunedin	18 Mar 1995	investigate this query
+New Zealand	won	33 runs		lost	1st		ODI v Sri Lanka	Christchurch	26 Mar 1995	investigate this query
+New Zealand	won	57 runs		won	1st		ODI v Sri Lanka	Hamilton	29 Mar 1995	investigate this query
+New Zealand	lost	51 runs		lost	2nd		ODI v Sri Lanka	Auckland	1 Apr 1995	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v India	Bangalore	18 Oct 1995	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Chennai	25 Oct 1995	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Cuttack	8 Nov 1995	investigate this query
+New Zealand	won	8 wickets	19	won	2nd		ODI v India	Jamshedpur	15 Nov 1995	investigate this query
+New Zealand	lost	6 wickets	38	lost	1st		ODI v India	Amritsar	18 Nov 1995	investigate this query
+New Zealand	aban	-		-	-		ODI v India	Margao	21 Nov 1995	investigate this query
+New Zealand	lost	5 wickets	25	lost	1st		ODI v India	Pune	24 Nov 1995	investigate this query
+New Zealand	won	99 runs		lost	1st		ODI v India	Nagpur	26 Nov 1995	investigate this query
+New Zealand	lost	6 wickets	108	lost	1st		ODI v India	Mumbai (BS)	29 Nov 1995	investigate this query
+New Zealand	lost	161 runs		won	2nd		Test v Pakistan	Christchurch	8 Dec 1995	investigate this query
+New Zealand	lost	20 runs		lost	2nd		ODI v Pakistan	Dunedin	15 Dec 1995	investigate this query
+New Zealand	won	1 wickets	1	lost	2nd		ODI v Pakistan	Christchurch	17 Dec 1995	investigate this query
+New Zealand	lost	54 runs		won	2nd		ODI v Pakistan	Wellington	20 Dec 1995	investigate this query
+New Zealand	won	32 runs		lost	1st		ODI v Pakistan	Auckland	23 Dec 1995	investigate this query
+New Zealand	draw	-		lost	1st		Test v Zimbabwe	Hamilton	13 Jan 1996	investigate this query
+New Zealand	draw	-		won	1st		Test v Zimbabwe	Auckland	20 Jan 1996	investigate this query
+New Zealand	won	74 runs		won	1st		ODI v Zimbabwe	Auckland	28 Jan 1996	investigate this query
+New Zealand	won	6 wickets	63	lost	2nd		ODI v Zimbabwe	Wellington	31 Jan 1996	investigate this query
+New Zealand	lost	21 runs		won	2nd		ODI v Zimbabwe	Napier	3 Feb 1996	investigate this query
+New Zealand	won	11 runs		lost	1st		ODI v England	Ahmedabad	14 Feb 1996	investigate this query
+New Zealand	won	119 runs		won	1st		ODI v Netherlands	Vadodara	17 Feb 1996	investigate this query
+New Zealand	lost	5 wickets	75	won	1st		ODI v South Africa	Faisalabad	20 Feb 1996	investigate this query
+New Zealand	won	109 runs		lost	1st		ODI v U.A.E.	Faisalabad	27 Feb 1996	investigate this query
+New Zealand	lost	46 runs		won	2nd		ODI v Pakistan	Lahore	6 Mar 1996	investigate this query
+New Zealand	lost	6 wickets	13	won	1st		ODI v Australia	Chennai	11 Mar 1996	investigate this query
+New Zealand	lost	1 wickets	5	lost	1st		ODI v West Indies	Kingston	26 Mar 1996	investigate this query
+New Zealand	won	4 wickets	1	won	2nd		ODI v West Indies	Port of Spain	29 Mar 1996	investigate this query
+New Zealand	lost	7 wickets	26	won	1st		ODI v West Indies	Port of Spain	30 Mar 1996	investigate this query
+New Zealand	won	4 runs		lost	1st		ODI v West Indies	Georgetown	3 Apr 1996	investigate this query
+New Zealand	lost	7 wickets	9	lost	1st		ODI v West Indies	Kingstown	6 Apr 1996	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v West Indies	Bridgetown	19 Apr 1996	investigate this query
+New Zealand	draw	-		won	2nd		Test v West Indies	St John's	27 Apr 1996	investigate this query
+New Zealand	won	29 runs		lost	1st		ODI v Sri Lanka	Sharjah	7 Nov 1996	investigate this query
+New Zealand	lost	4 wickets	21	won	1st		ODI v Pakistan	Sharjah	10 Nov 1996	investigate this query
+New Zealand	tied	-		won	1st		ODI v Sri Lanka	Sharjah	11 Nov 1996	investigate this query
+New Zealand	lost	4 wickets	9	lost	1st		ODI v Pakistan	Sharjah	13 Nov 1996	investigate this query
+New Zealand	lost	41 runs		won	2nd		ODI v Pakistan	Sharjah	15 Nov 1996	investigate this query
+New Zealand	won	44 runs		won	1st		Test v Pakistan	Lahore	21 Nov 1996	investigate this query
+New Zealand	lost	inns & 13 runs		lost	1st		Test v Pakistan	Rawalpindi	28 Nov 1996	investigate this query
+New Zealand	lost	11 runs		lost	2nd		ODI v Pakistan	Gujranwala	4 Dec 1996	investigate this query
+New Zealand	lost	46 runs		lost	2nd		ODI v Pakistan	Sialkot	6 Dec 1996	investigate this query
+New Zealand	won	7 wickets	29	lost	2nd		ODI v Pakistan	Karachi	8 Dec 1996	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Auckland	24 Jan 1997	investigate this query
+New Zealand	lost	inns & 68 runs		won	1st		Test v England	Wellington	6 Feb 1997	investigate this query
+New Zealand	lost	4 wickets		lost	1st		Test v England	Christchurch	14 Feb 1997	investigate this query
+New Zealand	lost	4 wickets	7	won	1st		ODI v England	Christchurch	20 Feb 1997	investigate this query
+New Zealand	lost	6 wickets	39	won	1st		ODI v England	Auckland	23 Feb 1997	investigate this query
+New Zealand	tied	-		won	1st		ODI v England	Napier	26 Feb 1997	investigate this query
+New Zealand	won	9 runs		lost	1st		ODI v England	Auckland	2 Mar 1997	investigate this query
+New Zealand	won	28 runs		won	1st		ODI v England	Wellington	4 Mar 1997	investigate this query
+New Zealand	won	inns & 36 runs		lost	1st		Test v Sri Lanka	Dunedin	7 Mar 1997	investigate this query
+New Zealand	won	120 runs		won	1st		Test v Sri Lanka	Hamilton	14 Mar 1997	investigate this query
+New Zealand	aban	-		-	-		ODI v Sri Lanka	Auckland	22 Mar 1997	investigate this query
+New Zealand	lost	6 wickets	85	lost	1st		ODI v Sri Lanka	Christchurch	25 Mar 1997	investigate this query
+New Zealand	won	69 runs		lost	1st		ODI v Sri Lanka	Wellington	27 Mar 1997	investigate this query
+New Zealand	won	22 runs		lost	1st		ODI v Pakistan	Mohali	9 May 1997	investigate this query
+New Zealand	lost	8 wickets	45	won	1st		ODI v India	Bangalore	14 May 1997	investigate this query
+New Zealand	lost	52 runs		lost	2nd		ODI v Sri Lanka	Hyderabad (Deccan)	20 May 1997	investigate this query
+New Zealand	draw	-		won	2nd		Test v Zimbabwe	Harare	18 Sep 1997	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Zimbabwe	Bulawayo	25 Sep 1997	investigate this query
+New Zealand	tied	-		lost	2nd		ODI v Zimbabwe	Bulawayo	1 Oct 1997	investigate this query
+New Zealand	lost	3 wickets	10	won	1st		ODI v Zimbabwe	Harare	4 Oct 1997	investigate this query
+New Zealand	won	83 runs		won	1st		ODI v Zimbabwe	Harare	5 Oct 1997	investigate this query
+New Zealand	lost	186 runs		won	2nd		Test v Australia	Brisbane	7 Nov 1997	investigate this query
+New Zealand	lost	inns & 70 runs		won	1st		Test v Australia	Perth	20 Nov 1997	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Australia	Hobart	27 Nov 1997	investigate this query
+New Zealand	won	47 runs		lost	1st		ODI v South Africa	Adelaide	6 Dec 1997	investigate this query
+New Zealand	lost	3 wickets	2	won	1st		ODI v Australia	Adelaide	7 Dec 1997	investigate this query
+New Zealand	lost	1 runs		lost	2nd		ODI v South Africa	Hobart	11 Dec 1997	investigate this query
+New Zealand	lost	6 wickets	67	won	1st		ODI v Australia	Melbourne	17 Dec 1997	investigate this query
+New Zealand	lost	2 runs		lost	2nd		ODI v South Africa	Brisbane	9 Jan 1998	investigate this query
+New Zealand	lost	131 runs		lost	2nd		ODI v Australia	Sydney	14 Jan 1998	investigate this query
+New Zealand	lost	67 runs		lost	2nd		ODI v South Africa	Perth	16 Jan 1998	investigate this query
+New Zealand	won	4 wickets	5	lost	2nd		ODI v Australia	Melbourne	21 Jan 1998	investigate this query
+New Zealand	won	40 runs		won	1st		ODI v Zimbabwe	Hamilton	4 Feb 1998	investigate this query
+New Zealand	won	8 wickets	130	won	2nd		ODI v Zimbabwe	Wellington	6 Feb 1998	investigate this query
+New Zealand	lost	7 wickets	70	won	1st		ODI v Australia	Christchurch	8 Feb 1998	investigate this query
+New Zealand	lost	66 runs		lost	2nd		ODI v Australia	Wellington	10 Feb 1998	investigate this query
+New Zealand	won	7 wickets	10	lost	2nd		ODI v Australia	Napier	12 Feb 1998	investigate this query
+New Zealand	won	30 runs		lost	1st		ODI v Australia	Auckland	14 Feb 1998	investigate this query
+New Zealand	won	10 wickets		lost	2nd		Test v Zimbabwe	Wellington	19 Feb 1998	investigate this query
+New Zealand	won	inns & 13 runs		lost	2nd		Test v Zimbabwe	Auckland	26 Feb 1998	investigate this query
+New Zealand	lost	1 runs		won	2nd		ODI v Zimbabwe	Christchurch	4 Mar 1998	investigate this query
+New Zealand	won	9 wickets	26	lost	2nd		ODI v Zimbabwe	Napier	6 Mar 1998	investigate this query
+New Zealand	won	2 runs		won	1st		ODI v Zimbabwe	Auckland	8 Mar 1998	investigate this query
+New Zealand	lost	15 runs		lost	2nd		ODI v India	Sharjah	17 Apr 1998	investigate this query
+New Zealand	lost	6 wickets	79	won	1st		ODI v Australia	Sharjah	18 Apr 1998	investigate this query
+New Zealand	won	4 wickets	6	lost	2nd		ODI v India	Sharjah	20 Apr 1998	investigate this query
+New Zealand	lost	5 wickets	13	won	1st		ODI v Australia	Sharjah	21 Apr 1998	investigate this query
+New Zealand	won	167 runs		won	1st		Test v Sri Lanka	Colombo (RPS)	27 May 1998	investigate this query
+New Zealand	lost	inns & 16 runs		won	1st		Test v Sri Lanka	Galle	3 Jun 1998	investigate this query
+New Zealand	lost	164 runs		lost	2nd		Test v Sri Lanka	Colombo (SSC)	10 Jun 1998	investigate this query
+New Zealand	lost	7 wickets	60	won	1st		ODI v Sri Lanka	Colombo (RPS)	21 Jun 1998	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v India	Colombo (RPS)	23 Jun 1998	investigate this query
+New Zealand	aban	-		-	-		ODI v Sri Lanka	Galle	27 Jun 1998	investigate this query
+New Zealand	aban	-		-	-		ODI v India	Galle	29 Jun 1998	investigate this query
+New Zealand	n/r	-		won	1st		ODI v India	Colombo (SSC)	3 Jul 1998	investigate this query
+New Zealand	lost	87 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	5 Jul 1998	investigate this query
+New Zealand	won	5 wickets	0	lost	2nd		ODI v Zimbabwe	Dhaka	24 Oct 1998	investigate this query
+New Zealand	lost	5 wickets	51	lost	1st		ODI v Sri Lanka	Dhaka	26 Oct 1998	investigate this query
+New Zealand	aban	-		-	-		Test v India	Dunedin	18 Dec 1998	investigate this query
+New Zealand	won	4 wickets		lost	2nd		Test v India	Wellington	26 Dec 1998	investigate this query
+New Zealand	draw	-		lost	1st		Test v India	Hamilton	2 Jan 1999	investigate this query
+New Zealand	won	5 wickets	6	lost	2nd		ODI v India	Taupo	9 Jan 1999	investigate this query
+New Zealand	lost	2 wickets	1	lost	1st		ODI v India	Napier	12 Jan 1999	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v India	Wellington	14 Jan 1999	investigate this query
+New Zealand	lost	5 wickets	37	lost	1st		ODI v India	Auckland	16 Jan 1999	investigate this query
+New Zealand	won	70 runs		lost	1st		ODI v India	Christchurch	19 Jan 1999	investigate this query
+New Zealand	won	3 wickets	5	won	2nd		ODI v South Africa	Dunedin	14 Feb 1999	investigate this query
+New Zealand	lost	7 wickets	42	won	1st		ODI v South Africa	Christchurch	17 Feb 1999	investigate this query
+New Zealand	won	7 wickets	41	won	2nd		ODI v South Africa	Auckland	20 Feb 1999	investigate this query
+New Zealand	draw	-		won	2nd		Test v South Africa	Auckland	27 Feb 1999	investigate this query
+New Zealand	draw	-		won	1st		Test v South Africa	Christchurch	11 Mar 1999	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v South Africa	Wellington	18 Mar 1999	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v South Africa	Napier	25 Mar 1999	investigate this query
+New Zealand	lost	2 wickets	0	lost	1st		ODI v South Africa	Napier	26 Mar 1999	investigate this query
+New Zealand	lost	143 runs		lost	2nd		ODI v South Africa	Auckland	27 Mar 1999	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v South Africa	Wellington	30 Mar 1999	investigate this query
+New Zealand	aban	-		-	-		ODI v South Africa	Wellington	31 Mar 1999	investigate this query
+New Zealand	won	6 wickets	102	won	2nd		ODI v Bangladesh	Chelmsford	17 May 1999	investigate this query
+New Zealand	won	5 wickets	28	lost	2nd		ODI v Australia	Cardiff	20 May 1999	investigate this query
+New Zealand	lost	7 wickets	34	lost	1st		ODI v West Indies	Southampton	24 May 1999	investigate this query
+New Zealand	lost	62 runs		won	2nd		ODI v Pakistan	Derby	28 May 1999	investigate this query
+New Zealand	won	6 wickets	193	won	2nd		ODI v Scotland	Edinburgh	31 May 1999	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v Zimbabwe	Leeds	6 Jun 1999	investigate this query
+New Zealand	lost	74 runs		lost	2nd		ODI v South Africa	Birmingham	10 Jun 1999	investigate this query
+New Zealand	won	5 wickets	10	lost	2nd		ODI v India	Nottingham	12 Jun 1999	investigate this query
+New Zealand	lost	9 wickets	15	won	1st		ODI v Pakistan	Manchester	16 Jun 1999	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	Birmingham	1 Jul 1999	investigate this query
+New Zealand	won	9 wickets		lost	2nd		Test v England	Lord's	22 Jul 1999	investigate this query
+New Zealand	draw	-		lost	2nd		Test v England	Manchester	5 Aug 1999	investigate this query
+New Zealand	won	83 runs		lost	1st		Test v England	The Oval	19 Aug 1999	investigate this query
+New Zealand	draw	-		won	2nd		Test v India	Mohali	10 Oct 1999	investigate this query
+New Zealand	lost	8 wickets		won	1st		Test v India	Kanpur	22 Oct 1999	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Ahmedabad	29 Oct 1999	investigate this query
+New Zealand	won	43 runs		won	1st		ODI v India	Rajkot	5 Nov 1999	investigate this query
+New Zealand	lost	174 runs		lost	2nd		ODI v India	Hyderabad (Deccan)	8 Nov 1999	investigate this query
+New Zealand	lost	14 runs		lost	2nd		ODI v India	Gwalior	11 Nov 1999	investigate this query
+New Zealand	won	48 runs		lost	1st		ODI v India	Guwahati	14 Nov 1999	investigate this query
+New Zealand	lost	7 wickets	36	won	1st		ODI v India	Delhi	17 Nov 1999	investigate this query
+New Zealand	won	9 wickets		lost	2nd		Test v West Indies	Hamilton	16 Dec 1999	investigate this query
+New Zealand	won	inns & 105 runs		lost	1st		Test v West Indies	Wellington	26 Dec 1999	investigate this query
+New Zealand	won	3 wickets	5	lost	2nd		ODI v West Indies	Auckland	2 Jan 2000	investigate this query
+New Zealand	won	7 wickets	38	won	2nd		ODI v West Indies	Taupo	4 Jan 2000	investigate this query
+New Zealand	won	4 wickets	76	lost	2nd		ODI v West Indies	Napier	6 Jan 2000	investigate this query
+New Zealand	won	8 wickets	81	won	2nd		ODI v West Indies	Wellington	8 Jan 2000	investigate this query
+New Zealand	won	20 runs		won	1st		ODI v West Indies	Christchurch	11 Jan 2000	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Australia	Wellington	17 Feb 2000	investigate this query
+New Zealand	lost	5 wickets	152	won	1st		ODI v Australia	Auckland	19 Feb 2000	investigate this query
+New Zealand	lost	50 runs		won	2nd		ODI v Australia	Dunedin	23 Feb 2000	investigate this query
+New Zealand	lost	48 runs		won	2nd		ODI v Australia	Christchurch	26 Feb 2000	investigate this query
+New Zealand	lost	5 wickets	26	lost	1st		ODI v Australia	Napier	1 Mar 2000	investigate this query
+New Zealand	won	7 wickets	54	lost	2nd		ODI v Australia	Auckland	3 Mar 2000	investigate this query
+New Zealand	lost	62 runs		lost	2nd		Test v Australia	Auckland	11 Mar 2000	investigate this query
+New Zealand	lost	6 wickets		won	1st		Test v Australia	Wellington	24 Mar 2000	investigate this query
+New Zealand	lost	6 wickets		lost	1st		Test v Australia	Hamilton	31 Mar 2000	investigate this query
+New Zealand	lost	12 runs		won	2nd		ODI v Pakistan	Singapore	20 Aug 2000	investigate this query
+New Zealand	lost	8 wickets	96	won	1st		ODI v South Africa	Singapore	25 Aug 2000	investigate this query
+New Zealand	won	7 wickets		lost	2nd		Test v Zimbabwe	Bulawayo	12 Sep 2000	investigate this query
+New Zealand	won	8 wickets		won	1st		Test v Zimbabwe	Harare	19 Sep 2000	investigate this query
+New Zealand	won	7 wickets	55	won	2nd		ODI v Zimbabwe	Harare	27 Sep 2000	investigate this query
+New Zealand	lost	21 runs		won	2nd		ODI v Zimbabwe	Bulawayo	30 Sep 2000	investigate this query
+New Zealand	lost	6 wickets	13	won	1st		ODI v Zimbabwe	Bulawayo	1 Oct 2000	investigate this query
+New Zealand	won	64 runs		lost	1st		ODI v Zimbabwe	Nairobi (Gym)	9 Oct 2000	investigate this query
+New Zealand	won	4 wickets	6	lost	2nd		ODI v Pakistan	Nairobi (Gym)	11 Oct 2000	investigate this query
+New Zealand	won	4 wickets	2	won	2nd		ODI v India	Nairobi (Gym)	15 Oct 2000	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v South Africa	Potchefstroom	20 Oct 2000	investigate this query
+New Zealand	lost	6 wickets	20	won	1st		ODI v South Africa	Benoni	22 Oct 2000	investigate this query
+New Zealand	lost	115 runs		won	2nd		ODI v South Africa	Centurion	25 Oct 2000	investigate this query
+New Zealand	lost	5 wickets	7	lost	1st		ODI v South Africa	Kimberley	28 Oct 2000	investigate this query
+New Zealand	lost	6 wickets	9	lost	1st		ODI v South Africa	Durban	1 Nov 2000	investigate this query
+New Zealand	lost	3 wickets	0	lost	1st		ODI v South Africa	Cape Town	4 Nov 2000	investigate this query
+New Zealand	lost	5 wickets		lost	2nd		Test v South Africa	Bloemfontein	17 Nov 2000	investigate this query
+New Zealand	lost	7 wickets		lost	1st		Test v South Africa	Port Elizabeth	30 Nov 2000	investigate this query
+New Zealand	draw	-		lost	1st		Test v South Africa	Johannesburg	8 Dec 2000	investigate this query
+New Zealand	draw	-		won	1st		Test v Zimbabwe	Wellington	26 Dec 2000	investigate this query
+New Zealand	lost	70 runs		won	2nd		ODI v Zimbabwe	Taupo	2 Jan 2001	investigate this query
+New Zealand	won	8 wickets	28	lost	2nd		ODI v Zimbabwe	Wellington	4 Jan 2001	investigate this query
+New Zealand	lost	1 wickets	8	lost	1st		ODI v Zimbabwe	Auckland	7 Jan 2001	investigate this query
+New Zealand	lost	61 runs		lost	2nd		ODI v Sri Lanka	Napier	31 Jan 2001	investigate this query
+New Zealand	lost	3 wickets	3	won	1st		ODI v Sri Lanka	Wellington	3 Feb 2001	investigate this query
+New Zealand	lost	9 wickets	103	lost	1st		ODI v Sri Lanka	Auckland	6 Feb 2001	investigate this query
+New Zealand	lost	3 runs		lost	1st		ODI v Sri Lanka	Hamilton	8 Feb 2001	investigate this query
+New Zealand	won	13 runs		lost	1st		ODI v Sri Lanka	Christchurch	11 Feb 2001	investigate this query
+New Zealand	lost	6 wickets	30	lost	1st		ODI v Pakistan	Auckland	17 Feb 2001	investigate this query
+New Zealand	won	6 wickets	117	won	2nd		ODI v Pakistan	Napier	20 Feb 2001	investigate this query
+New Zealand	lost	28 runs		won	2nd		ODI v Pakistan	Wellington	22 Feb 2001	investigate this query
+New Zealand	won	138 runs		lost	1st		ODI v Pakistan	Christchurch	25 Feb 2001	investigate this query
+New Zealand	won	4 wickets	11	lost	2nd		ODI v Pakistan	Dunedin	28 Feb 2001	investigate this query
+New Zealand	lost	299 runs		won	2nd		Test v Pakistan	Auckland	8 Mar 2001	investigate this query
+New Zealand	draw	-		lost	1st		Test v Pakistan	Christchurch	15 Mar 2001	investigate this query
+New Zealand	won	inns & 185 runs		won	2nd		Test v Pakistan	Hamilton	27 Mar 2001	investigate this query
+New Zealand	lost	106 runs		lost	2nd		ODI v Sri Lanka	Sharjah	10 Apr 2001	investigate this query
+New Zealand	lost	8 wickets	47	won	1st		ODI v Pakistan	Sharjah	12 Apr 2001	investigate this query
+New Zealand	lost	7 wickets	148	won	1st		ODI v Pakistan	Sharjah	15 Apr 2001	investigate this query
+New Zealand	won	79 runs		lost	1st		ODI v Sri Lanka	Sharjah	17 Apr 2001	investigate this query
+New Zealand	lost	16 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	18 Jul 2001	investigate this query
+New Zealand	won	84 runs		won	1st		ODI v India	Colombo (RPS)	20 Jul 2001	investigate this query
+New Zealand	lost	5 wickets	9	won	1st		ODI v Sri Lanka	Colombo (RPS)	25 Jul 2001	investigate this query
+New Zealand	won	67 runs		lost	1st		ODI v India	Colombo (RPS)	26 Jul 2001	investigate this query
+New Zealand	lost	106 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	31 Jul 2001	investigate this query
+New Zealand	lost	7 wickets	26	won	1st		ODI v India	Colombo (SSC)	2 Aug 2001	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Brisbane	8 Nov 2001	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Hobart	22 Nov 2001	investigate this query
+New Zealand	draw	-		won	1st		Test v Australia	Perth	30 Nov 2001	investigate this query
+New Zealand	won	inns & 52 runs		lost	1st		Test v Bangladesh	Hamilton	18 Dec 2001	investigate this query
+New Zealand	won	inns & 74 runs		won	2nd		Test v Bangladesh	Wellington	26 Dec 2001	investigate this query
+New Zealand	won	23 runs		lost	1st		ODI v Australia	Melbourne	11 Jan 2002	investigate this query
+New Zealand	lost	26 runs		lost	2nd		ODI v South Africa	Hobart	15 Jan 2002	investigate this query
+New Zealand	won	23 runs		won	1st		ODI v Australia	Sydney	17 Jan 2002	investigate this query
+New Zealand	won	4 wickets	5	lost	2nd		ODI v South Africa	Brisbane	19 Jan 2002	investigate this query
+New Zealand	won	77 runs		won	1st		ODI v Australia	Adelaide	26 Jan 2002	investigate this query
+New Zealand	lost	93 runs		lost	2nd		ODI v South Africa	Adelaide	27 Jan 2002	investigate this query
+New Zealand	lost	2 wickets	3	won	1st		ODI v Australia	Melbourne	29 Jan 2002	investigate this query
+New Zealand	lost	67 runs		won	2nd		ODI v South Africa	Perth	1 Feb 2002	investigate this query
+New Zealand	lost	8 wickets	29	won	1st		ODI v South Africa	Melbourne	6 Feb 2002	investigate this query
+New Zealand	lost	6 wickets	47	won	1st		ODI v South Africa	Sydney	8 Feb 2002	investigate this query
+New Zealand	won	4 wickets	21	lost	2nd		ODI v England	Christchurch	13 Feb 2002	investigate this query
+New Zealand	won	155 runs		lost	1st		ODI v England	Wellington	16 Feb 2002	investigate this query
+New Zealand	lost	43 runs		won	2nd		ODI v England	Napier	20 Feb 2002	investigate this query
+New Zealand	lost	33 runs		lost	2nd		ODI v England	Auckland	23 Feb 2002	investigate this query
+New Zealand	won	5 wickets	7	lost	2nd		ODI v England	Dunedin	26 Feb 2002	investigate this query
+New Zealand	lost	98 runs		won	2nd		Test v England	Christchurch	13 Mar 2002	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Wellington	21 Mar 2002	investigate this query
+New Zealand	won	78 runs		won	1st		Test v England	Auckland	30 Mar 2002	investigate this query
+New Zealand	won	11 runs		won	1st		ODI v Sri Lanka	Sharjah	9 Apr 2002	investigate this query
+New Zealand	lost	51 runs		lost	2nd		ODI v Pakistan	Sharjah	11 Apr 2002	investigate this query
+New Zealand	lost	46 runs		lost	2nd		ODI v Sri Lanka	Sharjah	14 Apr 2002	investigate this query
+New Zealand	lost	8 wickets	105	won	1st		ODI v Pakistan	Sharjah	15 Apr 2002	investigate this query
+New Zealand	lost	153 runs		lost	2nd		ODI v Pakistan	Karachi	21 Apr 2002	investigate this query
+New Zealand	lost	3 wickets	17	won	1st		ODI v Pakistan	Rawalpindi	24 Apr 2002	investigate this query
+New Zealand	lost	66 runs		lost	2nd		ODI v Pakistan	Lahore	27 Apr 2002	investigate this query
+New Zealand	lost	inns & 324 runs		lost	2nd		Test v Pakistan	Lahore	1 May 2002	investigate this query
+New Zealand	canc	-		-	-		Test v Pakistan	Karachi	8 May 2002	investigate this query
+New Zealand	n/r	-		won	1st		ODI v West Indies	Kingston	5 Jun 2002	investigate this query
+New Zealand	lost	6 wickets	5	lost	1st		ODI v West Indies	Gros Islet	8 Jun 2002	investigate this query
+New Zealand	lost	7 wickets	60	won	1st		ODI v West Indies	Gros Islet	9 Jun 2002	investigate this query
+New Zealand	won	9 runs		won	1st		ODI v West Indies	Port of Spain	12 Jun 2002	investigate this query
+New Zealand	lost	4 wickets	0	won	1st		ODI v West Indies	Kingstown	16 Jun 2002	investigate this query
+New Zealand	won	204 runs		lost	1st		Test v West Indies	Bridgetown	21 Jun 2002	investigate this query
+New Zealand	draw	-		lost	1st		Test v West Indies	St George's	28 Jun 2002	investigate this query
+New Zealand	lost	164 runs		lost	2nd		ODI v Australia	Colombo (SSC)	15 Sep 2002	investigate this query
+New Zealand	won	167 runs		lost	1st		ODI v Bangladesh	Colombo (SSC)	23 Sep 2002	investigate this query
+New Zealand	won	10 wickets		won	2nd		Test v India	Wellington	12 Dec 2002	investigate this query
+New Zealand	won	4 wickets		won	2nd		Test v India	Hamilton	19 Dec 2002	investigate this query
+New Zealand	won	3 wickets	74	won	2nd		ODI v India	Auckland	26 Dec 2002	investigate this query
+New Zealand	won	35 runs		lost	1st		ODI v India	Napier	29 Dec 2002	investigate this query
+New Zealand	won	5 wickets	139	lost	2nd		ODI v India	Christchurch	1 Jan 2003	investigate this query
+New Zealand	won	7 wickets	146	won	2nd		ODI v India	Queenstown	4 Jan 2003	investigate this query
+New Zealand	lost	2 wickets	40	won	1st		ODI v India	Wellington	8 Jan 2003	investigate this query
+New Zealand	lost	1 wickets	1	lost	1st		ODI v India	Auckland	11 Jan 2003	investigate this query
+New Zealand	won	6 wickets	128	won	2nd		ODI v India	Hamilton	14 Jan 2003	investigate this query
+New Zealand	lost	47 runs		won	2nd		ODI v Sri Lanka	Bloemfontein	10 Feb 2003	investigate this query
+New Zealand	won	20 runs		lost	1st		ODI v West Indies	Port Elizabeth	13 Feb 2003	investigate this query
+New Zealand	won	9 wickets	13	lost	2nd		ODI v South Africa	Johannesburg	16 Feb 2003	investigate this query
+New Zealand	lost			-	-		ODI v Kenya	Nairobi (Gym)	21 Feb 2003	investigate this query
+New Zealand	won	7 wickets	99	lost	2nd		ODI v Bangladesh	Kimberley	26 Feb 2003	investigate this query
+New Zealand	won	5 wickets	162	won	2nd		ODI v Canada	Benoni	3 Mar 2003	investigate this query
+New Zealand	won	6 wickets	16	lost	2nd		ODI v Zimbabwe	Bloemfontein	8 Mar 2003	investigate this query
+New Zealand	lost	96 runs		won	2nd		ODI v Australia	Port Elizabeth	11 Mar 2003	investigate this query
+New Zealand	lost	7 wickets	56	lost	1st		ODI v India	Centurion	14 Mar 2003	investigate this query
+New Zealand	draw	-		won	1st		Test v Sri Lanka	Colombo (PSS)	25 Apr 2003	investigate this query
+New Zealand	draw	-		won	1st		Test v Sri Lanka	Kandy	3 May 2003	investigate this query
+New Zealand	won	7 wickets	135	won	2nd		ODI v Pakistan	Dambulla	11 May 2003	investigate this query
+New Zealand	lost	5 wickets	14	lost	1st		ODI v Sri Lanka	Dambulla	13 May 2003	investigate this query
+New Zealand	won	9 runs		lost	1st		ODI v Sri Lanka	Dambulla	19 May 2003	investigate this query
+New Zealand	lost	22 runs		won	2nd		ODI v Pakistan	Dambulla	20 May 2003	investigate this query
+New Zealand	won	4 wickets	28	lost	2nd		ODI v Pakistan	Dambulla	23 May 2003	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Ahmedabad	8 Oct 2003	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Mohali	16 Oct 2003	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v India	Chennai	23 Oct 2003	investigate this query
+New Zealand	lost	8 wickets	200	won	1st		ODI v Australia	Faridabad	29 Oct 2003	investigate this query
+New Zealand	lost	2 wickets	1	lost	1st		ODI v Australia	Pune	3 Nov 2003	investigate this query
+New Zealand	won	4 wickets	15	lost	2nd		ODI v India	Cuttack	6 Nov 2003	investigate this query
+New Zealand	lost	44 runs		won	2nd		ODI v Australia	Guwahati	9 Nov 2003	investigate this query
+New Zealand	lost	145 runs		lost	2nd		ODI v India	Hyderabad (Deccan)	15 Nov 2003	investigate this query
+New Zealand	lost	3 wickets	12	won	1st		ODI v Pakistan	Lahore	29 Nov 2003	investigate this query
+New Zealand	lost	124 runs		lost	2nd		ODI v Pakistan	Lahore	1 Dec 2003	investigate this query
+New Zealand	lost	51 runs		lost	2nd		ODI v Pakistan	Faisalabad	3 Dec 2003	investigate this query
+New Zealand	lost	7 wickets	52	won	1st		ODI v Pakistan	Rawalpindi	5 Dec 2003	investigate this query
+New Zealand	lost	49 runs		lost	2nd		ODI v Pakistan	Rawalpindi	7 Dec 2003	investigate this query
+New Zealand	draw	-		lost	1st		Test v Pakistan	Hamilton	19 Dec 2003	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v Pakistan	Wellington	26 Dec 2003	investigate this query
+New Zealand	won	4 wickets	5	won	2nd		ODI v Pakistan	Auckland	3 Jan 2004	investigate this query
+New Zealand	lost	6 wickets	18	lost	1st		ODI v Pakistan	Queenstown	7 Jan 2004	investigate this query
+New Zealand	won	7 wickets	22	won	2nd		ODI v Pakistan	Christchurch	10 Jan 2004	investigate this query
+New Zealand	won	8 wickets	163	won	2nd		ODI v Pakistan	Napier	14 Jan 2004	investigate this query
+New Zealand	won	4 runs		won	1st		ODI v Pakistan	Wellington	17 Jan 2004	investigate this query
+New Zealand	lost	5 wickets	2	lost	1st		ODI v South Africa	Auckland	13 Feb 2004	investigate this query
+New Zealand	won	5 wickets	29	lost	2nd		ODI v South Africa	Christchurch	17 Feb 2004	investigate this query
+New Zealand	won	5 runs		lost	1st		ODI v South Africa	Wellington	20 Feb 2004	investigate this query
+New Zealand	aban	-		lost	1st		ODI v South Africa	Dunedin	24 Feb 2004	investigate this query
+New Zealand	won	6 wickets	6	won	2nd		ODI v South Africa	Dunedin	25 Feb 2004	investigate this query
+New Zealand	aban	-		-	-		ODI v South Africa	Auckland	28 Feb 2004	investigate this query
+New Zealand	won	2 runs		lost	1st		ODI v South Africa	Auckland	29 Feb 2004	investigate this query
+New Zealand	won	5 wickets	24	lost	2nd		ODI v South Africa	Napier	2 Mar 2004	investigate this query
+New Zealand	draw	-		lost	2nd		Test v South Africa	Hamilton	10 Mar 2004	investigate this query
+New Zealand	won	9 wickets		won	2nd		Test v South Africa	Auckland	18 Mar 2004	investigate this query
+New Zealand	lost	6 wickets		lost	1st		Test v South Africa	Wellington	26 Mar 2004	investigate this query
+New Zealand	lost	7 wickets		won	1st		Test v England	Lord's	20 May 2004	investigate this query
+New Zealand	lost	9 wickets		lost	1st		Test v England	Leeds	3 Jun 2004	investigate this query
+New Zealand	lost	4 wickets		won	1st		Test v England	Nottingham	10 Jun 2004	investigate this query
+New Zealand	aban	-		-	-		ODI v England	Manchester	24 Jun 2004	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v West Indies	Birmingham	26 Jun 2004	investigate this query
+New Zealand	won	7 wickets	196	won	2nd		ODI v England	Chester-le-Street	29 Jun 2004	investigate this query
+New Zealand	won	5 wickets	24	won	2nd		ODI v West Indies	Cardiff	3 Jul 2004	investigate this query
+New Zealand	won	6 wickets	16	won	2nd		ODI v England	Bristol	4 Jul 2004	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v West Indies	Southampton	8 Jul 2004	investigate this query
+New Zealand	won	107 runs		lost	1st		ODI v West Indies	Lord's	10 Jul 2004	investigate this query
+New Zealand	won	210 runs		lost	1st		ODI v U.S.A.	The Oval	10 Sep 2004	investigate this query
+New Zealand	lost	7 wickets	76	lost	1st		ODI v Australia	The Oval	16 Sep 2004	investigate this query
+New Zealand	won	inns & 99 runs		lost	2nd		Test v Bangladesh	Dhaka	19 Oct 2004	investigate this query
+New Zealand	won	inns & 101 runs		won	1st		Test v Bangladesh	Chittagong	26 Oct 2004	investigate this query
+New Zealand	won	138 runs		won	1st		ODI v Bangladesh	Chittagong	2 Nov 2004	investigate this query
+New Zealand	won	3 wickets	32	lost	2nd		ODI v Bangladesh	Dhaka	5 Nov 2004	investigate this query
+New Zealand	won	83 runs		won	1st		ODI v Bangladesh	Dhaka	7 Nov 2004	investigate this query
+New Zealand	lost	inns & 156 runs		won	1st		Test v Australia	Brisbane	18 Nov 2004	investigate this query
+New Zealand	lost	213 runs		lost	2nd		Test v Australia	Adelaide	26 Nov 2004	investigate this query
+New Zealand	won	4 wickets	2	won	2nd		ODI v Australia	Melbourne (Docklands)	5 Dec 2004	investigate this query
+New Zealand	lost	17 runs		lost	2nd		ODI v Australia	Sydney	8 Dec 2004	investigate this query
+New Zealand	aban	-		-	-		ODI v Australia	Brisbane	10 Dec 2004	investigate this query
+New Zealand	won	7 wickets	102	won	2nd		ODI v Sri Lanka	Auckland	26 Dec 2004	investigate this query
+New Zealand	canc	-		-	-		ODI v Sri Lanka	Napier	29 Dec 2004	investigate this query
+New Zealand	canc	-		-	-		ODI v Sri Lanka	Queenstown	2 Jan 2005	investigate this query
+New Zealand	canc	-		-	-		ODI v Sri Lanka	Christchurch	4 Jan 2005	investigate this query
+New Zealand	canc	-		-	-		ODI v Sri Lanka	Wellington	8 Jan 2005	investigate this query
+New Zealand	lost	44 runs		lost	2nd		T20I v Australia	Auckland	17 Feb 2005	investigate this query
+New Zealand	lost	10 runs		lost	2nd		ODI v Australia	Wellington	19 Feb 2005	investigate this query
+New Zealand	lost	106 runs		won	2nd		ODI v Australia	Christchurch	22 Feb 2005	investigate this query
+New Zealand	lost	86 runs		lost	2nd		ODI v Australia	Auckland	26 Feb 2005	investigate this query
+New Zealand	lost	7 wickets	94	lost	1st		ODI v Australia	Wellington	1 Mar 2005	investigate this query
+New Zealand	lost	122 runs		won	2nd		ODI v Australia	Napier	5 Mar 2005	investigate this query
+New Zealand	lost	9 wickets		lost	1st		Test v Australia	Christchurch	10 Mar 2005	investigate this query
+New Zealand	draw	-		won	2nd		Test v Australia	Wellington	18 Mar 2005	investigate this query
+New Zealand	lost	9 wickets		won	1st		Test v Australia	Auckland	26 Mar 2005	investigate this query
+New Zealand	draw	-		won	1st		Test v Sri Lanka	Napier	4 Apr 2005	investigate this query
+New Zealand	won	inns & 38 runs		won	2nd		Test v Sri Lanka	Wellington	11 Apr 2005	investigate this query
+New Zealand	won	inns & 294 runs		lost	1st		Test v Zimbabwe	Harare	7 Aug 2005	investigate this query
+New Zealand	won	inns & 46 runs		lost	2nd		Test v Zimbabwe	Bulawayo	15 Aug 2005	investigate this query
+New Zealand	won	192 runs		lost	1st		ODI v Zimbabwe	Bulawayo	24 Aug 2005	investigate this query
+New Zealand	won	51 runs		won	1st		ODI v India	Bulawayo	26 Aug 2005	investigate this query
+New Zealand	won	27 runs		won	1st		ODI v Zimbabwe	Harare	31 Aug 2005	investigate this query
+New Zealand	lost	6 wickets	15	won	1st		ODI v India	Harare	2 Sep 2005	investigate this query
+New Zealand	won	6 wickets	11	lost	2nd		ODI v India	Harare	6 Sep 2005	investigate this query
+New Zealand	won	5 wickets	12	won	2nd		T20I v South Africa	Johannesburg	21 Oct 2005	investigate this query
+New Zealand	lost	2 wickets	3	won	1st		ODI v South Africa	Bloemfontein	23 Oct 2005	investigate this query
+New Zealand	lost	19 runs		lost	2nd		ODI v South Africa	Cape Town	28 Oct 2005	investigate this query
+New Zealand	lost	4 wickets	4	lost	1st		ODI v South Africa	Port Elizabeth	30 Oct 2005	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v South Africa	Durban	4 Nov 2005	investigate this query
+New Zealand	lost	5 wickets	11	lost	1st		ODI v South Africa	Centurion	6 Nov 2005	investigate this query
+New Zealand	lost	147 runs		won	2nd		ODI v Australia	Auckland	3 Dec 2005	investigate this query
+New Zealand	lost	2 runs		lost	2nd		ODI v Australia	Wellington	7 Dec 2005	investigate this query
+New Zealand	won	2 wickets	6	won	2nd		ODI v Australia	Christchurch	10 Dec 2005	investigate this query
+New Zealand	won	7 wickets	76	won	2nd		ODI v Sri Lanka	Queenstown	31 Dec 2005	investigate this query
+New Zealand	won	5 wickets	12	won	2nd		ODI v Sri Lanka	Christchurch	3 Jan 2006	investigate this query
+New Zealand	won	21 runs		won	1st		ODI v Sri Lanka	Wellington	6 Jan 2006	investigate this query
+New Zealand	lost	20 runs		lost	2nd		ODI v Sri Lanka	Napier	8 Jan 2006	investigate this query
+New Zealand	tied	-		won	2nd		T20I v West Indies	Auckland	16 Feb 2006	investigate this query
+New Zealand	won	81 runs		won	1st		ODI v West Indies	Wellington	18 Feb 2006	investigate this query
+New Zealand	won	3 wickets	48	won	2nd		ODI v West Indies	Queenstown	22 Feb 2006	investigate this query
+New Zealand	won	21 runs		won	1st		ODI v West Indies	Christchurch	25 Feb 2006	investigate this query
+New Zealand	won	91 runs		lost	1st		ODI v West Indies	Napier	1 Mar 2006	investigate this query
+New Zealand	lost	3 wickets	2	won	1st		ODI v West Indies	Auckland	4 Mar 2006	investigate this query
+New Zealand	won	27 runs		lost	1st		Test v West Indies	Auckland	9 Mar 2006	investigate this query
+New Zealand	won	10 wickets		lost	2nd		Test v West Indies	Wellington	17 Mar 2006	investigate this query
+New Zealand	draw	-		won	2nd		Test v West Indies	Napier	25 Mar 2006	investigate this query
+New Zealand	lost	128 runs		lost	2nd		Test v South Africa	Centurion	15 Apr 2006	investigate this query
+New Zealand	draw	-		lost	1st		Test v South Africa	Cape Town	27 Apr 2006	investigate this query
+New Zealand	lost	4 wickets		lost	1st		Test v South Africa	Johannesburg	5 May 2006	investigate this query
+New Zealand	won	87 runs		lost	1st		ODI v South Africa	Mumbai (BS)	16 Oct 2006	investigate this query
+New Zealand	lost	7 wickets	84	won	1st		ODI v Sri Lanka	Mumbai (BS)	20 Oct 2006	investigate this query
+New Zealand	won	51 runs		lost	1st		ODI v Pakistan	Mohali	25 Oct 2006	investigate this query
+New Zealand	lost	34 runs		won	2nd		ODI v Australia	Mohali	1 Nov 2006	investigate this query
+New Zealand	won	5 wickets		lost	2nd		Test v Sri Lanka	Christchurch	7 Dec 2006	investigate this query
+New Zealand	lost	217 runs		lost	2nd		Test v Sri Lanka	Wellington	15 Dec 2006	investigate this query
+New Zealand	lost	18 runs		won	1st		T20I v Sri Lanka	Wellington	22 Dec 2006	investigate this query
+New Zealand	won	5 wickets	9	won	2nd		T20I v Sri Lanka	Auckland	26 Dec 2006	investigate this query
+New Zealand	lost	7 wickets	60	won	1st		ODI v Sri Lanka	Napier	28 Dec 2006	investigate this query
+New Zealand	won	1 wickets	0	won	2nd		ODI v Sri Lanka	Queenstown	31 Dec 2006	investigate this query
+New Zealand	won	4 wickets	129	won	2nd		ODI v Sri Lanka	Christchurch	2 Jan 2007	investigate this query
+New Zealand	lost	189 runs		lost	2nd		ODI v Sri Lanka	Auckland	6 Jan 2007	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Sri Lanka	Hamilton	9 Jan 2007	investigate this query
+New Zealand	lost	105 runs		lost	2nd		ODI v Australia	Hobart	14 Jan 2007	investigate this query
+New Zealand	lost	3 wickets	1	won	1st		ODI v England	Hobart	16 Jan 2007	investigate this query
+New Zealand	lost	2 wickets	8	won	1st		ODI v Australia	Sydney	21 Jan 2007	investigate this query
+New Zealand	won	90 runs		won	1st		ODI v England	Adelaide	23 Jan 2007	investigate this query
+New Zealand	lost	8 runs		lost	2nd		ODI v Australia	Perth	28 Jan 2007	investigate this query
+New Zealand	won	58 runs		won	1st		ODI v England	Perth	30 Jan 2007	investigate this query
+New Zealand	lost	5 wickets	10	won	1st		ODI v Australia	Melbourne	4 Feb 2007	investigate this query
+New Zealand	lost	14 runs		lost	2nd		ODI v England	Brisbane	6 Feb 2007	investigate this query
+New Zealand	won	10 wickets	138	won	2nd		ODI v Australia	Wellington	16 Feb 2007	investigate this query
+New Zealand	won	5 wickets	8	won	2nd		ODI v Australia	Auckland	18 Feb 2007	investigate this query
+New Zealand	won	1 wickets	3	lost	2nd		ODI v Australia	Hamilton	20 Feb 2007	investigate this query
+New Zealand	won	6 wickets	54	won	2nd		ODI v England	Gros Islet	16 Mar 2007	investigate this query
+New Zealand	won	148 runs		lost	1st		ODI v Kenya	Gros Islet	20 Mar 2007	investigate this query
+New Zealand	won	114 runs		lost	1st		ODI v Canada	Gros Islet	22 Mar 2007	investigate this query
+New Zealand	won	7 wickets	64	won	2nd		ODI v West Indies	North Sound	29 Mar 2007	investigate this query
+New Zealand	won	9 wickets	124	won	2nd		ODI v Bangladesh	North Sound	2 Apr 2007	investigate this query
+New Zealand	won	129 runs		won	1st		ODI v Ireland	Providence	9 Apr 2007	investigate this query
+New Zealand	lost	6 wickets	29	won	1st		ODI v Sri Lanka	St George's	12 Apr 2007	investigate this query
+New Zealand	won	5 wickets	10	won	2nd		ODI v South Africa	St George's	14 Apr 2007	investigate this query
+New Zealand	lost	215 runs		lost	2nd		ODI v Australia	St George's	20 Apr 2007	investigate this query
+New Zealand	lost	81 runs		lost	2nd		ODI v Sri Lanka	Kingston	24 Apr 2007	investigate this query
+New Zealand	won	9 wickets	74	won	2nd		T20I v Kenya	Durban	12 Sep 2007	investigate this query
+New Zealand	lost	7 wickets	7	won	1st		T20I v Sri Lanka	Johannesburg	15 Sep 2007	investigate this query
+New Zealand	won	10 runs		lost	1st		T20I v India	Johannesburg	16 Sep 2007	investigate this query
+New Zealand	won	5 runs		lost	1st		T20I v England	Durban	18 Sep 2007	investigate this query
+New Zealand	lost	6 wickets	5	lost	1st		T20I v South Africa	Durban	19 Sep 2007	investigate this query
+New Zealand	lost	6 wickets	7	won	1st		T20I v Pakistan	Cape Town	22 Sep 2007	investigate this query
+New Zealand	lost	358 runs		lost	2nd		Test v South Africa	Johannesburg	8 Nov 2007	investigate this query
+New Zealand	lost	inns & 59 runs		won	1st		Test v South Africa	Centurion	16 Nov 2007	investigate this query
+New Zealand	lost	3 wickets	1	lost	1st		T20I v South Africa	Johannesburg	23 Nov 2007	investigate this query
+New Zealand	lost	2 wickets	0	lost	1st		ODI v South Africa	Durban	25 Nov 2007	investigate this query
+New Zealand	won	7 wickets	68	lost	2nd		ODI v South Africa	Port Elizabeth	30 Nov 2007	investigate this query
+New Zealand	lost	5 wickets	28	won	1st		ODI v South Africa	Cape Town	2 Dec 2007	investigate this query
+New Zealand	lost	54 runs		lost	2nd		T20I v Australia	Perth	11 Dec 2007	investigate this query
+New Zealand	lost	7 wickets	45	won	1st		ODI v Australia	Adelaide	14 Dec 2007	investigate this query
+New Zealand	n/r	-		won	1st		ODI v Australia	Sydney	16 Dec 2007	investigate this query
+New Zealand	lost	114 runs		won	2nd		ODI v Australia	Hobart	20 Dec 2007	investigate this query
+New Zealand	won	6 wickets	44	won	2nd		ODI v Bangladesh	Auckland	26 Dec 2007	investigate this query
+New Zealand	won	102 runs		won	1st		ODI v Bangladesh	Napier	28 Dec 2007	investigate this query
+New Zealand	won	10 wickets	264	won	2nd		ODI v Bangladesh	Queenstown	31 Dec 2007	investigate this query
+New Zealand	won	9 wickets		won	2nd		Test v Bangladesh	Dunedin	4 Jan 2008	investigate this query
+New Zealand	won	inns & 137 runs		won	2nd		Test v Bangladesh	Wellington	12 Jan 2008	investigate this query
+New Zealand	lost	32 runs		won	2nd		T20I v England	Auckland	5 Feb 2008	investigate this query
+New Zealand	lost	50 runs		lost	2nd		T20I v England	Christchurch	7 Feb 2008	investigate this query
+New Zealand	won	6 wickets	120	lost	2nd		ODI v England	Wellington	9 Feb 2008	investigate this query
+New Zealand	won	10 wickets	107	won	2nd		ODI v England	Hamilton	12 Feb 2008	investigate this query
+New Zealand	lost	6 wickets	18	lost	1st		ODI v England	Auckland	15 Feb 2008	investigate this query
+New Zealand	tied	-		won	2nd		ODI v England	Napier	20 Feb 2008	investigate this query
+New Zealand	won	34 runs		won	2nd		ODI v England	Christchurch	23 Feb 2008	investigate this query
+New Zealand	won	189 runs		won	1st		Test v England	Hamilton	5 Mar 2008	investigate this query
+New Zealand	lost	126 runs		won	2nd		Test v England	Wellington	13 Mar 2008	investigate this query
+New Zealand	lost	121 runs		lost	2nd		Test v England	Napier	22 Mar 2008	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Lord's	15 May 2008	investigate this query
+New Zealand	lost	6 wickets		won	1st		Test v England	Manchester	23 May 2008	investigate this query
+New Zealand	lost	inns & 9 runs		won	2nd		Test v England	Nottingham	5 Jun 2008	investigate this query
+New Zealand	lost	9 wickets	15	lost	1st		T20I v England	Manchester	13 Jun 2008	investigate this query
+New Zealand	lost	114 runs		won	2nd		ODI v England	Chester-le-Street	15 Jun 2008	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v England	Birmingham	18 Jun 2008	investigate this query
+New Zealand	won	22 runs		lost	1st		ODI v England	Bristol	21 Jun 2008	investigate this query
+New Zealand	won	1 wickets	0	won	2nd		ODI v England	The Oval	25 Jun 2008	investigate this query
+New Zealand	won	51 runs		lost	1st		ODI v England	Lord's	28 Jun 2008	investigate this query
+New Zealand	won	290 runs		lost	1st		ODI v Ireland	Aberdeen	1 Jul 2008	investigate this query
+New Zealand	won	8 wickets	212	won	2nd		ODI v Scotland	Aberdeen	3 Jul 2008	investigate this query
+New Zealand	lost	7 wickets	27	lost	1st		ODI v Bangladesh	Dhaka	9 Oct 2008	investigate this query
+New Zealand	won	75 runs		lost	1st		ODI v Bangladesh	Dhaka	11 Oct 2008	investigate this query
+New Zealand	won	79 runs		won	1st		ODI v Bangladesh	Chittagong	14 Oct 2008	investigate this query
+New Zealand	won	3 wickets		lost	2nd		Test v Bangladesh	Chittagong	17 Oct 2008	investigate this query
+New Zealand	draw	-		lost	1st		Test v Bangladesh	Dhaka	25 Oct 2008	investigate this query
+New Zealand	lost	149 runs		won	2nd		Test v Australia	Brisbane	20 Nov 2008	investigate this query
+New Zealand	lost	inns & 62 runs		won	1st		Test v Australia	Adelaide	28 Nov 2008	investigate this query
+New Zealand	draw	-		won	1st		Test v West Indies	Dunedin	11 Dec 2008	investigate this query
+New Zealand	draw	-		lost	2nd		Test v West Indies	Napier	19 Dec 2008	investigate this query
+New Zealand	tied	-		won	1st		T20I v West Indies	Auckland	26 Dec 2008	investigate this query
+New Zealand	won	36 runs		won	1st		T20I v West Indies	Hamilton	28 Dec 2008	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v West Indies	Queenstown	31 Dec 2008	investigate this query
+New Zealand	lost	5 wickets	1	lost	1st		ODI v West Indies	Christchurch	3 Jan 2009	investigate this query
+New Zealand	won	7 wickets	177	won	2nd		ODI v West Indies	Wellington	7 Jan 2009	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v West Indies	Auckland	10 Jan 2009	investigate this query
+New Zealand	won	9 runs		won	2nd		ODI v West Indies	Napier	13 Jan 2009	investigate this query
+New Zealand	won	2 wickets	0	lost	2nd		ODI v Australia	Perth	1 Feb 2009	investigate this query
+New Zealand	won	6 wickets	7	won	2nd		ODI v Australia	Melbourne	6 Feb 2009	investigate this query
+New Zealand	lost	32 runs		won	2nd		ODI v Australia	Sydney	8 Feb 2009	investigate this query
+New Zealand	lost	6 wickets	10	won	1st		ODI v Australia	Adelaide	10 Feb 2009	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Australia	Brisbane	13 Feb 2009	investigate this query
+New Zealand	lost	1 runs		lost	2nd		T20I v Australia	Sydney	15 Feb 2009	investigate this query
+New Zealand	won	7 wickets	7	won	2nd		T20I v India	Christchurch	25 Feb 2009	investigate this query
+New Zealand	won	5 wickets	0	won	2nd		T20I v India	Wellington	27 Feb 2009	investigate this query
+New Zealand	lost	53 runs		lost	2nd		ODI v India	Napier	3 Mar 2009	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v India	Wellington	6 Mar 2009	investigate this query
+New Zealand	lost	58 runs		won	2nd		ODI v India	Christchurch	8 Mar 2009	investigate this query
+New Zealand	lost	84 runs		won	1st		ODI v India	Hamilton	11 Mar 2009	investigate this query
+New Zealand	won	8 wickets	118	lost	2nd		ODI v India	Auckland	14 Mar 2009	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v India	Hamilton	18 Mar 2009	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Napier	26 Mar 2009	investigate this query
+New Zealand	draw	-		won	2nd		Test v India	Wellington	3 Apr 2009	investigate this query
+New Zealand	won	7 wickets	6	won	2nd		T20I v Scotland	The Oval	6 Jun 2009	investigate this query
+New Zealand	lost	1 runs		won	2nd		T20I v South Africa	Lord's	9 Jun 2009	investigate this query
+New Zealand	won	83 runs		lost	1st		T20I v Ireland	Nottingham	11 Jun 2009	investigate this query
+New Zealand	lost	6 wickets	41	won	1st		T20I v Pakistan	The Oval	13 Jun 2009	investigate this query
+New Zealand	lost	48 runs		lost	2nd		T20I v Sri Lanka	Nottingham	16 Jun 2009	investigate this query
+New Zealand	lost	202 runs		won	2nd		Test v Sri Lanka	Galle	18 Aug 2009	investigate this query
+New Zealand	lost	96 runs		lost	2nd		Test v Sri Lanka	Colombo (SSC)	26 Aug 2009	investigate this query
+New Zealand	won	3 runs		won	1st		T20I v Sri Lanka	Colombo (RPS)	2 Sep 2009	investigate this query
+New Zealand	won	22 runs		won	1st		T20I v Sri Lanka	Colombo (RPS)	4 Sep 2009	investigate this query
+New Zealand	lost	97 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	8 Sep 2009	investigate this query
+New Zealand	lost	6 wickets	57	won	1st		ODI v India	Colombo (RPS)	11 Sep 2009	investigate this query
+New Zealand	lost	5 wickets	53	lost	1st		ODI v South Africa	Centurion	24 Sep 2009	investigate this query
+New Zealand	won	38 runs		lost	1st		ODI v Sri Lanka	Johannesburg	27 Sep 2009	investigate this query
+New Zealand	won	4 wickets	137	won	2nd		ODI v England	Johannesburg	29 Sep 2009	investigate this query
+New Zealand	won	5 wickets	13	lost	2nd		ODI v Pakistan	Johannesburg	3 Oct 2009	investigate this query
+New Zealand	lost	6 wickets	28	won	1st		ODI v Australia	Centurion	5 Oct 2009	investigate this query
+New Zealand	lost	138 runs		lost	2nd		ODI v Pakistan	Abu Dhabi	3 Nov 2009	investigate this query
+New Zealand	won	64 runs		won	1st		ODI v Pakistan	Abu Dhabi	6 Nov 2009	investigate this query
+New Zealand	won	7 runs		won	1st		ODI v Pakistan	Abu Dhabi	9 Nov 2009	investigate this query
+New Zealand	lost	49 runs		won	2nd		T20I v Pakistan	Dubai (DSC)	12 Nov 2009	investigate this query
+New Zealand	lost	7 runs		lost	2nd		T20I v Pakistan	Dubai (DSC)	13 Nov 2009	investigate this query
+New Zealand	won	32 runs		lost	1st		Test v Pakistan	Dunedin	24 Nov 2009	investigate this query
+New Zealand	lost	141 runs		won	2nd		Test v Pakistan	Wellington	3 Dec 2009	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Pakistan	Napier	11 Dec 2009	investigate this query
+New Zealand	won	10 wickets	70	lost	2nd		T20I v Bangladesh	Hamilton	3 Feb 2010	investigate this query
+New Zealand	won	146 runs		won	1st		ODI v Bangladesh	Napier	5 Feb 2010	investigate this query
+New Zealand	won	5 wickets	135	won	2nd		ODI v Bangladesh	Dunedin	8 Feb 2010	investigate this query
+New Zealand	won	3 wickets	31	won	2nd		ODI v Bangladesh	Christchurch	11 Feb 2010	investigate this query
+New Zealand	won	121 runs		lost	1st		Test v Bangladesh	Hamilton	15 Feb 2010	investigate this query
+New Zealand	lost	6 wickets	24	won	1st		T20I v Australia	Wellington	26 Feb 2010	investigate this query
+New Zealand	tied	-		won	1st		T20I v Australia	Christchurch	28 Feb 2010	investigate this query
+New Zealand	won	2 wickets	4	lost	2nd		ODI v Australia	Napier	3 Mar 2010	investigate this query
+New Zealand	lost	12 runs		lost	2nd		ODI v Australia	Auckland	6 Mar 2010	investigate this query
+New Zealand	lost	6 wickets	16	lost	1st		ODI v Australia	Hamilton	9 Mar 2010	investigate this query
+New Zealand	lost	6 wickets	17	lost	1st		ODI v Australia	Auckland	11 Mar 2010	investigate this query
+New Zealand	won	51 runs		lost	1st		ODI v Australia	Wellington	13 Mar 2010	investigate this query
+New Zealand	lost	10 wickets		lost	2nd		Test v Australia	Wellington	19 Mar 2010	investigate this query
+New Zealand	lost	176 runs		lost	2nd		Test v Australia	Hamilton	27 Mar 2010	investigate this query
+New Zealand	won	2 wickets	1	lost	2nd		T20I v Sri Lanka	Providence	30 Apr 2010	investigate this query
+New Zealand	won	7 runs		won	2nd		T20I v Zimbabwe	Providence	4 May 2010	investigate this query
+New Zealand	lost	13 runs		lost	2nd		T20I v South Africa	Bridgetown	6 May 2010	investigate this query
+New Zealand	won	1 runs		lost	1st		T20I v Pakistan	Bridgetown	8 May 2010	investigate this query
+New Zealand	lost	3 wickets	5	won	1st		T20I v England	Gros Islet	10 May 2010	investigate this query
+New Zealand	won	28 runs		won	1st		T20I v Sri Lanka	Lauderhill	22 May 2010	investigate this query
+New Zealand	lost	7 wickets	27	won	1st		T20I v Sri Lanka	Lauderhill	23 May 2010	investigate this query
+New Zealand	won	200 runs		won	1st		ODI v India	Dambulla	10 Aug 2010	investigate this query
+New Zealand	lost	3 wickets	55	won	1st		ODI v Sri Lanka	Dambulla	13 Aug 2010	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Sri Lanka	Dambulla	19 Aug 2010	investigate this query
+New Zealand	lost	105 runs		lost	2nd		ODI v India	Dambulla	25 Aug 2010	investigate this query
+New Zealand	lost	9 runs		lost	2nd		ODI v Bangladesh	Dhaka	5 Oct 2010	investigate this query
+New Zealand	aban	-		-	-		ODI v Bangladesh	Dhaka	8 Oct 2010	investigate this query
+New Zealand	lost	7 wickets	60	lost	1st		ODI v Bangladesh	Dhaka	11 Oct 2010	investigate this query
+New Zealand	lost	9 runs		won	2nd		ODI v Bangladesh	Dhaka	14 Oct 2010	investigate this query
+New Zealand	lost	3 runs		lost	2nd		ODI v Bangladesh	Dhaka	17 Oct 2010	investigate this query
+New Zealand	draw	-		lost	2nd		Test v India	Ahmedabad	4 Nov 2010	investigate this query
+New Zealand	draw	-		won	1st		Test v India	Hyderabad (Deccan)	12 Nov 2010	investigate this query
+New Zealand	lost	inns & 198 runs		won	1st		Test v India	Nagpur	20 Nov 2010	investigate this query
+New Zealand	lost	40 runs		won	2nd		ODI v India	Guwahati	28 Nov 2010	investigate this query
+New Zealand	lost	8 wickets	42	lost	1st		ODI v India	Jaipur	1 Dec 2010	investigate this query
+New Zealand	lost	9 wickets	63	lost	1st		ODI v India	Vadodara	4 Dec 2010	investigate this query
+New Zealand	lost	5 wickets	7	lost	1st		ODI v India	Bangalore	7 Dec 2010	investigate this query
+New Zealand	lost	8 wickets	173	won	1st		ODI v India	Chennai	10 Dec 2010	investigate this query
+New Zealand	won	5 wickets	17	won	2nd		T20I v Pakistan	Auckland	26 Dec 2010	investigate this query
+New Zealand	won	39 runs		lost	1st		T20I v Pakistan	Hamilton	28 Dec 2010	investigate this query
+New Zealand	lost	103 runs		lost	2nd		T20I v Pakistan	Christchurch	30 Dec 2010	investigate this query
+New Zealand	lost	10 wickets		lost	1st		Test v Pakistan	Hamilton	7 Jan 2011	investigate this query
+New Zealand	draw	-		won	1st		Test v Pakistan	Wellington	15 Jan 2011	investigate this query
+New Zealand	won	9 wickets	196	lost	2nd		ODI v Pakistan	Wellington	22 Jan 2011	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Pakistan	Queenstown	26 Jan 2011	investigate this query
+New Zealand	lost	43 runs		won	2nd		ODI v Pakistan	Christchurch	29 Jan 2011	investigate this query
+New Zealand	lost	2 wickets	6	won	1st		ODI v Pakistan	Napier	1 Feb 2011	investigate this query
+New Zealand	lost	41 runs		won	2nd		ODI v Pakistan	Hamilton	3 Feb 2011	investigate this query
+New Zealand	won	57 runs		lost	1st		ODI v Pakistan	Auckland	5 Feb 2011	investigate this query
+New Zealand	won	10 wickets	252	lost	2nd		ODI v Kenya	Chennai	20 Feb 2011	investigate this query
+New Zealand	lost	7 wickets	96	lost	1st		ODI v Australia	Nagpur	25 Feb 2011	investigate this query
+New Zealand	won	10 wickets	99	lost	2nd		ODI v Zimbabwe	Ahmedabad	4 Mar 2011	investigate this query
+New Zealand	won	110 runs		won	1st		ODI v Pakistan	Pallekele	8 Mar 2011	investigate this query
+New Zealand	won	97 runs		lost	1st		ODI v Canada	Mumbai	13 Mar 2011	investigate this query
+New Zealand	lost	112 runs		lost	2nd		ODI v Sri Lanka	Mumbai	18 Mar 2011	investigate this query
+New Zealand	won	49 runs		won	1st		ODI v South Africa	Dhaka	25 Mar 2011	investigate this query
+New Zealand	lost	5 wickets	13	won	1st		ODI v Sri Lanka	Colombo (RPS)	29 Mar 2011	investigate this query
+New Zealand	won	10 wickets	39	won	2nd		T20I v Zimbabwe	Harare	15 Oct 2011	investigate this query
+New Zealand	won	34 runs		lost	1st		T20I v Zimbabwe	Harare	17 Oct 2011	investigate this query
+New Zealand	won	9 wickets	39	lost	2nd		ODI v Zimbabwe	Harare	20 Oct 2011	investigate this query
+New Zealand	won	4 wickets	10	won	2nd		ODI v Zimbabwe	Harare	22 Oct 2011	investigate this query
+New Zealand	lost	1 wickets	1	won	1st		ODI v Zimbabwe	Bulawayo	25 Oct 2011	investigate this query
+New Zealand	won	34 runs		won	1st		Test v Zimbabwe	Bulawayo	1 Nov 2011	investigate this query
+New Zealand	lost	9 wickets		won	1st		Test v Australia	Brisbane	1 Dec 2011	investigate this query
+New Zealand	won	7 runs		lost	1st		Test v Australia	Hobart	9 Dec 2011	investigate this query
+New Zealand	won	inns & 301 runs		lost	1st		Test v Zimbabwe	Napier	26 Jan 2012	investigate this query
+New Zealand	won	90 runs		lost	1st		ODI v Zimbabwe	Dunedin	3 Feb 2012	investigate this query
+New Zealand	won	141 runs		lost	1st		ODI v Zimbabwe	Whangarei	6 Feb 2012	investigate this query
+New Zealand	won	202 runs		won	1st		ODI v Zimbabwe	Napier	9 Feb 2012	investigate this query
+New Zealand	won	7 wickets	19	lost	2nd		T20I v Zimbabwe	Auckland	11 Feb 2012	investigate this query
+New Zealand	won	5 wickets	2	lost	2nd		T20I v Zimbabwe	Hamilton	14 Feb 2012	investigate this query
+New Zealand	won	6 wickets	4	won	2nd		T20I v South Africa	Wellington	17 Feb 2012	investigate this query
+New Zealand	lost	8 wickets	24	lost	1st		T20I v South Africa	Hamilton	19 Feb 2012	investigate this query
+New Zealand	lost	3 runs		won	2nd		T20I v South Africa	Auckland	22 Feb 2012	investigate this query
+New Zealand	lost	6 wickets	28	won	1st		ODI v South Africa	Wellington	25 Feb 2012	investigate this query
+New Zealand	lost	6 wickets	70	lost	1st		ODI v South Africa	Napier	29 Feb 2012	investigate this query
+New Zealand	lost	5 wickets	40	lost	1st		ODI v South Africa	Auckland	3 Mar 2012	investigate this query
+New Zealand	draw	-		won	2nd		Test v South Africa	Dunedin	7 Mar 2012	investigate this query
+New Zealand	lost	9 wickets		lost	1st		Test v South Africa	Hamilton	15 Mar 2012	investigate this query
+New Zealand	draw	-		won	2nd		Test v South Africa	Wellington	23 Mar 2012	investigate this query
+New Zealand	lost	56 runs		won	2nd		T20I v West Indies	Lauderhill	30 Jun 2012	investigate this query
+New Zealand	lost	61 runs		lost	2nd		T20I v West Indies	Lauderhill	1 Jul 2012	investigate this query
+New Zealand	lost	9 wickets	52	lost	1st		ODI v West Indies	Kingston	5 Jul 2012	investigate this query
+New Zealand	lost	55 runs		won	2nd		ODI v West Indies	Kingston	7 Jul 2012	investigate this query
+New Zealand	won	88 runs		lost	1st		ODI v West Indies	Basseterre	11 Jul 2012	investigate this query
+New Zealand	lost	24 runs		lost	2nd		ODI v West Indies	Basseterre	14 Jul 2012	investigate this query
+New Zealand	lost	20 runs		lost	2nd		ODI v West Indies	Basseterre	16 Jul 2012	investigate this query
+New Zealand	lost	9 wickets		won	1st		Test v West Indies	North Sound	25 Jul 2012	investigate this query
+New Zealand	lost	5 wickets		lost	1st		Test v West Indies	Kingston	2 Aug 2012	investigate this query
+New Zealand	lost	inns & 115 runs		lost	2nd		Test v India	Hyderabad (Deccan)	23 Aug 2012	investigate this query
+New Zealand	lost	5 wickets		won	1st		Test v India	Bangalore	31 Aug 2012	investigate this query
+New Zealand	aban	-		-	-		T20I v India	Visakhapatnam	8 Sep 2012	investigate this query
+New Zealand	won	1 runs		lost	1st		T20I v India	Chennai	11 Sep 2012	investigate this query
+New Zealand	won	59 runs		lost	1st		T20I v Bangladesh	Pallekele	21 Sep 2012	investigate this query
+New Zealand	lost	13 runs		lost	2nd		T20I v Pakistan	Pallekele	23 Sep 2012	investigate this query
+New Zealand	tied	-		won	1st		T20I v Sri Lanka	Pallekele	27 Sep 2012	investigate this query
+New Zealand	lost	6 wickets	7	won	1st		T20I v England	Pallekele	29 Sep 2012	investigate this query
+New Zealand	tied	-		won	2nd		T20I v West Indies	Pallekele	1 Oct 2012	investigate this query
+New Zealand	n/r	-		lost	1st		T20I v Sri Lanka	Pallekele	30 Oct 2012	investigate this query
+New Zealand	aban	-		-	-		ODI v Sri Lanka	Pallekele	1 Nov 2012	investigate this query
+New Zealand	lost	14 runs		won	1st		ODI v Sri Lanka	Pallekele	4 Nov 2012	investigate this query
+New Zealand	lost	7 wickets	11	lost	1st		ODI v Sri Lanka	Pallekele	6 Nov 2012	investigate this query
+New Zealand	lost	7 wickets	34	lost	1st		ODI v Sri Lanka	Hambantota	10 Nov 2012	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Sri Lanka	Hambantota	12 Nov 2012	investigate this query
+New Zealand	lost	10 wickets		won	1st		Test v Sri Lanka	Galle	17 Nov 2012	investigate this query
+New Zealand	won	167 runs		won	1st		Test v Sri Lanka	Colombo (PSS)	25 Nov 2012	investigate this query
+New Zealand	lost	8 wickets	47	won	1st		T20I v South Africa	Durban	21 Dec 2012	investigate this query
+New Zealand	won	8 wickets	0	won	2nd		T20I v South Africa	East London	23 Dec 2012	investigate this query
+New Zealand	lost	33 runs		lost	2nd		T20I v South Africa	Port Elizabeth	26 Dec 2012	investigate this query
+New Zealand	lost	inns & 27 runs		won	1st		Test v South Africa	Cape Town	2 Jan 2013	investigate this query
+New Zealand	lost	inns & 193 runs		lost	2nd		Test v South Africa	Port Elizabeth	11 Jan 2013	investigate this query
+New Zealand	won	1 wickets	26	won	2nd		ODI v South Africa	Paarl	19 Jan 2013	investigate this query
+New Zealand	won	27 runs		lost	1st		ODI v South Africa	Kimberley	22 Jan 2013	investigate this query
+New Zealand	lost	1 wickets	0	won	1st		ODI v South Africa	Potchefstroom	25 Jan 2013	investigate this query
+New Zealand	lost	40 runs		won	2nd		T20I v England	Auckland	9 Feb 2013	investigate this query
+New Zealand	won	55 runs		lost	1st		T20I v England	Hamilton	12 Feb 2013	investigate this query
+New Zealand	lost	10 wickets	44	lost	1st		T20I v England	Wellington	15 Feb 2013	investigate this query
+New Zealand	won	3 wickets	7	won	2nd		ODI v England	Hamilton	17 Feb 2013	investigate this query
+New Zealand	lost	8 wickets	14	lost	1st		ODI v England	Napier	20 Feb 2013	investigate this query
+New Zealand	lost	5 wickets	75	lost	1st		ODI v England	Auckland	23 Feb 2013	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Dunedin	6 Mar 2013	investigate this query
+New Zealand	draw	-		won	2nd		Test v England	Wellington	14 Mar 2013	investigate this query
+New Zealand	draw	-		lost	1st		Test v England	Auckland	22 Mar 2013	investigate this query
+New Zealand	lost	170 runs		lost	2nd		Test v England	Lord's	16 May 2013	investigate this query
+New Zealand	lost	247 runs		lost	2nd		Test v England	Leeds	24 May 2013	investigate this query
+New Zealand	won	5 wickets	19	won	2nd		ODI v England	Lord's	31 May 2013	investigate this query
+New Zealand	won	86 runs		won	1st		ODI v England	Southampton	2 Jun 2013	investigate this query
+New Zealand	lost	34 runs		won	2nd		ODI v England	Nottingham	5 Jun 2013	investigate this query
+New Zealand	won	1 wickets	81	lost	2nd		ODI v Sri Lanka	Cardiff	9 Jun 2013	investigate this query
+New Zealand	n/r	-		lost	2nd		ODI v Australia	Birmingham	12 Jun 2013	investigate this query
+New Zealand	lost	10 runs		won	2nd		ODI v England	Cardiff	16 Jun 2013	investigate this query
+New Zealand	won	5 runs		lost	1st		T20I v England	The Oval	25 Jun 2013	investigate this query
+New Zealand	n/r	-		won	2nd		T20I v England	The Oval	27 Jun 2013	investigate this query
+New Zealand	draw	-		won	1st		Test v Bangladesh	Chittagong	9 Oct 2013	investigate this query
+New Zealand	draw	-		lost	2nd		Test v Bangladesh	Dhaka	21 Oct 2013	investigate this query
+New Zealand	lost	43 runs		won	2nd		ODI v Bangladesh	Dhaka	29 Oct 2013	investigate this query
+New Zealand	lost	40 runs		lost	2nd		ODI v Bangladesh	Dhaka	31 Oct 2013	investigate this query
+New Zealand	lost	4 wickets	4	lost	1st		ODI v Bangladesh	Fatullah	3 Nov 2013	investigate this query
+New Zealand	won	15 runs		won	1st		T20I v Bangladesh	Dhaka	6 Nov 2013	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v Sri Lanka	Hambantota	10 Nov 2013	investigate this query
+New Zealand	won	4 wickets	0	lost	2nd		ODI v Sri Lanka	Hambantota	12 Nov 2013	investigate this query
+New Zealand	lost	36 runs		won	2nd		ODI v Sri Lanka	Dambulla	16 Nov 2013	investigate this query
+New Zealand	aban	-		-	-		T20I v Sri Lanka	Pallekele	19 Nov 2013	investigate this query
+New Zealand	lost	8 wickets	13	lost	1st		T20I v Sri Lanka	Pallekele	21 Nov 2013	investigate this query
+New Zealand	draw	-		lost	1st		Test v West Indies	Dunedin	3 Dec 2013	investigate this query
+New Zealand	won	inns & 73 runs		lost	1st		Test v West Indies	Wellington	11 Dec 2013	investigate this query
+New Zealand	won	8 wickets		won	2nd		Test v West Indies	Hamilton	19 Dec 2013	investigate this query
+New Zealand	lost	2 wickets	135	lost	1st		ODI v West Indies	Auckland	26 Dec 2013	investigate this query
+New Zealand	aban	-		-	-		ODI v West Indies	Napier	29 Dec 2013	investigate this query
+New Zealand	won	159 runs		lost	1st		ODI v West Indies	Queenstown	1 Jan 2014	investigate this query
+New Zealand	won	58 runs		won	1st		ODI v West Indies	Nelson	4 Jan 2014	investigate this query
+New Zealand	lost	203 runs		won	2nd		ODI v West Indies	Hamilton	8 Jan 2014	investigate this query
+New Zealand	won	81 runs		won	1st		T20I v West Indies	Auckland	11 Jan 2014	investigate this query
+New Zealand	won	4 wickets	6	lost	2nd		T20I v West Indies	Wellington	15 Jan 2014	investigate this query
+New Zealand	won	24 runs		lost	1st		ODI v India	Napier	19 Jan 2014	investigate this query
+New Zealand	won	15 runs		lost	1st		ODI v India	Hamilton	22 Jan 2014	investigate this query
+New Zealand	tied	-		lost	1st		ODI v India	Auckland	25 Jan 2014	investigate this query
+New Zealand	won	7 wickets	11	lost	2nd		ODI v India	Hamilton	28 Jan 2014	investigate this query
+New Zealand	won	87 runs		lost	1st		ODI v India	Wellington	31 Jan 2014	investigate this query
+New Zealand	won	40 runs		lost	1st		Test v India	Auckland	6 Feb 2014	investigate this query
+New Zealand	draw	-		lost	1st		Test v India	Wellington	14 Feb 2014	investigate this query
+New Zealand	won	9 runs		won	2nd		T20I v England	Chittagong	22 Mar 2014	investigate this query
+New Zealand	lost	2 runs		won	2nd		T20I v South Africa	Chittagong	24 Mar 2014	investigate this query
+New Zealand	won	6 wickets	6	won	2nd		T20I v Netherlands	Chittagong	29 Mar 2014	investigate this query
+New Zealand	lost	59 runs		won	2nd		T20I v Sri Lanka	Chittagong	31 Mar 2014	investigate this query
+New Zealand	won	186 runs		won	1st		Test v West Indies	Kingston	8 Jun 2014	investigate this query
+New Zealand	lost	10 wickets		won	1st		Test v West Indies	Port of Spain	16 Jun 2014	investigate this query
+New Zealand	won	53 runs		won	1st		Test v West Indies	Bridgetown	26 Jun 2014	investigate this query
+New Zealand	won	12 runs		won	2nd		T20I v West Indies	Roseau	5 Jul 2014	investigate this query
+New Zealand	lost	39 runs		won	2nd		T20I v West Indies	Roseau	6 Jul 2014	investigate this query
+New Zealand	lost	6 wickets	11	lost	1st		ODI v South Africa	Mount Maunganui	21 Oct 2014	investigate this query
+New Zealand	lost	72 runs		won	2nd		ODI v South Africa	Mount Maunganui	24 Oct 2014	investigate this query
+New Zealand	n/r	-		won	2nd		ODI v South Africa	Hamilton	27 Oct 2014	investigate this query
+New Zealand	lost	248 runs		lost	2nd		Test v Pakistan	Abu Dhabi	9 Nov 2014	investigate this query
+New Zealand	draw	-		won	1st		Test v Pakistan	Dubai (DSC)	17 Nov 2014	investigate this query
+New Zealand	won	inns & 80 runs		lost	2nd		Test v Pakistan	Sharjah	26 Nov 2014	investigate this query
+New Zealand	lost	7 wickets	5	lost	1st		T20I v Pakistan	Dubai (DSC)	4 Dec 2014	investigate this query
+New Zealand	won	17 runs		lost	1st		T20I v Pakistan	Dubai (DSC)	5 Dec 2014	investigate this query
+New Zealand	lost	3 wickets	3	lost	1st		ODI v Pakistan	Dubai (DSC)	8 Dec 2014	investigate this query
+New Zealand	won	4 wickets	24	lost	2nd		ODI v Pakistan	Sharjah	12 Dec 2014	investigate this query
+New Zealand	lost	147 runs		lost	2nd		ODI v Pakistan	Sharjah	14 Dec 2014	investigate this query
+New Zealand	won	7 runs		won	1st		ODI v Pakistan	Abu Dhabi	17 Dec 2014	investigate this query
+New Zealand	won	68 runs		won	1st		ODI v Pakistan	Abu Dhabi	19 Dec 2014	investigate this query
+New Zealand	won	8 wickets		lost	1st		Test v Sri Lanka	Christchurch	26 Dec 2014	investigate this query
+New Zealand	won	193 runs		lost	1st		Test v Sri Lanka	Wellington	3 Jan 2015	investigate this query
+New Zealand	won	3 wickets	42	lost	2nd		ODI v Sri Lanka	Christchurch	11 Jan 2015	investigate this query
+New Zealand	lost	6 wickets	14	won	1st		ODI v Sri Lanka	Hamilton	15 Jan 2015	investigate this query
+New Zealand	n/r	-		lost	1st		ODI v Sri Lanka	Auckland	17 Jan 2015	investigate this query
+New Zealand	won	4 wickets	11	lost	2nd		ODI v Sri Lanka	Nelson	20 Jan 2015	investigate this query
+New Zealand	won	108 runs		lost	1st		ODI v Sri Lanka	Dunedin	23 Jan 2015	investigate this query
+New Zealand	won	120 runs		won	1st		ODI v Sri Lanka	Dunedin	25 Jan 2015	investigate this query
+New Zealand	lost	34 runs		lost	2nd		ODI v Sri Lanka	Wellington	29 Jan 2015	investigate this query
+New Zealand	won	7 wickets	63	won	2nd		ODI v Pakistan	Wellington	31 Jan 2015	investigate this query
+New Zealand	won	119 runs		won	1st		ODI v Pakistan	Napier	3 Feb 2015	investigate this query
+New Zealand	won	98 runs		lost	1st		ODI v Sri Lanka	Christchurch	14 Feb 2015	investigate this query
+New Zealand	won	3 wickets	151	won	2nd		ODI v Scotland	Dunedin	17 Feb 2015	investigate this query
+New Zealand	won	8 wickets	226	lost	2nd		ODI v England	Wellington	20 Feb 2015	investigate this query
+New Zealand	won	1 wickets	161	lost	2nd		ODI v Australia	Auckland	28 Feb 2015	investigate this query
+New Zealand	won	6 wickets	83	lost	2nd		ODI v Afghanistan	Napier	8 Mar 2015	investigate this query
+New Zealand	won	3 wickets	7	won	2nd		ODI v Bangladesh	Hamilton	13 Mar 2015	investigate this query
+New Zealand	won	143 runs		won	1st		ODI v West Indies	Wellington	21 Mar 2015	investigate this query
+New Zealand	won	4 wickets	1	lost	2nd		ODI v South Africa	Auckland	24 Mar 2015	investigate this query
+New Zealand	lost	7 wickets	101	won	1st		ODI v Australia	Melbourne	29 Mar 2015	investigate this query
+New Zealand	lost	124 runs		won	2nd		Test v England	Lord's	21 May 2015	investigate this query
+New Zealand	won	199 runs		lost	1st		Test v England	Leeds	29 May 2015	investigate this query
+New Zealand	lost	210 runs		won	2nd		ODI v England	Birmingham	9 Jun 2015	investigate this query
+New Zealand	won	13 runs		won	1st		ODI v England	The Oval	12 Jun 2015	investigate this query
+New Zealand	won	3 wickets	6	lost	2nd		ODI v England	Southampton	14 Jun 2015	investigate this query
+New Zealand	lost	7 wickets	36	won	1st		ODI v England	Nottingham	17 Jun 2015	investigate this query
+New Zealand	lost	3 wickets	6	lost	1st		ODI v England	Chester-le-Street	20 Jun 2015	investigate this query
+New Zealand	lost	56 runs		lost	2nd		T20I v England	Manchester	23 Jun 2015	investigate this query
+New Zealand	lost	7 wickets	6	lost	1st		ODI v Zimbabwe	Harare	2 Aug 2015	investigate this query
+New Zealand	won	10 wickets	46	lost	2nd		ODI v Zimbabwe	Harare	4 Aug 2015	investigate this query
+New Zealand	won	38 runs		lost	1st		ODI v Zimbabwe	Harare	7 Aug 2015	investigate this query
+New Zealand	won	80 runs		lost	1st		T20I v Zimbabwe	Harare	9 Aug 2015	investigate this query
+New Zealand	lost	6 wickets	13	lost	1st		T20I v South Africa	Durban	14 Aug 2015	investigate this query
+New Zealand	won	32 runs		won	1st		T20I v South Africa	Centurion	16 Aug 2015	investigate this query
+New Zealand	lost	20 runs		won	2nd		ODI v South Africa	Centurion	19 Aug 2015	investigate this query
+New Zealand	won	8 wickets	33	lost	2nd		ODI v South Africa	Potchefstroom	23 Aug 2015	investigate this query
+New Zealand	lost	62 runs		lost	2nd		ODI v South Africa	Durban	26 Aug 2015	investigate this query

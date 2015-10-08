@@ -1,0 +1,103 @@
+Canada	lost	8 wickets	119	won	1st		ODI v Pakistan	Leeds	9 Jun 1979	investigate this query
+Canada	lost	8 wickets	277	won	1st		ODI v England	Manchester	13 Jun 1979	investigate this query
+Canada	lost	7 wickets	204	lost	1st		ODI v Australia	Birmingham	16 Jun 1979	investigate this query
+Canada	won	60 runs		won	1st		ODI v Bangladesh	Durban	11 Feb 2003	investigate this query
+Canada	lost	4 wickets	9	won	1st		ODI v Kenya	Cape Town	15 Feb 2003	investigate this query
+Canada	lost	9 wickets	272	lost	1st		ODI v Sri Lanka	Paarl	19 Feb 2003	investigate this query
+Canada	lost	7 wickets	177	lost	1st		ODI v West Indies	Centurion	23 Feb 2003	investigate this query
+Canada	lost	118 runs		won	2nd		ODI v South Africa	East London	27 Feb 2003	investigate this query
+Canada	lost	5 wickets	162	lost	1st		ODI v New Zealand	Benoni	3 Mar 2003	investigate this query
+Canada	lost	143 runs		lost	2nd		ODI v Zimbabwe	Port of Spain	16 May 2006	investigate this query
+Canada	lost	3 wickets	9	lost	1st		ODI v Bermuda	Port of Spain	17 May 2006	investigate this query
+Canada	lost	108 runs		lost	2nd		ODI v Kenya	Toronto	5 Aug 2006	investigate this query
+Canada	lost	5 wickets	106	won	1st		ODI v Kenya	Toronto	6 Aug 2006	investigate this query
+Canada	lost	6 wickets	60	won	1st		ODI v Bermuda	Toronto	19 Aug 2006	investigate this query
+Canada	lost	11 runs		lost	2nd		ODI v Bermuda	Toronto	21 Aug 2006	investigate this query
+Canada	lost	17 runs		won	2nd		ODI v Netherlands	Potchefstroom	26 Nov 2006	investigate this query
+Canada	won	5 wickets	13	won	2nd		ODI v Bermuda	Potchefstroom	27 Nov 2006	investigate this query
+Canada	won	3 wickets	62	won	2nd		ODI v Bermuda	Benoni	30 Nov 2006	investigate this query
+Canada	lost	1 wickets	2	lost	1st		ODI v Netherlands	Benoni	1 Dec 2006	investigate this query
+Canada	lost	2 wickets	1	won	1st		ODI v Scotland	Mombasa	18 Jan 2007	investigate this query
+Canada	lost			-	-		ODI v Kenya	Mombasa	20 Jan 2007	investigate this query
+Canada	lost	2 wickets	16	won	1st		ODI v Scotland	Mombasa	23 Jan 2007	investigate this query
+Canada	won	69 runs		won	1st		ODI v Kenya	Mombasa	24 Jan 2007	investigate this query
+Canada	lost	8 wickets	90	won	1st		ODI v Netherlands	Nairobi (Ruaraka)	30 Jan 2007	investigate this query
+Canada	lost	7 runs		won	2nd		ODI v Scotland	Nairobi (Ruaraka)	31 Jan 2007	investigate this query
+Canada	won	56 runs		lost	1st		ODI v Bermuda	Nairobi (Gym)	2 Feb 2007	investigate this query
+Canada	won	6 wickets	2	won	2nd		ODI v Ireland	Nairobi (Jaff)	4 Feb 2007	investigate this query
+Canada	lost	158 runs		lost	2nd		ODI v Kenya	Nairobi (Jaff)	5 Feb 2007	investigate this query
+Canada	won	3 wickets	36	lost	2nd		ODI v Bermuda	St John's	26 Feb 2007	investigate this query
+Canada	lost	13 runs		won	2nd		ODI v Bangladesh	St John's	28 Feb 2007	investigate this query
+Canada	lost	7 wickets	40	lost	1st		ODI v Kenya	Gros Islet	14 Mar 2007	investigate this query
+Canada	lost	51 runs		won	2nd		ODI v England	Gros Islet	18 Mar 2007	investigate this query
+Canada	lost	114 runs		won	2nd		ODI v New Zealand	Gros Islet	22 Mar 2007	investigate this query
+Canada	lost	117 runs		lost	2nd		ODI v Netherlands	Toronto	3 Jul 2007	investigate this query
+Canada	aban	-		-	-		ODI v Netherlands	Toronto	4 Jul 2007	investigate this query
+Canada	lost	4 wickets	8	lost	1st		ODI v Kenya	Nairobi (Gym)	18 Oct 2007	investigate this query
+Canada	lost	4 wickets	41	won	1st		ODI v Kenya	Nairobi (Gym)	20 Oct 2007	investigate this query
+Canada	lost	3 wickets	3	won	1st		ODI v Bermuda	King City (NW)	28 Jun 2008	investigate this query
+Canada	lost	11 runs		won	2nd		ODI v Bermuda	King City (NW)	29 Jun 2008	investigate this query
+Canada	won	77 runs		lost	1st		ODI v Bermuda	King City (NW)	1 Jul 2008	investigate this query
+Canada	won	4 wickets	3	lost	2nd		T20I v Netherlands	Belfast	2 Aug 2008	investigate this query
+Canada	lost	4 wickets	13	won	1st		T20I v Kenya	Belfast	3 Aug 2008	investigate this query
+Canada	won	8 wickets	57	won	2nd		T20I v Bermuda	Belfast	5 Aug 2008	investigate this query
+Canada	aban	-		-	-		ODI v Ireland	Dublin	12 Aug 2008	investigate this query
+Canada	won	25 runs		lost	1st		ODI v Bermuda	King City (NW)	18 Aug 2008	investigate this query
+Canada	lost	49 runs		lost	2nd		ODI v West Indies	King City (NW)	22 Aug 2008	investigate this query
+Canada	lost	7 wickets	135	lost	1st		ODI v West Indies	King City (NW)	24 Aug 2008	investigate this query
+Canada	lost	35 runs		lost	2nd		T20I v Pakistan	King City (NW)	10 Oct 2008	investigate this query
+Canada	tied	-		lost	1st		T20I v Zimbabwe	King City (NW)	11 Oct 2008	investigate this query
+Canada	lost	15 runs		lost	2nd		T20I v Sri Lanka	King City (NW)	12 Oct 2008	investigate this query
+Canada	lost	109 runs		won	2nd		T20I v Zimbabwe	King City (NW)	13 Oct 2008	investigate this query
+Canada	lost	6 wickets	54	lost	1st		ODI v Ireland	Benoni	6 Apr 2009	investigate this query
+Canada	won	148 runs		lost	1st		ODI v Scotland	Benoni	8 Apr 2009	investigate this query
+Canada	lost	9 wickets	45	lost	1st		ODI v Ireland	Centurion	19 Apr 2009	investigate this query
+Canada	won	6 wickets	8	won	2nd		ODI v Scotland	Aberdeen	7 Jul 2009	investigate this query
+Canada	lost	5 wickets	16	won	1st		ODI v Scotland	Aberdeen	8 Jul 2009	investigate this query
+Canada	lost	50 runs		won	2nd		ODI v Netherlands	Amstelveen	11 Jul 2009	investigate this query
+Canada	aban	-		-	-		ODI v Netherlands	Amstelveen	12 Jul 2009	investigate this query
+Canada	won	9 wickets	202	won	2nd		ODI v Kenya	King City (NW)	19 Aug 2009	investigate this query
+Canada	aban	-		-	-		ODI v Kenya	King City (NW)	21 Aug 2009	investigate this query
+Canada	n/r	-		lost	1st		ODI v Kenya	King City (NW)	22 Aug 2009	investigate this query
+Canada	aban	-		-	-		ODI v Kenya	King City (NW)	23 Aug 2009	investigate this query
+Canada	won	4 runs		lost	1st		T20I v Ireland	Colombo (SSC)	3 Feb 2010	investigate this query
+Canada	lost	5 wickets	1	won	1st		T20I v Afghanistan	Colombo (SSC)	4 Feb 2010	investigate this query
+Canada	lost	6 wickets	5	won	1st		T20I v Netherlands	Dubai (DSC)	9 Feb 2010	investigate this query
+Canada	lost	9 wickets	31	lost	1st		T20I v Kenya	Dubai (DSC)	10 Feb 2010	investigate this query
+Canada	lost	1 runs		won	2nd		ODI v Afghanistan	Sharjah	16 Feb 2010	investigate this query
+Canada	won	4 wickets	64	won	2nd		ODI v Afghanistan	Sharjah	18 Feb 2010	investigate this query
+Canada	lost	208 runs		lost	2nd		ODI v West Indies	Kingston	13 Apr 2010	investigate this query
+Canada	lost	6 wickets	8	won	1st		ODI v Afghanistan	The Hague	1 Jul 2010	investigate this query
+Canada	lost	69 runs		lost	2nd		ODI v Scotland	Amstelveen	3 Jul 2010	investigate this query
+Canada	lost	7 wickets	44	won	1st		ODI v Netherlands	Rotterdam	5 Jul 2010	investigate this query
+Canada	lost	5 wickets	65	won	1st		ODI v Ireland	Amstelveen	7 Jul 2010	investigate this query
+Canada	won	6 wickets	85	won	2nd		ODI v Kenya	Schiedam	9 Jul 2010	investigate this query
+Canada	won	3 wickets	4	won	2nd		ODI v Kenya	Schiedam	10 Jul 2010	investigate this query
+Canada	won	4 runs		lost	2nd		ODI v Ireland	Toronto	6 Sep 2010	investigate this query
+Canada	lost	92 runs		won	2nd		ODI v Ireland	Toronto	7 Sep 2010	investigate this query
+Canada	lost	210 runs		lost	2nd		ODI v Sri Lanka	Hambantota	20 Feb 2011	investigate this query
+Canada	lost	175 runs		lost	2nd		ODI v Zimbabwe	Nagpur	28 Feb 2011	investigate this query
+Canada	lost	46 runs		lost	2nd		ODI v Pakistan	Colombo (RPS)	3 Mar 2011	investigate this query
+Canada	won	5 wickets	27	lost	2nd		ODI v Kenya	Delhi	7 Mar 2011	investigate this query
+Canada	lost	97 runs		won	2nd		ODI v New Zealand	Mumbai	13 Mar 2011	investigate this query
+Canada	lost	7 wickets	91	won	1st		ODI v Australia	Bangalore	16 Mar 2011	investigate this query
+Canada	lost	2 wickets	11	lost	1st		ODI v Afghanistan	King City (NW)	7 Aug 2011	investigate this query
+Canada	lost	17 runs		lost	2nd		ODI v Afghanistan	Toronto	9 Aug 2011	investigate this query
+Canada	lost	133 runs		won	2nd		ODI v Ireland	Dublin	19 Sep 2011	investigate this query
+Canada	lost	56 runs		lost	2nd		ODI v Ireland	Dublin	20 Sep 2011	investigate this query
+Canada	lost	42 runs		lost	2nd		T20I v Netherlands	Dubai (DSC)	13 Mar 2012	investigate this query
+Canada	lost	41 runs		lost	2nd		T20I v Afghanistan	Dubai (CA)	18 Mar 2012	investigate this query
+Canada	lost	10 wickets	63	won	1st		T20I v Ireland	Dubai (DSC)	22 Mar 2012	investigate this query
+Canada	lost	4 wickets	0	won	1st		T20I v Scotland	Dubai (DSC)	23 Mar 2012	investigate this query
+Canada	aban	-		-	-		ODI v Scotland	Ayr	9 Jul 2012	investigate this query
+Canada	lost	4 wickets	47	lost	1st		ODI v Scotland	Ayr	11 Jul 2012	investigate this query
+Canada	lost	6 wickets	14	won	1st		ODI v Kenya	Dubai (CA)	11 Mar 2013	investigate this query
+Canada	lost	6 wickets	12	won	1st		ODI v Kenya	Dubai (CA)	13 Mar 2013	investigate this query
+Canada	won	5 wickets	9	lost	2nd		T20I v Kenya	Dubai (CA)	15 Mar 2013	investigate this query
+Canada	lost	21 runs		lost	2nd		T20I v Kenya	Dubai (CA)	16 Mar 2013	investigate this query
+Canada	n/r	-		won	2nd		ODI v Netherlands	King City (NW)	27 Aug 2013	investigate this query
+Canada	lost	9 wickets	236	lost	1st		ODI v Netherlands	King City (NW)	29 Aug 2013	investigate this query
+Canada	lost	2 runs		won	2nd		T20I v Ireland	Abu Dhabi	16 Nov 2013	investigate this query
+Canada	lost	21 runs		lost	2nd		T20I v Kenya	Sharjah	26 Nov 2013	investigate this query
+Canada	lost	170 runs		won	2nd		ODI v Scotland	Christchurch	23 Jan 2014	investigate this query
+Canada	lost	8 wickets	80	won	1st		ODI v Netherlands	Mount Maunganui	28 Jan 2014	investigate this query

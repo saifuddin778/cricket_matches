@@ -1,0 +1,1033 @@
+South Africa	lost	8 wickets		won	1st		Test v England	Port Elizabeth	12 Mar 1889	investigate this query
+South Africa	lost	inns & 202 runs		lost	2nd		Test v England	Cape Town	25 Mar 1889	investigate this query
+South Africa	lost	inns & 189 runs		won	1st		Test v England	Cape Town	19 Mar 1892	investigate this query
+South Africa	lost	288 runs		won	2nd		Test v England	Port Elizabeth	13 Feb 1896	investigate this query
+South Africa	lost	inns & 197 runs		lost	2nd		Test v England	Johannesburg	2 Mar 1896	investigate this query
+South Africa	lost	inns & 33 runs		lost	1st		Test v England	Cape Town	21 Mar 1896	investigate this query
+South Africa	lost	32 runs		lost	2nd		Test v England	Johannesburg	14 Feb 1899	investigate this query
+South Africa	lost	210 runs		lost	2nd		Test v England	Cape Town	1 Apr 1899	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Johannesburg	11 Oct 1902	investigate this query
+South Africa	lost	159 runs		lost	2nd		Test v Australia	Johannesburg	18 Oct 1902	investigate this query
+South Africa	lost	10 wickets		lost	2nd		Test v Australia	Cape Town	8 Nov 1902	investigate this query
+South Africa	won	1 wickets		lost	2nd		Test v England	Johannesburg	2 Jan 1906	investigate this query
+South Africa	won	9 wickets		lost	2nd		Test v England	Johannesburg	6 Mar 1906	investigate this query
+South Africa	won	243 runs		won	1st		Test v England	Johannesburg	10 Mar 1906	investigate this query
+South Africa	lost	4 wickets		won	1st		Test v England	Cape Town	24 Mar 1906	investigate this query
+South Africa	won	inns & 16 runs		lost	2nd		Test v England	Cape Town	30 Mar 1906	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Lord's	1 Jul 1907	investigate this query
+South Africa	lost	53 runs		lost	2nd		Test v England	Leeds	29 Jul 1907	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	The Oval	19 Aug 1907	investigate this query
+South Africa	won	19 runs		won	1st		Test v England	Johannesburg	1 Jan 1910	investigate this query
+South Africa	won	95 runs		won	1st		Test v England	Durban	21 Jan 1910	investigate this query
+South Africa	lost	3 wickets		won	1st		Test v England	Johannesburg	26 Feb 1910	investigate this query
+South Africa	won	4 wickets		lost	2nd		Test v England	Cape Town	7 Mar 1910	investigate this query
+South Africa	lost	9 wickets		lost	2nd		Test v England	Cape Town	11 Mar 1910	investigate this query
+South Africa	lost	inns & 114 runs		lost	2nd		Test v Australia	Sydney	9 Dec 1910	investigate this query
+South Africa	lost	89 runs		lost	2nd		Test v Australia	Melbourne	31 Dec 1910	investigate this query
+South Africa	won	38 runs		won	1st		Test v Australia	Adelaide	7 Jan 1911	investigate this query
+South Africa	lost	530 runs		won	2nd		Test v Australia	Melbourne	17 Feb 1911	investigate this query
+South Africa	lost	7 wickets		won	2nd		Test v Australia	Sydney	3 Mar 1911	investigate this query
+South Africa	lost	inns & 88 runs		lost	2nd		Test v Australia	Manchester	27 May 1912	investigate this query
+South Africa	lost	inns & 62 runs		won	1st		Test v England	Lord's	10 Jun 1912	investigate this query
+South Africa	lost	174 runs		lost	2nd		Test v England	Leeds	8 Jul 1912	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v Australia	Lord's	15 Jul 1912	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Nottingham	5 Aug 1912	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v England	The Oval	12 Aug 1912	investigate this query
+South Africa	lost	inns & 157 runs		won	1st		Test v England	Durban	13 Dec 1913	investigate this query
+South Africa	lost	inns & 12 runs		won	1st		Test v England	Johannesburg	26 Dec 1913	investigate this query
+South Africa	lost	91 runs		lost	2nd		Test v England	Johannesburg	1 Jan 1914	investigate this query
+South Africa	draw	-		won	1st		Test v England	Durban	14 Feb 1914	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v England	Port Elizabeth	27 Feb 1914	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Durban	5 Nov 1921	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Johannesburg	12 Nov 1921	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v Australia	Cape Town	26 Nov 1921	investigate this query
+South Africa	won	168 runs		won	1st		Test v England	Johannesburg	23 Dec 1922	investigate this query
+South Africa	lost	1 wickets		won	1st		Test v England	Cape Town	1 Jan 1923	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Durban	18 Jan 1923	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	9 Feb 1923	investigate this query
+South Africa	lost	109 runs		lost	2nd		Test v England	Durban	16 Feb 1923	investigate this query
+South Africa	lost	inns & 18 runs		won	2nd		Test v England	Birmingham	14 Jun 1924	investigate this query
+South Africa	lost	inns & 18 runs		won	1st		Test v England	Lord's	28 Jun 1924	investigate this query
+South Africa	lost	9 wickets		lost	2nd		Test v England	Leeds	12 Jul 1924	investigate this query
+South Africa	draw	-		won	1st		Test v England	Manchester	26 Jul 1924	investigate this query
+South Africa	draw	-		won	1st		Test v England	The Oval	16 Aug 1924	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v England	Johannesburg	24 Dec 1927	investigate this query
+South Africa	lost	87 runs		won	2nd		Test v England	Cape Town	31 Dec 1927	investigate this query
+South Africa	draw	-		won	1st		Test v England	Durban	21 Jan 1928	investigate this query
+South Africa	won	4 wickets		won	2nd		Test v England	Johannesburg	28 Jan 1928	investigate this query
+South Africa	won	8 wickets		won	2nd		Test v England	Durban	4 Feb 1928	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Birmingham	15 Jun 1929	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Lord's	29 Jun 1929	investigate this query
+South Africa	lost	5 wickets		won	1st		Test v England	Leeds	13 Jul 1929	investigate this query
+South Africa	lost	inns & 32 runs		lost	2nd		Test v England	Manchester	27 Jul 1929	investigate this query
+South Africa	draw	-		won	2nd		Test v England	The Oval	17 Aug 1929	investigate this query
+South Africa	won	28 runs		lost	1st		Test v England	Johannesburg	24 Dec 1930	investigate this query
+South Africa	draw	-		won	1st		Test v England	Cape Town	1 Jan 1931	investigate this query
+South Africa	draw	-		won	1st		Test v England	Durban	16 Jan 1931	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	13 Feb 1931	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Durban	21 Feb 1931	investigate this query
+South Africa	lost	inns & 163 runs		lost	2nd		Test v Australia	Brisbane	27 Nov 1931	investigate this query
+South Africa	lost	inns & 155 runs		won	1st		Test v Australia	Sydney	18 Dec 1931	investigate this query
+South Africa	lost	169 runs		lost	2nd		Test v Australia	Melbourne	31 Dec 1931	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v Australia	Adelaide	29 Jan 1932	investigate this query
+South Africa	lost	inns & 72 runs		won	1st		Test v Australia	Melbourne	12 Feb 1932	investigate this query
+South Africa	won	inns & 12 runs		lost	2nd		Test v New Zealand	Christchurch	27 Feb 1932	investigate this query
+South Africa	won	8 wickets		lost	2nd		Test v New Zealand	Wellington	4 Mar 1932	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Nottingham	15 Jun 1935	investigate this query
+South Africa	won	157 runs		won	1st		Test v England	Lord's	29 Jun 1935	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Leeds	13 Jul 1935	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Manchester	27 Jul 1935	investigate this query
+South Africa	draw	-		lost	1st		Test v England	The Oval	17 Aug 1935	investigate this query
+South Africa	lost	9 wickets		won	1st		Test v Australia	Durban	14 Dec 1935	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Johannesburg	24 Dec 1935	investigate this query
+South Africa	lost	inns & 78 runs		lost	2nd		Test v Australia	Cape Town	1 Jan 1936	investigate this query
+South Africa	lost	inns & 184 runs		won	1st		Test v Australia	Johannesburg	15 Feb 1936	investigate this query
+South Africa	lost	inns & 6 runs		won	1st		Test v Australia	Durban	28 Feb 1936	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	24 Dec 1938	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Cape Town	31 Dec 1938	investigate this query
+South Africa	lost	inns & 13 runs		lost	2nd		Test v England	Durban	20 Jan 1939	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	18 Feb 1939	investigate this query
+South Africa	draw	-		won	1st		Test v England	Durban	3 Mar 1939	investigate this query
+South Africa	draw	-		won	1st		Test v England	Nottingham	7 Jun 1947	investigate this query
+South Africa	lost	10 wickets		lost	2nd		Test v England	Lord's	21 Jun 1947	investigate this query
+South Africa	lost	7 wickets		won	1st		Test v England	Manchester	5 Jul 1947	investigate this query
+South Africa	lost	10 wickets		won	1st		Test v England	Leeds	26 Jul 1947	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	The Oval	16 Aug 1947	investigate this query
+South Africa	lost	2 wickets		won	1st		Test v England	Durban	16 Dec 1948	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	27 Dec 1948	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Cape Town	1 Jan 1949	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	12 Feb 1949	investigate this query
+South Africa	lost	3 wickets		won	1st		Test v England	Port Elizabeth	5 Mar 1949	investigate this query
+South Africa	lost	inns & 85 runs		lost	2nd		Test v Australia	Johannesburg	24 Dec 1949	investigate this query
+South Africa	lost	8 wickets		lost	2nd		Test v Australia	Cape Town	31 Dec 1949	investigate this query
+South Africa	lost	5 wickets		won	1st		Test v Australia	Durban	20 Jan 1950	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Johannesburg	10 Feb 1950	investigate this query
+South Africa	lost	inns & 259 runs		lost	2nd		Test v Australia	Port Elizabeth	3 Mar 1950	investigate this query
+South Africa	won	71 runs		won	1st		Test v England	Nottingham	7 Jun 1951	investigate this query
+South Africa	lost	10 wickets		lost	2nd		Test v England	Lord's	21 Jun 1951	investigate this query
+South Africa	lost	9 wickets		won	1st		Test v England	Manchester	5 Jul 1951	investigate this query
+South Africa	draw	-		won	1st		Test v England	Leeds	26 Jul 1951	investigate this query
+South Africa	lost	4 wickets		won	1st		Test v England	The Oval	16 Aug 1951	investigate this query
+South Africa	lost	96 runs		lost	2nd		Test v Australia	Brisbane	5 Dec 1952	investigate this query
+South Africa	won	82 runs		won	1st		Test v Australia	Melbourne	24 Dec 1952	investigate this query
+South Africa	lost	inns & 38 runs		won	1st		Test v Australia	Sydney	9 Jan 1953	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Adelaide	24 Jan 1953	investigate this query
+South Africa	won	6 wickets		lost	2nd		Test v Australia	Melbourne	6 Feb 1953	investigate this query
+South Africa	won	inns & 180 runs		won	1st		Test v New Zealand	Wellington	6 Mar 1953	investigate this query
+South Africa	draw	-		won	1st		Test v New Zealand	Auckland	13 Mar 1953	investigate this query
+South Africa	won	inns & 58 runs		won	1st		Test v New Zealand	Durban	11 Dec 1953	investigate this query
+South Africa	won	132 runs		won	1st		Test v New Zealand	Johannesburg	24 Dec 1953	investigate this query
+South Africa	draw	-		lost	2nd		Test v New Zealand	Cape Town	1 Jan 1954	investigate this query
+South Africa	won	9 wickets		lost	1st		Test v New Zealand	Johannesburg	29 Jan 1954	investigate this query
+South Africa	won	5 wickets		lost	2nd		Test v New Zealand	Port Elizabeth	5 Feb 1954	investigate this query
+South Africa	lost	inns & 5 runs		lost	2nd		Test v England	Nottingham	9 Jun 1955	investigate this query
+South Africa	lost	71 runs		lost	2nd		Test v England	Lord's	23 Jun 1955	investigate this query
+South Africa	won	3 wickets		lost	2nd		Test v England	Manchester	7 Jul 1955	investigate this query
+South Africa	won	224 runs		won	1st		Test v England	Leeds	21 Jul 1955	investigate this query
+South Africa	lost	92 runs		lost	2nd		Test v England	The Oval	13 Aug 1955	investigate this query
+South Africa	lost	131 runs		lost	2nd		Test v England	Johannesburg	24 Dec 1956	investigate this query
+South Africa	lost	312 runs		lost	2nd		Test v England	Cape Town	1 Jan 1957	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Durban	25 Jan 1957	investigate this query
+South Africa	won	17 runs		won	1st		Test v England	Johannesburg	15 Feb 1957	investigate this query
+South Africa	won	58 runs		won	1st		Test v England	Port Elizabeth	1 Mar 1957	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Johannesburg	23 Dec 1957	investigate this query
+South Africa	lost	inns & 141 runs		lost	2nd		Test v Australia	Cape Town	31 Dec 1957	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Durban	24 Jan 1958	investigate this query
+South Africa	lost	10 wickets		lost	2nd		Test v Australia	Johannesburg	7 Feb 1958	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v Australia	Port Elizabeth	28 Feb 1958	investigate this query
+South Africa	lost	100 runs		lost	2nd		Test v England	Birmingham	9 Jun 1960	investigate this query
+South Africa	lost	inns & 73 runs		lost	2nd		Test v England	Lord's	23 Jun 1960	investigate this query
+South Africa	lost	8 wickets		lost	2nd		Test v England	Nottingham	7 Jul 1960	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Manchester	21 Jul 1960	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	The Oval	18 Aug 1960	investigate this query
+South Africa	won	30 runs		won	1st		Test v New Zealand	Durban	8 Dec 1961	investigate this query
+South Africa	draw	-		won	1st		Test v New Zealand	Johannesburg	26 Dec 1961	investigate this query
+South Africa	lost	72 runs		lost	2nd		Test v New Zealand	Cape Town	1 Jan 1962	investigate this query
+South Africa	won	inns & 51 runs		lost	2nd		Test v New Zealand	Johannesburg	2 Feb 1962	investigate this query
+South Africa	lost	40 runs		lost	2nd		Test v New Zealand	Port Elizabeth	16 Feb 1962	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Brisbane	6 Dec 1963	investigate this query
+South Africa	lost	8 wickets		lost	1st		Test v Australia	Melbourne	1 Jan 1964	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Sydney	10 Jan 1964	investigate this query
+South Africa	won	10 wickets		lost	2nd		Test v Australia	Adelaide	24 Jan 1964	investigate this query
+South Africa	draw	-		won	2nd		Test v Australia	Sydney	7 Feb 1964	investigate this query
+South Africa	draw	-		won	1st		Test v New Zealand	Wellington	21 Feb 1964	investigate this query
+South Africa	draw	-		lost	2nd		Test v New Zealand	Dunedin	28 Feb 1964	investigate this query
+South Africa	draw	-		lost	1st		Test v New Zealand	Auckland	13 Mar 1964	investigate this query
+South Africa	lost	inns & 104 runs		lost	2nd		Test v England	Durban	4 Dec 1964	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Johannesburg	23 Dec 1964	investigate this query
+South Africa	draw	-		won	1st		Test v England	Cape Town	1 Jan 1965	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Johannesburg	22 Jan 1965	investigate this query
+South Africa	draw	-		won	1st		Test v England	Port Elizabeth	12 Feb 1965	investigate this query
+South Africa	draw	-		won	1st		Test v England	Lord's	22 Jul 1965	investigate this query
+South Africa	won	94 runs		won	1st		Test v England	Nottingham	5 Aug 1965	investigate this query
+South Africa	draw	-		lost	1st		Test v England	The Oval	26 Aug 1965	investigate this query
+South Africa	won	233 runs		won	1st		Test v Australia	Johannesburg	23 Dec 1966	investigate this query
+South Africa	lost	6 wickets		lost	2nd		Test v Australia	Cape Town	31 Dec 1966	investigate this query
+South Africa	won	8 wickets		lost	1st		Test v Australia	Durban	20 Jan 1967	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Johannesburg	3 Feb 1967	investigate this query
+South Africa	won	7 wickets		won	2nd		Test v Australia	Port Elizabeth	24 Feb 1967	investigate this query
+South Africa	won	170 runs		won	1st		Test v Australia	Cape Town	22 Jan 1970	investigate this query
+South Africa	won	inns & 129 runs		won	1st		Test v Australia	Durban	5 Feb 1970	investigate this query
+South Africa	won	307 runs		won	1st		Test v Australia	Johannesburg	19 Feb 1970	investigate this query
+South Africa	won	323 runs		won	1st		Test v Australia	Port Elizabeth	5 Mar 1970	investigate this query
+South Africa	lost	3 wickets	38	lost	1st		ODI v India	Kolkata	10 Nov 1991	investigate this query
+South Africa	lost	38 runs		won	2nd		ODI v India	Gwalior	12 Nov 1991	investigate this query
+South Africa	won	8 wickets	20	lost	2nd		ODI v India	New Delhi	14 Nov 1991	investigate this query
+South Africa	won	9 wickets	13	lost	2nd		ODI v Australia	Sydney	26 Feb 1992	investigate this query
+South Africa	lost	7 wickets	93	won	1st		ODI v New Zealand	Auckland	29 Feb 1992	investigate this query
+South Africa	lost	3 wickets	1	lost	1st		ODI v Sri Lanka	Wellington	2 Mar 1992	investigate this query
+South Africa	won	64 runs		lost	1st		ODI v West Indies	Christchurch	5 Mar 1992	investigate this query
+South Africa	won	20 runs		lost	1st		ODI v Pakistan	Brisbane	8 Mar 1992	investigate this query
+South Africa	won	7 wickets	29	won	2nd		ODI v Zimbabwe	Canberra	10 Mar 1992	investigate this query
+South Africa	lost	3 wickets	1	lost	1st		ODI v England	Melbourne	12 Mar 1992	investigate this query
+South Africa	won	6 wickets	5	won	2nd		ODI v India	Adelaide	15 Mar 1992	investigate this query
+South Africa	lost	19 runs		won	2nd		ODI v England	Sydney	22 Mar 1992	investigate this query
+South Africa	lost	107 runs		won	2nd		ODI v West Indies	Kingston	7 Apr 1992	investigate this query
+South Africa	lost	10 wickets	145	lost	1st		ODI v West Indies	Port of Spain	11 Apr 1992	investigate this query
+South Africa	lost	7 wickets	42	lost	1st		ODI v West Indies	Port of Spain	12 Apr 1992	investigate this query
+South Africa	lost	52 runs		won	2nd		Test v West Indies	Bridgetown	18 Apr 1992	investigate this query
+South Africa	draw	-		lost	1st		Test v India	Durban	13 Nov 1992	investigate this query
+South Africa	draw	-		won	1st		Test v India	Johannesburg	26 Nov 1992	investigate this query
+South Africa	won	6 wickets	3	lost	2nd		ODI v India	Cape Town	7 Dec 1992	investigate this query
+South Africa	won	6 wickets	20	lost	2nd		ODI v India	Port Elizabeth	9 Dec 1992	investigate this query
+South Africa	lost	4 wickets	5	lost	1st		ODI v India	Centurion	11 Dec 1992	investigate this query
+South Africa	won	6 wickets	9	won	2nd		ODI v India	Johannesburg	13 Dec 1992	investigate this query
+South Africa	won	8 wickets	16	won	2nd		ODI v India	Bloemfontein	15 Dec 1992	investigate this query
+South Africa	won	39 runs		lost	1st		ODI v India	Durban	17 Dec 1992	investigate this query
+South Africa	lost	5 wickets	16	lost	1st		ODI v India	East London	19 Dec 1992	investigate this query
+South Africa	won	9 wickets		won	2nd		Test v India	Port Elizabeth	26 Dec 1992	investigate this query
+South Africa	draw	-		won	1st		Test v India	Cape Town	2 Jan 1993	investigate this query
+South Africa	lost	10 runs		won	2nd		ODI v Pakistan	Durban	9 Feb 1993	investigate this query
+South Africa	won	6 wickets	19	won	2nd		ODI v West Indies	Port Elizabeth	11 Feb 1993	investigate this query
+South Africa	lost	9 runs		lost	2nd		ODI v Pakistan	East London	15 Feb 1993	investigate this query
+South Africa	won	4 runs		lost	1st		ODI v West Indies	Cape Town	17 Feb 1993	investigate this query
+South Africa	lost	22 runs		lost	2nd		ODI v Pakistan	Centurion	21 Feb 1993	investigate this query
+South Africa	lost	9 wickets	33	won	1st		ODI v West Indies	Bloemfontein	23 Feb 1993	investigate this query
+South Africa	n/r	-		won	2nd		ODI v Sri Lanka	Kandy	22 Aug 1993	investigate this query
+South Africa	draw	-		lost	2nd		Test v Sri Lanka	Moratuwa	25 Aug 1993	investigate this query
+South Africa	won	124 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	2 Sep 1993	investigate this query
+South Africa	lost	44 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	4 Sep 1993	investigate this query
+South Africa	won	inns & 208 runs		lost	2nd		Test v Sri Lanka	Colombo (SSC)	6 Sep 1993	investigate this query
+South Africa	draw	-		won	1st		Test v Sri Lanka	Colombo (PSS)	14 Sep 1993	investigate this query
+South Africa	n/r	-		lost	1st		ODI v Zimbabwe	Bangalore	10 Nov 1993	investigate this query
+South Africa	won	41 runs		lost	1st		ODI v West Indies	Mumbai (BS)	14 Nov 1993	investigate this query
+South Africa	won	78 runs		lost	1st		ODI v Sri Lanka	Guwahati	19 Nov 1993	investigate this query
+South Africa	lost	43 runs		won	2nd		ODI v India	Mohali	22 Nov 1993	investigate this query
+South Africa	lost	2 runs		lost	2nd		ODI v India	Kolkata	24 Nov 1993	investigate this query
+South Africa	won	7 wickets	8	lost	2nd		ODI v Australia	Melbourne	9 Dec 1993	investigate this query
+South Africa	aban	-		-	-		ODI v New Zealand	Adelaide	11 Dec 1993	investigate this query
+South Africa	lost	103 runs		won	2nd		ODI v Australia	Sydney	14 Dec 1993	investigate this query
+South Africa	lost	4 wickets	35	won	1st		ODI v New Zealand	Hobart	18 Dec 1993	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Melbourne	26 Dec 1993	investigate this query
+South Africa	won	5 runs		won	1st		Test v Australia	Sydney	2 Jan 1994	investigate this query
+South Africa	lost	9 runs		won	2nd		ODI v New Zealand	Brisbane	8 Jan 1994	investigate this query
+South Africa	lost	48 runs		won	2nd		ODI v Australia	Brisbane	9 Jan 1994	investigate this query
+South Africa	won	5 wickets	117	lost	2nd		ODI v New Zealand	Perth	14 Jan 1994	investigate this query
+South Africa	won	82 runs		lost	1st		ODI v Australia	Perth	16 Jan 1994	investigate this query
+South Africa	won	28 runs		won	1st		ODI v Australia	Melbourne	21 Jan 1994	investigate this query
+South Africa	lost	69 runs		lost	2nd		ODI v Australia	Sydney	23 Jan 1994	investigate this query
+South Africa	lost	35 runs		lost	2nd		ODI v Australia	Sydney	25 Jan 1994	investigate this query
+South Africa	lost	191 runs		lost	2nd		Test v Australia	Adelaide	28 Jan 1994	investigate this query
+South Africa	won	5 runs		won	1st		ODI v Australia	Johannesburg	19 Feb 1994	investigate this query
+South Africa	won	56 runs		won	1st		ODI v Australia	Centurion	20 Feb 1994	investigate this query
+South Africa	lost	88 runs		lost	2nd		ODI v Australia	Port Elizabeth	22 Feb 1994	investigate this query
+South Africa	won	7 wickets	30	lost	2nd		ODI v Australia	Durban	24 Feb 1994	investigate this query
+South Africa	won	197 runs		won	1st		Test v Australia	Johannesburg	4 Mar 1994	investigate this query
+South Africa	lost	9 wickets		won	1st		Test v Australia	Cape Town	17 Mar 1994	investigate this query
+South Africa	draw	-		won	2nd		Test v Australia	Durban	25 Mar 1994	investigate this query
+South Africa	lost	7 wickets	60	won	1st		ODI v Australia	East London	2 Apr 1994	investigate this query
+South Africa	won	26 runs		won	1st		ODI v Australia	Port Elizabeth	4 Apr 1994	investigate this query
+South Africa	lost	36 runs		lost	2nd		ODI v Australia	Cape Town	6 Apr 1994	investigate this query
+South Africa	lost	1 runs		lost	2nd		ODI v Australia	Bloemfontein	8 Apr 1994	investigate this query
+South Africa	won	356 runs		won	1st		Test v England	Lord's	21 Jul 1994	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Leeds	4 Aug 1994	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v England	The Oval	18 Aug 1994	investigate this query
+South Africa	lost	6 wickets	6	won	1st		ODI v England	Birmingham	25 Aug 1994	investigate this query
+South Africa	lost	4 wickets	40	lost	1st		ODI v England	Manchester	27 Aug 1994	investigate this query
+South Africa	lost	6 runs		lost	2nd		ODI v Australia	Lahore	12 Oct 1994	investigate this query
+South Africa	lost	8 wickets	32	won	1st		ODI v Pakistan	Karachi	16 Oct 1994	investigate this query
+South Africa	lost	22 runs		lost	2nd		ODI v Australia	Faisalabad	18 Oct 1994	investigate this query
+South Africa	lost	39 runs		won	2nd		ODI v Pakistan	Rawalpindi	20 Oct 1994	investigate this query
+South Africa	lost	3 wickets	2	won	1st		ODI v Australia	Peshawar	24 Oct 1994	investigate this query
+South Africa	lost	6 wickets	33	won	1st		ODI v Pakistan	Faisalabad	28 Oct 1994	investigate this query
+South Africa	lost	137 runs		lost	2nd		Test v New Zealand	Johannesburg	25 Nov 1994	investigate this query
+South Africa	won	69 runs		won	1st		ODI v New Zealand	Cape Town	6 Dec 1994	investigate this query
+South Africa	won	7 wickets	26	lost	2nd		ODI v Pakistan	Johannesburg	10 Dec 1994	investigate this query
+South Africa	won	81 runs		won	1st		ODI v New Zealand	Centurion	11 Dec 1994	investigate this query
+South Africa	lost	35 runs		lost	2nd		ODI v Sri Lanka	Bloemfontein	15 Dec 1994	investigate this query
+South Africa	lost	8 wickets	90	lost	1st		ODI v Pakistan	Durban	17 Dec 1994	investigate this query
+South Africa	won	44 runs		won	1st		ODI v Sri Lanka	Port Elizabeth	21 Dec 1994	investigate this query
+South Africa	won	8 wickets		lost	2nd		Test v New Zealand	Durban	26 Dec 1994	investigate this query
+South Africa	won	7 wickets		lost	2nd		Test v New Zealand	Cape Town	2 Jan 1995	investigate this query
+South Africa	won	37 runs		lost	1st		ODI v Pakistan	Cape Town	10 Jan 1995	investigate this query
+South Africa	won	157 runs		lost	1st		ODI v Pakistan	Johannesburg	12 Jan 1995	investigate this query
+South Africa	won	324 runs		won	1st		Test v Pakistan	Johannesburg	19 Jan 1995	investigate this query
+South Africa	lost	3 wickets	40	won	1st		ODI v Australia	Wellington	15 Feb 1995	investigate this query
+South Africa	won	14 runs		won	1st		ODI v India	Hamilton	18 Feb 1995	investigate this query
+South Africa	lost	46 runs		won	2nd		ODI v New Zealand	Christchurch	23 Feb 1995	investigate this query
+South Africa	won	93 runs		won	1st		Test v New Zealand	Auckland	4 Mar 1995	investigate this query
+South Africa	won	7 wickets		lost	2nd		Test v Zimbabwe	Harare	13 Oct 1995	investigate this query
+South Africa	won	134 runs		lost	1st		ODI v Zimbabwe	Harare	21 Oct 1995	investigate this query
+South Africa	won	112 runs		won	1st		ODI v Zimbabwe	Harare	22 Oct 1995	investigate this query
+South Africa	draw	-		won	2nd		Test v England	Centurion	16 Nov 1995	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Johannesburg	30 Nov 1995	investigate this query
+South Africa	draw	-		won	1st		Test v England	Durban	14 Dec 1995	investigate this query
+South Africa	draw	-		won	1st		Test v England	Port Elizabeth	26 Dec 1995	investigate this query
+South Africa	won	10 wickets		lost	2nd		Test v England	Cape Town	2 Jan 1996	investigate this query
+South Africa	won	6 runs		won	1st		ODI v England	Cape Town	9 Jan 1996	investigate this query
+South Africa	lost	5 wickets	10	won	1st		ODI v England	Bloemfontein	11 Jan 1996	investigate this query
+South Africa	won	3 wickets	11	lost	2nd		ODI v England	Johannesburg	13 Jan 1996	investigate this query
+South Africa	won	7 wickets	12	lost	2nd		ODI v England	Centurion	14 Jan 1996	investigate this query
+South Africa	won	5 wickets	10	won	2nd		ODI v England	Durban	17 Jan 1996	investigate this query
+South Africa	won	14 runs		won	1st		ODI v England	East London	19 Jan 1996	investigate this query
+South Africa	won	64 runs		won	1st		ODI v England	Port Elizabeth	21 Jan 1996	investigate this query
+South Africa	won	169 runs		lost	1st		ODI v U.A.E.	Rawalpindi	16 Feb 1996	investigate this query
+South Africa	won	5 wickets	75	lost	2nd		ODI v New Zealand	Faisalabad	20 Feb 1996	investigate this query
+South Africa	won	78 runs		won	1st		ODI v England	Rawalpindi	25 Feb 1996	investigate this query
+South Africa	won	5 wickets	34	lost	2nd		ODI v Pakistan	Karachi	29 Feb 1996	investigate this query
+South Africa	won	160 runs		won	1st		ODI v Netherlands	Rawalpindi	5 Mar 1996	investigate this query
+South Africa	lost	19 runs		lost	2nd		ODI v West Indies	Karachi	11 Mar 1996	investigate this query
+South Africa	won	143 runs		won	1st		ODI v Pakistan	Sharjah	13 Apr 1996	investigate this query
+South Africa	won	80 runs		won	1st		ODI v India	Sharjah	14 Apr 1996	investigate this query
+South Africa	won	8 wickets	101	lost	2nd		ODI v Pakistan	Sharjah	16 Apr 1996	investigate this query
+South Africa	won	5 wickets	17	lost	2nd		ODI v India	Sharjah	17 Apr 1996	investigate this query
+South Africa	won	38 runs		won	1st		ODI v India	Sharjah	19 Apr 1996	investigate this query
+South Africa	won	62 runs		lost	1st		ODI v Pakistan	Nairobi (Gym)	29 Sep 1996	investigate this query
+South Africa	lost	2 wickets	56	won	1st		ODI v Sri Lanka	Nairobi (Club)	1 Oct 1996	investigate this query
+South Africa	won	202 runs		won	1st		ODI v Kenya	Nairobi (Gym)	3 Oct 1996	investigate this query
+South Africa	won	7 wickets	64	lost	2nd		ODI v Pakistan	Nairobi (Gym)	6 Oct 1996	investigate this query
+South Africa	won	47 runs		won	1st		ODI v India	Hyderabad (Deccan)	17 Oct 1996	investigate this query
+South Africa	won	7 wickets	23	lost	2nd		ODI v Australia	Indore	19 Oct 1996	investigate this query
+South Africa	won	27 runs		lost	1st		ODI v India	Jaipur	23 Oct 1996	investigate this query
+South Africa	won	2 wickets	16	lost	2nd		ODI v Australia	Faridabad	25 Oct 1996	investigate this query
+South Africa	won	5 wickets	8	lost	2nd		ODI v India	Rajkot	29 Oct 1996	investigate this query
+South Africa	won	8 wickets	30	lost	2nd		ODI v Australia	Guwahati	1 Nov 1996	investigate this query
+South Africa	lost	35 runs		lost	2nd		ODI v India	Mumbai	6 Nov 1996	investigate this query
+South Africa	lost	64 runs		lost	2nd		Test v India	Ahmedabad	20 Nov 1996	investigate this query
+South Africa	won	329 runs		won	1st		Test v India	Kolkata	27 Nov 1996	investigate this query
+South Africa	lost	280 runs		lost	2nd		Test v India	Kanpur	8 Dec 1996	investigate this query
+South Africa	lost	74 runs		lost	2nd		ODI v India	Mumbai	14 Dec 1996	investigate this query
+South Africa	won	328 runs		lost	1st		Test v India	Durban	26 Dec 1996	investigate this query
+South Africa	won	282 runs		won	1st		Test v India	Cape Town	2 Jan 1997	investigate this query
+South Africa	draw	-		lost	2nd		Test v India	Johannesburg	16 Jan 1997	investigate this query
+South Africa	won	39 runs		won	1st		ODI v India	Bloemfontein	23 Jan 1997	investigate this query
+South Africa	won	5 wickets	23	lost	2nd		ODI v Zimbabwe	Centurion	25 Jan 1997	investigate this query
+South Africa	won	5 wickets	18	lost	2nd		ODI v Zimbabwe	Cape Town	29 Jan 1997	investigate this query
+South Africa	won	4 wickets	9	lost	2nd		ODI v Zimbabwe	Johannesburg	31 Jan 1997	investigate this query
+South Africa	won	6 wickets	29	lost	2nd		ODI v India	Port Elizabeth	2 Feb 1997	investigate this query
+South Africa	won	6 wickets	4	lost	2nd		ODI v India	East London	4 Feb 1997	investigate this query
+South Africa	n/r	-		lost	2nd		ODI v India	Durban	12 Feb 1997	investigate this query
+South Africa	won	17 runs		won	1st		ODI v India	Durban	13 Feb 1997	investigate this query
+South Africa	lost	inns & 196 runs		won	1st		Test v Australia	Johannesburg	28 Feb 1997	investigate this query
+South Africa	lost	2 wickets		lost	1st		Test v Australia	Port Elizabeth	14 Mar 1997	investigate this query
+South Africa	won	8 wickets		won	2nd		Test v Australia	Centurion	21 Mar 1997	investigate this query
+South Africa	won	6 wickets	18	won	2nd		ODI v Australia	East London	29 Mar 1997	investigate this query
+South Africa	lost	7 wickets	30	lost	1st		ODI v Australia	Port Elizabeth	31 Mar 1997	investigate this query
+South Africa	won	46 runs		lost	1st		ODI v Australia	Cape Town	2 Apr 1997	investigate this query
+South Africa	lost	15 runs		lost	2nd		ODI v Australia	Durban	5 Apr 1997	investigate this query
+South Africa	lost	8 runs		lost	2nd		ODI v Australia	Johannesburg	8 Apr 1997	investigate this query
+South Africa	lost	5 wickets	6	won	1st		ODI v Australia	Centurion	10 Apr 1997	investigate this query
+South Africa	won	109 runs		lost	1st		ODI v Australia	Bloemfontein	13 Apr 1997	investigate this query
+South Africa	draw	-		lost	2nd		Test v Pakistan	Rawalpindi	6 Oct 1997	investigate this query
+South Africa	draw	-		won	1st		Test v Pakistan	Sheikhupura	17 Oct 1997	investigate this query
+South Africa	won	53 runs		won	1st		Test v Pakistan	Faisalabad	24 Oct 1997	investigate this query
+South Africa	won	9 runs		lost	1st		ODI v Pakistan	Lahore	2 Nov 1997	investigate this query
+South Africa	won	5 wickets	11	won	2nd		ODI v West Indies	Lahore	3 Nov 1997	investigate this query
+South Africa	won	66 runs		lost	1st		ODI v Sri Lanka	Lahore	6 Nov 1997	investigate this query
+South Africa	won	4 wickets	56	won	2nd		ODI v Sri Lanka	Lahore	8 Nov 1997	investigate this query
+South Africa	won	67 runs		won	1st		ODI v Australia	Sydney	4 Dec 1997	investigate this query
+South Africa	lost	47 runs		won	2nd		ODI v New Zealand	Adelaide	6 Dec 1997	investigate this query
+South Africa	won	45 runs		won	1st		ODI v Australia	Melbourne	9 Dec 1997	investigate this query
+South Africa	won	1 runs		won	1st		ODI v New Zealand	Hobart	11 Dec 1997	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Melbourne	26 Dec 1997	investigate this query
+South Africa	lost	inns & 21 runs		won	1st		Test v Australia	Sydney	2 Jan 1998	investigate this query
+South Africa	won	2 runs		won	1st		ODI v New Zealand	Brisbane	9 Jan 1998	investigate this query
+South Africa	won	5 wickets	15	lost	2nd		ODI v Australia	Brisbane	11 Jan 1998	investigate this query
+South Africa	won	67 runs		won	1st		ODI v New Zealand	Perth	16 Jan 1998	investigate this query
+South Africa	won	7 wickets	130	lost	2nd		ODI v Australia	Perth	18 Jan 1998	investigate this query
+South Africa	won	6 runs		won	1st		ODI v Australia	Melbourne	23 Jan 1998	investigate this query
+South Africa	lost	7 wickets	49	won	1st		ODI v Australia	Sydney	26 Jan 1998	investigate this query
+South Africa	lost	14 runs		lost	2nd		ODI v Australia	Sydney	27 Jan 1998	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Adelaide	30 Jan 1998	investigate this query
+South Africa	draw	-		lost	1st		Test v Pakistan	Johannesburg	14 Feb 1998	investigate this query
+South Africa	lost	29 runs		won	2nd		Test v Pakistan	Durban	26 Feb 1998	investigate this query
+South Africa	won	259 runs		lost	1st		Test v Pakistan	Port Elizabeth	6 Mar 1998	investigate this query
+South Africa	won	70 runs		won	1st		Test v Sri Lanka	Cape Town	19 Mar 1998	investigate this query
+South Africa	won	6 wickets		lost	2nd		Test v Sri Lanka	Centurion	27 Mar 1998	investigate this query
+South Africa	won	52 runs		won	1st		ODI v Pakistan	Durban	3 Apr 1998	investigate this query
+South Africa	won	57 runs		won	1st		ODI v Sri Lanka	Johannesburg	5 Apr 1998	investigate this query
+South Africa	won	3 wickets	22	won	2nd		ODI v Pakistan	East London	11 Apr 1998	investigate this query
+South Africa	lost	6 wickets	20	won	1st		ODI v Sri Lanka	Port Elizabeth	13 Apr 1998	investigate this query
+South Africa	won	7 wickets	87	lost	2nd		ODI v Pakistan	Centurion	17 Apr 1998	investigate this query
+South Africa	won	5 wickets	141	won	2nd		ODI v Sri Lanka	Bloemfontein	19 Apr 1998	investigate this query
+South Africa	won	9 wickets	134	won	2nd		ODI v Pakistan	Cape Town	23 Apr 1998	investigate this query
+South Africa	won	3 wickets	8	won	2nd		ODI v England	The Oval	21 May 1998	investigate this query
+South Africa	won	32 runs		lost	1st		ODI v England	Manchester	23 May 1998	investigate this query
+South Africa	lost	7 wickets	90	won	1st		ODI v England	Leeds	24 May 1998	investigate this query
+South Africa	draw	-		won	2nd		Test v England	Birmingham	4 Jun 1998	investigate this query
+South Africa	won	10 wickets		lost	1st		Test v England	Lord's	18 Jun 1998	investigate this query
+South Africa	draw	-		won	1st		Test v England	Manchester	2 Jul 1998	investigate this query
+South Africa	lost	8 wickets		lost	1st		Test v England	Nottingham	23 Jul 1998	investigate this query
+South Africa	lost	23 runs		lost	2nd		Test v England	Leeds	6 Aug 1998	investigate this query
+South Africa	lost	57 runs		won	2nd		ODI v Sri Lanka	Nottingham	14 Aug 1998	investigate this query
+South Africa	won	14 runs		won	1st		ODI v England	Birmingham	18 Aug 1998	investigate this query
+South Africa	won	6 wickets	20	lost	2nd		ODI v England	Dhaka	25 Oct 1998	investigate this query
+South Africa	won	92 runs		lost	1st		ODI v Sri Lanka	Dhaka	30 Oct 1998	investigate this query
+South Africa	won	4 wickets	18	won	2nd		ODI v West Indies	Dhaka	1 Nov 1998	investigate this query
+South Africa	won	4 wickets		lost	2nd		Test v West Indies	Johannesburg	26 Nov 1998	investigate this query
+South Africa	won	178 runs		lost	1st		Test v West Indies	Port Elizabeth	10 Dec 1998	investigate this query
+South Africa	won	9 wickets		won	2nd		Test v West Indies	Durban	26 Dec 1998	investigate this query
+South Africa	won	149 runs		won	1st		Test v West Indies	Cape Town	2 Jan 1999	investigate this query
+South Africa	won	351 runs		lost	1st		Test v West Indies	Centurion	15 Jan 1999	investigate this query
+South Africa	won	2 wickets	0	won	2nd		ODI v West Indies	Johannesburg	22 Jan 1999	investigate this query
+South Africa	lost	43 runs		won	2nd		ODI v West Indies	East London	24 Jan 1999	investigate this query
+South Africa	won	55 runs		won	1st		ODI v West Indies	Durban	27 Jan 1999	investigate this query
+South Africa	won	99 runs		lost	1st		ODI v West Indies	Port Elizabeth	30 Jan 1999	investigate this query
+South Africa	won	89 runs		won	1st		ODI v West Indies	Cape Town	2 Feb 1999	investigate this query
+South Africa	won	114 runs		won	1st		ODI v West Indies	Bloemfontein	5 Feb 1999	investigate this query
+South Africa	won	50 runs		won	1st		ODI v West Indies	Centurion	7 Feb 1999	investigate this query
+South Africa	lost	3 wickets	5	lost	1st		ODI v New Zealand	Dunedin	14 Feb 1999	investigate this query
+South Africa	won	7 wickets	42	lost	2nd		ODI v New Zealand	Christchurch	17 Feb 1999	investigate this query
+South Africa	lost	7 wickets	41	lost	1st		ODI v New Zealand	Auckland	20 Feb 1999	investigate this query
+South Africa	draw	-		lost	1st		Test v New Zealand	Auckland	27 Feb 1999	investigate this query
+South Africa	draw	-		lost	2nd		Test v New Zealand	Christchurch	11 Mar 1999	investigate this query
+South Africa	won	8 wickets		lost	2nd		Test v New Zealand	Wellington	18 Mar 1999	investigate this query
+South Africa	n/r	-		won	2nd		ODI v New Zealand	Napier	25 Mar 1999	investigate this query
+South Africa	won	2 wickets	0	won	2nd		ODI v New Zealand	Napier	26 Mar 1999	investigate this query
+South Africa	won	143 runs		won	1st		ODI v New Zealand	Auckland	27 Mar 1999	investigate this query
+South Africa	n/r	-		won	1st		ODI v New Zealand	Wellington	30 Mar 1999	investigate this query
+South Africa	aban	-		-	-		ODI v New Zealand	Wellington	31 Mar 1999	investigate this query
+South Africa	won	4 wickets	16	lost	2nd		ODI v India	Hove	15 May 1999	investigate this query
+South Africa	won	89 runs		lost	1st		ODI v Sri Lanka	Northampton	19 May 1999	investigate this query
+South Africa	won	122 runs		lost	1st		ODI v England	The Oval	22 May 1999	investigate this query
+South Africa	won	7 wickets	54	won	2nd		ODI v Kenya	Amstelveen	26 May 1999	investigate this query
+South Africa	lost	48 runs		lost	2nd		ODI v Zimbabwe	Chelmsford	29 May 1999	investigate this query
+South Africa	won	3 wickets	6	lost	2nd		ODI v Pakistan	Nottingham	5 Jun 1999	investigate this query
+South Africa	won	74 runs		won	1st		ODI v New Zealand	Birmingham	10 Jun 1999	investigate this query
+South Africa	lost	5 wickets	2	won	1st		ODI v Australia	Leeds	13 Jun 1999	investigate this query
+South Africa	tied	-		won	2nd		ODI v Australia	Birmingham	17 Jun 1999	investigate this query
+South Africa	lost	8 wickets	164	won	1st		ODI v India	Nairobi (Gym)	26 Sep 1999	investigate this query
+South Africa	won	9 wickets	90	won	2nd		ODI v Zimbabwe	Nairobi (Gym)	28 Sep 1999	investigate this query
+South Africa	won	24 runs		lost	1st		ODI v Kenya	Nairobi (Gym)	30 Sep 1999	investigate this query
+South Africa	won	26 runs		lost	1st		ODI v India	Nairobi (Gym)	3 Oct 1999	investigate this query
+South Africa	won	inns & 13 runs		won	2nd		Test v Zimbabwe	Bloemfontein	29 Oct 1999	investigate this query
+South Africa	won	inns & 219 runs		won	2nd		Test v Zimbabwe	Harare	11 Nov 1999	investigate this query
+South Africa	won	inns & 21 runs		won	2nd		Test v England	Johannesburg	25 Nov 1999	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Port Elizabeth	9 Dec 1999	investigate this query
+South Africa	draw	-		lost	2nd		Test v England	Durban	26 Dec 1999	investigate this query
+South Africa	won	inns & 37 runs		lost	2nd		Test v England	Cape Town	2 Jan 2000	investigate this query
+South Africa	lost	2 wickets		lost	1st		Test v England	Centurion	14 Jan 2000	investigate this query
+South Africa	won	6 wickets	11	lost	2nd		ODI v Zimbabwe	Johannesburg	21 Jan 2000	investigate this query
+South Africa	lost	9 wickets	63	won	1st		ODI v England	Bloemfontein	23 Jan 2000	investigate this query
+South Africa	won	1 runs		won	1st		ODI v England	Cape Town	26 Jan 2000	investigate this query
+South Africa	lost	2 wickets	0	won	1st		ODI v Zimbabwe	Durban	2 Feb 2000	investigate this query
+South Africa	won	2 wickets	2	won	2nd		ODI v England	East London	4 Feb 2000	investigate this query
+South Africa	won	53 runs		won	1st		ODI v Zimbabwe	Port Elizabeth	6 Feb 2000	investigate this query
+South Africa	won	38 runs		lost	1st		ODI v England	Johannesburg	13 Feb 2000	investigate this query
+South Africa	won	4 wickets		lost	2nd		Test v India	Mumbai	24 Feb 2000	investigate this query
+South Africa	won	inns & 71 runs		lost	2nd		Test v India	Bangalore	2 Mar 2000	investigate this query
+South Africa	lost	3 wickets	2	won	1st		ODI v India	Kochi	9 Mar 2000	investigate this query
+South Africa	lost	6 wickets	17	won	1st		ODI v India	Jamshedpur	12 Mar 2000	investigate this query
+South Africa	won	2 wickets	6	won	2nd		ODI v India	Faridabad	15 Mar 2000	investigate this query
+South Africa	lost	4 wickets	1	won	1st		ODI v India	Vadodara	17 Mar 2000	investigate this query
+South Africa	won	10 runs		lost	1st		ODI v India	Nagpur	19 Mar 2000	investigate this query
+South Africa	won	10 wickets	124	lost	2nd		ODI v India	Sharjah	22 Mar 2000	investigate this query
+South Africa	won	3 wickets	33	lost	2nd		ODI v Pakistan	Sharjah	24 Mar 2000	investigate this query
+South Africa	won	6 wickets	44	lost	2nd		ODI v India	Sharjah	27 Mar 2000	investigate this query
+South Africa	lost	67 runs		lost	2nd		ODI v Pakistan	Sharjah	28 Mar 2000	investigate this query
+South Africa	lost	16 runs		lost	2nd		ODI v Pakistan	Sharjah	31 Mar 2000	investigate this query
+South Africa	won	6 wickets	12	won	2nd		ODI v Australia	Durban	12 Apr 2000	investigate this query
+South Africa	lost	5 wickets	153	lost	1st		ODI v Australia	Cape Town	14 Apr 2000	investigate this query
+South Africa	won	4 wickets	13	won	2nd		ODI v Australia	Johannesburg	16 Apr 2000	investigate this query
+South Africa	lost	37 runs		won	2nd		ODI v Sri Lanka	Galle	6 Jul 2000	investigate this query
+South Africa	won	18 runs		won	1st		ODI v Pakistan	Colombo (RPS)	8 Jul 2000	investigate this query
+South Africa	lost	8 wickets	135	lost	1st		ODI v Sri Lanka	Colombo (SSC)	11 Jul 2000	investigate this query
+South Africa	won	7 wickets	75	lost	2nd		ODI v Pakistan	Colombo (SSC)	12 Jul 2000	investigate this query
+South Africa	lost	30 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	14 Jul 2000	investigate this query
+South Africa	lost	inns & 15 runs		lost	2nd		Test v Sri Lanka	Galle	20 Jul 2000	investigate this query
+South Africa	won	7 runs		lost	1st		Test v Sri Lanka	Kandy	30 Jul 2000	investigate this query
+South Africa	draw	-		lost	1st		Test v Sri Lanka	Colombo (SSC)	6 Aug 2000	investigate this query
+South Africa	lost	94 runs		won	2nd		ODI v Australia	Melbourne (Docklands)	16 Aug 2000	investigate this query
+South Africa	tied	-		won	1st		ODI v Australia	Melbourne (Docklands)	18 Aug 2000	investigate this query
+South Africa	won	8 runs		won	1st		ODI v Australia	Melbourne (Docklands)	20 Aug 2000	investigate this query
+South Africa	lost	28 runs		lost	2nd		ODI v Pakistan	Singapore	23 Aug 2000	investigate this query
+South Africa	won	8 wickets	96	lost	2nd		ODI v New Zealand	Singapore	25 Aug 2000	investigate this query
+South Africa	won	93 runs		won	1st		ODI v Pakistan	Singapore	27 Aug 2000	investigate this query
+South Africa	won	8 wickets	65	lost	2nd		ODI v England	Nairobi (Gym)	10 Oct 2000	investigate this query
+South Africa	lost	95 runs		lost	2nd		ODI v India	Nairobi (Gym)	13 Oct 2000	investigate this query
+South Africa	n/r	-		lost	1st		ODI v New Zealand	Potchefstroom	20 Oct 2000	investigate this query
+South Africa	won	6 wickets	20	lost	2nd		ODI v New Zealand	Benoni	22 Oct 2000	investigate this query
+South Africa	won	115 runs		lost	1st		ODI v New Zealand	Centurion	25 Oct 2000	investigate this query
+South Africa	won	5 wickets	7	won	2nd		ODI v New Zealand	Kimberley	28 Oct 2000	investigate this query
+South Africa	won	6 wickets	9	won	2nd		ODI v New Zealand	Durban	1 Nov 2000	investigate this query
+South Africa	won	3 wickets	0	won	2nd		ODI v New Zealand	Cape Town	4 Nov 2000	investigate this query
+South Africa	won	5 wickets		won	1st		Test v New Zealand	Bloemfontein	17 Nov 2000	investigate this query
+South Africa	won	7 wickets		won	2nd		Test v New Zealand	Port Elizabeth	30 Nov 2000	investigate this query
+South Africa	draw	-		won	2nd		Test v New Zealand	Johannesburg	8 Dec 2000	investigate this query
+South Africa	won	4 wickets	16	lost	2nd		ODI v Sri Lanka	Port Elizabeth	15 Dec 2000	investigate this query
+South Africa	won	95 runs		won	1st		ODI v Sri Lanka	East London	17 Dec 2000	investigate this query
+South Africa	draw	-		won	1st		Test v Sri Lanka	Durban	26 Dec 2000	investigate this query
+South Africa	won	inns & 229 runs		lost	2nd		Test v Sri Lanka	Cape Town	2 Jan 2001	investigate this query
+South Africa	won	8 wickets	7	lost	2nd		ODI v Sri Lanka	Paarl	9 Jan 2001	investigate this query
+South Africa	won	99 runs		won	1st		ODI v Sri Lanka	Cape Town	11 Jan 2001	investigate this query
+South Africa	won	5 wickets	48	won	2nd		ODI v Sri Lanka	Bloemfontein	14 Jan 2001	investigate this query
+South Africa	lost	4 runs		won	2nd		ODI v Sri Lanka	Johannesburg	17 Jan 2001	investigate this query
+South Africa	won	inns & 7 runs		lost	1st		Test v Sri Lanka	Centurion	20 Jan 2001	investigate this query
+South Africa	draw	-		lost	2nd		Test v West Indies	Georgetown	9 Mar 2001	investigate this query
+South Africa	won	69 runs		won	1st		Test v West Indies	Port of Spain	17 Mar 2001	investigate this query
+South Africa	draw	-		lost	1st		Test v West Indies	Bridgetown	29 Mar 2001	investigate this query
+South Africa	won	82 runs		lost	1st		Test v West Indies	St John's	6 Apr 2001	investigate this query
+South Africa	lost	130 runs		lost	2nd		Test v West Indies	Kingston	19 Apr 2001	investigate this query
+South Africa	lost	3 wickets	0	lost	1st		ODI v West Indies	Kingston	28 Apr 2001	investigate this query
+South Africa	won	8 wickets	25	won	2nd		ODI v West Indies	St John's	2 May 2001	investigate this query
+South Africa	won	132 runs		lost	1st		ODI v West Indies	St George's	5 May 2001	investigate this query
+South Africa	won	8 wickets	23	won	2nd		ODI v West Indies	St George's	6 May 2001	investigate this query
+South Africa	won	7 wickets	50	won	2nd		ODI v West Indies	Bridgetown	9 May 2001	investigate this query
+South Africa	won	53 runs		lost	1st		ODI v West Indies	Port of Spain	12 May 2001	investigate this query
+South Africa	lost	6 wickets	34	won	1st		ODI v West Indies	Kingstown	16 May 2001	investigate this query
+South Africa	won	9 wickets		won	1st		Test v Zimbabwe	Harare	7 Sep 2001	investigate this query
+South Africa	draw	-		lost	2nd		Test v Zimbabwe	Bulawayo	14 Sep 2001	investigate this query
+South Africa	won	153 runs		won	1st		ODI v Zimbabwe	Bulawayo	23 Sep 2001	investigate this query
+South Africa	won	148 runs		won	1st		ODI v Zimbabwe	Harare	29 Sep 2001	investigate this query
+South Africa	won	6 wickets	54	lost	2nd		ODI v Zimbabwe	Harare	30 Sep 2001	investigate this query
+South Africa	won	6 wickets	10	won	2nd		ODI v India	Johannesburg	5 Oct 2001	investigate this query
+South Africa	won	7 wickets	98	lost	2nd		ODI v Kenya	Benoni	7 Oct 2001	investigate this query
+South Africa	lost	41 runs		lost	2nd		ODI v India	Centurion	10 Oct 2001	investigate this query
+South Africa	won	9 wickets	53	lost	2nd		ODI v Kenya	Kimberley	14 Oct 2001	investigate this query
+South Africa	won	46 runs		won	1st		ODI v India	East London	19 Oct 2001	investigate this query
+South Africa	won	208 runs		won	1st		ODI v Kenya	Cape Town	22 Oct 2001	investigate this query
+South Africa	won	6 wickets	47	won	2nd		ODI v India	Durban	26 Oct 2001	investigate this query
+South Africa	won	9 wickets		won	2nd		Test v India	Bloemfontein	3 Nov 2001	investigate this query
+South Africa	draw	-		lost	1st		Test v India	Port Elizabeth	16 Nov 2001	investigate this query
+South Africa	lost	246 runs		lost	2nd		Test v Australia	Adelaide	14 Dec 2001	investigate this query
+South Africa	lost	9 wickets		lost	1st		Test v Australia	Melbourne	26 Dec 2001	investigate this query
+South Africa	lost	10 wickets		lost	2nd		Test v Australia	Sydney	2 Jan 2002	investigate this query
+South Africa	won	4 wickets	9	lost	2nd		ODI v Australia	Melbourne	13 Jan 2002	investigate this query
+South Africa	won	26 runs		won	1st		ODI v New Zealand	Hobart	15 Jan 2002	investigate this query
+South Africa	lost	4 wickets	5	won	1st		ODI v New Zealand	Brisbane	19 Jan 2002	investigate this query
+South Africa	lost	27 runs		lost	2nd		ODI v Australia	Brisbane	20 Jan 2002	investigate this query
+South Africa	lost	8 wickets	188	won	1st		ODI v Australia	Sydney	22 Jan 2002	investigate this query
+South Africa	won	93 runs		won	1st		ODI v New Zealand	Adelaide	27 Jan 2002	investigate this query
+South Africa	won	67 runs		lost	1st		ODI v New Zealand	Perth	1 Feb 2002	investigate this query
+South Africa	lost	33 runs		won	2nd		ODI v Australia	Perth	3 Feb 2002	investigate this query
+South Africa	won	8 wickets	29	lost	2nd		ODI v New Zealand	Melbourne	6 Feb 2002	investigate this query
+South Africa	won	6 wickets	47	lost	2nd		ODI v New Zealand	Sydney	8 Feb 2002	investigate this query
+South Africa	lost	inns & 360 runs		lost	2nd		Test v Australia	Johannesburg	22 Feb 2002	investigate this query
+South Africa	lost	4 wickets		won	1st		Test v Australia	Cape Town	8 Mar 2002	investigate this query
+South Africa	won	5 wickets		won	2nd		Test v Australia	Durban	15 Mar 2002	investigate this query
+South Africa	lost	19 runs		lost	2nd		ODI v Australia	Johannesburg	22 Mar 2002	investigate this query
+South Africa	lost	45 runs		won	2nd		ODI v Australia	Centurion	24 Mar 2002	investigate this query
+South Africa	tied	-		won	1st		ODI v Australia	Potchefstroom	27 Mar 2002	investigate this query
+South Africa	lost	37 runs		lost	2nd		ODI v Australia	Bloemfontein	30 Mar 2002	investigate this query
+South Africa	lost	8 wickets	13	lost	1st		ODI v Australia	Durban	3 Apr 2002	investigate this query
+South Africa	lost	3 wickets	5	won	1st		ODI v Australia	Port Elizabeth	6 Apr 2002	investigate this query
+South Africa	won	65 runs		lost	1st		ODI v Australia	Cape Town	9 Apr 2002	investigate this query
+South Africa	won	54 runs		won	1st		ODI v Pakistan	Tangier	12 Aug 2002	investigate this query
+South Africa	lost	93 runs		lost	2nd		ODI v Sri Lanka	Tangier	15 Aug 2002	investigate this query
+South Africa	won	8 runs		won	1st		ODI v Pakistan	Tangier	18 Aug 2002	investigate this query
+South Africa	lost	6 wickets	47	won	1st		ODI v Sri Lanka	Tangier	19 Aug 2002	investigate this query
+South Africa	lost	27 runs		lost	2nd		ODI v Sri Lanka	Tangier	21 Aug 2002	investigate this query
+South Africa	won	2 wickets	0	won	2nd		ODI v West Indies	Colombo (SSC)	13 Sep 2002	investigate this query
+South Africa	won	176 runs		won	1st		ODI v Kenya	Colombo (RPS)	20 Sep 2002	investigate this query
+South Africa	lost	10 runs		lost	2nd		ODI v India	Colombo (RPS)	25 Sep 2002	investigate this query
+South Africa	won	168 runs		won	1st		ODI v Bangladesh	Potchefstroom	3 Oct 2002	investigate this query
+South Africa	won	10 wickets	178	won	2nd		ODI v Bangladesh	Benoni	6 Oct 2002	investigate this query
+South Africa	won	7 wickets	146	lost	2nd		ODI v Bangladesh	Kimberley	9 Oct 2002	investigate this query
+South Africa	won	inns & 107 runs		lost	1st		Test v Bangladesh	East London	18 Oct 2002	investigate this query
+South Africa	won	inns & 160 runs		lost	2nd		Test v Bangladesh	Potchefstroom	25 Oct 2002	investigate this query
+South Africa	won	inns & 64 runs		lost	2nd		Test v Sri Lanka	Johannesburg	8 Nov 2002	investigate this query
+South Africa	won	3 wickets		won	2nd		Test v Sri Lanka	Centurion	15 Nov 2002	investigate this query
+South Africa	won	6 wickets	123	won	2nd		ODI v Sri Lanka	Johannesburg	27 Nov 2002	investigate this query
+South Africa	won	177 runs		won	1st		ODI v Sri Lanka	Centurion	29 Nov 2002	investigate this query
+South Africa	lost	7 wickets	50	lost	1st		ODI v Sri Lanka	Benoni	1 Dec 2002	investigate this query
+South Africa	won	8 wickets	115	won	2nd		ODI v Sri Lanka	Kimberley	4 Dec 2002	investigate this query
+South Africa	won	6 wickets	29	lost	2nd		ODI v Sri Lanka	Bloemfontein	6 Dec 2002	investigate this query
+South Africa	won	132 runs		lost	1st		ODI v Pakistan	Durban	8 Dec 2002	investigate this query
+South Africa	lost	182 runs		lost	2nd		ODI v Pakistan	Port Elizabeth	11 Dec 2002	investigate this query
+South Africa	won	62 runs		won	1st		ODI v Pakistan	East London	13 Dec 2002	investigate this query
+South Africa	won	9 wickets	48	lost	2nd		ODI v Pakistan	Paarl	16 Dec 2002	investigate this query
+South Africa	won	34 runs		won	1st		ODI v Pakistan	Cape Town	18 Dec 2002	investigate this query
+South Africa	won	10 wickets		lost	1st		Test v Pakistan	Durban	26 Dec 2002	investigate this query
+South Africa	won	inns & 142 runs		won	1st		Test v Pakistan	Cape Town	2 Jan 2003	investigate this query
+South Africa	lost	3 runs		lost	2nd		ODI v West Indies	Cape Town	9 Feb 2003	investigate this query
+South Africa	won	10 wickets	172	lost	2nd		ODI v Kenya	Potchefstroom	12 Feb 2003	investigate this query
+South Africa	lost	9 wickets	13	won	1st		ODI v New Zealand	Johannesburg	16 Feb 2003	investigate this query
+South Africa	won	10 wickets	228	won	2nd		ODI v Bangladesh	Bloemfontein	22 Feb 2003	investigate this query
+South Africa	won	118 runs		lost	1st		ODI v Canada	East London	27 Feb 2003	investigate this query
+South Africa	tied	-		lost	2nd		ODI v Sri Lanka	Durban	3 Mar 2003	investigate this query
+South Africa	lost	153 runs		lost	2nd		ODI v India	Dhaka	13 Apr 2003	investigate this query
+South Africa	won	83 runs		won	1st		ODI v Bangladesh	Dhaka	14 Apr 2003	investigate this query
+South Africa	won	93 runs		won	1st		ODI v Bangladesh	Dhaka	17 Apr 2003	investigate this query
+South Africa	won	5 wickets	8	lost	2nd		ODI v India	Dhaka	18 Apr 2003	investigate this query
+South Africa	aban	-		-	-		ODI v India	Dhaka	20 Apr 2003	investigate this query
+South Africa	n/r	-		lost	2nd		ODI v India	Dhaka	21 Apr 2003	investigate this query
+South Africa	won	inns & 60 runs		lost	2nd		Test v Bangladesh	Chittagong	24 Apr 2003	investigate this query
+South Africa	won	inns & 18 runs		won	1st		Test v Bangladesh	Dhaka	1 May 2003	investigate this query
+South Africa	lost	6 wickets	25	won	1st		ODI v England	The Oval	28 Jun 2003	investigate this query
+South Africa	won	46 runs		lost	1st		ODI v Zimbabwe	Canterbury	29 Jun 2003	investigate this query
+South Africa	won	7 wickets	15	lost	2nd		ODI v England	Manchester	3 Jul 2003	investigate this query
+South Africa	won	9 wickets	94	won	2nd		ODI v Zimbabwe	Cardiff	5 Jul 2003	investigate this query
+South Africa	lost	4 wickets	66	won	1st		ODI v England	Birmingham	8 Jul 2003	investigate this query
+South Africa	won	7 wickets	88	lost	2nd		ODI v Zimbabwe	Southampton	10 Jul 2003	investigate this query
+South Africa	lost	7 wickets	178	lost	1st		ODI v England	Lord's	12 Jul 2003	investigate this query
+South Africa	draw	-		won	1st		Test v England	Birmingham	24 Jul 2003	investigate this query
+South Africa	won	inns & 92 runs		won	2nd		Test v England	Lord's	31 Jul 2003	investigate this query
+South Africa	lost	70 runs		lost	2nd		Test v England	Nottingham	14 Aug 2003	investigate this query
+South Africa	won	191 runs		won	1st		Test v England	Leeds	21 Aug 2003	investigate this query
+South Africa	lost	9 wickets		won	1st		Test v England	The Oval	4 Sep 2003	investigate this query
+South Africa	lost	8 runs		lost	2nd		ODI v Pakistan	Lahore	3 Oct 2003	investigate this query
+South Africa	lost	42 runs		won	2nd		ODI v Pakistan	Lahore	5 Oct 2003	investigate this query
+South Africa	won	13 runs		lost	2nd		ODI v Pakistan	Faisalabad	7 Oct 2003	investigate this query
+South Africa	won	6 wickets	67	lost	2nd		ODI v Pakistan	Rawalpindi	10 Oct 2003	investigate this query
+South Africa	won	7 wickets	25	lost	2nd		ODI v Pakistan	Rawalpindi	12 Oct 2003	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v Pakistan	Lahore	17 Oct 2003	investigate this query
+South Africa	draw	-		won	1st		Test v Pakistan	Faisalabad	24 Oct 2003	investigate this query
+South Africa	won	189 runs		won	1st		Test v West Indies	Johannesburg	12 Dec 2003	investigate this query
+South Africa	won	inns & 65 runs		won	2nd		Test v West Indies	Durban	26 Dec 2003	investigate this query
+South Africa	draw	-		won	1st		Test v West Indies	Cape Town	2 Jan 2004	investigate this query
+South Africa	won	10 wickets		lost	1st		Test v West Indies	Centurion	16 Jan 2004	investigate this query
+South Africa	won	209 runs		won	1st		ODI v West Indies	Cape Town	25 Jan 2004	investigate this query
+South Africa	won	16 runs		won	1st		ODI v West Indies	Port Elizabeth	28 Jan 2004	investigate this query
+South Africa	n/r	-		lost	2nd		ODI v West Indies	Durban	30 Jan 2004	investigate this query
+South Africa	lost	7 wickets	30	won	1st		ODI v West Indies	Centurion	1 Feb 2004	investigate this query
+South Africa	won	4 wickets	2	lost	2nd		ODI v West Indies	Johannesburg	4 Feb 2004	investigate this query
+South Africa	won	5 wickets	2	won	2nd		ODI v New Zealand	Auckland	13 Feb 2004	investigate this query
+South Africa	lost	5 wickets	29	won	1st		ODI v New Zealand	Christchurch	17 Feb 2004	investigate this query
+South Africa	lost	5 runs		won	2nd		ODI v New Zealand	Wellington	20 Feb 2004	investigate this query
+South Africa	aban	-		won	2nd		ODI v New Zealand	Dunedin	24 Feb 2004	investigate this query
+South Africa	lost	6 wickets	6	lost	1st		ODI v New Zealand	Dunedin	25 Feb 2004	investigate this query
+South Africa	aban	-		-	-		ODI v New Zealand	Auckland	28 Feb 2004	investigate this query
+South Africa	lost	2 runs		won	2nd		ODI v New Zealand	Auckland	29 Feb 2004	investigate this query
+South Africa	lost	5 wickets	24	won	1st		ODI v New Zealand	Napier	2 Mar 2004	investigate this query
+South Africa	draw	-		won	1st		Test v New Zealand	Hamilton	10 Mar 2004	investigate this query
+South Africa	lost	9 wickets		lost	1st		Test v New Zealand	Auckland	18 Mar 2004	investigate this query
+South Africa	won	6 wickets		won	2nd		Test v New Zealand	Wellington	26 Mar 2004	investigate this query
+South Africa	draw	-		lost	2nd		Test v Sri Lanka	Galle	4 Aug 2004	investigate this query
+South Africa	lost	313 runs		lost	2nd		Test v Sri Lanka	Colombo (SSC)	11 Aug 2004	investigate this query
+South Africa	lost	3 wickets	6	won	1st		ODI v Sri Lanka	Colombo (RPS)	20 Aug 2004	investigate this query
+South Africa	lost	37 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	22 Aug 2004	investigate this query
+South Africa	lost	4 wickets	14	won	1st		ODI v Sri Lanka	Dambulla	25 Aug 2004	investigate this query
+South Africa	lost	7 wickets	23	lost	1st		ODI v Sri Lanka	Dambulla	28 Aug 2004	investigate this query
+South Africa	lost	49 runs		won	2nd		ODI v Sri Lanka	Colombo (SSC)	31 Aug 2004	investigate this query
+South Africa	won	9 wickets	193	lost	2nd		ODI v Bangladesh	Birmingham	12 Sep 2004	investigate this query
+South Africa	lost	5 wickets	7	lost	1st		ODI v West Indies	The Oval	18 Sep 2004	investigate this query
+South Africa	draw	-		won	1st		Test v India	Kanpur	20 Nov 2004	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v India	Kolkata	28 Nov 2004	investigate this query
+South Africa	lost	7 wickets		won	1st		Test v England	Port Elizabeth	17 Dec 2004	investigate this query
+South Africa	draw	-		won	2nd		Test v England	Durban	26 Dec 2004	investigate this query
+South Africa	won	196 runs		won	1st		Test v England	Cape Town	2 Jan 2005	investigate this query
+South Africa	lost	77 runs		lost	2nd		Test v England	Johannesburg	13 Jan 2005	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Centurion	21 Jan 2005	investigate this query
+South Africa	lost	26 runs		lost	1st		ODI v England	Johannesburg	30 Jan 2005	investigate this query
+South Africa	tied	-		won	2nd		ODI v England	Bloemfontein	2 Feb 2005	investigate this query
+South Africa	won	3 wickets	5	lost	2nd		ODI v England	Port Elizabeth	4 Feb 2005	investigate this query
+South Africa	won	108 runs		lost	1st		ODI v England	Cape Town	6 Feb 2005	investigate this query
+South Africa	won	7 runs		won	1st		ODI v England	East London	9 Feb 2005	investigate this query
+South Africa	n/r	-		won	1st		ODI v England	Durban	11 Feb 2005	investigate this query
+South Africa	won	3 wickets	6	won	2nd		ODI v England	Centurion	13 Feb 2005	investigate this query
+South Africa	won	165 runs		lost	1st		ODI v Zimbabwe	Johannesburg	25 Feb 2005	investigate this query
+South Africa	won	131 runs		lost	1st		ODI v Zimbabwe	Durban	27 Feb 2005	investigate this query
+South Africa	won	5 wickets	21	lost	2nd		ODI v Zimbabwe	Port Elizabeth	2 Mar 2005	investigate this query
+South Africa	won	inns & 21 runs		lost	2nd		Test v Zimbabwe	Cape Town	4 Mar 2005	investigate this query
+South Africa	won	inns & 62 runs		won	2nd		Test v Zimbabwe	Centurion	11 Mar 2005	investigate this query
+South Africa	draw	-		lost	2nd		Test v West Indies	Georgetown	31 Mar 2005	investigate this query
+South Africa	won	8 wickets		lost	2nd		Test v West Indies	Port of Spain	8 Apr 2005	investigate this query
+South Africa	won	inns & 86 runs		lost	2nd		Test v West Indies	Bridgetown	21 Apr 2005	investigate this query
+South Africa	draw	-		won	1st		Test v West Indies	St John's	29 Apr 2005	investigate this query
+South Africa	won	8 wickets	30	lost	2nd		ODI v West Indies	Kingston	7 May 2005	investigate this query
+South Africa	won	8 wickets	38	won	2nd		ODI v West Indies	Kingston	8 May 2005	investigate this query
+South Africa	won	1 runs		lost	1st		ODI v West Indies	Bridgetown	11 May 2005	investigate this query
+South Africa	won	6 wickets	19	won	2nd		ODI v West Indies	Port of Spain	14 May 2005	investigate this query
+South Africa	won	7 wickets	5	won	2nd		ODI v West Indies	Port of Spain	15 May 2005	investigate this query
+South Africa	lost	5 wickets	12	lost	1st		T20I v New Zealand	Johannesburg	21 Oct 2005	investigate this query
+South Africa	won	2 wickets	3	lost	2nd		ODI v New Zealand	Bloemfontein	23 Oct 2005	investigate this query
+South Africa	won	19 runs		won	1st		ODI v New Zealand	Cape Town	28 Oct 2005	investigate this query
+South Africa	won	4 wickets	4	won	2nd		ODI v New Zealand	Port Elizabeth	30 Oct 2005	investigate this query
+South Africa	n/r	-		won	1st		ODI v New Zealand	Durban	4 Nov 2005	investigate this query
+South Africa	won	5 wickets	11	won	2nd		ODI v New Zealand	Centurion	6 Nov 2005	investigate this query
+South Africa	won	5 wickets	7	won	2nd		ODI v India	Hyderabad (Deccan)	16 Nov 2005	investigate this query
+South Africa	lost	6 wickets	86	lost	1st		ODI v India	Bangalore	19 Nov 2005	investigate this query
+South Africa	aban	-		-	-		ODI v India	Chennai	22 Nov 2005	investigate this query
+South Africa	won	10 wickets	85	won	2nd		ODI v India	Kolkata	25 Nov 2005	investigate this query
+South Africa	lost	5 wickets	15	lost	1st		ODI v India	Mumbai	28 Nov 2005	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Perth	16 Dec 2005	investigate this query
+South Africa	lost	184 runs		lost	2nd		Test v Australia	Melbourne	26 Dec 2005	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v Australia	Sydney	2 Jan 2006	investigate this query
+South Africa	lost	95 runs		lost	2nd		T20I v Australia	Brisbane	9 Jan 2006	investigate this query
+South Africa	won	5 wickets	7	lost	2nd		ODI v Australia	Brisbane	15 Jan 2006	investigate this query
+South Africa	lost	94 runs		won	2nd		ODI v Sri Lanka	Brisbane	17 Jan 2006	investigate this query
+South Africa	lost	59 runs		lost	2nd		ODI v Australia	Melbourne (Docklands)	20 Jan 2006	investigate this query
+South Africa	won	9 runs		won	1st		ODI v Sri Lanka	Adelaide	24 Jan 2006	investigate this query
+South Africa	won	5 wickets	29	lost	2nd		ODI v Sri Lanka	Perth	31 Jan 2006	investigate this query
+South Africa	lost	80 runs		lost	2nd		ODI v Australia	Melbourne (Docklands)	3 Feb 2006	investigate this query
+South Africa	lost	57 runs		lost	2nd		ODI v Australia	Sydney	5 Feb 2006	investigate this query
+South Africa	lost	76 runs		lost	2nd		ODI v Sri Lanka	Hobart	7 Feb 2006	investigate this query
+South Africa	won	2 runs		won	1st		T20I v Australia	Johannesburg	24 Feb 2006	investigate this query
+South Africa	won	6 wickets	21	lost	2nd		ODI v Australia	Centurion	26 Feb 2006	investigate this query
+South Africa	won	196 runs		won	1st		ODI v Australia	Cape Town	3 Mar 2006	investigate this query
+South Africa	lost	24 runs		won	2nd		ODI v Australia	Port Elizabeth	5 Mar 2006	investigate this query
+South Africa	lost	1 wickets	5	won	1st		ODI v Australia	Durban	10 Mar 2006	investigate this query
+South Africa	won	1 wickets	1	lost	2nd		ODI v Australia	Johannesburg	12 Mar 2006	investigate this query
+South Africa	lost	7 wickets		won	1st		Test v Australia	Cape Town	16 Mar 2006	investigate this query
+South Africa	lost	112 runs		lost	2nd		Test v Australia	Durban	24 Mar 2006	investigate this query
+South Africa	lost	2 wickets		won	1st		Test v Australia	Johannesburg	31 Mar 2006	investigate this query
+South Africa	won	128 runs		won	1st		Test v New Zealand	Centurion	15 Apr 2006	investigate this query
+South Africa	draw	-		won	2nd		Test v New Zealand	Cape Town	27 Apr 2006	investigate this query
+South Africa	won	4 wickets		won	2nd		Test v New Zealand	Johannesburg	5 May 2006	investigate this query
+South Africa	lost	inns & 153 runs		won	1st		Test v Sri Lanka	Colombo (SSC)	27 Jul 2006	investigate this query
+South Africa	lost	1 wickets		won	1st		Test v Sri Lanka	Colombo (PSS)	4 Aug 2006	investigate this query
+South Africa	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	14 Aug 2006	investigate this query
+South Africa	canc	-		-	-		ODI v India	Colombo (SSC)	19 Aug 2006	investigate this query
+South Africa	canc	-		-	-		ODI v Sri Lanka	Colombo (SSC)	21 Aug 2006	investigate this query
+South Africa	canc	-		-	-		ODI v India	Colombo (RPS)	26 Aug 2006	investigate this query
+South Africa	canc	-		-	-		ODI v Sri Lanka	Colombo (RPS)	29 Aug 2006	investigate this query
+South Africa	won	5 wickets	37	lost	2nd		ODI v Zimbabwe	Bloemfontein	15 Sep 2006	investigate this query
+South Africa	aban	-		-	-		ODI v Zimbabwe	East London	17 Sep 2006	investigate this query
+South Africa	won	6 wickets	134	lost	2nd		ODI v Zimbabwe	East London	18 Sep 2006	investigate this query
+South Africa	won	171 runs		won	1st		ODI v Zimbabwe	Potchefstroom	20 Sep 2006	investigate this query
+South Africa	lost	87 runs		won	2nd		ODI v New Zealand	Mumbai (BS)	16 Oct 2006	investigate this query
+South Africa	won	78 runs		lost	1st		ODI v Sri Lanka	Ahmedabad	24 Oct 2006	investigate this query
+South Africa	won	124 runs		won	1st		ODI v Pakistan	Mohali	27 Oct 2006	investigate this query
+South Africa	lost	6 wickets	36	won	1st		ODI v West Indies	Jaipur	2 Nov 2006	investigate this query
+South Africa	aban	-		-	-		ODI v India	Johannesburg	19 Nov 2006	investigate this query
+South Africa	won	157 runs		won	1st		ODI v India	Durban	22 Nov 2006	investigate this query
+South Africa	won	106 runs		won	1st		ODI v India	Cape Town	26 Nov 2006	investigate this query
+South Africa	won	80 runs		won	1st		ODI v India	Port Elizabeth	29 Nov 2006	investigate this query
+South Africa	lost	6 wickets	1	won	1st		T20I v India	Johannesburg	1 Dec 2006	investigate this query
+South Africa	won	9 wickets	112	won	2nd		ODI v India	Centurion	3 Dec 2006	investigate this query
+South Africa	lost	123 runs		lost	2nd		Test v India	Johannesburg	15 Dec 2006	investigate this query
+South Africa	won	174 runs		won	1st		Test v India	Durban	26 Dec 2006	investigate this query
+South Africa	won	5 wickets		lost	2nd		Test v India	Cape Town	2 Jan 2007	investigate this query
+South Africa	won	7 wickets		lost	2nd		Test v Pakistan	Centurion	11 Jan 2007	investigate this query
+South Africa	lost	5 wickets		won	1st		Test v Pakistan	Port Elizabeth	19 Jan 2007	investigate this query
+South Africa	won	5 wickets		won	2nd		Test v Pakistan	Cape Town	26 Jan 2007	investigate this query
+South Africa	won	10 wickets	51	won	2nd		T20I v Pakistan	Johannesburg	2 Feb 2007	investigate this query
+South Africa	won	164 runs		lost	1st		ODI v Pakistan	Centurion	4 Feb 2007	investigate this query
+South Africa	lost	141 runs		lost	2nd		ODI v Pakistan	Durban	7 Feb 2007	investigate this query
+South Africa	n/r	-		lost	2nd		ODI v Pakistan	Port Elizabeth	9 Feb 2007	investigate this query
+South Africa	won	10 wickets	216	won	2nd		ODI v Pakistan	Cape Town	11 Feb 2007	investigate this query
+South Africa	won	9 wickets	130	lost	2nd		ODI v Pakistan	Johannesburg	14 Feb 2007	investigate this query
+South Africa	won	221 runs		lost	1st		ODI v Netherlands	Basseterre	16 Mar 2007	investigate this query
+South Africa	won	7 wickets	160	won	2nd		ODI v Scotland	Basseterre	20 Mar 2007	investigate this query
+South Africa	lost	83 runs		won	2nd		ODI v Australia	Basseterre	24 Mar 2007	investigate this query
+South Africa	won	1 wickets	10	lost	2nd		ODI v Sri Lanka	Providence	28 Mar 2007	investigate this query
+South Africa	won	7 wickets	21	won	2nd		ODI v Ireland	Providence	3 Apr 2007	investigate this query
+South Africa	lost	67 runs		won	2nd		ODI v Bangladesh	Providence	7 Apr 2007	investigate this query
+South Africa	won	67 runs		lost	1st		ODI v West Indies	St George's	10 Apr 2007	investigate this query
+South Africa	lost	5 wickets	10	lost	1st		ODI v New Zealand	St George's	14 Apr 2007	investigate this query
+South Africa	won	9 wickets	184	lost	2nd		ODI v England	Bridgetown	17 Apr 2007	investigate this query
+South Africa	lost	7 wickets	111	won	1st		ODI v Australia	Gros Islet	25 Apr 2007	investigate this query
+South Africa	won	42 runs		lost	1st		ODI v Ireland	Belfast	24 Jun 2007	investigate this query
+South Africa	won	4 wickets	3	won	2nd		ODI v India	Belfast	26 Jun 2007	investigate this query
+South Africa	lost	6 wickets	5	lost	1st		ODI v India	Belfast	29 Jun 2007	investigate this query
+South Africa	lost	6 wickets	4	lost	1st		ODI v India	Belfast	1 Jul 2007	investigate this query
+South Africa	won	5 wickets	19	lost	2nd		ODI v Zimbabwe	Bulawayo	22 Aug 2007	investigate this query
+South Africa	won	8 wickets	65	won	2nd		ODI v Zimbabwe	Harare	25 Aug 2007	investigate this query
+South Africa	won	28 runs		won	1st		ODI v Zimbabwe	Harare	26 Aug 2007	investigate this query
+South Africa	won	8 wickets	14	won	2nd		T20I v West Indies	Johannesburg	11 Sep 2007	investigate this query
+South Africa	won	7 wickets	7	won	2nd		T20I v Bangladesh	Cape Town	15 Sep 2007	investigate this query
+South Africa	won	19 runs		lost	1st		T20I v England	Cape Town	16 Sep 2007	investigate this query
+South Africa	won	6 wickets	5	won	2nd		T20I v New Zealand	Durban	19 Sep 2007	investigate this query
+South Africa	lost	37 runs		lost	2nd		T20I v India	Durban	20 Sep 2007	investigate this query
+South Africa	won	160 runs		won	1st		Test v Pakistan	Karachi	1 Oct 2007	investigate this query
+South Africa	draw	-		won	1st		Test v Pakistan	Lahore	8 Oct 2007	investigate this query
+South Africa	won	45 runs		won	1st		ODI v Pakistan	Lahore	18 Oct 2007	investigate this query
+South Africa	lost	25 runs		lost	2nd		ODI v Pakistan	Lahore	20 Oct 2007	investigate this query
+South Africa	lost	6 wickets	11	won	1st		ODI v Pakistan	Faisalabad	23 Oct 2007	investigate this query
+South Africa	won	7 wickets	74	lost	2nd		ODI v Pakistan	Multan	26 Oct 2007	investigate this query
+South Africa	won	14 runs		won	1st		ODI v Pakistan	Lahore	29 Oct 2007	investigate this query
+South Africa	won	358 runs		won	1st		Test v New Zealand	Johannesburg	8 Nov 2007	investigate this query
+South Africa	won	inns & 59 runs		lost	2nd		Test v New Zealand	Centurion	16 Nov 2007	investigate this query
+South Africa	won	3 wickets	1	won	2nd		T20I v New Zealand	Johannesburg	23 Nov 2007	investigate this query
+South Africa	won	2 wickets	0	won	2nd		ODI v New Zealand	Durban	25 Nov 2007	investigate this query
+South Africa	lost	7 wickets	68	won	1st		ODI v New Zealand	Port Elizabeth	30 Nov 2007	investigate this query
+South Africa	won	5 wickets	28	lost	2nd		ODI v New Zealand	Cape Town	2 Dec 2007	investigate this query
+South Africa	lost	5 wickets	19	lost	1st		T20I v West Indies	Port Elizabeth	16 Dec 2007	investigate this query
+South Africa	lost	128 runs		won	2nd		Test v West Indies	Port Elizabeth	26 Dec 2007	investigate this query
+South Africa	won	7 wickets		lost	2nd		Test v West Indies	Cape Town	2 Jan 2008	investigate this query
+South Africa	won	inns & 100 runs		won	2nd		Test v West Indies	Durban	10 Jan 2008	investigate this query
+South Africa	won	4 wickets	4	won	2nd		T20I v West Indies	Johannesburg	18 Jan 2008	investigate this query
+South Africa	won	6 wickets	12	won	2nd		ODI v West Indies	Centurion	20 Jan 2008	investigate this query
+South Africa	won	86 runs		won	1st		ODI v West Indies	Cape Town	25 Jan 2008	investigate this query
+South Africa	won	7 wickets	8	lost	2nd		ODI v West Indies	Port Elizabeth	27 Jan 2008	investigate this query
+South Africa	won	5 wickets	13	lost	2nd		ODI v West Indies	Durban	1 Feb 2008	investigate this query
+South Africa	won	8 wickets	13	won	2nd		ODI v West Indies	Johannesburg	3 Feb 2008	investigate this query
+South Africa	won	5 wickets		lost	2nd		Test v Bangladesh	Dhaka	22 Feb 2008	investigate this query
+South Africa	won	inns & 205 runs		won	1st		Test v Bangladesh	Chittagong	29 Feb 2008	investigate this query
+South Africa	won	9 wickets	79	lost	2nd		ODI v Bangladesh	Chittagong	9 Mar 2008	investigate this query
+South Africa	won	7 wickets	11	lost	2nd		ODI v Bangladesh	Dhaka	12 Mar 2008	investigate this query
+South Africa	won	7 wickets	94	lost	2nd		ODI v Bangladesh	Dhaka	14 Mar 2008	investigate this query
+South Africa	draw	-		won	1st		Test v India	Chennai	26 Mar 2008	investigate this query
+South Africa	won	inns & 90 runs		lost	2nd		Test v India	Ahmedabad	3 Apr 2008	investigate this query
+South Africa	lost	8 wickets		won	1st		Test v India	Kanpur	11 Apr 2008	investigate this query
+South Africa	draw	-		won	2nd		Test v England	Lord's	10 Jul 2008	investigate this query
+South Africa	won	10 wickets		won	2nd		Test v England	Leeds	18 Jul 2008	investigate this query
+South Africa	won	5 wickets		lost	2nd		Test v England	Birmingham	30 Jul 2008	investigate this query
+South Africa	lost	6 wickets		won	1st		Test v England	The Oval	7 Aug 2008	investigate this query
+South Africa	aban	-		-	-		T20I v England	Chester-le-Street	20 Aug 2008	investigate this query
+South Africa	lost	20 runs		lost	2nd		ODI v England	Leeds	22 Aug 2008	investigate this query
+South Africa	lost	10 wickets	215	won	1st		ODI v England	Nottingham	26 Aug 2008	investigate this query
+South Africa	lost	126 runs		won	2nd		ODI v England	The Oval	29 Aug 2008	investigate this query
+South Africa	lost	7 wickets	14	lost	1st		ODI v England	Lord's	31 Aug 2008	investigate this query
+South Africa	n/r	-		lost	1st		ODI v England	Cardiff	3 Sep 2008	investigate this query
+South Africa	won	159 runs		won	1st		ODI v Kenya	Bloemfontein	31 Oct 2008	investigate this query
+South Africa	won	7 wickets	87	lost	2nd		ODI v Kenya	Kimberley	2 Nov 2008	investigate this query
+South Africa	won	12 runs		lost	1st		T20I v Bangladesh	Johannesburg	5 Nov 2008	investigate this query
+South Africa	won	61 runs		won	1st		ODI v Bangladesh	Potchefstroom	7 Nov 2008	investigate this query
+South Africa	won	128 runs		lost	1st		ODI v Bangladesh	Benoni	9 Nov 2008	investigate this query
+South Africa	aban	-		-	-		ODI v Bangladesh	East London	12 Nov 2008	investigate this query
+South Africa	won	inns & 129 runs		lost	1st		Test v Bangladesh	Bloemfontein	19 Nov 2008	investigate this query
+South Africa	won	inns & 48 runs		lost	2nd		Test v Bangladesh	Centurion	26 Nov 2008	investigate this query
+South Africa	won	6 wickets		lost	2nd		Test v Australia	Perth	17 Dec 2008	investigate this query
+South Africa	won	9 wickets		lost	2nd		Test v Australia	Melbourne	26 Dec 2008	investigate this query
+South Africa	lost	103 runs		lost	2nd		Test v Australia	Sydney	3 Jan 2009	investigate this query
+South Africa	lost	52 runs		lost	2nd		T20I v Australia	Melbourne	11 Jan 2009	investigate this query
+South Africa	lost	6 wickets	7	won	1st		T20I v Australia	Brisbane	13 Jan 2009	investigate this query
+South Africa	won	3 wickets	3	lost	2nd		ODI v Australia	Melbourne	16 Jan 2009	investigate this query
+South Africa	lost	5 runs		won	2nd		ODI v Australia	Hobart	18 Jan 2009	investigate this query
+South Africa	won	3 wickets	21	lost	2nd		ODI v Australia	Sydney	23 Jan 2009	investigate this query
+South Africa	won	8 wickets	71	lost	2nd		ODI v Australia	Adelaide	26 Jan 2009	investigate this query
+South Africa	won	39 runs		won	1st		ODI v Australia	Perth	30 Jan 2009	investigate this query
+South Africa	lost	162 runs		lost	2nd		Test v Australia	Johannesburg	26 Feb 2009	investigate this query
+South Africa	lost	175 runs		lost	2nd		Test v Australia	Durban	6 Mar 2009	investigate this query
+South Africa	won	inns & 20 runs		lost	2nd		Test v Australia	Cape Town	19 Mar 2009	investigate this query
+South Africa	won	4 wickets	4	won	2nd		T20I v Australia	Johannesburg	27 Mar 2009	investigate this query
+South Africa	won	17 runs		lost	1st		T20I v Australia	Centurion	29 Mar 2009	investigate this query
+South Africa	lost	141 runs		lost	2nd		ODI v Australia	Durban	3 Apr 2009	investigate this query
+South Africa	won	7 wickets	142	lost	2nd		ODI v Australia	Centurion	5 Apr 2009	investigate this query
+South Africa	won	25 runs		won	1st		ODI v Australia	Cape Town	9 Apr 2009	investigate this query
+South Africa	won	61 runs		lost	1st		ODI v Australia	Port Elizabeth	13 Apr 2009	investigate this query
+South Africa	lost	47 runs		won	2nd		ODI v Australia	Johannesburg	17 Apr 2009	investigate this query
+South Africa	won	130 runs		lost	1st		T20I v Scotland	The Oval	7 Jun 2009	investigate this query
+South Africa	won	1 runs		lost	1st		T20I v New Zealand	Lord's	9 Jun 2009	investigate this query
+South Africa	won	7 wickets	10	lost	2nd		T20I v England	Nottingham	11 Jun 2009	investigate this query
+South Africa	won	20 runs		lost	1st		T20I v West Indies	The Oval	13 Jun 2009	investigate this query
+South Africa	won	12 runs		won	1st		T20I v India	Nottingham	16 Jun 2009	investigate this query
+South Africa	lost	7 runs		lost	2nd		T20I v Pakistan	Nottingham	18 Jun 2009	investigate this query
+South Africa	lost	55 runs		won	2nd		ODI v Sri Lanka	Centurion	22 Sep 2009	investigate this query
+South Africa	won	5 wickets	53	won	2nd		ODI v New Zealand	Centurion	24 Sep 2009	investigate this query
+South Africa	lost	22 runs		lost	2nd		ODI v England	Centurion	27 Sep 2009	investigate this query
+South Africa	won	45 runs		lost	1st		ODI v Zimbabwe	Benoni	8 Nov 2009	investigate this query
+South Africa	won	212 runs		lost	1st		ODI v Zimbabwe	Centurion	10 Nov 2009	investigate this query
+South Africa	lost	1 runs		won	2nd		T20I v England	Johannesburg	13 Nov 2009	investigate this query
+South Africa	won	84 runs		won	1st		T20I v England	Centurion	15 Nov 2009	investigate this query
+South Africa	aban	-		-	-		ODI v England	Johannesburg	20 Nov 2009	investigate this query
+South Africa	lost	7 wickets	24	lost	1st		ODI v England	Centurion	22 Nov 2009	investigate this query
+South Africa	won	112 runs		won	1st		ODI v England	Cape Town	27 Nov 2009	investigate this query
+South Africa	lost	7 wickets	112	won	1st		ODI v England	Port Elizabeth	29 Nov 2009	investigate this query
+South Africa	aban	-		-	-		ODI v England	Durban	4 Dec 2009	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Centurion	16 Dec 2009	investigate this query
+South Africa	lost	inns & 98 runs		won	1st		Test v England	Durban	26 Dec 2009	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Cape Town	3 Jan 2010	investigate this query
+South Africa	won	inns & 74 runs		lost	2nd		Test v England	Johannesburg	14 Jan 2010	investigate this query
+South Africa	won	inns & 6 runs		won	1st		Test v India	Nagpur	6 Feb 2010	investigate this query
+South Africa	lost	inns & 57 runs		won	1st		Test v India	Kolkata	14 Feb 2010	investigate this query
+South Africa	lost	1 runs		won	2nd		ODI v India	Jaipur	21 Feb 2010	investigate this query
+South Africa	lost	153 runs		lost	2nd		ODI v India	Gwalior	24 Feb 2010	investigate this query
+South Africa	won	90 runs		won	1st		ODI v India	Ahmedabad	27 Feb 2010	investigate this query
+South Africa	lost	14 runs		won	2nd		T20I v India	Gros Islet	2 May 2010	investigate this query
+South Africa	won	59 runs		lost	1st		T20I v Afghanistan	Bridgetown	5 May 2010	investigate this query
+South Africa	won	13 runs		won	1st		T20I v New Zealand	Bridgetown	6 May 2010	investigate this query
+South Africa	lost	39 runs		lost	2nd		T20I v England	Bridgetown	8 May 2010	investigate this query
+South Africa	lost	11 runs		lost	2nd		T20I v Pakistan	Gros Islet	10 May 2010	investigate this query
+South Africa	won	13 runs		lost	1st		T20I v West Indies	North Sound	19 May 2010	investigate this query
+South Africa	won	1 runs		lost	1st		T20I v West Indies	North Sound	20 May 2010	investigate this query
+South Africa	won	66 runs		lost	1st		ODI v West Indies	North Sound	22 May 2010	investigate this query
+South Africa	won	17 runs		won	1st		ODI v West Indies	North Sound	24 May 2010	investigate this query
+South Africa	won	67 runs		won	1st		ODI v West Indies	Roseau	28 May 2010	investigate this query
+South Africa	won	7 wickets	0	lost	2nd		ODI v West Indies	Roseau	30 May 2010	investigate this query
+South Africa	won	1 wickets	2	lost	2nd		ODI v West Indies	Port of Spain	3 Jun 2010	investigate this query
+South Africa	won	163 runs		won	1st		Test v West Indies	Port of Spain	10 Jun 2010	investigate this query
+South Africa	draw	-		won	1st		Test v West Indies	Basseterre	18 Jun 2010	investigate this query
+South Africa	won	7 wickets		lost	2nd		Test v West Indies	Bridgetown	26 Jun 2010	investigate this query
+South Africa	won	7 wickets	25	lost	2nd		T20I v Zimbabwe	Bloemfontein	8 Oct 2010	investigate this query
+South Africa	won	8 runs		won	1st		T20I v Zimbabwe	Kimberley	10 Oct 2010	investigate this query
+South Africa	won	64 runs		won	1st		ODI v Zimbabwe	Bloemfontein	15 Oct 2010	investigate this query
+South Africa	won	8 wickets	66	lost	2nd		ODI v Zimbabwe	Potchefstroom	17 Oct 2010	investigate this query
+South Africa	won	272 runs		won	1st		ODI v Zimbabwe	Benoni	22 Oct 2010	investigate this query
+South Africa	won	6 wickets	10	lost	2nd		T20I v Pakistan	Abu Dhabi	26 Oct 2010	investigate this query
+South Africa	won	6 wickets	8	lost	2nd		T20I v Pakistan	Abu Dhabi	27 Oct 2010	investigate this query
+South Africa	won	8 wickets	63	lost	2nd		ODI v Pakistan	Abu Dhabi	29 Oct 2010	investigate this query
+South Africa	lost	1 wickets	1	won	1st		ODI v Pakistan	Abu Dhabi	31 Oct 2010	investigate this query
+South Africa	won	2 runs		lost	1st		ODI v Pakistan	Dubai (DSC)	2 Nov 2010	investigate this query
+South Africa	lost	1 wickets	1	won	1st		ODI v Pakistan	Dubai (DSC)	5 Nov 2010	investigate this query
+South Africa	won	57 runs		won	1st		ODI v Pakistan	Dubai (DSC)	8 Nov 2010	investigate this query
+South Africa	draw	-		won	1st		Test v Pakistan	Dubai (DSC)	12 Nov 2010	investigate this query
+South Africa	draw	-		lost	1st		Test v Pakistan	Abu Dhabi	20 Nov 2010	investigate this query
+South Africa	won	inns & 25 runs		won	2nd		Test v India	Centurion	16 Dec 2010	investigate this query
+South Africa	lost	87 runs		won	2nd		Test v India	Durban	26 Dec 2010	investigate this query
+South Africa	draw	-		lost	1st		Test v India	Cape Town	2 Jan 2011	investigate this query
+South Africa	lost	21 runs		lost	2nd		T20I v India	Durban	9 Jan 2011	investigate this query
+South Africa	won	135 runs		won	1st		ODI v India	Durban	12 Jan 2011	investigate this query
+South Africa	lost	1 runs		lost	2nd		ODI v India	Johannesburg	15 Jan 2011	investigate this query
+South Africa	lost	2 wickets	10	won	1st		ODI v India	Cape Town	18 Jan 2011	investigate this query
+South Africa	won	48 runs		won	1st		ODI v India	Port Elizabeth	21 Jan 2011	investigate this query
+South Africa	won	33 runs		lost	1st		ODI v India	Centurion	23 Jan 2011	investigate this query
+South Africa	won	7 wickets	43	won	2nd		ODI v West Indies	Delhi	24 Feb 2011	investigate this query
+South Africa	won	231 runs		lost	1st		ODI v Netherlands	Mohali	3 Mar 2011	investigate this query
+South Africa	lost	6 runs		lost	2nd		ODI v England	Chennai	6 Mar 2011	investigate this query
+South Africa	won	3 wickets	2	lost	2nd		ODI v India	Nagpur	12 Mar 2011	investigate this query
+South Africa	won	131 runs		lost	1st		ODI v Ireland	Kolkata	15 Mar 2011	investigate this query
+South Africa	won	206 runs		won	1st		ODI v Bangladesh	Dhaka	19 Mar 2011	investigate this query
+South Africa	lost	49 runs		lost	2nd		ODI v New Zealand	Dhaka	25 Mar 2011	investigate this query
+South Africa	lost	5 wickets	3	won	1st		T20I v Australia	Cape Town	13 Oct 2011	investigate this query
+South Africa	won	3 wickets	5	lost	2nd		T20I v Australia	Johannesburg	16 Oct 2011	investigate this query
+South Africa	lost	93 runs		won	2nd		ODI v Australia	Centurion	19 Oct 2011	investigate this query
+South Africa	won	80 runs		won	1st		ODI v Australia	Port Elizabeth	23 Oct 2011	investigate this query
+South Africa	lost	3 wickets	15	won	1st		ODI v Australia	Durban	28 Oct 2011	investigate this query
+South Africa	won	8 wickets		won	2nd		Test v Australia	Cape Town	9 Nov 2011	investigate this query
+South Africa	lost	2 wickets		won	1st		Test v Australia	Johannesburg	17 Nov 2011	investigate this query
+South Africa	won	inns & 81 runs		won	2nd		Test v Sri Lanka	Centurion	15 Dec 2011	investigate this query
+South Africa	lost	208 runs		lost	2nd		Test v Sri Lanka	Durban	26 Dec 2011	investigate this query
+South Africa	won	10 wickets		lost	1st		Test v Sri Lanka	Cape Town	3 Jan 2012	investigate this query
+South Africa	won	258 runs		won	1st		ODI v Sri Lanka	Paarl	11 Jan 2012	investigate this query
+South Africa	won	5 wickets	8	won	2nd		ODI v Sri Lanka	East London	14 Jan 2012	investigate this query
+South Africa	won	4 runs		lost	2nd		ODI v Sri Lanka	Bloemfontein	17 Jan 2012	investigate this query
+South Africa	lost	5 wickets	8	won	1st		ODI v Sri Lanka	Kimberley	20 Jan 2012	investigate this query
+South Africa	lost	2 wickets	1	lost	1st		ODI v Sri Lanka	Johannesburg	22 Jan 2012	investigate this query
+South Africa	lost	6 wickets	4	lost	1st		T20I v New Zealand	Wellington	17 Feb 2012	investigate this query
+South Africa	won	8 wickets	24	won	2nd		T20I v New Zealand	Hamilton	19 Feb 2012	investigate this query
+South Africa	won	3 runs		lost	1st		T20I v New Zealand	Auckland	22 Feb 2012	investigate this query
+South Africa	won	6 wickets	28	lost	2nd		ODI v New Zealand	Wellington	25 Feb 2012	investigate this query
+South Africa	won	6 wickets	70	won	2nd		ODI v New Zealand	Napier	29 Feb 2012	investigate this query
+South Africa	won	5 wickets	40	won	2nd		ODI v New Zealand	Auckland	3 Mar 2012	investigate this query
+South Africa	draw	-		lost	1st		Test v New Zealand	Dunedin	7 Mar 2012	investigate this query
+South Africa	won	9 wickets		won	2nd		Test v New Zealand	Hamilton	15 Mar 2012	investigate this query
+South Africa	draw	-		lost	1st		Test v New Zealand	Wellington	23 Mar 2012	investigate this query
+South Africa	won	11 runs		lost	1st		T20I v India	Johannesburg	30 Mar 2012	investigate this query
+South Africa	won	inns & 12 runs		lost	2nd		Test v England	The Oval	19 Jul 2012	investigate this query
+South Africa	draw	-		lost	1st		Test v England	Leeds	2 Aug 2012	investigate this query
+South Africa	won	51 runs		won	1st		Test v England	Lord's	16 Aug 2012	investigate this query
+South Africa	n/r	-		won	2nd		ODI v England	Cardiff	24 Aug 2012	investigate this query
+South Africa	won	80 runs		won	1st		ODI v England	Southampton	28 Aug 2012	investigate this query
+South Africa	lost	4 wickets	12	won	1st		ODI v England	The Oval	31 Aug 2012	investigate this query
+South Africa	lost	6 wickets	20	lost	1st		ODI v England	Lord's	2 Sep 2012	investigate this query
+South Africa	won	7 wickets	93	lost	2nd		ODI v England	Nottingham	5 Sep 2012	investigate this query
+South Africa	won	7 wickets	6	won	2nd		T20I v England	Chester-le-Street	8 Sep 2012	investigate this query
+South Africa	n/r	-		lost	1st		T20I v England	Manchester	10 Sep 2012	investigate this query
+South Africa	lost	28 runs		won	2nd		T20I v England	Birmingham	12 Sep 2012	investigate this query
+South Africa	won	10 wickets	44	won	2nd		T20I v Zimbabwe	Hambantota	20 Sep 2012	investigate this query
+South Africa	won	32 runs		lost	1st		T20I v Sri Lanka	Hambantota	22 Sep 2012	investigate this query
+South Africa	lost	2 wickets	2	won	1st		T20I v Pakistan	Colombo (RPS)	28 Sep 2012	investigate this query
+South Africa	lost	8 wickets	14	lost	1st		T20I v Australia	Colombo (RPS)	30 Sep 2012	investigate this query
+South Africa	lost	1 runs		won	2nd		T20I v India	Colombo (RPS)	2 Oct 2012	investigate this query
+South Africa	draw	-		won	1st		Test v Australia	Brisbane	9 Nov 2012	investigate this query
+South Africa	draw	-		lost	2nd		Test v Australia	Adelaide	22 Nov 2012	investigate this query
+South Africa	won	309 runs		won	1st		Test v Australia	Perth	30 Nov 2012	investigate this query
+South Africa	won	8 wickets	47	lost	2nd		T20I v New Zealand	Durban	21 Dec 2012	investigate this query
+South Africa	lost	8 wickets	0	lost	1st		T20I v New Zealand	East London	23 Dec 2012	investigate this query
+South Africa	won	33 runs		won	1st		T20I v New Zealand	Port Elizabeth	26 Dec 2012	investigate this query
+South Africa	won	inns & 27 runs		lost	2nd		Test v New Zealand	Cape Town	2 Jan 2013	investigate this query
+South Africa	won	inns & 193 runs		won	1st		Test v New Zealand	Port Elizabeth	11 Jan 2013	investigate this query
+South Africa	lost	1 wickets	26	lost	1st		ODI v New Zealand	Paarl	19 Jan 2013	investigate this query
+South Africa	lost	27 runs		won	2nd		ODI v New Zealand	Kimberley	22 Jan 2013	investigate this query
+South Africa	won	1 wickets	0	lost	2nd		ODI v New Zealand	Potchefstroom	25 Jan 2013	investigate this query
+South Africa	won	211 runs		won	1st		Test v Pakistan	Johannesburg	1 Feb 2013	investigate this query
+South Africa	won	4 wickets		won	2nd		Test v Pakistan	Cape Town	14 Feb 2013	investigate this query
+South Africa	won	inns & 18 runs		won	1st		Test v Pakistan	Centurion	22 Feb 2013	investigate this query
+South Africa	aban	-		-	-		T20I v Pakistan	Durban	1 Mar 2013	investigate this query
+South Africa	lost	95 runs		lost	2nd		T20I v Pakistan	Centurion	3 Mar 2013	investigate this query
+South Africa	won	125 runs		lost	1st		ODI v Pakistan	Bloemfontein	10 Mar 2013	investigate this query
+South Africa	lost	6 wickets	28	won	1st		ODI v Pakistan	Centurion	15 Mar 2013	investigate this query
+South Africa	won	34 runs		lost	1st		ODI v Pakistan	Johannesburg	17 Mar 2013	investigate this query
+South Africa	lost	3 wickets	8	won	1st		ODI v Pakistan	Durban	21 Mar 2013	investigate this query
+South Africa	won	6 wickets	36	lost	2nd		ODI v Pakistan	Benoni	24 Mar 2013	investigate this query
+South Africa	won	83 runs		won	1st		ODI v Netherlands	Amstelveen	31 May 2013	investigate this query
+South Africa	lost	26 runs		won	2nd		ODI v India	Cardiff	6 Jun 2013	investigate this query
+South Africa	won	67 runs		won	1st		ODI v Pakistan	Birmingham	10 Jun 2013	investigate this query
+South Africa	tied	-		lost	1st		ODI v West Indies	Cardiff	14 Jun 2013	investigate this query
+South Africa	lost	7 wickets	75	lost	1st		ODI v England	The Oval	19 Jun 2013	investigate this query
+South Africa	lost	180 runs		won	2nd		ODI v Sri Lanka	Colombo (RPS)	20 Jul 2013	investigate this query
+South Africa	lost	17 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	23 Jul 2013	investigate this query
+South Africa	won	56 runs		won	1st		ODI v Sri Lanka	Pallekele	26 Jul 2013	investigate this query
+South Africa	lost	8 wickets	36	won	1st		ODI v Sri Lanka	Pallekele	28 Jul 2013	investigate this query
+South Africa	lost	128 runs		lost	2nd		ODI v Sri Lanka	Colombo (RPS)	31 Jul 2013	investigate this query
+South Africa	won	12 runs		won	1st		T20I v Sri Lanka	Colombo (RPS)	2 Aug 2013	investigate this query
+South Africa	won	22 runs		won	1st		T20I v Sri Lanka	Hambantota	4 Aug 2013	investigate this query
+South Africa	lost	6 wickets	11	won	1st		T20I v Sri Lanka	Hambantota	6 Aug 2013	investigate this query
+South Africa	lost	7 wickets		won	1st		Test v Pakistan	Abu Dhabi	14 Oct 2013	investigate this query
+South Africa	won	inns & 92 runs		lost	2nd		Test v Pakistan	Dubai (DSC)	23 Oct 2013	investigate this query
+South Africa	won	1 runs		won	1st		ODI v Pakistan	Sharjah	30 Oct 2013	investigate this query
+South Africa	lost	66 runs		lost	2nd		ODI v Pakistan	Dubai (DSC)	1 Nov 2013	investigate this query
+South Africa	won	68 runs		won	1st		ODI v Pakistan	Abu Dhabi	6 Nov 2013	investigate this query
+South Africa	won	28 runs		won	1st		ODI v Pakistan	Abu Dhabi	8 Nov 2013	investigate this query
+South Africa	won	117 runs		won	1st		ODI v Pakistan	Sharjah	11 Nov 2013	investigate this query
+South Africa	won	9 wickets	33	lost	2nd		T20I v Pakistan	Dubai (DSC)	13 Nov 2013	investigate this query
+South Africa	won	6 runs		won	1st		T20I v Pakistan	Dubai (DSC)	15 Nov 2013	investigate this query
+South Africa	won	4 runs		lost	1st		T20I v Pakistan	Johannesburg	20 Nov 2013	investigate this query
+South Africa	lost	6 runs		lost	2nd		T20I v Pakistan	Cape Town	22 Nov 2013	investigate this query
+South Africa	lost	23 runs		lost	2nd		ODI v Pakistan	Cape Town	24 Nov 2013	investigate this query
+South Africa	lost	1 runs		won	2nd		ODI v Pakistan	Port Elizabeth	27 Nov 2013	investigate this query
+South Africa	won	4 wickets	68	won	2nd		ODI v Pakistan	Centurion	30 Nov 2013	investigate this query
+South Africa	won	141 runs		lost	1st		ODI v India	Johannesburg	5 Dec 2013	investigate this query
+South Africa	won	134 runs		lost	1st		ODI v India	Durban	8 Dec 2013	investigate this query
+South Africa	n/r	-		won	1st		ODI v India	Centurion	11 Dec 2013	investigate this query
+South Africa	draw	-		lost	2nd		Test v India	Johannesburg	18 Dec 2013	investigate this query
+South Africa	won	10 wickets		lost	2nd		Test v India	Durban	26 Dec 2013	investigate this query
+South Africa	lost	281 runs		won	2nd		Test v Australia	Centurion	12 Feb 2014	investigate this query
+South Africa	won	231 runs		won	1st		Test v Australia	Port Elizabeth	20 Feb 2014	investigate this query
+South Africa	lost	245 runs		lost	2nd		Test v Australia	Cape Town	1 Mar 2014	investigate this query
+South Africa	aban	-		-	-		T20I v Australia	Port Elizabeth	9 Mar 2014	investigate this query
+South Africa	lost	5 wickets	2	lost	1st		T20I v Australia	Durban	12 Mar 2014	investigate this query
+South Africa	lost	6 wickets	30	lost	1st		T20I v Australia	Centurion	14 Mar 2014	investigate this query
+South Africa	lost	5 runs		lost	2nd		T20I v Sri Lanka	Chittagong	22 Mar 2014	investigate this query
+South Africa	won	2 runs		lost	1st		T20I v New Zealand	Chittagong	24 Mar 2014	investigate this query
+South Africa	won	6 runs		lost	1st		T20I v Netherlands	Chittagong	27 Mar 2014	investigate this query
+South Africa	won	3 runs		lost	1st		T20I v England	Chittagong	29 Mar 2014	investigate this query
+South Africa	lost	6 wickets	5	won	1st		T20I v India	Dhaka	4 Apr 2014	investigate this query
+South Africa	won	75 runs		won	1st		ODI v Sri Lanka	Colombo (RPS)	6 Jul 2014	investigate this query
+South Africa	lost	87 runs		lost	2nd		ODI v Sri Lanka	Pallekele	9 Jul 2014	investigate this query
+South Africa	won	82 runs		won	1st		ODI v Sri Lanka	Hambantota	12 Jul 2014	investigate this query
+South Africa	won	153 runs		won	1st		Test v Sri Lanka	Galle	16 Jul 2014	investigate this query
+South Africa	draw	-		lost	2nd		Test v Sri Lanka	Colombo (SSC)	24 Jul 2014	investigate this query
+South Africa	won	9 wickets		lost	2nd		Test v Zimbabwe	Harare	9 Aug 2014	investigate this query
+South Africa	won	93 runs		lost	1st		ODI v Zimbabwe	Bulawayo	17 Aug 2014	investigate this query
+South Africa	won	61 runs		lost	1st		ODI v Zimbabwe	Bulawayo	19 Aug 2014	investigate this query
+South Africa	won	7 wickets	136	won	2nd		ODI v Zimbabwe	Bulawayo	21 Aug 2014	investigate this query
+South Africa	won	7 wickets	20	won	2nd		ODI v Australia	Harare	27 Aug 2014	investigate this query
+South Africa	won	61 runs		lost	1st		ODI v Zimbabwe	Harare	29 Aug 2014	investigate this query
+South Africa	lost	62 runs		won	2nd		ODI v Australia	Harare	2 Sep 2014	investigate this query
+South Africa	won	63 runs		lost	1st		ODI v Zimbabwe	Harare	4 Sep 2014	investigate this query
+South Africa	won	6 wickets	55	won	2nd		ODI v Australia	Harare	6 Sep 2014	investigate this query
+South Africa	won	6 wickets	11	won	2nd		ODI v New Zealand	Mount Maunganui	21 Oct 2014	investigate this query
+South Africa	won	72 runs		lost	1st		ODI v New Zealand	Mount Maunganui	24 Oct 2014	investigate this query
+South Africa	n/r	-		lost	1st		ODI v New Zealand	Hamilton	27 Oct 2014	investigate this query
+South Africa	won	7 wickets	6	lost	2nd		T20I v Australia	Adelaide	5 Nov 2014	investigate this query
+South Africa	lost	7 wickets	44	won	1st		T20I v Australia	Melbourne	7 Nov 2014	investigate this query
+South Africa	lost	2 wickets	1	lost	1st		T20I v Australia	Sydney	9 Nov 2014	investigate this query
+South Africa	lost	32 runs		won	2nd		ODI v Australia	Perth	14 Nov 2014	investigate this query
+South Africa	won	3 wickets	134	lost	2nd		ODI v Australia	Perth	16 Nov 2014	investigate this query
+South Africa	lost	73 runs		lost	2nd		ODI v Australia	Canberra	19 Nov 2014	investigate this query
+South Africa	lost	3 wickets	6	won	1st		ODI v Australia	Melbourne	21 Nov 2014	investigate this query
+South Africa	lost	2 wickets	5	won	1st		ODI v Australia	Sydney	23 Nov 2014	investigate this query
+South Africa	won	inns & 220 runs		lost	1st		Test v West Indies	Centurion	17 Dec 2014	investigate this query
+South Africa	draw	-		lost	1st		Test v West Indies	Port Elizabeth	26 Dec 2014	investigate this query
+South Africa	won	8 wickets		lost	2nd		Test v West Indies	Cape Town	2 Jan 2015	investigate this query
+South Africa	lost	4 wickets	4	won	1st		T20I v West Indies	Cape Town	9 Jan 2015	investigate this query
+South Africa	lost	4 wickets	4	lost	1st		T20I v West Indies	Johannesburg	11 Jan 2015	investigate this query
+South Africa	won	69 runs		lost	1st		T20I v West Indies	Durban	14 Jan 2015	investigate this query
+South Africa	won	61 runs		won	1st		ODI v West Indies	Durban	16 Jan 2015	investigate this query
+South Africa	won	148 runs		lost	1st		ODI v West Indies	Johannesburg	18 Jan 2015	investigate this query
+South Africa	won	9 wickets	152	lost	2nd		ODI v West Indies	East London	21 Jan 2015	investigate this query
+South Africa	lost	1 wickets	9	lost	1st		ODI v West Indies	Port Elizabeth	25 Jan 2015	investigate this query
+South Africa	won	131 runs		lost	1st		ODI v West Indies	Centurion	28 Jan 2015	investigate this query
+South Africa	won	62 runs		lost	1st		ODI v Zimbabwe	Hamilton	15 Feb 2015	investigate this query
+South Africa	lost	130 runs		lost	2nd		ODI v India	Melbourne	22 Feb 2015	investigate this query
+South Africa	won	257 runs		won	1st		ODI v West Indies	Sydney	27 Feb 2015	investigate this query
+South Africa	won	201 runs		won	1st		ODI v Ireland	Canberra	3 Mar 2015	investigate this query
+South Africa	lost	29 runs		won	2nd		ODI v Pakistan	Auckland	7 Mar 2015	investigate this query
+South Africa	won	146 runs		lost	1st		ODI v U.A.E.	Wellington	12 Mar 2015	investigate this query
+South Africa	won	9 wickets	192	lost	2nd		ODI v Sri Lanka	Sydney	18 Mar 2015	investigate this query
+South Africa	lost	4 wickets	1	won	1st		ODI v New Zealand	Auckland	24 Mar 2015	investigate this query
+South Africa	won	52 runs		won	1st		T20I v Bangladesh	Dhaka	5 Jul 2015	investigate this query
+South Africa	won	31 runs		won	1st		T20I v Bangladesh	Dhaka	7 Jul 2015	investigate this query
+South Africa	won	8 wickets	53	lost	2nd		ODI v Bangladesh	Dhaka	10 Jul 2015	investigate this query
+South Africa	lost	7 wickets	134	won	1st		ODI v Bangladesh	Dhaka	12 Jul 2015	investigate this query
+South Africa	lost	9 wickets	83	won	1st		ODI v Bangladesh	Chittagong	15 Jul 2015	investigate this query
+South Africa	draw	-		won	1st		Test v Bangladesh	Chittagong	21 Jul 2015	investigate this query
+South Africa	draw	-		lost	2nd		Test v Bangladesh	Dhaka	30 Jul 2015	investigate this query
+South Africa	won	6 wickets	13	won	2nd		T20I v New Zealand	Durban	14 Aug 2015	investigate this query
+South Africa	lost	32 runs		lost	2nd		T20I v New Zealand	Centurion	16 Aug 2015	investigate this query
+South Africa	won	20 runs		lost	1st		ODI v New Zealand	Centurion	19 Aug 2015	investigate this query
+South Africa	lost	8 wickets	33	won	1st		ODI v New Zealand	Potchefstroom	23 Aug 2015	investigate this query
+South Africa	won	62 runs		won	1st		ODI v New Zealand	Durban	26 Aug 2015	investigate this query
