@@ -138,7 +138,7 @@ function draw_data(data_){
 				toss: data_[key][match].toss,
 				location: data_[key][match].location,
 				location_c: data_[key][match].location_c,
-				color: 'lightgray',//colors[key],
+				color: 'gray',//colors[key],
 				radius: 9,
 				cx: width/2,
 				cy: height/2
@@ -221,7 +221,14 @@ function draw_data(data_){
     	.attr("r", function(d) { return d.radius; })
     	.on("mouseover", function(d) {
         	tooltip.transition().duration(50).style("opacity", 0.9);
-        	tooltip.html('(MATCH TYPE: '+d.match_type+', RESULT: '+d.result+', MONTH: '+d.month+')').style("left", (d3.event.pageX + 5) + "px").style("top", (d3.event.pageY - 28) + "px");
+        	var ttip_html = "<div class='ttip_row'>MATCH TYPE: "+d.match_type+" </div>";
+        	ttip_html += "<div class='ttip_row'>RESULT: "+d.result+" </div>";
+        	ttip_html += "<div class='ttip_row'>MONTH: "+d.month+" </div>"; 
+        	ttip_html += "<div class='ttip_row'>YEAR: "+d.year+" </div>";
+        	ttip_html += "<div class='ttip_row'>LOCATION: "+d.location+', '+d.location_c+"</div>";
+        	ttip_html += "<div class='ttip_row'>TOSS: "+d.toss+"</div>";
+
+        	tooltip.html(ttip_html).style("left", (d3.event.pageX + 5) + "px").style("top", (d3.event.pageY - 28) + "px");
    	 	})
     	.on("mouseout", function(d) {
         	tooltip.transition().duration(50).style("opacity", 0);
