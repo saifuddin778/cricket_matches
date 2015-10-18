@@ -213,8 +213,8 @@ Pakistan	won	46 runs		lost	1st		ODI v India	Quetta	12 Oct 1984	investigate this 
 Pakistan	draw	-		won	1st		Test v India	Lahore	17 Oct 1984	investigate this query
 Pakistan	draw	-		lost	2nd		Test v India	Faisalabad	24 Oct 1984	investigate this query
 Pakistan	n/r	-		won	2nd		ODI v India	Sialkot	31 Oct 1984	investigate this query
-Pakistan	canc	-		-	-		ODI v India	Peshawar	2 Nov 1984	investigate this query
-Pakistan	canc	-		-	-		Test v India	Karachi	4 Nov 1984	investigate this query
+Pakistan	aban	-		-	-		ODI v India	Peshawar	2 Nov 1984	investigate this query
+Pakistan	aban	-		-	-		Test v India	Karachi	4 Nov 1984	investigate this query
 Pakistan	won	46 runs		lost	1st		ODI v New Zealand	Peshawar	12 Nov 1984	investigate this query
 Pakistan	won	6 wickets		lost	2nd		Test v New Zealand	Lahore	16 Nov 1984	investigate this query
 Pakistan	won	5 runs		lost	1st		ODI v New Zealand	Faisalabad	23 Nov 1984	investigate this query
@@ -496,7 +496,7 @@ Pakistan	won	9 wickets	70	lost	2nd		ODI v Sri Lanka	Colombo (RPS)	3 Aug 1994	inv
 Pakistan	lost	7 wickets	16	lost	1st		ODI v Sri Lanka	Colombo (RPS)	6 Aug 1994	investigate this query
 Pakistan	won	19 runs		lost	1st		ODI v Sri Lanka	Colombo (SSC)	7 Aug 1994	investigate this query
 Pakistan	won	301 runs		won	1st		Test v Sri Lanka	Colombo (PSS)	9 Aug 1994	investigate this query
-Pakistan	canc	-		-	-		Test v Sri Lanka	Colombo (SSC)	18 Aug 1994	investigate this query
+Pakistan	aban	-		-	-		Test v Sri Lanka	Colombo (SSC)	18 Aug 1994	investigate this query
 Pakistan	won	5 wickets	50	won	2nd		ODI v Sri Lanka	Colombo (SSC)	22 Aug 1994	investigate this query
 Pakistan	won	27 runs		lost	1st		ODI v Sri Lanka	Colombo (RPS)	24 Aug 1994	investigate this query
 Pakistan	won	inns & 52 runs		won	2nd		Test v Sri Lanka	Kandy	26 Aug 1994	investigate this query
@@ -815,7 +815,7 @@ Pakistan	won	153 runs		won	1st		ODI v New Zealand	Karachi	21 Apr 2002	investigat
 Pakistan	won	3 wickets	17	lost	2nd		ODI v New Zealand	Rawalpindi	24 Apr 2002	investigate this query
 Pakistan	won	66 runs		won	1st		ODI v New Zealand	Lahore	27 Apr 2002	investigate this query
 Pakistan	won	inns & 324 runs		won	1st		Test v New Zealand	Lahore	1 May 2002	investigate this query
-Pakistan	canc	-		-	-		Test v New Zealand	Karachi	8 May 2002	investigate this query
+Pakistan	aban	-		-	-		Test v New Zealand	Karachi	8 May 2002	investigate this query
 Pakistan	lost	7 wickets	103	lost	1st		ODI v Australia	Melbourne (Docklands)	12 Jun 2002	investigate this query
 Pakistan	won	2 wickets	7	lost	2nd		ODI v Australia	Melbourne (Docklands)	15 Jun 2002	investigate this query
 Pakistan	won	91 runs		won	1st		ODI v Australia	Brisbane	19 Jun 2002	investigate this query

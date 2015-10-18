@@ -283,8 +283,8 @@ India	lost	46 runs		won	2nd		ODI v Pakistan	Quetta	12 Oct 1984	investigate this 
 India	draw	-		lost	2nd		Test v Pakistan	Lahore	17 Oct 1984	investigate this query
 India	draw	-		won	1st		Test v Pakistan	Faisalabad	24 Oct 1984	investigate this query
 India	n/r	-		lost	1st		ODI v Pakistan	Sialkot	31 Oct 1984	investigate this query
-India	canc	-		-	-		ODI v Pakistan	Peshawar	2 Nov 1984	investigate this query
-India	canc	-		-	-		Test v Pakistan	Karachi	4 Nov 1984	investigate this query
+India	aban	-		-	-		ODI v Pakistan	Peshawar	2 Nov 1984	investigate this query
+India	aban	-		-	-		Test v Pakistan	Karachi	4 Nov 1984	investigate this query
 India	won	8 wickets		lost	2nd		Test v England	Mumbai	28 Nov 1984	investigate this query
 India	lost	4 wickets	10	lost	1st		ODI v England	Pune	5 Dec 1984	investigate this query
 India	lost	8 wickets		won	1st		Test v England	Delhi	12 Dec 1984	investigate this query
@@ -496,7 +496,7 @@ India	lost	39 runs		won	2nd		ODI v South Africa	Durban	17 Dec 1992	investigate t
 India	won	5 wickets	16	won	2nd		ODI v South Africa	East London	19 Dec 1992	investigate this query
 India	lost	9 wickets		lost	1st		Test v South Africa	Port Elizabeth	26 Dec 1992	investigate this query
 India	draw	-		lost	2nd		Test v South Africa	Cape Town	2 Jan 1993	investigate this query
-India	canc	-		-	-		ODI v England	Ahmedabad	16 Jan 1993	investigate this query
+India	aban	-		-	-		ODI v England	Ahmedabad	16 Jan 1993	investigate this query
 India	lost	4 wickets	0	lost	1st		ODI v England	Jaipur	18 Jan 1993	investigate this query
 India	won	5 wickets	29	won	2nd		ODI v England	Chandigarh	21 Jan 1993	investigate this query
 India	won	8 wickets		won	1st		Test v England	Kolkata	29 Jan 1993	investigate this query
@@ -623,7 +623,7 @@ India	won	6 wickets	64	won	2nd		ODI v Zimbabwe	Benoni	9 Feb 1997	investigate thi
 India	n/r	-		won	1st		ODI v South Africa	Durban	12 Feb 1997	investigate this query
 India	lost	17 runs		lost	2nd		ODI v South Africa	Durban	13 Feb 1997	investigate this query
 India	lost	8 wickets	73	lost	1st		ODI v Zimbabwe	Bulawayo	15 Feb 1997	investigate this query
-India	canc	-		-	-		ODI v Zimbabwe	Harare	17 Feb 1997	investigate this query
+India	aban	-		-	-		ODI v Zimbabwe	Harare	17 Feb 1997	investigate this query
 India	draw	-		lost	2nd		Test v West Indies	Kingston	6 Mar 1997	investigate this query
 India	draw	-		lost	2nd		Test v West Indies	Port of Spain	14 Mar 1997	investigate this query
 India	lost	38 runs		won	2nd		Test v West Indies	Bridgetown	27 Mar 1997	investigate this query
@@ -1041,11 +1041,11 @@ India	draw	-		lost	2nd		Test v West Indies	Basseterre	22 Jun 2006	investigate th
 India	won	49 runs		won	1st		Test v West Indies	Kingston	30 Jun 2006	investigate this query
 India	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	16 Aug 2006	investigate this query
 India	n/r	-		won	1st		ODI v Sri Lanka	Colombo (SSC)	18 Aug 2006	investigate this query
-India	canc	-		-	-		ODI v South Africa	Colombo (SSC)	19 Aug 2006	investigate this query
+India	aban	-		-	-		ODI v South Africa	Colombo (SSC)	19 Aug 2006	investigate this query
 India	aban	-		-	-		ODI v Sri Lanka	Colombo (SSC)	20 Aug 2006	investigate this query
-India	canc	-		-	-		ODI v Sri Lanka	Colombo (SSC)	22 Aug 2006	investigate this query
-India	canc	-		-	-		ODI v Sri Lanka	Colombo (RPS)	24 Aug 2006	investigate this query
-India	canc	-		-	-		ODI v South Africa	Colombo (RPS)	26 Aug 2006	investigate this query
+India	aban	-		-	-		ODI v Sri Lanka	Colombo (SSC)	22 Aug 2006	investigate this query
+India	aban	-		-	-		ODI v Sri Lanka	Colombo (RPS)	24 Aug 2006	investigate this query
+India	aban	-		-	-		ODI v South Africa	Colombo (RPS)	26 Aug 2006	investigate this query
 India	lost	29 runs		won	1st		ODI v West Indies	Kuala Lumpur	14 Sep 2006	investigate this query
 India	n/r	-		lost	2nd		ODI v Australia	Kuala Lumpur	16 Sep 2006	investigate this query
 India	won	16 runs		won	1st		ODI v West Indies	Kuala Lumpur	20 Sep 2006	investigate this query
@@ -1162,8 +1162,8 @@ India	won	54 runs		won	1st		ODI v England	Indore	17 Nov 2008	investigate this qu
 India	won	16 runs		lost	2nd		ODI v England	Kanpur	20 Nov 2008	investigate this query
 India	won	19 runs		lost	1st		ODI v England	Bangalore	23 Nov 2008	investigate this query
 India	won	6 wickets	38	won	2nd		ODI v England	Cuttack	26 Nov 2008	investigate this query
-India	canc	-		-	-		ODI v England	Guwahati	29 Nov 2008	investigate this query
-India	canc	-		-	-		ODI v England	Delhi	2 Dec 2008	investigate this query
+India	aban	-		-	-		ODI v England	Guwahati	29 Nov 2008	investigate this query
+India	aban	-		-	-		ODI v England	Delhi	2 Dec 2008	investigate this query
 India	won	6 wickets		lost	2nd		Test v England	Chennai	11 Dec 2008	investigate this query
 India	draw	-		won	1st		Test v England	Mohali	19 Dec 2008	investigate this query
 India	won	6 wickets	11	won	2nd		ODI v Sri Lanka	Dambulla	28 Jan 2009	investigate this query
@@ -1432,9 +1432,9 @@ India	lost	41 runs		won	2nd		ODI v England	Leeds	5 Sep 2014	investigate this que
 India	lost	3 runs		lost	2nd		T20I v England	Birmingham	7 Sep 2014	investigate this query
 India	lost	124 runs		won	2nd		ODI v West Indies	Kochi	8 Oct 2014	investigate this query
 India	won	48 runs		won	1st		ODI v West Indies	Delhi	11 Oct 2014	investigate this query
-India	canc	-		-	-		ODI v West Indies	Visakhapatnam	14 Oct 2014	investigate this query
+India	aban	-		-	-		ODI v West Indies	Visakhapatnam	14 Oct 2014	investigate this query
 India	won	59 runs		lost	1st		ODI v West Indies	Dharamsala	17 Oct 2014	investigate this query
-India	canc	-		-	-		ODI v West Indies	Kolkata	20 Oct 2014	investigate this query
+India	aban	-		-	-		ODI v West Indies	Kolkata	20 Oct 2014	investigate this query
 India	won	169 runs		lost	1st		ODI v Sri Lanka	Cuttack	2 Nov 2014	investigate this query
 India	won	6 wickets	33	lost	2nd		ODI v Sri Lanka	Ahmedabad	6 Nov 2014	investigate this query
 India	won	6 wickets	35	lost	2nd		ODI v Sri Lanka	Hyderabad (Deccan)	9 Nov 2014	investigate this query

@@ -622,7 +622,7 @@ England	draw	-		lost	2nd		Test v Australia	Lord's	28 Aug 1980	investigate this q
 England	lost	2 runs		won	2nd		ODI v West Indies	Kingstown	4 Feb 1981	investigate this query
 England	lost	inns & 79 runs		won	2nd		Test v West Indies	Port of Spain	13 Feb 1981	investigate this query
 England	lost	6 wickets	63	lost	1st		ODI v West Indies	Albion	26 Feb 1981	investigate this query
-England	canc	-		-	-		Test v West Indies	Georgetown	28 Feb 1981	investigate this query
+England	aban	-		-	-		Test v West Indies	Georgetown	28 Feb 1981	investigate this query
 England	lost	298 runs		won	2nd		Test v West Indies	Bridgetown	13 Mar 1981	investigate this query
 England	draw	-		won	1st		Test v West Indies	St John's	27 Mar 1981	investigate this query
 England	draw	-		lost	1st		Test v West Indies	Kingston	10 Apr 1981	investigate this query
@@ -900,7 +900,7 @@ England	lost	10 wickets		won	1st		Test v Pakistan	The Oval	6 Aug 1992	investigat
 England	won	198 runs		lost	1st		ODI v Pakistan	Nottingham	20 Aug 1992	investigate this query
 England	lost	3 runs		lost	2nd		ODI v Pakistan	Lord's	22 Aug 1992	investigate this query
 England	won	6 wickets	68	lost	2nd		ODI v Pakistan	Manchester	24 Aug 1992	investigate this query
-England	canc	-		-	-		ODI v India	Ahmedabad	16 Jan 1993	investigate this query
+England	aban	-		-	-		ODI v India	Ahmedabad	16 Jan 1993	investigate this query
 England	won	4 wickets	0	won	2nd		ODI v India	Jaipur	18 Jan 1993	investigate this query
 England	lost	5 wickets	29	lost	1st		ODI v India	Chandigarh	21 Jan 1993	investigate this query
 England	lost	8 wickets		lost	2nd		Test v India	Kolkata	29 Jan 1993	investigate this query
@@ -1413,8 +1413,8 @@ England	lost	54 runs		lost	2nd		ODI v India	Indore	17 Nov 2008	investigate this 
 England	lost	16 runs		won	1st		ODI v India	Kanpur	20 Nov 2008	investigate this query
 England	lost	19 runs		won	2nd		ODI v India	Bangalore	23 Nov 2008	investigate this query
 England	lost	6 wickets	38	lost	1st		ODI v India	Cuttack	26 Nov 2008	investigate this query
-England	canc	-		-	-		ODI v India	Guwahati	29 Nov 2008	investigate this query
-England	canc	-		-	-		ODI v India	Delhi	2 Dec 2008	investigate this query
+England	aban	-		-	-		ODI v India	Guwahati	29 Nov 2008	investigate this query
+England	aban	-		-	-		ODI v India	Delhi	2 Dec 2008	investigate this query
 England	lost	6 wickets		won	1st		Test v India	Chennai	11 Dec 2008	investigate this query
 England	draw	-		lost	2nd		Test v India	Mohali	19 Dec 2008	investigate this query
 England	lost	inns & 23 runs		won	1st		Test v West Indies	Kingston	4 Feb 2009	investigate this query

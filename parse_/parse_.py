@@ -2,6 +2,8 @@ import sys, os, json
 from time import time as tm
 from collections import namedtuple
 
+from locations_map import locations_map
+
 class parse_(object):
     """THE great parsing object"""
     def __init__(self):
@@ -9,6 +11,8 @@ class parse_(object):
         self.target_dir = '../processed/'
         self.match = namedtuple('match', ['team', 'result', 'margin', 'balls_remaining', 'toss', 'bat', 'null', 'location', 'date', 'month', 'year', 'match_type', 'opposition'])
         self.data = {}
+        self.locations = locations_map
+        
     
     def process(self):
         """reading all the data in one walk"""
@@ -35,7 +39,7 @@ class parse_(object):
                             self.data[i.team][i.opposition][i.match_type] = []
                             self.data[i.team][i.opposition][i.match_type].append(
                                 i._asdict()
-                            )
+                            )       
                     else:
                         self.data[i.team] = {}
                         self.data[i.team][i.opposition] = {}
@@ -44,7 +48,7 @@ class parse_(object):
                             i._asdict()
                         )
                 f.close()
-        
+        self.replace_locs()
         file_saved = self.saves_(self.data)
         t2 = tm()
         print "%s saved .." % file_saved
@@ -68,6 +72,26 @@ class parse_(object):
             
             del line[7], line[8]
             yield self.match._make(line)
+    
+    def replace_locs(self):
+        for team in self.data:
+            for opp in self.data[team]:
+                for match_type in self.data[team][opp]:
+                    for match in self.data[team][opp][match_type]:
+                        if match['location'] in self.locations:
+                            match['location_c'] = self.locations[match['location']]
+                        else:
+                            match['location_c'] = 'Other'
+        return
+    
+    def replace_location(self):
+        for each in self.locations_:
+            url = 'http://www.geonames.org/advanced-search.html?q=%s&country=&featureClass=A' % each.encode('utf-8')
+            response = urllib2.urlopen(url)
+            data = response.read()
+            html = BeautifulSoup(data)
+            locations = [a.text for a in html.findAll(lambda tag: tag.name == 'a')]
+        return self.locations_
     
     def saves_(self, data):
         """saves the processed file for all the teams"""

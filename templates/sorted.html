@@ -1,0 +1,131 @@
+<html>
+<head>
+	<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+	<script type="text/javascript" src="{{ url_for('static', filename='scripts/sorted.js') }}"></script>
+
+	<style>
+		.row_big {
+			display: inline;
+			float: left;
+			margin-left: 10px;
+		}
+
+		circle {
+			opacity: 0.8;
+		}
+
+		.group {
+			display: inline-block;
+			padding: 3px;
+			font-family: monospace;
+			font-size: 15px;
+			color: gray;
+			margin-right: 3px;
+			background-color: whitesmoke;
+			cursor: pointer;
+			margin-left: 15px;
+		}
+
+		.tooltip {
+			position: absolute;
+			width: auto;
+			height: auto;
+			padding: 2px;
+			pointer-events: none;
+			font-size: 11px;
+			background-color: black;
+			border-radius: 5px;
+			color: white;
+		}
+
+		#viz {
+
+			width: 100%;
+			height: 90%;
+			float: left;
+			margin-left: 10px;
+			display: block;
+		}
+
+		#grouping{
+			display: none;
+			margin-top: 23px;
+		}
+
+		.tick {
+			font-size: 12px;
+			font-family: monospace;
+			color: gray;
+		}
+
+		.hidden_tick {
+			display: none;
+		}
+
+		#load {
+			display: none;
+			position: absolute;
+			top: 40%;
+			left: 45%;
+			font-family: monospace;
+			font-size: 20px;
+			color: gray;
+		}
+
+		select {
+			margin: 15px;
+		    border: 1px solid #111;
+		    background: transparent;
+		    width: 150px;
+		    padding: 5px;
+		    font-size: 16px;
+		    border: 1px solid #ccc;
+		    height: 34px;
+		    -webkit-appearance: none;
+		    -moz-appearance: none;
+		    appearance: none;
+		    font-family: monospace;
+		}
+
+		option {
+			text-align: center;
+		}
+	</style>
+</head>
+
+
+<body>
+	<select id='target_country' class='row_big'>
+		<option id='0' value=''></option>
+		<option id='1' value='Australia'>Australia</option>
+		<option id='2' value='Bangladesh'>Bangladesh</option>
+		<option id='3' value='Bermuda'>Bermuda</option>
+		<option id='4' value='Canada'>Canada</option>
+		<option id='5' value='England'>England</option>
+		<option id='6' value='Hong Kong'>Hong Kong</option>
+		<option id='7' value='India'>India</option>
+		<option id='8' value='Netherlands'>Netherlands</option>
+		<option id='9' value='New Zealand'>New Zealand</option>
+		<option id='10' value='Pakistan'>Pakistan</option>
+		<option id='11' value='South Africa'>South Africa</option>
+		<option id='12' value='Sri Lanka'>Sri Lanka</option>
+		<option id='13' value='U.S.A'>U.S.A</option>
+		<option id='14' value='West Indies'>West Indies</option>
+		<option id='15' value='Zimbabwe'>Zimbabwe</option>
+	</select>
+
+	<select id='opponent_country' class='row_big'></select>
+	<div id='grouping' class='row_big'>
+		<div class='group' id='all'>ALL</div>
+		<div class='group' id='match_type'>MATCH TYPE</div>
+		<div class='group' id='result'>RESULT</div>
+		<div class='group' id='year_group'>YEAR</div>
+		<div class='group' id='month'>MONTH</div>
+		<div class='group' id='toss'>TOSS</div>
+		<div class='group' id='location_c'>LOCATION</div>
+	</div>
+
+	<div id='viz'></div>
+	<div id='load'>LOADING..</div>
+</body>
